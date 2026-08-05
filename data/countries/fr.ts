@@ -24,11 +24,11 @@ export const fr: CountryLegal = {
   coolingOffDays: 14,
   dpo: {
     name: 'Délégué à la protection des données — Spark Finance',
-    email: 'dpo@sparkloan.fr',
+    email: 'contact@sparkl0an.com',
   },
   contact: {
     phone: '+33170123456',
-    email: 'contact@sparkloan.fr',
+    email: 'contact@sparkl0an.com',
     whatsapp: '+33612345678',
   },
   agencies: [
