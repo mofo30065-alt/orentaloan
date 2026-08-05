@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "Spark loan — un crédit étudié sur votre situation réelle",
+    "description": "Organisme de crédit spécialisé pour les dossiers écartés par les banques de réseau. Étude sur des éléments réels, dossier par dossier."
+  },
+  "hero": {
+    "eyebrow": "Organisme de crédit spécialisé",
+    "title": "Un crédit étudié sur votre <mark>situation réelle</mark>, pas sur un score.",
+    "subtitle": "Nous étudions des dossiers que les banques de réseau écartent souvent. Chaque décision se prend sur des éléments concrets, dossier par dossier — sans promesse d'accord.",
+    "ctaPrimary": "Vérifier mon éligibilité",
+    "ctaSecondary": "Simuler une mensualité"
+  },
+  "heroMini": {
+    "title": "Estimer en un coup d'œil",
+    "amount": "Montant",
+    "duration": "Durée",
+    "result": "Mensualité estimée",
+    "rateNote": "Estimation indicative à {rate} de taux débiteur fixe, hors assurance.",
+    "cta": "Affiner ma simulation"
+  },
+  "situation": {
+    "eyebrow": "Votre situation",
+    "title": "À qui s'adresse ce financement",
+    "intro": "Ces profils sont souvent refusés ailleurs. Ils restent étudiés ici, selon les garanties et les revenus réels.",
+    "items": [
+      "Inscription FICP ou FCC",
+      "Rachat de crédit hypothécaire",
+      "Indépendant ou TNS sans trois bilans",
+      "Contrat court : CDD, intérim",
+      "Senior en activité ou retraité",
+      "Trésorerie professionnelle tendue"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Nos financements",
+    "title": "On commence par ce qui repose sur une garantie.",
+    "intro": "Les financements adossés à un bien ou à un actif restent accessibles quand le score bloque. Les crédits classiques suivent.",
+    "alsoTitle": "Également disponibles",
+    "allLink": "Voir tous les financements"
+  },
+  "advantages": {
+    "eyebrow": "Notre manière de travailler",
+    "title": "Ce qui change, concrètement",
+    "items": [
+      {
+        "title": "Une décision sur votre situation",
+        "desc": "Nous lisons votre dossier réel — revenus, garanties, historique — plutôt qu'un score automatique."
+      },
+      {
+        "title": "Un interlocuteur, pas un guichet",
+        "desc": "Une personne suit votre dossier et vous explique chaque critère, sans jargon."
+      },
+      {
+        "title": "Une réponse dans un délai clair",
+        "desc": "Nous annonçons un délai d'étude et nous nous y tenons. Aucune urgence artificielle."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Comment ça marche",
+    "title": "Cinq étapes, dans cet ordre",
+    "items": [
+      {
+        "title": "Le pré-diagnostic",
+        "desc": "Sept questions pour savoir honnêtement où en est votre dossier."
+      },
+      {
+        "title": "La simulation",
+        "desc": "Vous estimez une mensualité et un coût total, en temps réel."
+      },
+      {
+        "title": "La demande",
+        "desc": "Vous complétez un dossier en cinq étapes, à votre rythme."
+      },
+      {
+        "title": "L'étude",
+        "desc": "Un interlocuteur examine votre situation réelle et vos justificatifs."
+      },
+      {
+        "title": "La décision",
+        "desc": "Vous recevez une réponse motivée, et l'offre le cas échéant."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "L'outil signature",
+    "title": "La Lecture de votre dossier",
+    "intro": "Quelques questions, et nous vous disons honnêtement où en est votre dossier — avec le motif, et ce qui pourrait faire bouger la réponse.",
+    "states": {
+      "go": {
+        "label": "Piste sérieuse",
+        "desc": "Les éléments réunis permettent d'étudier une demande."
+      },
+      "work": {
+        "label": "Dossier à consolider",
+        "desc": "Un point précis freine aujourd'hui. Voici comment le lever."
+      },
+      "stop": {
+        "label": "Non envisageable en l'état",
+        "desc": "Nous vous orientons vers une ressource plus utile qu'un dossier voué au refus."
+      }
+    },
+    "note": "Une orientation, pas une décision de crédit. Aucun score affiché, aucun engagement.",
+    "cta": "Faire ma Lecture"
+  },
+  "testimonials": {
+    "eyebrow": "Ils sont passés par là",
+    "title": "Des dossiers repris au sérieux",
+    "items": [
+      {
+        "quote": "Refusé deux fois en agence pour un CDD. Ici, on a regardé mes trois ans d'intérim dans la même branche.",
+        "name": "Karim B.",
+        "role": "Intérimaire, rachat de crédit",
+        "rating": 5
+      },
+      {
+        "quote": "Indépendante depuis dix-huit mois, sans les trois bilans habituels. Le prêt s'est appuyé sur mon appartement.",
+        "name": "Léa M.",
+        "role": "Indépendante, prêt hypothécaire",
+        "rating": 5
+      },
+      {
+        "quote": "On m'a dit clairement ce qui bloquait et quoi préparer. J'ai redéposé trois mois plus tard, c'est passé.",
+        "name": "Daniel R.",
+        "role": "Senior, prêt travaux",
+        "rating": 4
+      },
+      {
+        "quote": "Indépendante depuis dix-huit mois, ils ont su valoriser mes revenus sans bilans complets.",
+        "name": "Sofia L.",
+        "role": "Freelance, prêt personnel",
+        "rating": 5
+      },
+      {
+        "quote": "Mon dossier a été traité plus vite que prévu et j'ai eu des explications claires à chaque étape.",
+        "name": "Eva D.",
+        "role": "Auto-entrepreneur, rachat de crédits",
+        "rating": 5
+      },
+      {
+        "quote": "J'avais un découvert important, mais le conseiller a trouvé une solution adaptée à mon budget.",
+        "name": "Thomas V.",
+        "role": "CDI, trésorerie",
+        "rating": 4
+      },
+      {
+        "quote": "Le prêt m'a permis de faire des travaux sans surprise. Le suivi a été sérieux et humain.",
+        "name": "Laura P.",
+        "role": "Propriétaire, prêt travaux",
+        "rating": 5
+      },
+      {
+        "quote": "Je n'ai pas eu l'impression d'être jugé. Tout s'est déroulé simplement et avec transparence.",
+        "name": "Nicolas M.",
+        "role": "Agent commercial, crédit consommation",
+        "rating": 5
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "En chiffres",
+    "title": "Des repères, pas des promesses",
+    "note": "Chiffres indicatifs, hors engagement, susceptibles d'évoluer.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "délai d'étude annoncé"
+      },
+      {
+        "value": "7",
+        "label": "questions pour un pré-diagnostic"
+      },
+      {
+        "value": "14",
+        "label": "types de financement étudiés"
+      },
+      {
+        "value": "10",
+        "label": "marchés en zone euro"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Notre légitimité",
+    "title": "Vérifiable, pas décoratif",
+    "intro": "Sur ce marché, la transparence est l'argument. Voici de quoi nous vérifier.",
+    "items": [
+      "Agréé ACPR n° 61 234 · ORIAS n° 21 004 567",
+      "Adhérent de l'Association Nationale des Médiateurs (ANM)",
+      "Agence à Paris, 18 boulevard des Capucines (75009)"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "La transparence en clair",
+    "title": "Un exemple chiffré, sans astérisque caché",
+    "intro": "Chaque simulation affiche un exemple représentatif complet, sans astérisque caché."
+  },
+  "blog": {
+    "eyebrow": "Nos conseils",
+    "title": "Comprendre avant de s'engager",
+    "allLink": "Tous les conseils",
+    "items": [
+      {
+        "slug": "comprendre-inscription-ficp",
+        "category": "Fichage",
+        "readingTime": "6 min",
+        "title": "Fiché FICP : ce que cela change vraiment pour un crédit"
+      },
+      {
+        "slug": "rachat-credit-hypothecaire-guide",
+        "category": "Rachat de crédit",
+        "readingTime": "8 min",
+        "title": "Rachat hypothécaire : quand votre bien devient une solution"
+      },
+      {
+        "slug": "taux-endettement-35-pourcent",
+        "category": "Budget",
+        "readingTime": "5 min",
+        "title": "Taux d'endettement à 35 % : ce que la règle change pour vous"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Commencez par savoir où en est votre dossier.",
+    "cta": "Faire ma Lecture"
+  }
+}

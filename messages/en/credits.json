@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "title": "Our financing — Spark loan",
+    "description": "14 types of financing assessed on your real situation. Loans backed by collateral stay within reach after a bank refusal."
+  },
+  "index": {
+    "eyebrow": "Our financing",
+    "title": "Financing for every situation",
+    "intro": "We put forward loans backed by collateral or an asset: they stay within reach when the score blocks you. Classic financing follows.",
+    "featuredTitle": "Favour these after a refusal",
+    "classicTitle": "Classic financing"
+  },
+  "common": {
+    "amounts": "Amounts",
+    "duration": "Terms",
+    "range": "from {min} to {max}",
+    "monthsRange": "from {min} to {max} months",
+    "rateTableTitle": "Indicative rates by term",
+    "rateDuration": "Term",
+    "rateFixed": "Fixed rate",
+    "rateVariable": "Variable rate",
+    "rateNote": "Indicative rates, non-binding, subject to change and to review of your file.",
+    "eligibilityTitle": "Eligibility conditions",
+    "eligibleTitle": "Accessible if…",
+    "notEligibleTitle": "Not suitable if…",
+    "documentsTitle": "Documents to provide",
+    "faqTitle": "Frequently asked questions",
+    "casesTitle": "Worked example",
+    "simulatorTitle": "Estimate this financing",
+    "representativeTitle": "Representative example",
+    "ctaSimulate": "Simulate this financing",
+    "ctaDiagnostic": "Check my eligibility",
+    "ctaRequest": "Apply",
+    "ctaFinalTitle": "We study your file, not your score.",
+    "models": {
+      "revolving": "A revolving credit does not amortise like a classic loan: its cost depends on your usage and how fast you repay. Use the general simulator with care, or talk to an advisor.",
+      "leasing": "With a lease you pay rentals then, optionally, a residual value. The calculation depends on the asset and its buy-back value; an advisor sets a precise rental.",
+      "bridge": "A bridging loan is repaid in full at the sale of your property. Its cost depends on the actual time to sale and the amount advanced.",
+      "factoring": "Factoring is not a loan: you assign invoices in exchange for an advance, for a commission. The cost depends on your volume and your payment terms."
+    }
+  },
+  "products": {
+    "rachat-credit": {
+      "name": "Debt consolidation",
+      "teaser": "Combine your loans into a single monthly payment, backed by your property if needed.",
+      "heroSubtitle": "Combine your loans into a single monthly payment, backed by your property where needed.",
+      "description": "Debt consolidation combines your running loans into one, with a lower monthly payment and a re-spread term. Backed by an asset, it can be studied even after a payment incident.",
+      "eligible": [
+        "Owner wishing to combine several loans",
+        "Tight budget with an asset to pledge",
+        "Varied work situation, self-employed included"
+      ],
+      "notEligible": [
+        "Tenant without a guarantor and an already very high debt ratio",
+        "No existing loans to combine"
+      ],
+      "documents": [
+        "Valid ID",
+        "Amortization schedules of the loans to combine",
+        "Last three bank statements",
+        "Proof of ownership or property tax"
+      ],
+      "faq": [
+        {
+          "q": "Does consolidation clear a credit listing?",
+          "a": "No. It can settle the loans behind the incident, which may lead to a delisting, but no removal is automatic or guaranteed."
+        },
+        {
+          "q": "How far can the term be extended?",
+          "a": "Up to 420 months for consolidation backed by a property, within the limit of your repayment capacity."
+        },
+        {
+          "q": "Can I add cash?",
+          "a": "Yes, an extra envelope can be included if your collateral and income allow."
+        }
+      ],
+      "case": {
+        "title": "Combining three loans",
+        "detail": "€80,000 combined over 180 months: a single payment replaces three instalments, for a re-spread and known cost."
+      }
+    },
+    "pret-travaux": {
+      "name": "Home-improvement loan",
+      "teaser": "Finance a renovation, including energy-efficiency works.",
+      "heroSubtitle": "Finance a renovation, including energy-saving works.",
+      "description": "The home-improvement loan finances upgrading your home, from a refresh to an energy renovation. It can top up public grants.",
+      "eligible": [
+        "Owner-occupier or landlord",
+        "Energy renovation eligible for grants",
+        "Steady income, even modest, with quotes to support it"
+      ],
+      "notEligible": [
+        "Works without a quote or proof of use",
+        "Repayment capacity already maxed out"
+      ],
+      "documents": [
+        "ID",
+        "Detailed works quotes",
+        "Recent proof of address",
+        "Last two tax notices"
+      ],
+      "faq": [
+        {
+          "q": "Can I combine it with a public renovation grant?",
+          "a": "Yes. The home-improvement loan tops up grants; the amounts received are not part of the credit."
+        },
+        {
+          "q": "Are the funds paid out at once?",
+          "a": "Depending on the works, a staged release against invoices is possible."
+        },
+        {
+          "q": "Do I have to be an owner?",
+          "a": "Usually yes, but a tenant doing works with the owner's consent can be studied."
+        }
+      ],
+      "case": {
+        "title": "Energy renovation",
+        "detail": "€25,000 over 84 months for insulation and a heat pump, on top of grants."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Cash-flow loan",
+      "teaser": "Get over a cash-flow bump for your business, without tying up your funds.",
+      "heroSubtitle": "Get over a cash-flow bump for your business, without tying up your assets.",
+      "description": "The cash-flow loan covers a working-capital need: a payment gap, a seasonal load, a passing hit. Assessed on the reality of your business.",
+      "eligible": [
+        "Micro-business or self-employed with an established activity",
+        "A justifiable one-off working-capital need",
+        "A business account with steady movements"
+      ],
+      "notEligible": [
+        "Business created less than six months ago with no track record",
+        "A structural long-term need better suited to another product"
+      ],
+      "documents": [
+        "Company registration extract",
+        "Last two sets of accounts or interim figures",
+        "Business account statements",
+        "Director's ID"
+      ],
+      "faq": [
+        {
+          "q": "Do I need three sets of accounts?",
+          "a": "No. Recent interim figures and steady statements can be enough for the review."
+        },
+        {
+          "q": "How fast is the release?",
+          "a": "After acceptance and signing the offer, funds are paid out within the legal timeframe."
+        },
+        {
+          "q": "Is collateral required?",
+          "a": "Depending on the amount, a director's guarantee or security may be requested."
+        }
+      ],
+      "case": {
+        "title": "Cash-flow gap",
+        "detail": "€30,000 over 48 months to absorb a customer-payment gap, repaid as collections come in."
+      }
+    },
+    "loa": {
+      "name": "Lease / hire-purchase",
+      "teaser": "Use a vehicle or equipment without buying it right away.",
+      "heroSubtitle": "Use a vehicle or equipment without buying it, with a purchase option at the end.",
+      "description": "A lease with a purchase option has you pay rentals for the use of an asset, with the option to buy it at its residual value. The cost is spread, the asset stays the collateral.",
+      "eligible": [
+        "Private individual or business wanting use without an immediate purchase",
+        "Steady income covering the rental",
+        "A project on an identifiable vehicle or equipment"
+      ],
+      "notEligible": [
+        "Looking for cash in hand (a lease finances use)",
+        "An asset that is uninsurable or hard to resell"
+      ],
+      "documents": [
+        "ID",
+        "Proof of income",
+        "Order form or quote for the asset",
+        "Proof of address"
+      ],
+      "faq": [
+        {
+          "q": "Do I own the asset?",
+          "a": "Not during the lease. You own it if you exercise the purchase option at the set residual value."
+        },
+        {
+          "q": "Is maintenance included?",
+          "a": "Depending on the contract; some plans include maintenance and insurance."
+        },
+        {
+          "q": "Can I return the asset at the end?",
+          "a": "Yes. Without exercising the option, you return the asset in the condition set out in the contract."
+        }
+      ],
+      "case": {
+        "title": "Vehicle on lease",
+        "detail": "€30,000 value, 48 rentals then a residual value: you choose to buy or return."
+      }
+    },
+    "affacturage": {
+      "name": "Factoring",
+      "teaser": "Turn your customer invoices into available cash immediately.",
+      "heroSubtitle": "Turn your customer invoices into available cash immediately.",
+      "description": "Factoring is not a loan: you assign your outstanding invoices in exchange for an immediate advance, for a commission. Your cash flow follows your turnover.",
+      "eligible": [
+        "Business invoicing professional customers",
+        "A recurring receivables book with payment terms",
+        "A need to smooth cash flow without taking on debt"
+      ],
+      "notEligible": [
+        "B2C activity without professional invoices",
+        "Disputed or already overdue receivables"
+      ],
+      "documents": [
+        "Company registration extract",
+        "Recent customer balance",
+        "Sample invoices and payment terms",
+        "Director's ID"
+      ],
+      "faq": [
+        {
+          "q": "Is it a loan?",
+          "a": "No. It is an assignment of receivables against an advance; it does not increase your bank debt."
+        },
+        {
+          "q": "Who chases my customers?",
+          "a": "Depending on the plan, chasing and collection can be delegated to the factor."
+        },
+        {
+          "q": "What does it cost?",
+          "a": "A factoring commission and a financing commission, depending on volume and terms. No fee before set-up."
+        }
+      ],
+      "case": {
+        "title": "Advance on invoices",
+        "detail": "A €100,000 receivables book financed within a few days, at the pace of your invoicing."
+      }
+    },
+    "pret-relais": {
+      "name": "Bridging loan",
+      "teaser": "Buy before you have sold, over the transition period.",
+      "heroSubtitle": "Buy a new property before selling the current one, over the transition period.",
+      "description": "The bridging loan advances part of the value of the property you are selling. You repay the capital at the sale; in the meantime, you usually pay only the interest.",
+      "eligible": [
+        "Owner selling a property to buy another",
+        "A property on the market at a realistic value",
+        "The ability to carry the interest during the bridge"
+      ],
+      "notEligible": [
+        "A property that is hard to sell or over-valued",
+        "No concrete purchase project in front of it"
+      ],
+      "documents": [
+        "Valuation or sale mandate for the property",
+        "Title deed",
+        "Purchase agreement or project",
+        "ID"
+      ],
+      "faq": [
+        {
+          "q": "What if I don't sell in time?",
+          "a": "The bridging loan has a limited term (12 to 24 months). An exit is planned and discussed from the start."
+        },
+        {
+          "q": "How much can I get?",
+          "a": "Usually a cautious share of the estimated value, to account for the market."
+        },
+        {
+          "q": "Do I pay the capital each month?",
+          "a": "No. The capital is repaid at the sale; you pay only the interest, depending on the chosen plan."
+        }
+      ],
+      "case": {
+        "title": "Buy before selling",
+        "detail": "€200,000 advanced over 12 months with partial deferral: you pay only the interest until the sale."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Home loan",
+      "teaser": "Finance a property purchase assessed on your real situation.",
+      "heroSubtitle": "Finance a property purchase assessed on your real situation, not on a score.",
+      "description": "The home loan finances the purchase of your home or an investment. We study atypical files: self-employed, short contracts, profiles turned away elsewhere.",
+      "eligible": [
+        "A purchase with a down payment or collateral",
+        "Steady income, non-salaried included",
+        "An atypical profile but a solid file otherwise"
+      ],
+      "notEligible": [
+        "Debt clearly beyond prudential thresholds without collateral",
+        "No down payment and no property to mortgage"
+      ],
+      "documents": [
+        "ID",
+        "Purchase agreement",
+        "Last three payslips or sets of accounts",
+        "Recent account statements"
+      ],
+      "faq": [
+        {
+          "q": "Do you accept the self-employed without three years of accounts?",
+          "a": "Yes, under conditions: an established business and steady statements can make up for it."
+        },
+        {
+          "q": "Is a down payment required?",
+          "a": "Not always, but it clearly strengthens the file and the rate."
+        },
+        {
+          "q": "Is the rate fixed?",
+          "a": "Fixed or variable depending on the term; the table above gives indicative pointers."
+        }
+      ],
+      "case": {
+        "title": "Buying a home",
+        "detail": "€200,000 over 240 months: a monthly payment known in advance, calculated to the cent."
+      }
+    },
+    "credit-consommation": {
+      "name": "Consumer credit",
+      "teaser": "Finance a personal project, equipment or an unexpected expense.",
+      "heroSubtitle": "Finance a personal project, equipment or an unexpected expense.",
+      "description": "Consumer credit finances an identified need without mortgaging an asset. Measured amounts and terms, assessed on your real budget.",
+      "eligible": [
+        "Steady income covering the monthly payment",
+        "An identifiable personal project",
+        "A controlled debt ratio"
+      ],
+      "notEligible": [
+        "A budget already stretched by other loans",
+        "Cash requested without a clear repayment capacity"
+      ],
+      "documents": [
+        "ID",
+        "Proof of address",
+        "Last two payslips",
+        "Latest tax notice"
+      ],
+      "faq": [
+        {
+          "q": "How long until an answer?",
+          "a": "A clear review time is stated, and we stick to it."
+        },
+        {
+          "q": "Can I repay early?",
+          "a": "Yes, at any time, under the legal conditions set out in the contract."
+        },
+        {
+          "q": "Is proof of use required?",
+          "a": "Depending on the amount and type of credit; we tell you at review."
+        }
+      ],
+      "case": {
+        "title": "Personal project",
+        "detail": "€15,000 over 48 months: monthly payment, total cost and APR shown before any signature."
+      }
+    },
+    "pret-auto": {
+      "name": "Car loan",
+      "teaser": "Buy a new or used vehicle, with a clear monthly payment.",
+      "heroSubtitle": "Buy a new or used vehicle, with a clear monthly payment.",
+      "description": "The car loan finances the purchase of a vehicle. The asset can serve as collateral, which opens financing to varied profiles.",
+      "eligible": [
+        "Purchase of an identifiable new or used vehicle",
+        "Steady income",
+        "A profile accepted thanks to the vehicle collateral"
+      ],
+      "notEligible": [
+        "A vehicle without a usable invoice or registration",
+        "Repayment capacity insufficient despite the collateral"
+      ],
+      "documents": [
+        "ID",
+        "Order form or transfer certificate",
+        "Proof of income",
+        "Proof of address"
+      ],
+      "faq": [
+        {
+          "q": "Are new and used both financed?",
+          "a": "Yes, with terms adapted to the vehicle's age."
+        },
+        {
+          "q": "Is the vehicle pledged?",
+          "a": "Depending on the plan, a lien may be taken as collateral."
+        },
+        {
+          "q": "Can I finance insurance?",
+          "a": "Borrower insurance is optional and can be included in the monthly payment."
+        }
+      ],
+      "case": {
+        "title": "Used car",
+        "detail": "€20,000 over 60 months, secured by the financed vehicle."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Revolving credit",
+      "teaser": "A flexible reserve of money, to be used with care.",
+      "heroSubtitle": "A flexible reserve of money, to be used with care.",
+      "description": "Revolving credit provides a reserve you use freely and rebuild as you repay. Flexible but costly: keep it for small one-off needs.",
+      "eligible": [
+        "A one-off need of a small amount",
+        "The ability to repay fast to limit the cost",
+        "Steady income"
+      ],
+      "notEligible": [
+        "A long project, where an amortising loan costs far less",
+        "Difficulty repaying more than the interest each month"
+      ],
+      "documents": [
+        "ID",
+        "Proof of address",
+        "Proof of income",
+        "Recent account statement"
+      ],
+      "faq": [
+        {
+          "q": "Why is the rate high?",
+          "a": "Flexibility has a cost. The faster you repay, the less interest you pay."
+        },
+        {
+          "q": "Am I obliged to use the reserve?",
+          "a": "No. Interest only runs on the amount actually used."
+        },
+        {
+          "q": "Is it suitable for a big purchase?",
+          "a": "Rarely. For a project, an amortising loan is almost always cheaper."
+        }
+      ],
+      "case": {
+        "title": "Small one-off need",
+        "detail": "€3,000 used then repaid over 24 months: the cost depends directly on your repayment pace."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Student loan",
+      "teaser": "Finance studies and their living costs.",
+      "heroSubtitle": "Finance studies and their living costs, with adapted repayment.",
+      "description": "The student loan finances tuition and everyday life, often with deferred repayment during studies. A guarantor strengthens the file.",
+      "eligible": [
+        "Student enrolled at a recognised institution",
+        "A guarantor or security available",
+        "A study project consistent with the amount"
+      ],
+      "notEligible": [
+        "No guarantor and no credible future income",
+        "An amount unrelated to the course"
+      ],
+      "documents": [
+        "ID",
+        "Enrolment certificate",
+        "Guarantor's documents",
+        "Proof of address"
+      ],
+      "faq": [
+        {
+          "q": "Can I defer repayment?",
+          "a": "Yes, a partial or full deferral during studies is common; interest runs depending on the plan."
+        },
+        {
+          "q": "Is a guarantor needed?",
+          "a": "It is usually necessary and clearly improves the terms."
+        },
+        {
+          "q": "Is the rate attractive?",
+          "a": "Student rates are among the lowest; see the indicative table above."
+        }
+      ],
+      "case": {
+        "title": "Financing a course",
+        "detail": "€15,000 over 60 months with deferral during studies, repaid on entering working life."
+      }
+    },
+    "financement-equipement": {
+      "name": "Equipment financing",
+      "teaser": "Finance machines, equipment or business vehicles.",
+      "heroSubtitle": "Finance machines, equipment or business vehicles without straining your cash flow.",
+      "description": "Equipment financing funds a productive asset, which often serves as collateral. It preserves your cash flow for operations.",
+      "eligible": [
+        "Business investing in identifiable equipment",
+        "A resaleable asset serving as collateral",
+        "An activity with steady accounts"
+      ],
+      "notEligible": [
+        "Obsolete or hard-to-resell equipment",
+        "A business without demonstrable repayment capacity"
+      ],
+      "documents": [
+        "Company registration extract",
+        "Quote or pro-forma invoice for the equipment",
+        "Last two sets of accounts",
+        "Business account statements"
+      ],
+      "faq": [
+        {
+          "q": "Does the equipment serve as collateral?",
+          "a": "Often yes, which eases approval even for a young structure."
+        },
+        {
+          "q": "Loan or lease?",
+          "a": "Both are possible; an advisor compares depending on your tax position and needs."
+        },
+        {
+          "q": "What term?",
+          "a": "Aligned with the equipment's useful life, up to 84 months."
+        }
+      ],
+      "case": {
+        "title": "Equipment purchase",
+        "detail": "€40,000 over 60 months for a productive asset, secured on the financed item."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Start-up / buy-out loan",
+      "teaser": "Finance the launch or buy-out of a business.",
+      "heroSubtitle": "Finance the launch or buy-out of a business, beyond personal funds.",
+      "description": "The start-up / buy-out loan tops up your own funds to launch or acquire a business. The file rests on the project, the forecast and collateral.",
+      "eligible": [
+        "A project holder with a costed business plan",
+        "Personal funds or co-financing",
+        "A buy-out with usable accounts"
+      ],
+      "notEligible": [
+        "A project with no funds, collateral or forecast",
+        "A sector with no visibility on income"
+      ],
+      "documents": [
+        "Business plan and forecast",
+        "ID",
+        "Proof of own funds",
+        "Buy-out agreement where applicable"
+      ],
+      "faq": [
+        {
+          "q": "Are own funds needed?",
+          "a": "Own funds, even modest, are decisive; they can be topped up by start-up grants."
+        },
+        {
+          "q": "Do you finance a buy-out?",
+          "a": "Yes, based on the target's accounts and your buy-out plan."
+        },
+        {
+          "q": "Is collateral requested?",
+          "a": "Often, as a director's guarantee or a dedicated body's security."
+        }
+      ],
+      "case": {
+        "title": "Business buy-out",
+        "detail": "€60,000 over 60 months alongside own funds, backed by the buy-out forecast."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Commercial property loan",
+      "teaser": "Finance commercial walls or professional premises.",
+      "heroSubtitle": "Finance commercial walls or professional premises.",
+      "description": "The commercial property loan finances the purchase of business premises. The asset is the collateral, which opens financing to varied structures.",
+      "eligible": [
+        "A business buying its walls or operating premises",
+        "A professional asset serving as collateral",
+        "Accounts evidencing repayment capacity"
+      ],
+      "notEligible": [
+        "Premises with no real professional use",
+        "A structure whose debt is already critical"
+      ],
+      "documents": [
+        "Company registration extract",
+        "Purchase agreement for the premises",
+        "Last two sets of accounts",
+        "Business account statements"
+      ],
+      "faq": [
+        {
+          "q": "Property company or operating company?",
+          "a": "Both structures are studied; an advisor guides you by your situation."
+        },
+        {
+          "q": "What term?",
+          "a": "Up to 240 months, depending on the asset and the structure."
+        },
+        {
+          "q": "Fixed or variable rate?",
+          "a": "Both exist; the table above gives indicative pointers."
+        }
+      ],
+      "case": {
+        "title": "Buying the walls",
+        "detail": "€300,000 over 180 months to acquire premises, secured by the asset itself."
+      }
+    }
+  }
+}

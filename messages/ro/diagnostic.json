@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Verificarea eligibilității — Spark loan",
+    "description": "În câteva întrebări, o citire cinstită a dosarului tău: pistă serioasă, dosar de consolidat sau momentan imposibil. O orientare, nu o decizie de creditare."
+  },
+  "intro": {
+    "eyebrow": "Instrumentul distinctiv",
+    "title": "Citirea dosarului tău",
+    "subtitle": "Șapte întrebări, două minute. Îți spunem cinstit unde se află dosarul, cu motivul și căile rămase.",
+    "note": "Este o orientare, nu o decizie de creditare. Fără scor, fără angajament, fără date partajate fără acordul tău.",
+    "start": "Începe Citirea"
+  },
+  "ui": {
+    "progress": "Întrebarea {current} din {total}",
+    "back": "Înapoi",
+    "next": "Continuă",
+    "result": "Vezi Citirea mea",
+    "restart": "Începe din nou",
+    "required": "Selectează un răspuns pentru a continua."
+  },
+  "questions": {
+    "project": { "label": "Care este proiectul tău?" },
+    "employment": { "label": "Care este situația ta profesională?" },
+    "seniority": { "label": "De cât timp ești în această situație?" },
+    "monthlyIncome": { "label": "Venitul tău lunar net", "help": "Venitul gospodăriei, din toate sursele." },
+    "monthlyCharges": { "label": "Cheltuielile și creditele tale în curs", "help": "Chirie, pensii, rate ale creditelor deja în curs." },
+    "ownership": { "label": "Ești proprietarul locuinței?" },
+    "incident": { "label": "Există un incident de plată pe numele tău?", "help": "Înscriere în registrul incidentelor de plată." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Refinanțare",
+      "tresorerie": "Trezorerie",
+      "immobilier": "Achiziție imobiliară",
+      "travaux": "Renovare",
+      "auto": "Vehicul",
+      "consommation": "Achiziție / proiect personal",
+      "professionnel": "Proiect profesional"
+    },
+    "employment": {
+      "cdi": "Contract pe durată nedeterminată",
+      "cdd": "Pe durată determinată sau temporar",
+      "independant": "Independent",
+      "retraite": "Pensionar",
+      "sansEmploi": "Fără loc de muncă"
+    },
+    "seniority": { "moins1an": "Mai puțin de un an", "1a3ans": "1 până la 3 ani", "plus3ans": "Peste 3 ani" },
+    "ownership": {
+      "proprietaireSansCredit": "Proprietar, fără credit în curs",
+      "proprietaireAvecCredit": "Proprietar, cu un credit în curs",
+      "locataire": "Chiriaș",
+      "heberge": "Găzduit"
+    },
+    "incident": { "oui": "Da", "non": "Nu", "inconnu": "Nu știu" }
+  },
+  "number": { "suffix": "€ / lună" },
+  "states": {
+    "go": { "label": "Pistă serioasă", "description": "Elementele adunate permit studierea unei cereri." },
+    "work": { "label": "Dosar de consolidat", "description": "Un punct anume frânează azi. Poate fi rezolvat." },
+    "stop": { "label": "Momentan imposibil", "description": "O finanțare nu este realistă azi. Iată o orientare mai utilă." }
+  },
+  "result": {
+    "title": "Citirea ta",
+    "reasonLabel": "Ce reiese",
+    "leversLabel": "Ce ar putea schimba răspunsul",
+    "resourceLabel": "O resursă utilă",
+    "productLabel": "Finanțarea de explorat",
+    "productLink": "Vezi această finanțare",
+    "note": "Această citire este o orientare, nu o decizie de creditare. Doar analiza dosarului complet este determinantă.",
+    "ctaSimulate": "Estimează rata mea",
+    "ctaRequest": "Continuă către o cerere",
+    "ctaRestart": "Reia Citirea"
+  },
+  "reasons": {
+    "insufficientCapacity": "Momentan, veniturile declarate nu acoperă o nouă rată fără a-ți fragiliza bugetul.",
+    "unemployedOwner": "Fără venit din activitate, finanțarea trebuie să se sprijine pe valoarea imobilului tău.",
+    "unemployedNoAsset": "Fără venit din activitate și fără un bun în garanție, nicio finanțare nu este realistă azi.",
+    "filedWithProperty": "Înscrierea blochează creditul clasic, dar o refinanțare garantată de imobilul tău poate fi studiată.",
+    "filedNoCollateral": "O înscriere fără garanție închide accesul la credit cât timp este activă.",
+    "highDebtRatioOwner": "Cheltuielile tale apasă mult, dar consolidarea creditelor în jurul imobilului poate ușura bugetul.",
+    "tightCapacity": "Capacitatea ta de rambursare este strânsă: dosarul rezistă, cu condiția să fie consolidat.",
+    "youngIndependant": "Activitatea ta este recentă: creditorii cer de obicei mai multă vechime și bilanțuri.",
+    "shortContract": "Un contract scurt fragilizează dosarul în ochii unui creditor, fără a-l face imposibil.",
+    "shortSeniority": "Vechimea ta este încă scurtă: câteva luni în plus vor consolida clar dosarul.",
+    "healthyStable": "Situație stabilă și capacitate de rambursare sănătoasă: dosarul tău pornește bine.",
+    "healthyIndependant": "Activitate consolidată și capacitate sănătoasă: dosarul tău de independent pornește bine.",
+    "checkFiling": "Situația ta este favorabilă; rămâne de lămurit îndoiala privind o eventuală înscriere înainte de a merge mai departe."
+  },
+  "levers": {
+    "consolidate": "Consolidează creditele în curs pentru a reduce rata globală.",
+    "reduceCharges": "Reduce o cheltuială recurentă înainte de a depune cererea.",
+    "addDownPayment": "Adaugă o sumă proprie pentru a reduce suma finanțată.",
+    "coBorrower": "Prezintă un co-împrumutat pentru a consolida venitul dosarului.",
+    "gainSeniority": "Câștigă câteva luni de vechime în plus în situația ta.",
+    "propertyAppraisal": "Evaluează-ți imobilul pentru a estima garanția disponibilă.",
+    "provideBilans": "Adună bilanțurile pentru a justifica regularitatea veniturilor.",
+    "waitDelisting": "Așteaptă radierea înscrierii sau cere regularizarea ei.",
+    "verifyFiling": "Verifică-ți situația la biroul de credit (drept de acces gratuit)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "Organismul competent te informează gratuit despre înscriere și căile de regularizare.",
+    "debtCounseling": "Un serviciu de consiliere bugetară te poate ajuta să pui ordine înainte de orice credit."
+  }
+}

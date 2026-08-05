@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Leningsimulator — Spark loan",
+    "description": "Schat uw maandtermijn, totale kost en indicatief JKP. Indicatieve cijfers, niet-contractueel, onder voorbehoud van aanvaarding."
+  },
+  "title": "Leningsimulator",
+  "subtitle": "Pas de parameters aan: alles wordt in realtime herberekend. De bedragen zijn indicatief.",
+  "fields": {
+    "amount": { "label": "Leenbedrag", "help": "Het kapitaal dat u wilt lenen." },
+    "duration": { "label": "Looptijd", "help": "Een langere looptijd verlaagt de termijn maar verhoogt de totale kost." },
+    "rate": { "label": "Vaste debetrente", "help": "Indicatieve nominale jaarrente voor de schatting." },
+    "downPayment": { "label": "Eigen inbreng (optioneel)", "help": "Een inbreng verlaagt het gefinancierde bedrag." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# maand} other {# maanden}}",
+    "years": "{count, plural, one {# jaar} other {# jaar}}"
+  },
+  "results": {
+    "heading": "Uw schatting",
+    "monthly": "Maandtermijn",
+    "monthlyAria": "Geschatte maandtermijn: {value}",
+    "totalInterest": "Totale rente",
+    "totalCost": "Totale kredietkost",
+    "apr": "Indicatief JKP",
+    "financed": "Gefinancierd bedrag"
+  },
+  "chart": { "title": "Verdeling kapitaal / rente", "principal": "Kapitaal", "interest": "Rente" },
+  "table": {
+    "show": "Aflossingstabel tonen",
+    "hide": "Aflossingstabel verbergen",
+    "caption": "Aflossingstabel, termijn per termijn",
+    "period": "Termijn",
+    "payment": "Betaling",
+    "principal": "Kapitaal",
+    "interest": "Rente",
+    "balance": "Resterend"
+  },
+  "actions": {
+    "email": "Mijn simulatie per e-mail ontvangen",
+    "emailPlaceholder": "Uw e-mailadres",
+    "emailSubmit": "Verzenden",
+    "emailSuccess": "Simulatie verzonden. Controleer uw inbox.",
+    "emailNote": "We gebruiken uw e-mail alleen om u deze simulatie te sturen.",
+    "continue": "Doorgaan naar een aanvraag"
+  },
+  "disclaimer": "Indicatieve, niet-contractuele schatting, exclusief verzekering en eventuele kosten, onder voorbehoud van beoordeling en aanvaarding van uw dossier. Het definitieve JKP staat in uw contractaanbod."
+}

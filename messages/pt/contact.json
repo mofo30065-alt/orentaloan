@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contacto — Spark loan",
+    "description": "Contacte-nos por telefone, e-mail ou na agência. Marcação de reunião online."
+  },
+  "title": "Contacto",
+  "intro": "Uma questão sobre o seu processo? Escreva-nos ou ligue-nos. Uma pessoa, não um balcão.",
+  "form": {
+    "title": "Escreva-nos",
+    "name": "Nome",
+    "email": "Endereço de e-mail",
+    "subject": "Assunto (opcional)",
+    "message": "A sua mensagem",
+    "submit": "Enviar mensagem",
+    "sending": "A enviar…",
+    "success": "Mensagem enviada. Responderemos rapidamente.",
+    "error": "O envio falhou. Verifique a sua ligação e tente novamente."
+  },
+  "errors": {
+    "required": "Este campo é obrigatório.",
+    "email": "Indique um endereço de e-mail válido.",
+    "message": "A sua mensagem deve ter pelo menos 10 caracteres."
+  },
+  "info": {
+    "title": "Contactar",
+    "phone": "Telefone",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Horário",
+    "agenciesTitle": "As nossas agências",
+    "bookingTitle": "Marcar reunião",
+    "bookingBody": "Escolha um horário com um consultor, na agência ou por telefone.",
+    "bookingCta": "Reservar"
+  }
+}

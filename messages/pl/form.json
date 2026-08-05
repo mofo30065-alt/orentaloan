@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Złóż wniosek — Spark loan",
+    "description": "Złóż wniosek o finansowanie w pięciu krokach. Twoje dane pozostają na urządzeniu, dopóki nie wyślesz."
+  },
+  "title": "Twój wniosek o finansowanie",
+  "subtitle": "Pięć krótkich kroków. Możesz cofnąć się w każdej chwili.",
+  "savedNote": "Twoje odpowiedzi są zapisywane na tym urządzeniu, gdy je uzupełniasz. Nic nie jest wysyłane przed Twoim zatwierdzeniem.",
+  "clearSaved": "Wyczyść i zacznij od nowa",
+  "progress": "Krok {current} z {total}",
+  "steps": {
+    "project": "Cel",
+    "personal": "Sytuacja osobista",
+    "professional": "Sytuacja zawodowa",
+    "contact": "Dane kontaktowe",
+    "summary": "Podsumowanie"
+  },
+  "fields": {
+    "projectType": "Rodzaj celu",
+    "amount": "Żądana kwota (€)",
+    "durationMonths": "Żądany okres (miesiące)",
+    "maritalStatus": "Stan cywilny",
+    "dependents": "Osoby na utrzymaniu",
+    "housingStatus": "Mieszkanie",
+    "monthlyIncome": "Miesięczny dochód netto (€)",
+    "monthlyCharges": "Miesięczne wydatki i kredyty (€)",
+    "employmentStatus": "Sytuacja zawodowa",
+    "seniority": "Staż w tej sytuacji",
+    "profession": "Zawód (opcjonalnie)",
+    "incident": "Zarejestrowana zaległość",
+    "firstName": "Imię",
+    "lastName": "Nazwisko",
+    "email": "Adres e-mail",
+    "phone": "Telefon",
+    "postalCode": "Kod pocztowy",
+    "city": "Miasto",
+    "select": "Wybierz…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Konsolidacja kredytów",
+      "tresorerie": "Płynność",
+      "immobilier": "Zakup nieruchomości",
+      "travaux": "Remont",
+      "auto": "Pojazd",
+      "consommation": "Cel osobisty",
+      "professionnel": "Cel biznesowy"
+    },
+    "maritalStatus": {
+      "celibataire": "Kawaler/panna",
+      "marie": "Żonaty/zamężna",
+      "pacse": "Związek partnerski",
+      "divorce": "Rozwiedziony(a)",
+      "veuf": "Wdowiec/wdowa"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Właściciel, bez bieżącego kredytu",
+      "proprietaireAvecCredit": "Właściciel, z bieżącym kredytem",
+      "locataire": "Najemca",
+      "heberge": "Zakwaterowany"
+    },
+    "employmentStatus": {
+      "cdi": "Umowa na czas nieokreślony",
+      "cdd": "Na czas określony lub tymczasowa",
+      "independant": "Samozatrudniony",
+      "retraite": "Emeryt",
+      "sansEmploi": "Bez pracy"
+    },
+    "seniority": {
+      "moins1an": "Mniej niż rok",
+      "1a3ans": "Od 1 do 3 lat",
+      "plus3ans": "Ponad 3 lata"
+    },
+    "incident": {
+      "oui": "Tak",
+      "non": "Nie",
+      "inconnu": "Nie wiem"
+    }
+  },
+  "errors": {
+    "required": "To pole jest wymagane.",
+    "amountMin": "Kwota musi wynosić co najmniej {min} €.",
+    "amountMax": "Kwota nie może przekraczać {max} €.",
+    "durationMin": "Okres musi wynosić co najmniej {min} miesięcy.",
+    "durationMax": "Okres nie może przekraczać {max} miesięcy.",
+    "positive": "Podaj kwotę dodatnią lub zero.",
+    "name": "Podaj co najmniej 2 znaki.",
+    "email": "Podaj poprawny adres e-mail.",
+    "phone": "Podaj poprawny numer telefonu.",
+    "postalCode": "Podaj poprawny kod pocztowy.",
+    "consent": "Twoja zgoda jest niezbędna do rozpatrzenia wniosku."
+  },
+  "summary": {
+    "title": "Sprawdź swoje dane",
+    "edit": "Edytuj"
+  },
+  "consent": {
+    "label": "Wyrażam zgodę na analizę mojego wniosku na podstawie tych informacji. Moje dane o sytuacji finansowej są wrażliwe i są przeglądane wyłącznie przez osoby odpowiedzialne za analizę, zgodnie z polityką prywatności."
+  },
+  "actions": {
+    "back": "Wstecz",
+    "next": "Dalej",
+    "submit": "Wyślij wniosek",
+    "sending": "Wysyłanie…"
+  },
+  "submitError": "Wysyłanie nie powiodło się. Sprawdź połączenie i spróbuj ponownie.",
+  "confirmation": {
+    "meta": {
+      "title": "Wniosek wysłany — Spark loan",
+      "description": "Twój wniosek o finansowanie został zarejestrowany. Opiekun analizuje Twój wniosek."
+    },
+    "title": "Twój wniosek został zarejestrowany",
+    "body": "Opiekun analizuje Twój wniosek i skontaktuje się w zapowiedzianym terminie. Właśnie wysłaliśmy do Ciebie e-mail z potwierdzeniem.",
+    "referenceLabel": "Twój numer referencyjny",
+    "whatNextTitle": "Co dalej",
+    "whatNext": [
+      "Sprawdzamy elementy Twojego wniosku.",
+      "Opiekun kontaktuje się w sprawie analizy.",
+      "Otrzymujesz uzasadnioną odpowiedź w podanym terminie."
+    ],
+    "ctaHome": "Powrót na stronę główną"
+  }
+}

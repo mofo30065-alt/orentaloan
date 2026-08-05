@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Spark loan — een lening beoordeeld op uw echte situatie",
+    "description": "Gespecialiseerde kredietverstrekker voor dossiers die grootbanken weigeren. Beoordeling op echte feiten, geval per geval."
+  },
+  "hero": {
+    "eyebrow": "Gespecialiseerde kredietverstrekker",
+    "title": "Een lening beoordeeld op uw <mark>echte situatie</mark>, niet op een score.",
+    "subtitle": "We bestuderen dossiers die grootbanken vaak weigeren. Elke beslissing berust op concrete feiten, dossier per dossier — zonder belofte van goedkeuring.",
+    "ctaPrimary": "Mijn kansen checken",
+    "ctaSecondary": "Termijn schatten"
+  },
+  "situation": {
+    "eyebrow": "Uw situatie",
+    "title": "Voor wie deze financiering is",
+    "intro": "Deze profielen worden elders vaak geweigerd. Hier worden ze beoordeeld, op basis van echte zekerheden en inkomsten.",
+    "items": [
+      "Geregistreerd bij een kredietregister",
+      "Herfinanciering met hypothecaire zekerheid",
+      "Zelfstandig zonder drie jaarrekeningen",
+      "Korte contracten: tijdelijk, uitzendwerk",
+      "Senior, werkend of gepensioneerd",
+      "Krappe bedrijfsliquiditeit"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Onze financiering",
+    "title": "We beginnen bij wat op een zekerheid rust.",
+    "intro": "Financiering gedekt door een bezit blijft haalbaar wanneer de score blokkeert. Klassieke leningen volgen.",
+    "alsoTitle": "Ook beschikbaar",
+    "allLink": "Alle financieringen bekijken"
+  },
+  "advantages": {
+    "eyebrow": "Onze werkwijze",
+    "title": "Wat er concreet verandert",
+    "items": [
+      {
+        "title": "Een beslissing op uw situatie",
+        "desc": "We lezen uw echte dossier — inkomen, zekerheden, historiek — in plaats van een automatische score."
+      },
+      {
+        "title": "Een aanspreekpunt, geen loket",
+        "desc": "Eén persoon volgt uw dossier en legt elk criterium uit, zonder jargon."
+      },
+      {
+        "title": "Een antwoord binnen een duidelijke termijn",
+        "desc": "We kondigen een beoordelingstermijn aan en houden ons eraan. Geen kunstmatige haast."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Hoe het werkt",
+    "title": "Vijf stappen, in deze volgorde",
+    "items": [
+      {
+        "title": "De kansencheck",
+        "desc": "Zeven vragen om eerlijk te weten waar uw dossier staat."
+      },
+      {
+        "title": "De simulatie",
+        "desc": "U schat een termijn en totale kost, in realtime."
+      },
+      {
+        "title": "De aanvraag",
+        "desc": "U vult een dossier in vijf stappen in, op uw tempo."
+      },
+      {
+        "title": "De beoordeling",
+        "desc": "Een aanspreekpunt bekijkt uw echte situatie en uw documenten."
+      },
+      {
+        "title": "De beslissing",
+        "desc": "U krijgt een gemotiveerd antwoord en, indien van toepassing, het aanbod."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Het kenmerkende hulpmiddel",
+    "title": "De Lezing van uw dossier",
+    "intro": "Een paar vragen, en we vertellen u eerlijk waar uw dossier staat — met de reden en wat het antwoord kan veranderen.",
+    "states": {
+      "go": {
+        "label": "Serieuze piste",
+        "desc": "De verzamelde elementen laten toe een aanvraag te bestuderen."
+      },
+      "work": {
+        "label": "Dossier te versterken",
+        "desc": "Eén punt remt vandaag. Zo lost u het op."
+      },
+      "stop": {
+        "label": "Voorlopig niet haalbaar",
+        "desc": "We verwijzen u naar een nuttiger hulpbron dan een dossier dat toch geweigerd wordt."
+      }
+    },
+    "note": "Een oriëntatie, geen kredietbeslissing. Geen score, geen verplichting.",
+    "cta": "Mijn Lezing doen"
+  },
+  "testimonials": {
+    "eyebrow": "Zij gingen u voor",
+    "title": "Dossiers weer serieus genomen",
+    "items": [
+      {
+        "quote": "Twee keer geweigerd in het kantoor wegens een tijdelijk contract. Hier keek men naar mijn drie jaar uitzendwerk in dezelfde sector.",
+        "name": "Karim B.",
+        "role": "Uitzendkracht, herfinanciering",
+        "rating": 5
+      },
+      {
+        "quote": "Achttien maanden zelfstandig, zonder de gebruikelijke drie jaarrekeningen. De lening steunde op mijn appartement.",
+        "name": "Léa M.",
+        "role": "Zelfstandige, hypothecaire lening",
+        "rating": 5
+      },
+      {
+        "quote": "Men zei me duidelijk wat blokkeerde en wat voor te bereiden. Drie maanden later opnieuw aangevraagd, het lukte.",
+        "name": "Daniel R.",
+        "role": "Senior, verbouwingslening",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "In cijfers",
+    "title": "Houvast, geen beloften",
+    "note": "Indicatieve cijfers, zonder verbintenis, onder voorbehoud van wijziging.",
+    "items": [
+      {
+        "value": "48 u",
+        "label": "aangekondigde beoordelingstermijn"
+      },
+      {
+        "value": "7",
+        "label": "vragen voor een kansencheck"
+      },
+      {
+        "value": "10",
+        "label": "markten in de eurozone"
+      },
+      {
+        "value": "14",
+        "label": "bestudeerde financieringstypes"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Onze legitimiteit",
+    "title": "Verifieerbaar, niet decoratief",
+    "intro": "In deze markt is transparantie hét argument. Zo verifieert u ons.",
+    "items": [
+      "Vergund door de AFM (vergunning 12345678)",
+      "Aangesloten bij Kifid",
+      "Kantoor in Amsterdam, Herengracht 100, 1015 BS"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Transparantie in beeld",
+    "title": "Een rekenvoorbeeld, zonder verborgen sterretje",
+    "intro": "Elke simulatie toont een volledig representatief voorbeeld, zonder verborgen sterretje."
+  },
+  "blog": {
+    "eyebrow": "Ons advies",
+    "title": "Begrijpen vóór u zich verbindt",
+    "allLink": "Alle adviezen",
+    "items": []
+  },
+  "finalCta": {
+    "title": "Begin met te weten waar uw dossier staat.",
+    "cta": "Mijn Lezing doen"
+  }
+}

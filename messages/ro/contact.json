@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact — Spark loan",
+    "description": "Contactează-ne prin telefon, e-mail sau la agenție. Programare online."
+  },
+  "title": "Contact",
+  "intro": "O întrebare despre dosarul tău? Scrie-ne sau sună-ne. O persoană, nu un ghișeu.",
+  "form": {
+    "title": "Scrie-ne",
+    "name": "Nume",
+    "email": "Adresă de e-mail",
+    "subject": "Subiect (opțional)",
+    "message": "Mesajul tău",
+    "submit": "Trimite mesajul",
+    "sending": "Se trimite…",
+    "success": "Mesaj trimis. Îți răspundem rapid.",
+    "error": "Trimiterea a eșuat. Verifică conexiunea și încearcă din nou."
+  },
+  "errors": {
+    "required": "Acest câmp este obligatoriu.",
+    "email": "Indică o adresă de e-mail validă.",
+    "message": "Mesajul tău trebuie să aibă cel puțin 10 caractere."
+  },
+  "info": {
+    "title": "Contact",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Program",
+    "agenciesTitle": "Agențiile noastre",
+    "bookingTitle": "Programează o întâlnire",
+    "bookingBody": "Alege un interval cu un consilier, la agenție sau prin telefon.",
+    "bookingCta": "Rezervă"
+  }
+}

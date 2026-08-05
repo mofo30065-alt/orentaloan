@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Perguntas frequentes — Spark loan",
+    "description": "Elegibilidade, taxas, segurança, prazos: respostas claras, sem promessas."
+  },
+  "title": "Perguntas frequentes",
+  "intro": "Respostas claras às perguntas mais frequentes, sem rodeios e sem promessas.",
+  "searchLabel": "Procurar uma pergunta",
+  "searchPlaceholder": "Procurar uma pergunta…",
+  "empty": "Nenhuma pergunta corresponde à sua procura.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Elegibilidade",
+      "items": [
+        {
+          "q": "Posso pedir crédito estando inscrito num ficheiro?",
+          "a": "O crédito clássico concedido por pontuação será recusado, mas um financiamento com garantia pode ser analisado. A verificação diz-lhe honestamente onde está."
+        },
+        {
+          "q": "Aceitam independentes sem três anos de contas?",
+          "a": "Sim, sob condições: uma atividade consolidada e movimentos regulares podem compensar."
+        },
+        {
+          "q": "Um contrato a termo ou temporário é eliminatório?",
+          "a": "Não. Um contrato curto fragiliza o processo mas não o torna impossível, sobretudo com antiguidade no mesmo setor ou um coproponente."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Taxas e custos",
+      "items": [
+        {
+          "q": "A TAEG é garantida à partida?",
+          "a": "Não. As taxas mostradas são indicativas. A TAEG definitiva consta da sua proposta de contrato, após a análise."
+        },
+        {
+          "q": "Porque é que a TAEG é mais alta do que a taxa mostrada?",
+          "a": "A TAEG é uma taxa efetiva que inclui custos e eventual seguro: é normal que seja superior à taxa devedora isolada."
+        },
+        {
+          "q": "Há comissão de abertura?",
+          "a": "Depende do produto. Os eventuais custos são indicados claramente na proposta, antes de assinar."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Segurança e dados",
+      "items": [
+        {
+          "q": "O que fazem com os meus dados?",
+          "a": "Servem apenas para analisar o seu pedido e apenas são consultados pelas pessoas responsáveis pela análise, nos termos da política de privacidade."
+        },
+        {
+          "q": "As minhas respostas do simulador são enviadas?",
+          "a": "Não. Enquanto não enviar um pedido, as suas respostas ficam no seu dispositivo."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Percurso e prazos",
+      "items": [
+        {
+          "q": "Quanto tempo dura a análise?",
+          "a": "É anunciado um prazo de análise claro e cumprimo-lo. Sem urgência artificial, sem contagem decrescente."
+        },
+        {
+          "q": "A verificação é uma aprovação de crédito?",
+          "a": "Não. É uma orientação honesta, sem compromisso nem pontuação mostrada: não é uma decisão de crédito."
+        },
+        {
+          "q": "Posso retomar o meu pedido mais tarde?",
+          "a": "Sim. As suas respostas são guardadas no dispositivo enquanto termina, e apagadas ao enviar."
+        }
+      ]
+    }
+  ]
+}

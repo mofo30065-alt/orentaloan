@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Nasze finansowanie — Spark loan",
+    "description": "14 rodzajów finansowania ocenianych na podstawie Twojej realnej sytuacji. Kredyty z zabezpieczeniem pozostają dostępne po odmowie bankowej."
+  },
+  "index": {
+    "eyebrow": "Nasze finansowanie",
+    "title": "Finansowanie na każdą sytuację",
+    "intro": "Na pierwszym planie stawiamy kredyty zabezpieczone aktywem: pozostają dostępne, gdy punktacja blokuje. Finansowanie klasyczne w dalszej kolejności.",
+    "featuredTitle": "Warte rozważenia po odmowie",
+    "classicTitle": "Finansowanie klasyczne"
+  },
+  "common": {
+    "amounts": "Kwoty",
+    "duration": "Okresy",
+    "range": "od {min} do {max}",
+    "monthsRange": "od {min} do {max} miesięcy",
+    "rateTableTitle": "Orientacyjne stopy według okresu",
+    "rateDuration": "Okres",
+    "rateFixed": "Stopa stała",
+    "rateVariable": "Stopa zmienna",
+    "rateNote": "Stopy orientacyjne, niewiążące, mogą ulec zmianie i podlegają analizie wniosku.",
+    "eligibilityTitle": "Warunki kwalifikacji",
+    "eligibleTitle": "Dostępne, jeśli…",
+    "notEligibleTitle": "Nieodpowiednie, jeśli…",
+    "documentsTitle": "Wymagane dokumenty",
+    "faqTitle": "Najczęstsze pytania",
+    "casesTitle": "Konkretny przykład",
+    "simulatorTitle": "Oszacuj to finansowanie",
+    "representativeTitle": "Przykład reprezentatywny",
+    "ctaSimulate": "Symuluj to finansowanie",
+    "ctaDiagnostic": "Sprawdź moje szanse",
+    "ctaRequest": "Złóż wniosek",
+    "ctaFinalTitle": "Analizujemy Twój wniosek, nie Twoją punktację.",
+    "models": {
+      "revolving": "Kredyt odnawialny nie amortyzuje się jak klasyczny: koszt zależy od użycia i tempa spłaty. Korzystaj z ogólnego symulatora z rozwagą lub porozmawiaj z doradcą.",
+      "leasing": "W leasingu płacisz raty i opcjonalnie wartość rezydualną. Obliczenie zależy od przedmiotu i jego wartości wykupu; doradca ustala dokładną ratę.",
+      "bridge": "Kredyt pomostowy jest spłacany przy sprzedaży nieruchomości. Koszt zależy od faktycznego czasu do sprzedaży i zaliczkowanej kwoty.",
+      "factoring": "Faktoring to nie kredyt: przekazujesz faktury w zamian za zaliczkę, za prowizję. Koszt zależy od wolumenu i terminów płatności."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Konsolidacja kredytów", "teaser": "Połącz kredyty w jedną ratę, w razie potrzeby zabezpieczoną nieruchomością." },
+    "pret-travaux": { "name": "Kredyt na remont", "teaser": "Sfinansuj remont, w tym prace poprawiające efektywność energetyczną." },
+    "pret-tresorerie": { "name": "Kredyt na płynność", "teaser": "Pokonaj chwilowy brak płynności w firmie, bez blokowania środków." },
+    "loa": { "name": "Leasing", "teaser": "Korzystaj z pojazdu lub sprzętu bez natychmiastowego zakupu." },
+    "affacturage": { "name": "Faktoring", "teaser": "Zamień faktury klientów na natychmiastową płynność." },
+    "pret-relais": { "name": "Kredyt pomostowy", "teaser": "Kup, zanim sprzedasz, na czas przejścia." },
+    "pret-immobilier": { "name": "Kredyt hipoteczny", "teaser": "Sfinansuj zakup nieruchomości oceniany na podstawie Twojej realnej sytuacji." },
+    "credit-consommation": { "name": "Kredyt konsumencki", "teaser": "Sfinansuj cel osobisty, sprzęt lub nieprzewidziany wydatek." },
+    "pret-auto": { "name": "Kredyt samochodowy", "teaser": "Kup pojazd nowy lub używany, z jasną ratą." },
+    "credit-renouvelable": { "name": "Kredyt odnawialny", "teaser": "Elastyczna rezerwa środków, do rozważnego użycia." },
+    "pret-etudiant": { "name": "Kredyt studencki", "teaser": "Sfinansuj studia i koszty utrzymania." },
+    "financement-equipement": { "name": "Finansowanie sprzętu", "teaser": "Sfinansuj maszyny, materiały lub pojazdy firmowe." },
+    "pret-creation-reprise": { "name": "Kredyt na start/przejęcie", "teaser": "Sfinansuj rozpoczęcie lub przejęcie działalności." },
+    "immobilier-professionnel": { "name": "Nieruchomości komercyjne", "teaser": "Sfinansuj lokale handlowe lub biurowe." }
+  }
+}

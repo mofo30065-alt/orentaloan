@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Apply — Spark loan",
+    "description": "File your financing request in five steps. Your situation data stays on your device until you submit."
+  },
+  "title": "Your financing request",
+  "subtitle": "Five short steps. You can go back at any time.",
+  "savedNote": "Your answers are saved on this device while you finish. Nothing is sent before you submit.",
+  "clearSaved": "Clear and restart",
+  "progress": "Step {current} of {total}",
+  "steps": {
+    "project": "Project",
+    "personal": "Personal situation",
+    "professional": "Work situation",
+    "contact": "Contact details",
+    "summary": "Summary"
+  },
+  "fields": {
+    "projectType": "Type of project",
+    "amount": "Desired amount (€)",
+    "durationMonths": "Desired term (months)",
+    "maritalStatus": "Family status",
+    "dependents": "Dependants",
+    "housingStatus": "Housing",
+    "monthlyIncome": "Net monthly income (€)",
+    "monthlyCharges": "Monthly expenses and loans (€)",
+    "employmentStatus": "Work situation",
+    "seniority": "Time in this situation",
+    "profession": "Occupation (optional)",
+    "incident": "Registered payment incident",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "phone": "Phone",
+    "postalCode": "Postal code",
+    "city": "City",
+    "select": "Select…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Debt consolidation",
+      "tresorerie": "Cash flow",
+      "immobilier": "Property purchase",
+      "travaux": "Home improvement",
+      "auto": "Vehicle",
+      "consommation": "Personal project",
+      "professionnel": "Business project"
+    },
+    "maritalStatus": {
+      "celibataire": "Single",
+      "marie": "Married",
+      "pacse": "Civil partnership",
+      "divorce": "Divorced",
+      "veuf": "Widowed"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Owner, no loan running",
+      "proprietaireAvecCredit": "Owner, with a loan running",
+      "locataire": "Tenant",
+      "heberge": "Living with someone"
+    },
+    "employmentStatus": {
+      "cdi": "Permanent contract",
+      "cdd": "Fixed-term or temp",
+      "independant": "Self-employed",
+      "retraite": "Retired",
+      "sansEmploi": "Not employed"
+    },
+    "seniority": {
+      "moins1an": "Less than a year",
+      "1a3ans": "1 to 3 years",
+      "plus3ans": "More than 3 years"
+    },
+    "incident": {
+      "oui": "Yes",
+      "non": "No",
+      "inconnu": "I don't know"
+    }
+  },
+  "errors": {
+    "required": "This field is required.",
+    "amountMin": "The amount must be at least €{min}.",
+    "amountMax": "The amount cannot exceed €{max}.",
+    "durationMin": "The term must be at least {min} months.",
+    "durationMax": "The term cannot exceed {max} months.",
+    "positive": "Enter a positive or zero amount.",
+    "name": "Enter at least 2 characters.",
+    "email": "Enter a valid email address.",
+    "phone": "Enter a valid phone number.",
+    "postalCode": "Enter a valid postal code.",
+    "consent": "Your consent is required to review the request."
+  },
+  "summary": {
+    "title": "Check your details",
+    "edit": "Edit"
+  },
+  "consent": {
+    "label": "I authorise the review of my request from this information. My financial situation data is sensitive and is accessed only by the people in charge of the review, in accordance with the privacy policy."
+  },
+  "actions": {
+    "back": "Back",
+    "next": "Continue",
+    "submit": "Send my request",
+    "sending": "Sending…"
+  },
+  "submitError": "Sending failed. Check your connection and try again.",
+  "confirmation": {
+    "meta": {
+      "title": "Request sent — Spark loan",
+      "description": "Your financing request is recorded. A contact is reviewing your file."
+    },
+    "title": "Your request is recorded",
+    "body": "A contact is reviewing your file and will get back to you within the stated timeframe. A confirmation email has just been sent to you.",
+    "referenceLabel": "Your reference",
+    "whatNextTitle": "What happens next",
+    "whatNext": [
+      "We check the elements of your file.",
+      "A contact gets back to you for the review.",
+      "You receive a reasoned reply within the stated time."
+    ],
+    "ctaHome": "Back to home"
+  }
+}

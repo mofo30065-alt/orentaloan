@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Simulador de crédito — Spark loan",
+    "description": "Estime a sua prestação, o custo total e a TAEG indicativa. Números indicativos, não contratuais, sujeitos a aprovação."
+  },
+  "title": "Simulador de crédito",
+  "subtitle": "Ajuste os parâmetros: tudo é recalculado em tempo real. Os montantes são indicativos.",
+  "fields": {
+    "amount": { "label": "Montante do crédito", "help": "O capital que pretende pedir emprestado." },
+    "duration": { "label": "Prazo de reembolso", "help": "Um prazo mais longo reduz a prestação mas aumenta o custo total." },
+    "rate": { "label": "Taxa devedora fixa", "help": "Taxa nominal anual indicativa para a estimativa." },
+    "downPayment": { "label": "Entrada (opcional)", "help": "Uma entrada reduz o montante financiado." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mês} other {# meses}}",
+    "years": "{count, plural, one {# ano} other {# anos}}"
+  },
+  "results": {
+    "heading": "A sua estimativa",
+    "monthly": "Prestação mensal",
+    "monthlyAria": "Prestação mensal estimada: {value}",
+    "totalInterest": "Total de juros",
+    "totalCost": "Custo total do crédito",
+    "apr": "TAEG indicativa",
+    "financed": "Montante financiado"
+  },
+  "chart": { "title": "Repartição capital / juros", "principal": "Capital", "interest": "Juros" },
+  "table": {
+    "show": "Ver o plano de amortização",
+    "hide": "Ocultar o plano de amortização",
+    "caption": "Plano de amortização, prestação a prestação",
+    "period": "Prestação",
+    "payment": "Pagamento",
+    "principal": "Capital",
+    "interest": "Juros",
+    "balance": "Em dívida"
+  },
+  "actions": {
+    "email": "Receber a minha simulação por e-mail",
+    "emailPlaceholder": "O seu endereço de e-mail",
+    "emailSubmit": "Enviar",
+    "emailSuccess": "Simulação enviada. Verifique a sua caixa de entrada.",
+    "emailNote": "Usamos o seu e-mail apenas para lhe enviar esta simulação.",
+    "continue": "Continuar para um pedido"
+  },
+  "disclaimer": "Estimativa indicativa e não contratual, excluindo seguro e eventuais custos, sujeita a análise e aprovação do seu processo. A TAEG definitiva constará da sua proposta de contrato."
+}

@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Symulator kredytu — Spark loan",
+    "description": "Oszacuj ratę, całkowity koszt i orientacyjne RRSO. Dane orientacyjne, niewiążące, z zastrzeżeniem akceptacji."
+  },
+  "title": "Symulator kredytu",
+  "subtitle": "Dostosuj parametry: wszystko przelicza się w czasie rzeczywistym. Kwoty są orientacyjne.",
+  "fields": {
+    "amount": { "label": "Kwota kredytu", "help": "Kapitał, który chcesz pożyczyć." },
+    "duration": { "label": "Okres spłaty", "help": "Dłuższy okres obniża ratę, ale zwiększa całkowity koszt." },
+    "rate": { "label": "Stała stopa oprocentowania", "help": "Orientacyjna nominalna stopa roczna do szacunku." },
+    "downPayment": { "label": "Wkład własny (opcjonalnie)", "help": "Wkład obniża finansowaną kwotę." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# miesiąc} few {# miesiące} many {# miesięcy} other {# miesiąca}}",
+    "years": "{count, plural, one {# rok} few {# lata} many {# lat} other {# roku}}"
+  },
+  "results": {
+    "heading": "Twój szacunek",
+    "monthly": "Rata miesięczna",
+    "monthlyAria": "Szacowana rata miesięczna: {value}",
+    "totalInterest": "Suma odsetek",
+    "totalCost": "Całkowity koszt kredytu",
+    "apr": "Orientacyjne RRSO",
+    "financed": "Finansowana kwota"
+  },
+  "chart": { "title": "Podział kapitał / odsetki", "principal": "Kapitał", "interest": "Odsetki" },
+  "table": {
+    "show": "Pokaż harmonogram spłat",
+    "hide": "Ukryj harmonogram spłat",
+    "caption": "Harmonogram spłat, rata po racie",
+    "period": "Rata",
+    "payment": "Płatność",
+    "principal": "Kapitał",
+    "interest": "Odsetki",
+    "balance": "Pozostało"
+  },
+  "actions": {
+    "email": "Otrzymaj symulację e-mailem",
+    "emailPlaceholder": "Twój adres e-mail",
+    "emailSubmit": "Wyślij",
+    "emailSuccess": "Symulacja wysłana. Sprawdź swoją skrzynkę.",
+    "emailNote": "Używamy Twojego e-maila wyłącznie do wysłania tej symulacji.",
+    "continue": "Przejdź do wniosku"
+  },
+  "disclaimer": "Szacunek orientacyjny i niewiążący, bez ubezpieczenia i ewentualnych opłat, z zastrzeżeniem analizy i akceptacji wniosku. Ostateczne RRSO znajdzie się w Twojej ofercie umowy."
+}

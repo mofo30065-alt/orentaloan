@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Onze financiering — Spark loan",
+    "description": "14 financieringstypes beoordeeld op uw echte situatie. Leningen met zekerheid blijven haalbaar na een bankweigering."
+  },
+  "index": {
+    "eyebrow": "Onze financiering",
+    "title": "Een financiering voor elke situatie",
+    "intro": "We zetten leningen gedekt door een bezit voorop: ze blijven haalbaar wanneer de score blokkeert. Klassieke financiering volgt.",
+    "featuredTitle": "Voorkeur na een weigering",
+    "classicTitle": "Klassieke financiering"
+  },
+  "common": {
+    "amounts": "Bedragen",
+    "duration": "Looptijden",
+    "range": "van {min} tot {max}",
+    "monthsRange": "van {min} tot {max} maanden",
+    "rateTableTitle": "Indicatieve tarieven per looptijd",
+    "rateDuration": "Looptijd",
+    "rateFixed": "Vast tarief",
+    "rateVariable": "Variabel tarief",
+    "rateNote": "Indicatieve tarieven, niet-contractueel, onder voorbehoud van wijziging en beoordeling van uw dossier.",
+    "eligibilityTitle": "Voorwaarden",
+    "eligibleTitle": "Haalbaar als…",
+    "notEligibleTitle": "Niet geschikt als…",
+    "documentsTitle": "Aan te leveren documenten",
+    "faqTitle": "Veelgestelde vragen",
+    "casesTitle": "Concreet voorbeeld",
+    "simulatorTitle": "Deze financiering schatten",
+    "representativeTitle": "Representatief voorbeeld",
+    "ctaSimulate": "Deze financiering berekenen",
+    "ctaDiagnostic": "Mijn kansen checken",
+    "ctaRequest": "Aanvragen",
+    "ctaFinalTitle": "We bestuderen uw dossier, niet uw score.",
+    "models": {
+      "revolving": "Doorlopend krediet lost niet af zoals een klassieke lening: de kost hangt af van uw gebruik en aflossingstempo. Gebruik de algemene simulator met omzichtigheid of praat met een adviseur.",
+      "leasing": "Bij lease betaalt u termijnen en optioneel een restwaarde. De berekening hangt af van het goed en de terugkoopwaarde; een adviseur bepaalt een precieze termijn.",
+      "bridge": "Het overbruggingskrediet wordt terugbetaald bij de verkoop van uw woning. De kost hangt af van de werkelijke tijd tot de verkoop en het voorgeschoten bedrag.",
+      "factoring": "Factoring is geen lening: u draagt facturen over in ruil voor een voorschot, tegen een commissie. De kost hangt af van uw volume en betaaltermijnen."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Herfinanciering", "teaser": "Voeg uw leningen samen tot één termijn, indien nodig gedekt door uw woning." },
+    "pret-travaux": { "name": "Verbouwingslening", "teaser": "Financier een renovatie, ook energiebesparende werken." },
+    "pret-tresorerie": { "name": "Liquiditeitskrediet", "teaser": "Overbrug een liquiditeitspiek voor uw activiteit, zonder uw middelen vast te leggen." },
+    "loa": { "name": "Lease", "teaser": "Gebruik een voertuig of uitrusting zonder het meteen te kopen." },
+    "affacturage": { "name": "Factoring", "teaser": "Zet uw klantfacturen om in onmiddellijke liquiditeit." },
+    "pret-relais": { "name": "Overbruggingskrediet", "teaser": "Koop voor u verkocht hebt, tijdens de overgang." },
+    "pret-immobilier": { "name": "Woningkrediet", "teaser": "Financier een woningaankoop beoordeeld op uw echte situatie." },
+    "credit-consommation": { "name": "Consumptief krediet", "teaser": "Financier een persoonlijk project, uitrusting of een onvoorziene uitgave." },
+    "pret-auto": { "name": "Autolening", "teaser": "Koop een nieuw of tweedehands voertuig, met een duidelijke termijn." },
+    "credit-renouvelable": { "name": "Doorlopend krediet", "teaser": "Een flexibele geldreserve, met mate te gebruiken." },
+    "pret-etudiant": { "name": "Studielening", "teaser": "Financier studies en hun levenskosten." },
+    "financement-equipement": { "name": "Uitrustingsfinanciering", "teaser": "Financier machines, materieel of bedrijfsvoertuigen." },
+    "pret-creation-reprise": { "name": "Start-/overnamekrediet", "teaser": "Financier de start of overname van een activiteit." },
+    "immobilier-professionnel": { "name": "Bedrijfsvastgoedkrediet", "teaser": "Financier handelspanden of professionele ruimtes." }
+  }
+}

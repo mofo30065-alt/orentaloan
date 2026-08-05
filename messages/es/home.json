@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "title": "Spark loan — un préstamo evaluado sobre tu situación real",
+    "description": "Entidad de crédito especializada en expedientes rechazados por los bancos tradicionales. Evaluación sobre hechos reales, caso por caso."
+  },
+  "hero": {
+    "eyebrow": "Entidad de crédito especializada",
+    "title": "Un préstamo evaluado sobre tu <mark>situación real</mark>, no sobre una puntuación.",
+    "subtitle": "Estudiamos expedientes que los bancos tradicionales suelen rechazar. Cada decisión se basa en hechos concretos, expediente por expediente, sin promesa de aprobación.",
+    "ctaPrimary": "Comprobar mi elegibilidad",
+    "ctaSecondary": "Estimar una cuota"
+  },
+  "situation": {
+    "eyebrow": "Tu situación",
+    "title": "Para quién es esta financiación",
+    "intro": "Estos perfiles suelen ser rechazados en otros sitios. Aquí se estudian, según las garantías y los ingresos reales.",
+    "items": [
+      "Inscrito en un fichero de impagos",
+      "Reunificación de deuda con garantía hipotecaria",
+      "Autónomo sin tres años de cuentas",
+      "Contratos cortos: temporal, ETT",
+      "Sénior, en activo o jubilado",
+      "Tesorería de empresa ajustada"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Nuestra financiación",
+    "title": "Empezamos por lo que se apoya en una garantía.",
+    "intro": "La financiación respaldada por un activo sigue siendo accesible cuando la puntuación bloquea. Los préstamos clásicos vienen después.",
+    "alsoTitle": "También disponibles",
+    "allLink": "Ver toda la financiación"
+  },
+  "advantages": {
+    "eyebrow": "Nuestra forma de trabajar",
+    "title": "Lo que cambia, en concreto",
+    "items": [
+      {
+        "title": "Una decisión sobre tu situación",
+        "desc": "Leemos tu expediente real —ingresos, garantías, historial— en lugar de una puntuación automática."
+      },
+      {
+        "title": "Una persona, no una ventanilla",
+        "desc": "Un interlocutor sigue tu expediente y te explica cada criterio, sin jerga."
+      },
+      {
+        "title": "Una respuesta en un plazo claro",
+        "desc": "Anunciamos un plazo de estudio y lo cumplimos. Sin urgencia artificial."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Cómo funciona",
+    "title": "Cinco pasos, en este orden",
+    "items": [
+      {
+        "title": "El diagnóstico previo",
+        "desc": "Siete preguntas para saber con honestidad dónde está tu expediente."
+      },
+      {
+        "title": "La simulación",
+        "desc": "Estimas una cuota y un coste total, en tiempo real."
+      },
+      {
+        "title": "La solicitud",
+        "desc": "Completas un expediente en cinco pasos, a tu ritmo."
+      },
+      {
+        "title": "El estudio",
+        "desc": "Un interlocutor examina tu situación real y tus documentos."
+      },
+      {
+        "title": "La decisión",
+        "desc": "Recibes una respuesta motivada y, en su caso, la oferta."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "La herramienta insignia",
+    "title": "La Lectura de tu expediente",
+    "intro": "Unas preguntas y te decimos con honestidad dónde está tu expediente, con el motivo y lo que podría cambiar la respuesta.",
+    "states": {
+      "go": {
+        "label": "Vía seria",
+        "desc": "Los elementos reunidos permiten estudiar una solicitud."
+      },
+      "work": {
+        "label": "Expediente a reforzar",
+        "desc": "Un punto concreto frena hoy. Aquí tienes cómo resolverlo."
+      },
+      "stop": {
+        "label": "Inviable por ahora",
+        "desc": "Te orientamos hacia un recurso más útil que un expediente destinado al rechazo."
+      }
+    },
+    "note": "Una orientación, no una decisión de crédito. Sin puntuación, sin compromiso.",
+    "cta": "Hacer mi Lectura"
+  },
+  "testimonials": {
+    "eyebrow": "Han pasado por ello",
+    "title": "Expedientes tomados en serio",
+    "items": [
+      {
+        "quote": "Rechazado dos veces en oficina por un contrato temporal. Aquí miraron mis tres años de ETT en el mismo sector.",
+        "name": "Karim B.",
+        "role": "Temporal, reunificación de deuda",
+        "rating": 5
+      },
+      {
+        "quote": "Autónoma desde hace dieciocho meses, sin las tres cuentas habituales. El préstamo se apoyó en mi piso.",
+        "name": "Léa M.",
+        "role": "Autónoma, préstamo hipotecario",
+        "rating": 5
+      },
+      {
+        "quote": "Me dijeron con claridad qué bloqueaba y qué preparar. Volví a solicitar tres meses después y salió.",
+        "name": "Daniel R.",
+        "role": "Sénior, préstamo para reformas",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "En cifras",
+    "title": "Referencias, no promesas",
+    "note": "Cifras indicativas, sin compromiso, sujetas a cambios.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "plazo de estudio anunciado"
+      },
+      {
+        "value": "7",
+        "label": "preguntas para un diagnóstico"
+      },
+      {
+        "value": "10",
+        "label": "mercados en la zona euro"
+      },
+      {
+        "value": "14",
+        "label": "tipos de financiación estudiados"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Nuestra legitimidad",
+    "title": "Verificable, no decorativa",
+    "intro": "En este mercado, la transparencia es el argumento. Aquí tienes cómo verificarnos.",
+    "items": [
+      "Autorizada por el Banco de España (n.º 8123)",
+      "Adherida al Servicio de Reclamaciones del Banco de España",
+      "Oficina en Madrid, Calle de Alcalá 45, 28014"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "La transparencia a la vista",
+    "title": "Un ejemplo con cifras, sin asterisco oculto",
+    "intro": "Cada simulación muestra un ejemplo representativo completo, sin asterisco oculto."
+  },
+  "blog": {
+    "eyebrow": "Nuestros consejos",
+    "title": "Entender antes de comprometerse",
+    "allLink": "Todos los consejos",
+    "items": [
+      {
+        "slug": "comprendre-inscription-ficp",
+        "category": "Ficheros",
+        "readingTime": "6 min",
+        "title": "Inscrito en un fichero de impagos: qué cambia de verdad para un préstamo"
+      },
+      {
+        "slug": "rachat-credit-hypothecaire-guide",
+        "category": "Reunificación",
+        "readingTime": "8 min",
+        "title": "Reunificación hipotecaria: cuando tu inmueble es una solución"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Empieza por saber dónde está tu expediente.",
+    "cta": "Hacer mi Lectura"
+  }
+}

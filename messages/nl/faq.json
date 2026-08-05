@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Veelgestelde vragen — Spark loan",
+    "description": "Kansen, tarieven, veiligheid, termijnen: duidelijke antwoorden, zonder beloften."
+  },
+  "title": "Veelgestelde vragen",
+  "intro": "Duidelijke antwoorden op de vragen die we het vaakst krijgen, zonder omwegen en zonder beloften.",
+  "searchLabel": "Een vraag zoeken",
+  "searchPlaceholder": "Een vraag zoeken…",
+  "empty": "Geen vraag komt overeen met uw zoekopdracht.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Kansen",
+      "items": [
+        {
+          "q": "Kan ik lenen terwijl ik geregistreerd sta?",
+          "a": "Klassiek krediet op basis van een score wordt geweigerd, maar financiering met zekerheid kan bestudeerd worden. De kansencheck zegt u eerlijk waar u staat."
+        },
+        {
+          "q": "Aanvaarden jullie zelfstandigen zonder drie jaarrekeningen?",
+          "a": "Ja, onder voorwaarden: een gevestigde activiteit en regelmatige rekeningbewegingen kunnen dit compenseren."
+        },
+        {
+          "q": "Is een tijdelijk of uitzendcontract uitsluitend?",
+          "a": "Nee. Een kort contract verzwakt het dossier maar maakt het niet onmogelijk, vooral met anciënniteit in dezelfde sector of een mede-ontlener."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Tarieven en kosten",
+      "items": [
+        {
+          "q": "Is het JKP vooraf gegarandeerd?",
+          "a": "Nee. De getoonde tarieven zijn indicatief. Het definitieve JKP staat na de beoordeling in uw contractaanbod."
+        },
+        {
+          "q": "Waarom is het JKP hoger dan het getoonde tarief?",
+          "a": "Het JKP is een effectief tarief dat kosten en eventuele verzekering omvat: het is normaal dat het hoger ligt dan de debetrente alleen."
+        },
+        {
+          "q": "Zijn er dossierkosten?",
+          "a": "Afhankelijk van het product. Eventuele kosten staan duidelijk in het aanbod, vóór ondertekening."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Veiligheid en gegevens",
+      "items": [
+        {
+          "q": "Wat doen jullie met mijn gegevens?",
+          "a": "Ze dienen alleen om uw aanvraag te beoordelen en worden alleen ingezien door de bevoegde personen, conform het privacybeleid."
+        },
+        {
+          "q": "Worden mijn simulatorantwoorden verzonden?",
+          "a": "Nee. Zolang u geen aanvraag verzendt, blijven uw antwoorden op uw toestel."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Traject en termijnen",
+      "items": [
+        {
+          "q": "Hoe lang duurt de beoordeling?",
+          "a": "Er wordt een duidelijke beoordelingstermijn aangekondigd en we houden ons eraan. Geen kunstmatige haast, geen aftelklok."
+        },
+        {
+          "q": "Is de kansencheck een kredietgoedkeuring?",
+          "a": "Nee. Het is een eerlijke oriëntatie, zonder verplichting of getoonde score: het is geen kredietbeslissing."
+        },
+        {
+          "q": "Kan ik mijn aanvraag later hervatten?",
+          "a": "Ja. Uw antwoorden worden op uw toestel bewaard terwijl u afwerkt, en gewist bij verzending."
+        }
+      ]
+    }
+  ]
+}

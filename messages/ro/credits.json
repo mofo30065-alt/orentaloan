@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Finanțarea noastră — Spark loan",
+    "description": "14 tipuri de finanțare evaluate pe situația ta reală. Creditele cu garanție rămân accesibile după un refuz bancar."
+  },
+  "index": {
+    "eyebrow": "Finanțarea noastră",
+    "title": "O finanțare pentru fiecare situație",
+    "intro": "Punem în față creditele garantate cu un activ: rămân accesibile când scorul blochează. Finanțarea clasică urmează.",
+    "featuredTitle": "De preferat după un refuz",
+    "classicTitle": "Finanțare clasică"
+  },
+  "common": {
+    "amounts": "Sume",
+    "duration": "Durate",
+    "range": "de la {min} la {max}",
+    "monthsRange": "de la {min} la {max} luni",
+    "rateTableTitle": "Dobânzi orientative după durată",
+    "rateDuration": "Durată",
+    "rateFixed": "Dobândă fixă",
+    "rateVariable": "Dobândă variabilă",
+    "rateNote": "Dobânzi orientative, necontractuale, pot fi modificate și supuse analizei dosarului.",
+    "eligibilityTitle": "Condiții de eligibilitate",
+    "eligibleTitle": "Accesibil dacă…",
+    "notEligibleTitle": "Nepotrivit dacă…",
+    "documentsTitle": "Documente necesare",
+    "faqTitle": "Întrebări frecvente",
+    "casesTitle": "Caz concret",
+    "simulatorTitle": "Estimează această finanțare",
+    "representativeTitle": "Exemplu reprezentativ",
+    "ctaSimulate": "Simulează această finanțare",
+    "ctaDiagnostic": "Verifică eligibilitatea mea",
+    "ctaRequest": "Depune cererea",
+    "ctaFinalTitle": "Îți analizăm dosarul, nu scorul.",
+    "models": {
+      "revolving": "Creditul reînnoibil nu se amortizează ca un credit clasic: costul depinde de utilizare și de viteza de rambursare. Folosește simulatorul general cu prudență sau vorbește cu un consilier.",
+      "leasing": "În leasing plătești rate și, opțional, o valoare reziduală. Calculul depinde de bun și de valoarea de răscumpărare; un consilier stabilește o rată precisă.",
+      "bridge": "Creditul-punte se rambursează la vânzarea imobilului tău. Costul depinde de timpul real până la vânzare și de suma avansată.",
+      "factoring": "Factoringul nu este un credit: cedezi facturi în schimbul unui avans, contra unui comision. Costul depinde de volum și de termenele de plată."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Refinanțare", "teaser": "Unește-ți creditele într-o singură rată, garantată de imobilul tău dacă e nevoie." },
+    "pret-travaux": { "name": "Credit pentru renovare", "teaser": "Finanțează o renovare, inclusiv lucrări de eficiență energetică." },
+    "pret-tresorerie": { "name": "Credit de trezorerie", "teaser": "Depășește un blocaj de trezorerie pentru activitatea ta, fără a-ți imobiliza fondurile." },
+    "loa": { "name": "Leasing", "teaser": "Folosește un vehicul sau un echipament fără să îl cumperi imediat." },
+    "affacturage": { "name": "Factoring", "teaser": "Transformă facturile clienților în lichiditate imediată." },
+    "pret-relais": { "name": "Credit-punte", "teaser": "Cumpără înainte de a fi vândut, pe durata tranziției." },
+    "pret-immobilier": { "name": "Credit ipotecar", "teaser": "Finanțează o achiziție imobiliară evaluată pe situația ta reală." },
+    "credit-consommation": { "name": "Credit de consum", "teaser": "Finanțează un proiect personal, echipamente sau o cheltuială neprevăzută." },
+    "pret-auto": { "name": "Credit auto", "teaser": "Cumpără un vehicul nou sau second-hand, cu o rată clară." },
+    "credit-renouvelable": { "name": "Credit reînnoibil", "teaser": "O rezervă de bani flexibilă, de folosit cu măsură." },
+    "pret-etudiant": { "name": "Credit pentru studenți", "teaser": "Finanțează studiile și costul vieții." },
+    "financement-equipement": { "name": "Finanțare de echipamente", "teaser": "Finanțează utilaje, materiale sau vehicule profesionale." },
+    "pret-creation-reprise": { "name": "Credit de înființare/preluare", "teaser": "Finanțează lansarea sau preluarea unei activități." },
+    "immobilier-professionnel": { "name": "Imobiliare comercială", "teaser": "Finanțează spații comerciale sau profesionale." }
+  }
+}

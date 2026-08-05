@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Kansencheck — Spark loan",
+    "description": "In enkele vragen een eerlijke lezing van uw dossier: serieuze piste, te versterken of voorlopig niet haalbaar. Een oriëntatie, geen kredietbeslissing."
+  },
+  "intro": {
+    "eyebrow": "Het kenmerkende hulpmiddel",
+    "title": "De Lezing van uw dossier",
+    "subtitle": "Zeven vragen, twee minuten. We vertellen u eerlijk waar uw dossier staat, met de reden en de overblijvende pistes.",
+    "note": "Dit is een oriëntatie, geen kredietbeslissing. Geen score, geen verplichting, geen gegevens gedeeld zonder uw akkoord.",
+    "start": "De Lezing starten"
+  },
+  "ui": {
+    "progress": "Vraag {current} van {total}",
+    "back": "Terug",
+    "next": "Doorgaan",
+    "result": "Mijn Lezing bekijken",
+    "restart": "Opnieuw beginnen",
+    "required": "Kies een antwoord om door te gaan."
+  },
+  "questions": {
+    "project": { "label": "Wat is uw project?" },
+    "employment": { "label": "Wat is uw arbeidssituatie?" },
+    "seniority": { "label": "Hoe lang bevindt u zich in deze situatie?" },
+    "monthlyIncome": { "label": "Uw netto maandinkomen", "help": "Gezinsinkomen, uit alle bronnen." },
+    "monthlyCharges": { "label": "Uw lasten en lopende leningen", "help": "Huur, alimentatie, termijnen van reeds lopende leningen." },
+    "ownership": { "label": "Bent u eigenaar van uw woning?" },
+    "incident": { "label": "Staat er een betalingsachterstand op uw naam?", "help": "Registratie bij een kredietregister." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Herfinanciering",
+      "tresorerie": "Liquiditeit",
+      "immobilier": "Woningaankoop",
+      "travaux": "Verbouwing",
+      "auto": "Voertuig",
+      "consommation": "Aankoop / persoonlijk project",
+      "professionnel": "Zakelijk project"
+    },
+    "employment": {
+      "cdi": "Vast contract",
+      "cdd": "Tijdelijk of uitzendwerk",
+      "independant": "Zelfstandig",
+      "retraite": "Gepensioneerd",
+      "sansEmploi": "Zonder werk"
+    },
+    "seniority": { "moins1an": "Minder dan een jaar", "1a3ans": "1 tot 3 jaar", "plus3ans": "Meer dan 3 jaar" },
+    "ownership": {
+      "proprietaireSansCredit": "Eigenaar, zonder lopende lening",
+      "proprietaireAvecCredit": "Eigenaar, met een lopende lening",
+      "locataire": "Huurder",
+      "heberge": "Inwonend"
+    },
+    "incident": { "oui": "Ja", "non": "Nee", "inconnu": "Weet ik niet" }
+  },
+  "number": { "suffix": "€ / maand" },
+  "states": {
+    "go": { "label": "Serieuze piste", "description": "De verzamelde elementen laten toe een aanvraag te bestuderen." },
+    "work": { "label": "Dossier te versterken", "description": "Eén punt remt vandaag. Het kan opgelost worden." },
+    "stop": { "label": "Voorlopig niet haalbaar", "description": "Financiering is vandaag niet realistisch. Hier is een nuttiger oriëntatie." }
+  },
+  "result": {
+    "title": "Uw Lezing",
+    "reasonLabel": "Wat opvalt",
+    "leversLabel": "Wat het antwoord kan veranderen",
+    "resourceLabel": "Een nuttige hulpbron",
+    "productLabel": "De te verkennen financiering",
+    "productLink": "Deze financiering bekijken",
+    "note": "Deze lezing is een oriëntatie, geen kredietbeslissing. Alleen de beoordeling van uw volledige dossier is bepalend.",
+    "ctaSimulate": "Mijn termijn schatten",
+    "ctaRequest": "Doorgaan naar een aanvraag",
+    "ctaRestart": "De Lezing opnieuw doen"
+  },
+  "reasons": {
+    "insufficientCapacity": "Voorlopig dekt het opgegeven inkomen geen nieuwe termijn zonder uw budget te verzwakken.",
+    "unemployedOwner": "Zonder arbeidsinkomen moet de financiering steunen op de waarde van uw woning.",
+    "unemployedNoAsset": "Zonder arbeidsinkomen en zonder onderpand is geen financiering vandaag realistisch.",
+    "filedWithProperty": "De registratie blokkeert klassiek krediet, maar een herfinanciering gedekt door uw woning kan bestudeerd worden.",
+    "filedNoCollateral": "Een registratie zonder onderpand sluit de toegang tot krediet af zolang ze loopt.",
+    "highDebtRatioOwner": "Uw lasten wegen zwaar, maar uw leningen herfinancieren rond uw woning kan het budget verlichten.",
+    "tightCapacity": "Uw terugbetalingscapaciteit is krap: het dossier houdt stand, mits het versterkt wordt.",
+    "youngIndependant": "Uw activiteit is recent: kredietverstrekkers verwachten doorgaans meer anciënniteit en jaarrekeningen.",
+    "shortContract": "Een kort contract verzwakt het dossier in de ogen van een kredietverstrekker, zonder het onmogelijk te maken.",
+    "shortSeniority": "Uw anciënniteit is nog kort: enkele maanden extra versterken het dossier duidelijk.",
+    "healthyStable": "Stabiele situatie en gezonde terugbetalingscapaciteit: uw dossier vertrekt goed.",
+    "healthyIndependant": "Gevestigde activiteit en gezonde capaciteit: uw zelfstandigendossier vertrekt goed.",
+    "checkFiling": "Uw situatie is gunstig; blijft de twijfel over een mogelijke registratie weg te nemen voor u verder gaat."
+  },
+  "levers": {
+    "consolidate": "Lopende leningen herfinancieren om de totale termijn te verlagen.",
+    "reduceCharges": "Een terugkerende last verminderen voor u uw aanvraag indient.",
+    "addDownPayment": "Eigen middelen inbrengen om het gefinancierde bedrag te verlagen.",
+    "coBorrower": "Een mede-ontlener voorstellen om het inkomen van het dossier te versterken.",
+    "gainSeniority": "Enkele maanden extra anciënniteit opbouwen in uw situatie.",
+    "propertyAppraisal": "Uw woning laten schatten om de beschikbare zekerheid in te schatten.",
+    "provideBilans": "Uw jaarrekeningen verzamelen om de regelmaat van uw inkomen te staven.",
+    "waitDelisting": "Wachten op de schrapping van de registratie, of de regularisatie ervan vragen.",
+    "verifyFiling": "Uw situatie nakijken bij het kredietregister (gratis recht op inzage)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "De bevoegde instantie informeert u gratis over uw registratie en de wegen tot regularisatie.",
+    "debtCounseling": "Een budgetbegeleiding kan helpen de situatie op orde te brengen vóór enig krediet."
+  }
+}

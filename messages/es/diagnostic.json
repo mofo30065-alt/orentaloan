@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Diagnóstico de elegibilidad — Spark loan",
+    "description": "En unas preguntas, una lectura honesta de tu expediente: vía seria, expediente a reforzar o inviable por ahora. Una orientación, no una decisión de crédito."
+  },
+  "intro": {
+    "eyebrow": "La herramienta insignia",
+    "title": "La Lectura de tu expediente",
+    "subtitle": "Siete preguntas, dos minutos. Te decimos con honestidad dónde está tu expediente, con el motivo y las vías que quedan.",
+    "note": "Es una orientación, no una decisión de crédito. Sin puntuación, sin compromiso, sin datos compartidos sin tu acuerdo.",
+    "start": "Empezar la Lectura"
+  },
+  "ui": {
+    "progress": "Pregunta {current} de {total}",
+    "back": "Atrás",
+    "next": "Continuar",
+    "result": "Ver mi Lectura",
+    "restart": "Empezar de nuevo",
+    "required": "Selecciona una respuesta para continuar."
+  },
+  "questions": {
+    "project": { "label": "¿Cuál es tu proyecto?" },
+    "employment": { "label": "¿Cuál es tu situación laboral?" },
+    "seniority": { "label": "¿Cuánto tiempo llevas en esta situación?" },
+    "monthlyIncome": { "label": "Tus ingresos netos mensuales", "help": "Ingresos del hogar, de todas las fuentes." },
+    "monthlyCharges": { "label": "Tus gastos y préstamos en curso", "help": "Alquiler, pensiones, cuotas de préstamos ya en curso." },
+    "ownership": { "label": "¿Eres propietario de tu vivienda?" },
+    "incident": { "label": "¿Hay un impago registrado a tu nombre?", "help": "Inscripción en un fichero de impagos." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Reunificación de deuda",
+      "tresorerie": "Tesorería / liquidez",
+      "immobilier": "Compra de vivienda",
+      "travaux": "Reformas / renovación",
+      "auto": "Vehículo",
+      "consommation": "Compra / proyecto personal",
+      "professionnel": "Proyecto profesional"
+    },
+    "employment": {
+      "cdi": "Contrato indefinido",
+      "cdd": "Temporal o ETT",
+      "independant": "Autónomo",
+      "retraite": "Jubilado",
+      "sansEmploi": "Sin empleo"
+    },
+    "seniority": { "moins1an": "Menos de un año", "1a3ans": "De 1 a 3 años", "plus3ans": "Más de 3 años" },
+    "ownership": {
+      "proprietaireSansCredit": "Propietario, sin préstamo en curso",
+      "proprietaireAvecCredit": "Propietario, con un préstamo en curso",
+      "locataire": "Inquilino",
+      "heberge": "Alojado"
+    },
+    "incident": { "oui": "Sí", "non": "No", "inconnu": "No lo sé" }
+  },
+  "number": { "suffix": "€ / mes" },
+  "states": {
+    "go": { "label": "Vía seria", "description": "Los elementos reunidos permiten estudiar una solicitud." },
+    "work": { "label": "Expediente a reforzar", "description": "Un punto concreto frena hoy. Puede resolverse." },
+    "stop": { "label": "Inviable por ahora", "description": "Una financiación no es realista hoy. Aquí tienes una orientación más útil." }
+  },
+  "result": {
+    "title": "Tu Lectura",
+    "reasonLabel": "Lo que destaca",
+    "leversLabel": "Lo que podría cambiar la respuesta",
+    "resourceLabel": "Un recurso útil",
+    "productLabel": "La financiación a explorar",
+    "productLink": "Ver esta financiación",
+    "note": "Esta lectura es una orientación, no una decisión de crédito. Solo el estudio de tu expediente completo es determinante.",
+    "ctaSimulate": "Estimar mi cuota",
+    "ctaRequest": "Continuar con una solicitud",
+    "ctaRestart": "Rehacer la Lectura"
+  },
+  "reasons": {
+    "insufficientCapacity": "Por ahora, los ingresos declarados no cubren una nueva cuota sin fragilizar tu presupuesto.",
+    "unemployedOwner": "Sin ingresos de actividad, la financiación debe apoyarse en el valor de tu inmueble.",
+    "unemployedNoAsset": "Sin ingresos de actividad ni un bien en garantía, ninguna financiación es realista hoy.",
+    "filedWithProperty": "La inscripción bloquea el crédito clásico, pero una reunificación con garantía sobre tu inmueble puede estudiarse.",
+    "filedNoCollateral": "Una inscripción en un fichero de impagos sin bien en garantía cierra el acceso al crédito mientras esté vigente.",
+    "highDebtRatioOwner": "Tus gastos pesan mucho, pero reunificar tus préstamos en torno a tu inmueble puede aliviar el presupuesto.",
+    "tightCapacity": "Tu capacidad de reembolso es ajustada: el expediente se sostiene, siempre que se refuerce.",
+    "youngIndependant": "Tu actividad es reciente: los prestamistas suelen exigir más antigüedad y cuentas.",
+    "shortContract": "Un contrato corto fragiliza el expediente a ojos de un prestamista, sin hacerlo imposible.",
+    "shortSeniority": "Tu antigüedad aún es corta: unos meses más reforzarán claramente el expediente.",
+    "healthyStable": "Situación estable y capacidad de reembolso sana: tu expediente parte con buen pie.",
+    "healthyIndependant": "Actividad consolidada y capacidad sana: tu expediente de autónomo parte con buen pie.",
+    "checkFiling": "Tu situación es favorable; queda despejar la duda sobre una posible inscripción antes de avanzar."
+  },
+  "levers": {
+    "consolidate": "Reunificar tus préstamos en curso para reducir la cuota global.",
+    "reduceCharges": "Aligerar un gasto recurrente antes de presentar tu solicitud.",
+    "addDownPayment": "Aportar una cantidad propia para reducir el importe financiado.",
+    "coBorrower": "Presentar un coprestatario para reforzar los ingresos del expediente.",
+    "gainSeniority": "Ganar unos meses más de antigüedad en tu situación.",
+    "propertyAppraisal": "Tasar tu inmueble para evaluar la garantía disponible.",
+    "provideBilans": "Reunir tus cuentas para justificar la regularidad de tus ingresos.",
+    "waitDelisting": "Esperar la baja de la inscripción, o solicitar su regularización.",
+    "verifyFiling": "Comprobar tu situación en el fichero correspondiente (derecho de acceso gratuito)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "El organismo competente informa gratuitamente sobre tu inscripción y las vías de regularización.",
+    "debtCounseling": "Un servicio de asesoramiento presupuestario puede ayudarte a sanear la situación antes de cualquier crédito."
+  }
+}

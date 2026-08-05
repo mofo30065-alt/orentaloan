@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Cifre indicative, non contrattuali e salvo approvazione della pratica."
+  },
+  "infobox": {
+    "title": "Esempio rappresentativo",
+    "amount": "Importo finanziato",
+    "duration": "Durata",
+    "rate": "Tasso debitore fisso",
+    "apr": "TAEG fisso",
+    "monthly": "Rata mensile",
+    "totalCost": "Costo totale del credito",
+    "totalDue": "Importo totale dovuto",
+    "example": {
+      "amount": "15.000 €",
+      "duration": "48 mesi",
+      "rate": "6,90%",
+      "apr": "7,12%",
+      "monthly": "358,50 €",
+      "totalCost": "2.207,87 €",
+      "totalDue": "17.207,87 €"
+    },
+    "note": "Esempio rappresentativo, esclusa assicurazione facoltativa. Un credito ti impegna e va rimborsato. Verifica la tua capacità di rimborso prima di impegnarti."
+  },
+  "labels": {
+    "editor": "Titolare del sito",
+    "legalForm": "Forma giuridica",
+    "capital": "Capitale sociale",
+    "registration": "Iscrizione registro",
+    "regulator": "Autorità di vigilanza",
+    "regulatoryNumber": "Numero di licenza",
+    "vat": "Partita IVA",
+    "director": "Direttore della pubblicazione",
+    "host": "Provider di hosting",
+    "mediator": "Organismo di mediazione",
+    "dpo": "Responsabile protezione dati"
+  },
+  "coolingOff": {
+    "title": "Diritto di recesso",
+    "body": "Hai {days} giorni di calendario per recedere dopo la firma dell'offerta, senza doverti giustificare né subire penali."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Note legali — Spark loan",
+      "description": "Titolare, hosting, autorità di vigilanza e mediazione."
+    },
+    "title": "Note legali",
+    "intro": "Informazioni sul titolare di questo sito e sul suo quadro normativo."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Informativa sulla privacy — Spark loan",
+      "description": "Quali dati trattiamo, perché, per quanto tempo e i tuoi diritti."
+    },
+    "title": "Informativa sulla privacy",
+    "intro": "I tuoi dati sulla situazione finanziaria sono sensibili. Ecco, senza giri di parole, cosa ne facciamo.",
+    "sections": [
+      {
+        "heading": "Dati raccolti",
+        "body": "Identità e recapiti, situazione familiare, lavorativa e finanziaria che fornisci, e dati tecnici di navigazione strettamente necessari al funzionamento del sito."
+      },
+      {
+        "heading": "Finalità",
+        "body": "Analizzare la tua richiesta di finanziamento, contattarti, rispettare gli obblighi di legge e prevenire le frodi. Nessun dato viene venduto."
+      },
+      {
+        "heading": "Base giuridica",
+        "body": "Il tuo consenso all'analisi della richiesta, l'esecuzione di misure precontrattuali e i nostri obblighi di legge come istituto di credito."
+      },
+      {
+        "heading": "Destinatari",
+        "body": "Solo le persone incaricate della tua pratica vi accedono, insieme ai responsabili strettamente necessari, vincolati alla riservatezza."
+      },
+      {
+        "heading": "Conservazione",
+        "body": "I tuoi dati sono conservati per l'analisi e poi secondo i termini di legge applicabili, prima della cancellazione o anonimizzazione."
+      },
+      {
+        "heading": "Trattamento nel browser",
+        "body": "Finché non invii la richiesta, le tue risposte restano sul tuo dispositivo e non ci vengono trasmesse."
+      }
+    ],
+    "rightsTitle": "I tuoi diritti",
+    "rights": [
+      "Accesso, rettifica e cancellazione dei tuoi dati",
+      "Limitazione e opposizione al trattamento",
+      "Portabilità dei tuoi dati",
+      "Revoca del consenso in qualsiasi momento",
+      "Reclamo all'autorità di protezione dei dati"
+    ],
+    "dpoIntro": "Per esercitare i tuoi diritti, contatta il nostro responsabile della protezione dei dati:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Condizioni d'uso — Spark loan",
+      "description": "Regole di utilizzo del sito."
+    },
+    "title": "Condizioni d'uso",
+    "intro": "Queste condizioni regolano l'uso del sito. Non costituiscono un'offerta di credito.",
+    "placeholder": "L'accesso al sito è gratuito. Utilizzandolo, accetti queste condizioni. I contenuti (testi, marchi, illustrazioni) appartengono a Spark Finance e non possono essere riprodotti senza autorizzazione. Le simulazioni e i prediagnostici sono indicativi e non vincolano il finanziatore. Si applica la legge italiana."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Politica sui cookie — Spark loan",
+      "description": "Quali cookie usiamo e come gestirli."
+    },
+    "title": "Politica sui cookie",
+    "intro": "Nessun tracciatore viene installato senza il tuo consenso. Puoi cambiare la tua scelta in qualsiasi momento.",
+    "necessaryTitle": "Cookie strettamente necessari",
+    "necessaryBody": "Indispensabili al funzionamento del sito (preferenza di lingua, memoria della scelta sui cookie). Non richiedono consenso.",
+    "optionalTitle": "Cookie di misurazione e comfort",
+    "optionalBody": "Installati solo dopo la tua accettazione. Ci aiutano a migliorare il sito senza mai identificarti a fini pubblicitari.",
+    "manageTitle": "Gestisci la mia scelta",
+    "manageBody": "Cancella il cookie di consenso dal browser perché il banner riappaia, poi scegli di nuovo."
+  }
+}

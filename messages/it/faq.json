@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Domande frequenti — Spark loan",
+    "description": "Idoneità, tassi, sicurezza, tempi: risposte chiare, senza promesse."
+  },
+  "title": "Domande frequenti",
+  "intro": "Risposte chiare alle domande più frequenti, senza giri di parole e senza promesse.",
+  "searchLabel": "Cerca una domanda",
+  "searchPlaceholder": "Cerca una domanda…",
+  "empty": "Nessuna domanda corrisponde alla tua ricerca.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Idoneità",
+      "items": [
+        {
+          "q": "Posso ottenere un prestito se sono segnalato?",
+          "a": "Il credito classico concesso su punteggio verrà rifiutato, ma un finanziamento con garanzia può essere studiato. La verifica ti dice onestamente dove ti trovi."
+        },
+        {
+          "q": "Accettate autonomi senza tre bilanci?",
+          "a": "Sì, a condizioni: un'attività consolidata e movimenti regolari possono compensare."
+        },
+        {
+          "q": "Un contratto a termine o interinale è eliminatorio?",
+          "a": "No. Un contratto breve indebolisce la pratica ma non la rende impossibile, soprattutto con anzianità nello stesso settore o un co-intestatario."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Tassi e costi",
+      "items": [
+        {
+          "q": "Il TAEG è garantito in anticipo?",
+          "a": "No. I tassi mostrati sono indicativi. Il TAEG definitivo è indicato nell'offerta contrattuale, dopo l'analisi."
+        },
+        {
+          "q": "Perché il TAEG è più alto del tasso mostrato?",
+          "a": "Il TAEG è un tasso effettivo che include spese ed eventuale assicurazione: è normale che sia superiore al solo tasso debitore."
+        },
+        {
+          "q": "Ci sono spese di istruttoria?",
+          "a": "Dipende dal prodotto. Le eventuali spese sono indicate chiaramente nell'offerta, prima della firma."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Sicurezza e dati",
+      "items": [
+        {
+          "q": "Cosa fate dei miei dati?",
+          "a": "Servono solo ad analizzare la richiesta e sono consultati solo dalle persone incaricate, secondo l'informativa sulla privacy."
+        },
+        {
+          "q": "Le mie risposte al simulatore vengono inviate?",
+          "a": "No. Finché non invii una richiesta, le tue risposte restano sul tuo dispositivo."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Percorso e tempi",
+      "items": [
+        {
+          "q": "Quanto dura l'analisi?",
+          "a": "Viene annunciato un tempo di analisi chiaro e lo rispettiamo. Nessuna urgenza artificiale, nessun conto alla rovescia."
+        },
+        {
+          "q": "La verifica è un'approvazione di credito?",
+          "a": "No. È un orientamento onesto, senza impegno né punteggio mostrato: non è una decisione di credito."
+        },
+        {
+          "q": "Posso riprendere la richiesta più tardi?",
+          "a": "Sì. Le tue risposte sono salvate sul dispositivo mentre completi, e cancellate all'invio."
+        }
+      ]
+    }
+  ]
+}

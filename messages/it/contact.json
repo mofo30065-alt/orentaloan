@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contatti — Spark loan",
+    "description": "Contattaci per telefono, email o in filiale. Prenotazione appuntamento online."
+  },
+  "title": "Contatti",
+  "intro": "Una domanda sulla tua pratica? Scrivici o chiamaci. Una persona, non uno sportello.",
+  "form": {
+    "title": "Scrivici",
+    "name": "Nome",
+    "email": "Indirizzo email",
+    "subject": "Oggetto (facoltativo)",
+    "message": "Il tuo messaggio",
+    "submit": "Invia messaggio",
+    "sending": "Invio in corso…",
+    "success": "Messaggio inviato. Ti risponderemo rapidamente.",
+    "error": "L'invio non è riuscito. Controlla la connessione e riprova."
+  },
+  "errors": {
+    "required": "Questo campo è obbligatorio.",
+    "email": "Indica un indirizzo email valido.",
+    "message": "Il messaggio deve contenere almeno 10 caratteri."
+  },
+  "info": {
+    "title": "Contatti",
+    "phone": "Telefono",
+    "email": "Email",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Orari",
+    "agenciesTitle": "Le nostre filiali",
+    "bookingTitle": "Prenota un appuntamento",
+    "bookingBody": "Scegli un orario con un consulente, in filiale o al telefono.",
+    "bookingCta": "Prenota"
+  }
+}

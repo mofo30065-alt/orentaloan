@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Nuestra financiación — Spark loan",
+    "description": "14 tipos de financiación evaluados sobre tu situación real. Los préstamos con garantía siguen siendo accesibles tras un rechazo bancario."
+  },
+  "index": {
+    "eyebrow": "Nuestra financiación",
+    "title": "Una financiación para cada situación",
+    "intro": "Destacamos los préstamos respaldados por una garantía o un activo: siguen siendo accesibles cuando la puntuación bloquea. La financiación clásica viene después.",
+    "featuredTitle": "A priorizar tras un rechazo",
+    "classicTitle": "Financiación clásica"
+  },
+  "common": {
+    "amounts": "Importes",
+    "duration": "Plazos",
+    "range": "de {min} a {max}",
+    "monthsRange": "de {min} a {max} meses",
+    "rateTableTitle": "Tipos indicativos por plazo",
+    "rateDuration": "Plazo",
+    "rateFixed": "Tipo fijo",
+    "rateVariable": "Tipo variable",
+    "rateNote": "Tipos indicativos, no contractuales, sujetos a cambios y al estudio de tu expediente.",
+    "eligibilityTitle": "Condiciones de elegibilidad",
+    "eligibleTitle": "Accesible si…",
+    "notEligibleTitle": "No adecuado si…",
+    "documentsTitle": "Documentos a aportar",
+    "faqTitle": "Preguntas frecuentes",
+    "casesTitle": "Caso práctico",
+    "simulatorTitle": "Estimar esta financiación",
+    "representativeTitle": "Ejemplo representativo",
+    "ctaSimulate": "Simular esta financiación",
+    "ctaDiagnostic": "Comprobar mi elegibilidad",
+    "ctaRequest": "Solicitar",
+    "ctaFinalTitle": "Estudiamos tu expediente, no tu puntuación.",
+    "models": {
+      "revolving": "El crédito revolving no se amortiza como un préstamo clásico: su coste depende de tu uso y de la rapidez del reembolso. Usa el simulador general con prudencia o habla con un asesor.",
+      "leasing": "Con el renting pagas cuotas y, opcionalmente, un valor residual. El cálculo depende del bien y de su valor de recompra; un asesor fija una cuota precisa.",
+      "bridge": "El préstamo puente se reembolsa al vender tu inmueble. Su coste depende del plazo real hasta la venta y del importe anticipado.",
+      "factoring": "El factoring no es un préstamo: cedes facturas a cambio de un anticipo, con una comisión. El coste depende de tu volumen y de tus plazos de cobro."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Reunificación de deuda", "teaser": "Reúne tus préstamos en una sola cuota, con garantía sobre tu inmueble si es necesario." },
+    "pret-travaux": { "name": "Préstamo para reformas", "teaser": "Financia una renovación, incluidas las obras de eficiencia energética." },
+    "pret-tresorerie": { "name": "Préstamo de tesorería", "teaser": "Supera un bache de tesorería para tu actividad, sin inmovilizar tus fondos." },
+    "loa": { "name": "Renting / leasing", "teaser": "Usa un vehículo o un equipo sin comprarlo de inmediato." },
+    "affacturage": { "name": "Factoring", "teaser": "Convierte tus facturas de clientes en liquidez inmediata." },
+    "pret-relais": { "name": "Préstamo puente", "teaser": "Compra antes de haber vendido, durante la transición." },
+    "pret-immobilier": { "name": "Préstamo hipotecario", "teaser": "Financia la compra de una vivienda evaluada sobre tu situación real." },
+    "credit-consommation": { "name": "Crédito al consumo", "teaser": "Financia un proyecto personal, un equipo o un imprevisto." },
+    "pret-auto": { "name": "Préstamo de coche", "teaser": "Compra un vehículo nuevo o de ocasión, con una cuota clara." },
+    "credit-renouvelable": { "name": "Crédito revolving", "teaser": "Una reserva de dinero flexible, a usar con mesura." },
+    "pret-etudiant": { "name": "Préstamo estudiantil", "teaser": "Financia estudios y su coste de vida." },
+    "financement-equipement": { "name": "Financiación de equipos", "teaser": "Financia maquinaria, material o vehículos profesionales." },
+    "pret-creation-reprise": { "name": "Préstamo de creación / adquisición", "teaser": "Financia el lanzamiento o la compra de una actividad." },
+    "immobilier-professionnel": { "name": "Inmueble profesional", "teaser": "Financia locales comerciales o profesionales." }
+  }
+}

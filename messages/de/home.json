@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "title": "Spark loan — ein Kredit, geprüft auf Ihre tatsächliche Lage",
+    "description": "Spezialisierter Kreditgeber für Unterlagen, die Filialbanken ablehnen. Prüfung auf echte Fakten, Fall für Fall."
+  },
+  "hero": {
+    "eyebrow": "Spezialisierter Kreditgeber",
+    "title": "Ein Kredit, geprüft auf Ihre <mark>tatsächliche Lage</mark>, nicht auf einen Score.",
+    "subtitle": "Wir prüfen Unterlagen, die Filialbanken oft ablehnen. Jede Entscheidung beruht auf konkreten Fakten, Fall für Fall — ohne Zusage auf Bewilligung.",
+    "ctaPrimary": "Meine Eignung prüfen",
+    "ctaSecondary": "Rate schätzen"
+  },
+  "situation": {
+    "eyebrow": "Ihre Lage",
+    "title": "Für wen diese Finanzierung ist",
+    "intro": "Diese Profile werden anderswo oft abgelehnt. Hier werden sie geprüft — nach echten Sicherheiten und Einkünften.",
+    "items": [
+      "Negativeintrag bei einer Kreditauskunftei",
+      "Umschuldung mit Grundschuld",
+      "Selbstständig ohne drei Jahresabschlüsse",
+      "Kurze Verträge: befristet, Zeitarbeit",
+      "Senior, berufstätig oder in Rente",
+      "Angespannte Unternehmensliquidität"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Unsere Finanzierung",
+    "title": "Wir beginnen mit dem, was auf einer Sicherheit beruht.",
+    "intro": "Durch einen Vermögenswert besicherte Finanzierung bleibt erreichbar, wenn der Score blockiert. Klassische Kredite folgen.",
+    "alsoTitle": "Ebenfalls verfügbar",
+    "allLink": "Alle Finanzierungen ansehen"
+  },
+  "advantages": {
+    "eyebrow": "Wie wir arbeiten",
+    "title": "Was sich konkret ändert",
+    "items": [
+      {
+        "title": "Eine Entscheidung zu Ihrer Lage",
+        "desc": "Wir lesen Ihre echten Unterlagen — Einkommen, Sicherheiten, Historie — statt eines automatischen Scores."
+      },
+      {
+        "title": "Ein Ansprechpartner, kein Schalter",
+        "desc": "Eine Person begleitet Ihre Unterlagen und erklärt jedes Kriterium, ohne Fachjargon."
+      },
+      {
+        "title": "Eine Antwort in klarer Frist",
+        "desc": "Wir nennen eine Prüffrist und halten sie ein. Keine künstliche Dringlichkeit."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "So funktioniert es",
+    "title": "Fünf Schritte, in dieser Reihenfolge",
+    "items": [
+      {
+        "title": "Die Eignungsprüfung",
+        "desc": "Sieben Fragen, um ehrlich zu wissen, wo Ihre Unterlagen stehen."
+      },
+      {
+        "title": "Die Simulation",
+        "desc": "Sie schätzen eine Rate und Gesamtkosten, in Echtzeit."
+      },
+      {
+        "title": "Der Antrag",
+        "desc": "Sie füllen die Unterlagen in fünf Schritten aus, in Ihrem Tempo."
+      },
+      {
+        "title": "Die Prüfung",
+        "desc": "Ein Ansprechpartner prüft Ihre tatsächliche Lage und Ihre Nachweise."
+      },
+      {
+        "title": "Die Entscheidung",
+        "desc": "Sie erhalten eine begründete Antwort und gegebenenfalls das Angebot."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Das Signatur-Werkzeug",
+    "title": "Die Lesung Ihrer Unterlagen",
+    "intro": "Ein paar Fragen, und wir sagen Ihnen ehrlich, wo Ihre Unterlagen stehen — mit dem Grund und dem, was die Antwort ändern könnte.",
+    "states": {
+      "go": {
+        "label": "Ernsthafte Aussicht",
+        "desc": "Die vorliegenden Elemente erlauben die Prüfung eines Antrags."
+      },
+      "work": {
+        "label": "Unterlagen zu stärken",
+        "desc": "Ein konkreter Punkt bremst heute. So lässt er sich lösen."
+      },
+      "stop": {
+        "label": "Derzeit nicht machbar",
+        "desc": "Wir verweisen Sie auf eine nützlichere Anlaufstelle als einen chancenlosen Antrag."
+      }
+    },
+    "note": "Eine Orientierung, keine Kreditentscheidung. Kein Score, keine Verpflichtung.",
+    "cta": "Meine Lesung starten"
+  },
+  "testimonials": {
+    "eyebrow": "Sie kennen das",
+    "title": "Unterlagen wieder ernst genommen",
+    "items": [
+      {
+        "quote": "Zweimal in der Filiale abgelehnt wegen befristetem Vertrag. Hier hat man meine drei Jahre Zeitarbeit in derselben Branche angeschaut.",
+        "name": "Karim B.",
+        "role": "Zeitarbeit, Umschuldung",
+        "rating": 5
+      },
+      {
+        "quote": "Seit achtzehn Monaten selbstständig, ohne die üblichen drei Abschlüsse. Der Kredit wurde durch meine Wohnung besichert.",
+        "name": "Léa M.",
+        "role": "Selbstständig, Immobilienkredit",
+        "rating": 5
+      },
+      {
+        "quote": "Man hat mir klar gesagt, was blockiert und was vorzubereiten ist. Drei Monate später neu beantragt — hat geklappt.",
+        "name": "Daniel R.",
+        "role": "Senior, Modernisierungskredit",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "In Zahlen",
+    "title": "Anhaltspunkte, keine Versprechen",
+    "note": "Richtwerte, unverbindlich, Änderungen vorbehalten.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "genannte Prüffrist"
+      },
+      {
+        "value": "7",
+        "label": "Fragen für eine Eignungsprüfung"
+      },
+      {
+        "value": "10",
+        "label": "Märkte in der Eurozone"
+      },
+      {
+        "value": "14",
+        "label": "geprüfte Finanzierungsarten"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Unsere Legitimität",
+    "title": "Überprüfbar, nicht dekorativ",
+    "intro": "In diesem Markt ist Transparenz das Argument. So können Sie uns überprüfen.",
+    "items": [
+      "Zugelassen durch die BaFin (BaFin-ID 100123456)",
+      "Angeschlossen an den Ombudsmann der privaten Banken",
+      "Filiale in Berlin, Friedrichstraße 68, 10117"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Transparenz sichtbar gemacht",
+    "title": "Ein Rechenbeispiel, ohne verstecktes Sternchen",
+    "intro": "Jede Simulation zeigt ein vollständiges repräsentatives Beispiel, ohne verstecktes Sternchen."
+  },
+  "blog": {
+    "eyebrow": "Unser Ratgeber",
+    "title": "Verstehen, bevor Sie sich binden",
+    "allLink": "Alle Ratgeber",
+    "items": [
+      {
+        "slug": "comprendre-inscription-ficp",
+        "category": "Negativeintrag",
+        "readingTime": "6 Min.",
+        "title": "Negativeintrag: Was das für einen Kredit wirklich ändert"
+      },
+      {
+        "slug": "rachat-credit-hypothecaire-guide",
+        "category": "Umschuldung",
+        "readingTime": "8 Min.",
+        "title": "Umschuldung mit Grundschuld: wenn Ihre Immobilie zur Lösung wird"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Beginnen Sie damit, zu wissen, wo Ihre Unterlagen stehen.",
+    "cta": "Meine Lesung starten"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Loan simulator — Spark loan",
+    "description": "Estimate your monthly payment, total cost and indicative APR. Indicative figures, non-binding, subject to acceptance."
+  },
+  "title": "Loan simulator",
+  "subtitle": "Adjust the parameters: everything recalculates in real time. Amounts are indicative.",
+  "fields": {
+    "amount": { "label": "Loan amount", "help": "The capital you wish to borrow." },
+    "duration": {
+      "label": "Repayment term",
+      "help": "A longer term lowers the monthly payment but raises the total cost."
+    },
+    "rate": { "label": "Fixed borrowing rate", "help": "Indicative annual nominal rate for the estimate." },
+    "downPayment": { "label": "Down payment (optional)", "help": "A down payment reduces the financed amount." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# month} other {# months}}",
+    "years": "{count, plural, one {# year} other {# years}}"
+  },
+  "results": {
+    "heading": "Your estimate",
+    "monthly": "Monthly payment",
+    "monthlyAria": "Estimated monthly payment: {value}",
+    "totalInterest": "Total interest",
+    "totalCost": "Total cost of credit",
+    "apr": "Indicative APR",
+    "financed": "Financed amount"
+  },
+  "chart": {
+    "title": "Capital / interest split",
+    "principal": "Capital",
+    "interest": "Interest"
+  },
+  "table": {
+    "show": "Show the amortization schedule",
+    "hide": "Hide the amortization schedule",
+    "caption": "Amortization schedule, instalment by instalment",
+    "period": "Instalment",
+    "payment": "Payment",
+    "principal": "Capital",
+    "interest": "Interest",
+    "balance": "Remaining"
+  },
+  "actions": {
+    "email": "Get my simulation by email",
+    "emailPlaceholder": "Your email address",
+    "emailSubmit": "Send",
+    "emailSuccess": "Simulation sent. Check your inbox.",
+    "emailNote": "We use your email only to send you this simulation.",
+    "continue": "Continue to an application"
+  },
+  "disclaimer": "Indicative, non-binding estimate, excluding insurance and any fees, subject to review and acceptance of your file. The final APR will appear on your contract offer."
+}

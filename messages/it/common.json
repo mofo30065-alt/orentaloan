@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Istituto di credito specializzato"
+  },
+  "skipToContent": "Vai al contenuto",
+  "nav": {
+    "home": "Home",
+    "credits": "Prestiti",
+    "simulator": "Simulatore",
+    "diagnostic": "Verifica idoneità",
+    "blog": "Consigli",
+    "contact": "Contatti"
+  },
+  "cta": {
+    "simulate": "Simula il mio prestito",
+    "diagnostic": "Verifica la mia idoneità",
+    "simulateShort": "Stima una rata"
+  },
+  "phone": {
+    "label": "Chiamaci",
+    "display": "+39 02 0000000",
+    "number": "+39020000000"
+  },
+  "trust": {
+    "licensed": "Autorizzata {agrement}",
+    "licensedPlaceholder": "Banca d'Italia n. 19123",
+    "address": "Indirizzo reale e raggiungibile"
+  },
+  "localeSwitcher": {
+    "label": "Lingua",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookie",
+    "message": "Non usiamo alcun tracciatore senza il tuo consenso. Accettare o rifiutare è ugualmente semplice.",
+    "link": "Scopri di più",
+    "accept": "Accetta tutto",
+    "refuse": "Rifiuta tutto"
+  },
+  "footer": {
+    "tagline": "Studiamo le pratiche che altri rifiutano, su fatti reali.",
+    "colProducts": "Finanziamenti",
+    "colCompany": "L'azienda",
+    "colLegal": "Note legali",
+    "colContact": "Contatti",
+    "legal": {
+      "mentions": "Note legali",
+      "privacy": "Privacy",
+      "cookies": "Cookie",
+      "terms": "Condizioni d'uso",
+      "faq": "Domande frequenti"
+    },
+    "company": {
+      "about": "Chi siamo",
+      "commitments": "I nostri impegni",
+      "blog": "Consigli"
+    },
+    "newsletter": {
+      "title": "Ricevi i nostri riferimenti",
+      "help": "Criteri concreti sul credito, senza vendite aggressive.",
+      "placeholder": "Il tuo indirizzo email",
+      "action": "Iscrivimi"
+    },
+    "rights": "© {year} {brand}. Tutti i diritti riservati.",
+    "publisher": "Spark Finance Italia S.p.A. con capitale di 3.000.000 € — P.IVA 12345670960 — Corso Buenos Aires 15, 20124 Milano"
+  }
+}

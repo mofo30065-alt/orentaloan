@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Depune cererea — Spark loan",
+    "description": "Depune cererea de finanțare în cinci pași. Datele tale rămân pe dispozitiv până când trimiți."
+  },
+  "title": "Cererea ta de finanțare",
+  "subtitle": "Cinci pași scurți. Poți reveni oricând.",
+  "savedNote": "Răspunsurile tale sunt salvate pe acest dispozitiv cât timp finalizezi. Nimic nu este trimis înainte de validarea ta.",
+  "clearSaved": "Șterge și începe din nou",
+  "progress": "Pasul {current} din {total}",
+  "steps": {
+    "project": "Proiect",
+    "personal": "Situație personală",
+    "professional": "Situație profesională",
+    "contact": "Date de contact",
+    "summary": "Rezumat"
+  },
+  "fields": {
+    "projectType": "Tip de proiect",
+    "amount": "Sumă dorită (€)",
+    "durationMonths": "Durată dorită (luni)",
+    "maritalStatus": "Situație familială",
+    "dependents": "Persoane în întreținere",
+    "housingStatus": "Locuință",
+    "monthlyIncome": "Venit lunar net (€)",
+    "monthlyCharges": "Cheltuieli și credite lunare (€)",
+    "employmentStatus": "Situație profesională",
+    "seniority": "Vechime în această situație",
+    "profession": "Profesie (opțional)",
+    "incident": "Incident de plată înregistrat",
+    "firstName": "Prenume",
+    "lastName": "Nume",
+    "email": "Adresă de e-mail",
+    "phone": "Telefon",
+    "postalCode": "Cod poștal",
+    "city": "Oraș",
+    "select": "Selectează…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Refinanțare",
+      "tresorerie": "Trezorerie",
+      "immobilier": "Achiziție imobiliară",
+      "travaux": "Renovare",
+      "auto": "Vehicul",
+      "consommation": "Proiect personal",
+      "professionnel": "Proiect profesional"
+    },
+    "maritalStatus": {
+      "celibataire": "Necăsătorit(ă)",
+      "marie": "Căsătorit(ă)",
+      "pacse": "Parteneriat civil",
+      "divorce": "Divorțat(ă)",
+      "veuf": "Văduv(ă)"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Proprietar, fără credit în curs",
+      "proprietaireAvecCredit": "Proprietar, cu un credit în curs",
+      "locataire": "Chiriaș",
+      "heberge": "Găzduit"
+    },
+    "employmentStatus": {
+      "cdi": "Contract pe durată nedeterminată",
+      "cdd": "Pe durată determinată sau temporar",
+      "independant": "Independent",
+      "retraite": "Pensionar",
+      "sansEmploi": "Fără loc de muncă"
+    },
+    "seniority": {
+      "moins1an": "Mai puțin de un an",
+      "1a3ans": "1 până la 3 ani",
+      "plus3ans": "Peste 3 ani"
+    },
+    "incident": {
+      "oui": "Da",
+      "non": "Nu",
+      "inconnu": "Nu știu"
+    }
+  },
+  "errors": {
+    "required": "Acest câmp este obligatoriu.",
+    "amountMin": "Suma trebuie să fie de cel puțin {min} €.",
+    "amountMax": "Suma nu poate depăși {max} €.",
+    "durationMin": "Durata trebuie să fie de cel puțin {min} luni.",
+    "durationMax": "Durata nu poate depăși {max} luni.",
+    "positive": "Indică o sumă pozitivă sau zero.",
+    "name": "Indică cel puțin 2 caractere.",
+    "email": "Indică o adresă de e-mail validă.",
+    "phone": "Indică un număr de telefon valid.",
+    "postalCode": "Indică un cod poștal valid.",
+    "consent": "Consimțământul tău este necesar pentru analiza cererii."
+  },
+  "summary": {
+    "title": "Verifică datele tale",
+    "edit": "Editează"
+  },
+  "consent": {
+    "label": "Autorizez analiza cererii mele pe baza acestor informații. Datele mele privind situația financiară sunt sensibile și sunt consultate doar de persoanele responsabile de analiză, conform politicii de confidențialitate."
+  },
+  "actions": {
+    "back": "Înapoi",
+    "next": "Continuă",
+    "submit": "Trimite cererea",
+    "sending": "Se trimite…"
+  },
+  "submitError": "Trimiterea a eșuat. Verifică conexiunea și încearcă din nou.",
+  "confirmation": {
+    "meta": {
+      "title": "Cerere trimisă — Spark loan",
+      "description": "Cererea ta de finanțare este înregistrată. Un interlocutor îți analizează dosarul."
+    },
+    "title": "Cererea ta este înregistrată",
+    "body": "Un interlocutor îți analizează dosarul și te contactează în termenul anunțat. Tocmai ți-a fost trimis un e-mail de confirmare.",
+    "referenceLabel": "Referința ta",
+    "whatNextTitle": "Ce urmează",
+    "whatNext": [
+      "Verificăm elementele dosarului tău.",
+      "Un interlocutor te contactează pentru analiză.",
+      "Primiți un răspuns motivat în termenul anunțat."
+    ],
+    "ctaHome": "Înapoi la pagina principală"
+  }
+}

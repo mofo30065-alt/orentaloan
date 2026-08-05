@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Entidad de crédito especializada"
+  },
+  "skipToContent": "Ir al contenido",
+  "nav": {
+    "home": "Inicio",
+    "credits": "Préstamos",
+    "simulator": "Simulador",
+    "diagnostic": "Comprobar elegibilidad",
+    "blog": "Consejos",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "simulate": "Simular mi préstamo",
+    "diagnostic": "Comprobar mi elegibilidad",
+    "simulateShort": "Estimar una cuota"
+  },
+  "phone": {
+    "label": "Llámanos",
+    "display": "+34 900 000 000",
+    "number": "+34900000000"
+  },
+  "trust": {
+    "licensed": "Autorizada {agrement}",
+    "licensedPlaceholder": "Banco de España n.º 8123",
+    "address": "Dirección real y localizable"
+  },
+  "localeSwitcher": {
+    "label": "Idioma",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "No usamos ningún rastreador sin tu consentimiento. Aceptar o rechazar es igual de sencillo.",
+    "link": "Más información",
+    "accept": "Aceptar todo",
+    "refuse": "Rechazar todo"
+  },
+  "footer": {
+    "tagline": "Estudiamos los expedientes que otros rechazan, sobre hechos reales.",
+    "colProducts": "Financiación",
+    "colCompany": "La empresa",
+    "colLegal": "Legal",
+    "colContact": "Contacto",
+    "legal": {
+      "mentions": "Aviso legal",
+      "privacy": "Privacidad",
+      "cookies": "Cookies",
+      "terms": "Condiciones de uso",
+      "faq": "Preguntas frecuentes"
+    },
+    "company": {
+      "about": "Quiénes somos",
+      "commitments": "Nuestros compromisos",
+      "blog": "Consejos"
+    },
+    "newsletter": {
+      "title": "Recibe nuestras claves",
+      "help": "Criterios concretos sobre el crédito, sin venta agresiva.",
+      "placeholder": "Tu correo electrónico",
+      "action": "Suscribirme"
+    },
+    "rights": "© {year} {brand}. Todos los derechos reservados.",
+    "publisher": "Spark Finance España S.A. con capital de 3.000.000 € — CIF A-87654321 — Calle de Alcalá 45, 28014 Madrid"
+  }
+}

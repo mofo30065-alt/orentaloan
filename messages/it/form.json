@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Richiedi — Spark loan",
+    "description": "Presenta la tua richiesta di finanziamento in cinque passi. I tuoi dati restano sul tuo dispositivo finché non invii."
+  },
+  "title": "La tua richiesta di finanziamento",
+  "subtitle": "Cinque passi brevi. Puoi tornare indietro in qualsiasi momento.",
+  "savedNote": "Le tue risposte sono salvate su questo dispositivo mentre completi. Nulla viene inviato prima della tua conferma.",
+  "clearSaved": "Cancella e ricomincia",
+  "progress": "Passo {current} di {total}",
+  "steps": {
+    "project": "Progetto",
+    "personal": "Situazione personale",
+    "professional": "Situazione lavorativa",
+    "contact": "Recapiti",
+    "summary": "Riepilogo"
+  },
+  "fields": {
+    "projectType": "Tipo di progetto",
+    "amount": "Importo desiderato (€)",
+    "durationMonths": "Durata desiderata (mesi)",
+    "maritalStatus": "Stato civile",
+    "dependents": "Persone a carico",
+    "housingStatus": "Abitazione",
+    "monthlyIncome": "Reddito netto mensile (€)",
+    "monthlyCharges": "Spese e prestiti mensili (€)",
+    "employmentStatus": "Situazione lavorativa",
+    "seniority": "Anzianità in questa situazione",
+    "profession": "Professione (facoltativo)",
+    "incident": "Mancato pagamento segnalato",
+    "firstName": "Nome",
+    "lastName": "Cognome",
+    "email": "Indirizzo email",
+    "phone": "Telefono",
+    "postalCode": "CAP",
+    "city": "Città",
+    "select": "Seleziona…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Consolidamento debiti",
+      "tresorerie": "Liquidità",
+      "immobilier": "Acquisto casa",
+      "travaux": "Ristrutturazione",
+      "auto": "Veicolo",
+      "consommation": "Progetto personale",
+      "professionnel": "Progetto professionale"
+    },
+    "maritalStatus": {
+      "celibataire": "Celibe/Nubile",
+      "marie": "Sposato/a",
+      "pacse": "Unione civile",
+      "divorce": "Divorziato/a",
+      "veuf": "Vedovo/a"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Proprietario, senza prestiti in corso",
+      "proprietaireAvecCredit": "Proprietario, con un prestito in corso",
+      "locataire": "In affitto",
+      "heberge": "Ospitato"
+    },
+    "employmentStatus": {
+      "cdi": "Tempo indeterminato",
+      "cdd": "Tempo determinato o interinale",
+      "independant": "Autonomo",
+      "retraite": "In pensione",
+      "sansEmploi": "Senza impiego"
+    },
+    "seniority": {
+      "moins1an": "Meno di un anno",
+      "1a3ans": "Da 1 a 3 anni",
+      "plus3ans": "Più di 3 anni"
+    },
+    "incident": {
+      "oui": "Sì",
+      "non": "No",
+      "inconnu": "Non so"
+    }
+  },
+  "errors": {
+    "required": "Questo campo è obbligatorio.",
+    "amountMin": "L'importo deve essere almeno {min} €.",
+    "amountMax": "L'importo non può superare {max} €.",
+    "durationMin": "La durata deve essere almeno {min} mesi.",
+    "durationMax": "La durata non può superare {max} mesi.",
+    "positive": "Indica un importo positivo o zero.",
+    "name": "Indica almeno 2 caratteri.",
+    "email": "Indica un indirizzo email valido.",
+    "phone": "Indica un numero di telefono valido.",
+    "postalCode": "Indica un CAP valido.",
+    "consent": "Il tuo consenso è necessario per analizzare la richiesta."
+  },
+  "summary": {
+    "title": "Controlla i tuoi dati",
+    "edit": "Modifica"
+  },
+  "consent": {
+    "label": "Autorizzo l'analisi della mia richiesta a partire da queste informazioni. I miei dati sulla situazione finanziaria sono sensibili e vengono consultati solo dalle persone incaricate dell'analisi, conformemente all'informativa sulla privacy."
+  },
+  "actions": {
+    "back": "Indietro",
+    "next": "Continua",
+    "submit": "Invia la richiesta",
+    "sending": "Invio in corso…"
+  },
+  "submitError": "L'invio non è riuscito. Controlla la connessione e riprova.",
+  "confirmation": {
+    "meta": {
+      "title": "Richiesta inviata — Spark loan",
+      "description": "La tua richiesta di finanziamento è registrata. Un referente sta analizzando la pratica."
+    },
+    "title": "La tua richiesta è registrata",
+    "body": "Un referente analizza la tua pratica e ti ricontatta entro il termine annunciato. Ti è appena stata inviata un'email di conferma.",
+    "referenceLabel": "Il tuo riferimento",
+    "whatNextTitle": "Cosa succede ora",
+    "whatNext": [
+      "Verifichiamo gli elementi della tua pratica.",
+      "Un referente ti ricontatta per l'analisi.",
+      "Ricevi una risposta motivata entro i tempi indicati."
+    ],
+    "ctaHome": "Torna alla home"
+  }
+}

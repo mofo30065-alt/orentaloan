@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Spark loan — um crédito avaliado pela sua situação real",
+    "description": "Instituição de crédito especializada em processos recusados pelos bancos tradicionais. Avaliação com base em factos reais, caso a caso."
+  },
+  "hero": {
+    "eyebrow": "Instituição de crédito especializada",
+    "title": "Um crédito avaliado pela sua <mark>situação real</mark>, não por uma pontuação.",
+    "subtitle": "Analisamos processos que os bancos tradicionais recusam frequentemente. Cada decisão assenta em factos concretos, processo a processo — sem promessa de aprovação.",
+    "ctaPrimary": "Verificar a minha elegibilidade",
+    "ctaSecondary": "Estimar uma prestação"
+  },
+  "situation": {
+    "eyebrow": "A sua situação",
+    "title": "A quem se destina este financiamento",
+    "intro": "Estes perfis são muitas vezes recusados noutros lados. Aqui são analisados, com base em garantias e rendimentos reais.",
+    "items": [
+      "Inscrito num ficheiro de incidentes de crédito",
+      "Consolidação de créditos com garantia hipotecária",
+      "Trabalhador independente sem três anos de contas",
+      "Contratos curtos: a termo, temporário",
+      "Sénior, ativo ou reformado",
+      "Tesouraria de empresa apertada"
+    ]
+  },
+  "credits": {
+    "eyebrow": "O nosso financiamento",
+    "title": "Começamos pelo que assenta numa garantia.",
+    "intro": "O financiamento garantido por um bem continua acessível quando a pontuação bloqueia. Os créditos clássicos seguem-se.",
+    "alsoTitle": "Também disponíveis",
+    "allLink": "Ver todos os financiamentos"
+  },
+  "advantages": {
+    "eyebrow": "A nossa forma de trabalhar",
+    "title": "O que muda, em concreto",
+    "items": [
+      {
+        "title": "Uma decisão sobre a sua situação",
+        "desc": "Lemos o seu processo real — rendimento, garantias, histórico — em vez de uma pontuação automática."
+      },
+      {
+        "title": "Um interlocutor, não um balcão",
+        "desc": "Uma pessoa acompanha o seu processo e explica cada critério, sem jargão."
+      },
+      {
+        "title": "Uma resposta num prazo claro",
+        "desc": "Anunciamos um prazo de análise e cumprimo-lo. Sem urgência artificial."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Como funciona",
+    "title": "Cinco passos, por esta ordem",
+    "items": [
+      {
+        "title": "A verificação de elegibilidade",
+        "desc": "Sete perguntas para saber honestamente onde está o seu processo."
+      },
+      {
+        "title": "A simulação",
+        "desc": "Estima uma prestação e um custo total, em tempo real."
+      },
+      {
+        "title": "O pedido",
+        "desc": "Preenche um processo em cinco passos, ao seu ritmo."
+      },
+      {
+        "title": "A análise",
+        "desc": "Um interlocutor examina a sua situação real e os seus documentos."
+      },
+      {
+        "title": "A decisão",
+        "desc": "Recebe uma resposta fundamentada e, se aplicável, a proposta."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "A ferramenta distintiva",
+    "title": "A Leitura do seu processo",
+    "intro": "Algumas perguntas e dizemos-lhe honestamente onde está o seu processo — com o motivo e o que poderia mudar a resposta.",
+    "states": {
+      "go": {
+        "label": "Pista séria",
+        "desc": "Os elementos reunidos permitem analisar um pedido."
+      },
+      "work": {
+        "label": "Processo a reforçar",
+        "desc": "Um ponto preciso trava hoje. Eis como resolvê-lo."
+      },
+      "stop": {
+        "label": "Inviável de momento",
+        "desc": "Orientamo-lo para um recurso mais útil do que um processo destinado à recusa."
+      }
+    },
+    "note": "Uma orientação, não uma decisão de crédito. Sem pontuação, sem compromisso.",
+    "cta": "Fazer a minha Leitura"
+  },
+  "testimonials": {
+    "eyebrow": "Já passaram por isto",
+    "title": "Processos levados a sério",
+    "items": [
+      {
+        "quote": "Recusado duas vezes no balcão por um contrato a termo. Aqui olharam para os meus três anos de trabalho temporário no mesmo setor.",
+        "name": "Karim B.",
+        "role": "Temporário, consolidação de créditos",
+        "rating": 5
+      },
+      {
+        "quote": "Independente há dezoito meses, sem as três contas habituais. O crédito assentou no meu apartamento.",
+        "name": "Léa M.",
+        "role": "Independente, crédito hipotecário",
+        "rating": 5
+      },
+      {
+        "quote": "Disseram-me com clareza o que bloqueava e o que preparar. Voltei a pedir três meses depois e correu bem.",
+        "name": "Daniel R.",
+        "role": "Sénior, crédito para obras",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "Em números",
+    "title": "Referências, não promessas",
+    "note": "Números indicativos, sem compromisso, sujeitos a alteração.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "prazo de análise anunciado"
+      },
+      {
+        "value": "7",
+        "label": "perguntas para uma verificação"
+      },
+      {
+        "value": "10",
+        "label": "mercados na zona euro"
+      },
+      {
+        "value": "14",
+        "label": "tipos de financiamento analisados"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "A nossa legitimidade",
+    "title": "Verificável, não decorativa",
+    "intro": "Neste mercado, a transparência é o argumento. Eis como verificar-nos.",
+    "items": [
+      "Autorizada pelo Banco de Portugal (n.º 918)",
+      "Aderente ao CNIACC",
+      "Agência em Lisboa, Avenida da Liberdade 110, 1250-146"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "A transparência à vista",
+    "title": "Um exemplo com números, sem asterisco escondido",
+    "intro": "Cada simulação mostra um exemplo representativo completo, sem asterisco escondido."
+  },
+  "blog": {
+    "eyebrow": "Os nossos conselhos",
+    "title": "Compreender antes de se comprometer",
+    "allLink": "Todos os conselhos",
+    "items": []
+  },
+  "finalCta": {
+    "title": "Comece por saber onde está o seu processo.",
+    "cta": "Fazer a minha Leitura"
+  }
+}

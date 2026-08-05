@@ -1,0 +1,126 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Organisme de crédit spécialisé"
+  },
+  "skipToContent": "Aller au contenu",
+  "nav": {
+    "home": "Accueil",
+    "credits": "Crédits",
+    "simulator": "Simulateur",
+    "diagnostic": "Pré-diagnostic",
+    "blog": "Conseils",
+    "contact": "Contact"
+  },
+  "cta": {
+    "simulate": "Simuler mon prêt",
+    "diagnostic": "Vérifier mon éligibilité",
+    "simulateShort": "Simuler une mensualité"
+  },
+  "phone": {
+    "label": "Nous appeler",
+    "display": "01 70 12 34 56",
+    "number": "+33170123456"
+  },
+  "whatsapp": {
+    "aria": "Démarrer une discussion sur WhatsApp",
+    "cta": "Discuter sur WhatsApp",
+    "prefill": "Bonjour, j'ai une question sur votre offre de financement."
+  },
+  "trust": {
+    "licensed": "Agréé {agrement}",
+    "licensedPlaceholder": "ACPR n° 61 234",
+    "address": "Adresse réelle et joignable"
+  },
+  "localeSwitcher": {
+    "label": "Langue",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "Nous n'utilisons aucun traceur sans votre accord. Vous pouvez accepter ou refuser, c'est aussi simple dans les deux cas.",
+    "link": "En savoir plus",
+    "accept": "Tout accepter",
+    "refuse": "Tout refuser"
+  },
+  "footer": {
+    "tagline": "Nous étudions les dossiers que d'autres écartent, sur des éléments réels.",
+    "colProducts": "Financements",
+    "colCompany": "L'organisme",
+    "colLegal": "Informations légales",
+    "colContact": "Nous joindre",
+    "legal": {
+      "mentions": "Mentions légales",
+      "privacy": "Confidentialité",
+      "cookies": "Cookies",
+      "terms": "Conditions générales",
+      "faq": "Questions fréquentes"
+    },
+    "company": {
+      "about": "Qui nous sommes",
+      "commitments": "Nos engagements",
+      "blog": "Conseils"
+    },
+    "newsletter": {
+      "title": "Recevoir nos repères",
+      "help": "Des critères concrets sur le crédit, sans démarchage.",
+      "placeholder": "Votre adresse e-mail",
+      "action": "Je m'inscris",
+      "success": "Vérifiez votre boîte : un e-mail de confirmation vous a été envoyé.",
+      "error": "L'inscription a échoué. Vérifiez votre adresse et réessayez.",
+      "confirmTitle": "Inscription confirmée",
+      "confirmBody": "Merci, votre inscription à nos repères est confirmée. Vous pouvez vous désinscrire à tout moment.",
+      "confirmError": "Ce lien de confirmation est invalide ou a expiré."
+    },
+    "rights": "© {year} {brand}. Tous droits réservés.",
+    "publisher": "Spark Finance SA au capital de 5 000 000 € — RCS Paris 912 456 789 — 18 boulevard des Capucines, 75009 Paris"
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Qui nous sommes — Spark loan",
+        "description": "Organisme de crédit spécialisé qui prête en propre et étudie les dossiers écartés ailleurs, sur la situation réelle."
+      },
+      "title": "Qui nous sommes",
+      "intro": "Nous sommes un organisme de crédit spécialisé. Nous prêtons en propre et nous étudions les dossiers que les banques de réseau écartent, sur la situation réelle plutôt que sur un score.",
+      "sections": [
+        {
+          "heading": "Notre métier",
+          "body": "Décider sur des éléments concrets — revenus, garanties, historique — et non sur un algorithme. Nous transformons un dossier refusé ailleurs en dossier qualifié et réaliste, ou nous le disons honnêtement quand ce n'est pas possible."
+        },
+        {
+          "heading": "Notre public",
+          "body": "Emprunteurs fichés, indépendants sans trois bilans, contrats courts, seniors, trésoreries d'entreprise tendues : des profils souvent écartés, que nous prenons le temps d'étudier."
+        },
+        {
+          "heading": "Notre méthode",
+          "body": "Un pré-diagnostic honnête, une étude menée par un interlocuteur qui vous explique chaque critère, une décision motivée. Chaque chiffre est indiqué avant toute signature."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Nos engagements — Spark loan",
+        "description": "Transparence, honnêteté et décision sur la situation réelle : les engagements que nous tenons."
+      },
+      "title": "Nos engagements",
+      "intro": "Sur ce marché, la transparence est notre premier argument. Voici ce à quoi nous nous tenons, sans exception.",
+      "items": [
+        "Aucune promesse d'octroi : nous ne garantissons jamais un accord.",
+        "Une décision sur votre situation réelle, pas sur un score automatique.",
+        "Un délai de réponse annoncé et tenu, sans urgence artificielle.",
+        "Des chiffres toujours indicatifs et un TAEG affiché avant toute signature.",
+        "Vos données de situation traitées avec un soin strict, et jamais vendues."
+      ]
+    }
+  }
+}

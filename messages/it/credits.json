@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "I nostri finanziamenti — Spark loan",
+    "description": "14 tipi di finanziamento valutati sulla tua situazione reale. I prestiti con garanzia restano accessibili dopo un rifiuto bancario."
+  },
+  "index": {
+    "eyebrow": "I nostri finanziamenti",
+    "title": "Un finanziamento per ogni situazione",
+    "intro": "Mettiamo in primo piano i prestiti garantiti da un bene: restano accessibili quando il punteggio blocca. I finanziamenti classici seguono.",
+    "featuredTitle": "Da preferire dopo un rifiuto",
+    "classicTitle": "Finanziamenti classici"
+  },
+  "common": {
+    "amounts": "Importi",
+    "duration": "Durate",
+    "range": "da {min} a {max}",
+    "monthsRange": "da {min} a {max} mesi",
+    "rateTableTitle": "Tassi indicativi per durata",
+    "rateDuration": "Durata",
+    "rateFixed": "Tasso fisso",
+    "rateVariable": "Tasso variabile",
+    "rateNote": "Tassi indicativi, non contrattuali, soggetti a modifiche e all'analisi della pratica.",
+    "eligibilityTitle": "Requisiti",
+    "eligibleTitle": "Accessibile se…",
+    "notEligibleTitle": "Non adatto se…",
+    "documentsTitle": "Documenti da fornire",
+    "faqTitle": "Domande frequenti",
+    "casesTitle": "Caso concreto",
+    "simulatorTitle": "Stima questo finanziamento",
+    "representativeTitle": "Esempio rappresentativo",
+    "ctaSimulate": "Simula questo finanziamento",
+    "ctaDiagnostic": "Verifica la mia idoneità",
+    "ctaRequest": "Richiedi",
+    "ctaFinalTitle": "Studiamo la tua pratica, non il tuo punteggio.",
+    "models": {
+      "revolving": "Il credito rotativo non si ammortizza come un prestito classico: il costo dipende dall'uso e dalla velocità di rimborso. Usa il simulatore generale con prudenza o parla con un consulente.",
+      "leasing": "Con il leasing paghi canoni e, in opzione, un valore residuo. Il calcolo dipende dal bene e dal suo valore di riscatto; un consulente fissa un canone preciso.",
+      "bridge": "Il prestito ponte si rimborsa alla vendita del tuo immobile. Il costo dipende dal tempo reale fino alla vendita e dall'importo anticipato.",
+      "factoring": "Il factoring non è un prestito: cedi fatture in cambio di un anticipo, con una commissione. Il costo dipende dal volume e dai tempi di pagamento."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Consolidamento debiti", "teaser": "Unisci i tuoi prestiti in un'unica rata, garantita dal tuo immobile se necessario." },
+    "pret-travaux": { "name": "Prestito ristrutturazione", "teaser": "Finanzia una ristrutturazione, anche interventi di efficienza energetica." },
+    "pret-tresorerie": { "name": "Prestito di liquidità", "teaser": "Supera un momento di liquidità per la tua attività, senza immobilizzare i fondi." },
+    "loa": { "name": "Leasing", "teaser": "Usa un veicolo o un'attrezzatura senza acquistarli subito." },
+    "affacturage": { "name": "Factoring", "teaser": "Trasforma le fatture dei clienti in liquidità immediata." },
+    "pret-relais": { "name": "Prestito ponte", "teaser": "Compra prima di aver venduto, durante la transizione." },
+    "pret-immobilier": { "name": "Mutuo casa", "teaser": "Finanzia l'acquisto di una casa valutato sulla tua situazione reale." },
+    "credit-consommation": { "name": "Prestito personale", "teaser": "Finanzia un progetto personale, attrezzature o un imprevisto." },
+    "pret-auto": { "name": "Prestito auto", "teaser": "Acquista un veicolo nuovo o usato, con una rata chiara." },
+    "credit-renouvelable": { "name": "Credito rotativo", "teaser": "Una riserva di denaro flessibile, da usare con misura." },
+    "pret-etudiant": { "name": "Prestito studenti", "teaser": "Finanzia gli studi e il loro costo della vita." },
+    "financement-equipement": { "name": "Finanziamento attrezzature", "teaser": "Finanzia macchinari, materiali o veicoli aziendali." },
+    "pret-creation-reprise": { "name": "Prestito avvio/rilevamento", "teaser": "Finanzia l'avvio o il rilevamento di un'attività." },
+    "immobilier-professionnel": { "name": "Immobiliare aziendale", "teaser": "Finanzia locali commerciali o professionali." }
+  }
+}

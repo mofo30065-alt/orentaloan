@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Richtwerte, unverbindlich und vorbehaltlich der Bewilligung Ihrer Unterlagen."
+  },
+  "infobox": {
+    "title": "Repräsentatives Beispiel",
+    "amount": "Kreditbetrag",
+    "duration": "Laufzeit",
+    "rate": "Fester Sollzins",
+    "apr": "Fester effektiver Jahreszins",
+    "monthly": "Monatsrate",
+    "totalCost": "Gesamtkosten des Kredits",
+    "totalDue": "Gesamtbetrag",
+    "example": {
+      "amount": "15.000 €",
+      "duration": "48 Monate",
+      "rate": "6,90 %",
+      "apr": "7,12 %",
+      "monthly": "358,50 €",
+      "totalCost": "2.207,87 €",
+      "totalDue": "17.207,87 €"
+    },
+    "note": "Repräsentatives Beispiel, ohne optionale Versicherung. Ein Kredit verpflichtet Sie und muss zurückgezahlt werden. Prüfen Sie Ihre Rückzahlungsfähigkeit, bevor Sie sich binden."
+  },
+  "labels": {
+    "editor": "Betreiber der Website",
+    "legalForm": "Rechtsform",
+    "capital": "Stammkapital",
+    "registration": "Registereintrag",
+    "regulator": "Aufsichtsbehörde",
+    "regulatoryNumber": "Zulassungsnummer",
+    "vat": "USt-IdNr.",
+    "director": "Verantwortlich für den Inhalt",
+    "host": "Hoster",
+    "mediator": "Verbraucherschlichtungsstelle",
+    "dpo": "Datenschutzbeauftragter"
+  },
+  "coolingOff": {
+    "title": "Widerrufsrecht",
+    "body": "Sie haben {days} Kalendertage, um nach Unterzeichnung Ihres Angebots zu widerrufen, ohne Angabe von Gründen und ohne Vertragsstrafe."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Impressum — Spark loan",
+      "description": "Betreiber, Hoster, Aufsichtsbehörde und Schlichtung."
+    },
+    "title": "Impressum",
+    "intro": "Angaben zum Betreiber dieser Website und zu ihrem regulatorischen Rahmen."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Datenschutzerklärung — Spark loan",
+      "description": "Welche Daten wir verarbeiten, warum, wie lange und Ihre Rechte."
+    },
+    "title": "Datenschutzerklärung",
+    "intro": "Ihre Finanzdaten sind sensibel. Hier, ohne Umschweife, was wir damit tun.",
+    "sections": [
+      {
+        "heading": "Erhobene Daten",
+        "body": "Identität und Kontaktdaten, familiäre, berufliche und finanzielle Lage, die Sie angeben, sowie technische Nutzungsdaten, die für den Betrieb der Website unbedingt nötig sind."
+      },
+      {
+        "heading": "Zwecke",
+        "body": "Ihren Finanzierungsantrag prüfen, Sie kontaktieren, unsere gesetzlichen Pflichten erfüllen und Betrug verhindern. Es werden keine Daten verkauft."
+      },
+      {
+        "heading": "Rechtsgrundlage",
+        "body": "Ihre Einwilligung zur Prüfung des Antrags, die Durchführung vorvertraglicher Maßnahmen und unsere gesetzlichen Pflichten als Kreditinstitut."
+      },
+      {
+        "heading": "Empfänger",
+        "body": "Nur die mit Ihren Unterlagen betrauten Personen greifen darauf zu, samt der unbedingt nötigen Auftragsverarbeiter, die zur Vertraulichkeit verpflichtet sind."
+      },
+      {
+        "heading": "Speicherdauer",
+        "body": "Ihre Daten werden für die Prüfung und dann gemäß den geltenden gesetzlichen Fristen aufbewahrt, bevor sie gelöscht oder anonymisiert werden."
+      },
+      {
+        "heading": "Verarbeitung im Browser",
+        "body": "Solange Sie Ihren Antrag nicht absenden, bleiben Ihre Antworten auf Ihrem Gerät und werden uns nicht übermittelt."
+      }
+    ],
+    "rightsTitle": "Ihre Rechte",
+    "rights": [
+      "Auskunft, Berichtigung und Löschung Ihrer Daten",
+      "Einschränkung und Widerspruch gegen die Verarbeitung",
+      "Übertragbarkeit Ihrer Daten",
+      "Widerruf Ihrer Einwilligung jederzeit",
+      "Beschwerde bei der Datenschutzbehörde"
+    ],
+    "dpoIntro": "Zur Ausübung Ihrer Rechte wenden Sie sich an unseren Datenschutzbeauftragten:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Nutzungsbedingungen — Spark loan",
+      "description": "Regeln zur Nutzung der Website."
+    },
+    "title": "Nutzungsbedingungen",
+    "intro": "Diese Bedingungen regeln die Nutzung der Website. Sie sind kein Kreditangebot.",
+    "placeholder": "Der Zugang zur Website ist kostenlos. Mit der Nutzung akzeptieren Sie diese Bedingungen. Die Inhalte (Texte, Marken, Illustrationen) gehören Spark Finance und dürfen ohne Genehmigung nicht vervielfältigt werden. Simulationen und Vordiagnosen sind unverbindlich. Es gilt deutsches Recht."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Cookie-Richtlinie — Spark loan",
+      "description": "Welche Cookies wir verwenden und wie Sie sie verwalten."
+    },
+    "title": "Cookie-Richtlinie",
+    "intro": "Ohne Ihre Einwilligung wird kein Tracker gesetzt. Sie können Ihre Wahl jederzeit ändern.",
+    "necessaryTitle": "Unbedingt erforderliche Cookies",
+    "necessaryBody": "Für den Betrieb der Website nötig (Sprachwahl, Speichern Ihrer Cookie-Wahl). Sie erfordern keine Einwilligung.",
+    "optionalTitle": "Mess- und Komfort-Cookies",
+    "optionalBody": "Werden nur nach Ihrer Zustimmung gesetzt. Sie helfen uns, die Website zu verbessern, ohne Sie je für Werbung zu identifizieren.",
+    "manageTitle": "Meine Wahl verwalten",
+    "manageBody": "Löschen Sie das Einwilligungs-Cookie in Ihrem Browser, damit das Banner erneut erscheint, und wählen Sie neu."
+  }
+}

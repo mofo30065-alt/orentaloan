@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "Consejos — Spark loan",
+    "description": "Referencias concretas sobre el crédito, escritas para quien acaba de sufrir un rechazo."
+  },
+  "title": "Consejos",
+  "intro": "Referencias concretas sobre el crédito, escritas para quien acaba de sufrir un rechazo. Objetivo, sin promesas.",
+  "filterAll": "Todos",
+  "categories": { "fichage": "Ficheros", "rachat": "Reunificación", "securite": "Seguridad" },
+  "minutes": "{count} min de lectura",
+  "byAuthor": "Por {author}",
+  "readMore": "Leer el artículo",
+  "backToList": "Todos los consejos",
+  "suggestedTitle": "Leer también",
+  "shareTitle": "Compartir",
+  "empty": "Ningún artículo en esta categoría.",
+  "cta": {
+    "title": "¿Dudas sobre tu expediente?",
+    "body": "Haz la Lectura: una orientación honesta, en unos minutos, sin compromiso.",
+    "action": "Hacer mi Lectura"
+  },
+  "pagination": { "previous": "Anterior", "next": "Siguiente", "page": "Página {current} de {total}" }
+}

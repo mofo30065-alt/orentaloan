@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Kontakt — Spark loan",
+    "description": "Erreichen Sie uns per Telefon, E-Mail oder in der Filiale. Termin online buchen."
+  },
+  "title": "Kontakt",
+  "intro": "Eine Frage zu Ihren Unterlagen? Schreiben oder rufen Sie uns an. Eine Person, kein Schalter.",
+  "form": {
+    "title": "Schreiben Sie uns",
+    "name": "Name",
+    "email": "E-Mail-Adresse",
+    "subject": "Betreff (optional)",
+    "message": "Ihre Nachricht",
+    "submit": "Nachricht senden",
+    "sending": "Wird gesendet…",
+    "success": "Nachricht gesendet. Wir antworten zeitnah.",
+    "error": "Das Senden ist fehlgeschlagen. Prüfen Sie Ihre Verbindung und versuchen Sie es erneut."
+  },
+  "errors": {
+    "required": "Dieses Feld ist erforderlich.",
+    "email": "Geben Sie eine gültige E-Mail-Adresse ein.",
+    "message": "Ihre Nachricht muss mindestens 10 Zeichen haben."
+  },
+  "info": {
+    "title": "Kontakt",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Öffnungszeiten",
+    "agenciesTitle": "Unsere Filialen",
+    "bookingTitle": "Termin buchen",
+    "bookingBody": "Wählen Sie einen Termin mit einem Berater, in der Filiale oder telefonisch.",
+    "bookingCta": "Termin reservieren"
+  }
+}

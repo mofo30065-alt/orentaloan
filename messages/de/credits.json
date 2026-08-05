@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Unsere Finanzierung — Spark loan",
+    "description": "14 Finanzierungsarten, geprüft auf Ihre tatsächliche Lage. Besicherte Kredite bleiben nach einer Bankablehnung erreichbar."
+  },
+  "index": {
+    "eyebrow": "Unsere Finanzierung",
+    "title": "Eine Finanzierung für jede Lage",
+    "intro": "Wir stellen durch Sicherheit oder einen Vermögenswert besicherte Kredite in den Vordergrund: Sie bleiben erreichbar, wenn der Score blockiert. Klassische Finanzierung folgt.",
+    "featuredTitle": "Nach einer Ablehnung zu bevorzugen",
+    "classicTitle": "Klassische Finanzierung"
+  },
+  "common": {
+    "amounts": "Beträge",
+    "duration": "Laufzeiten",
+    "range": "von {min} bis {max}",
+    "monthsRange": "von {min} bis {max} Monaten",
+    "rateTableTitle": "Richtwerte der Zinsen nach Laufzeit",
+    "rateDuration": "Laufzeit",
+    "rateFixed": "Fester Zins",
+    "rateVariable": "Variabler Zins",
+    "rateNote": "Richtwerte, unverbindlich, Änderungen und Prüfung Ihrer Unterlagen vorbehalten.",
+    "eligibilityTitle": "Voraussetzungen",
+    "eligibleTitle": "Erreichbar, wenn…",
+    "notEligibleTitle": "Nicht geeignet, wenn…",
+    "documentsTitle": "Einzureichende Unterlagen",
+    "faqTitle": "Häufige Fragen",
+    "casesTitle": "Praxisbeispiel",
+    "simulatorTitle": "Diese Finanzierung schätzen",
+    "representativeTitle": "Repräsentatives Beispiel",
+    "ctaSimulate": "Diese Finanzierung berechnen",
+    "ctaDiagnostic": "Meine Eignung prüfen",
+    "ctaRequest": "Antrag stellen",
+    "ctaFinalTitle": "Wir prüfen Ihre Unterlagen, nicht Ihren Score.",
+    "models": {
+      "revolving": "Der Rahmenkredit tilgt nicht wie ein klassischer Kredit: Die Kosten hängen von Ihrer Nutzung und der Tilgungsgeschwindigkeit ab. Nutzen Sie den allgemeinen Rechner mit Bedacht oder sprechen Sie mit einem Berater.",
+      "leasing": "Beim Leasing zahlen Sie Raten und optional einen Restwert. Die Berechnung hängt vom Objekt und seinem Rücknahmewert ab; ein Berater legt eine genaue Rate fest.",
+      "bridge": "Die Zwischenfinanzierung wird beim Verkauf Ihrer Immobilie zurückgezahlt. Die Kosten hängen von der tatsächlichen Zeit bis zum Verkauf und dem vorfinanzierten Betrag ab.",
+      "factoring": "Factoring ist kein Kredit: Sie treten Rechnungen gegen einen Vorschuss ab, gegen eine Provision. Die Kosten hängen von Ihrem Volumen und Ihren Zahlungszielen ab."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Umschuldung", "teaser": "Fassen Sie Ihre Kredite zu einer Rate zusammen, bei Bedarf durch Ihre Immobilie besichert." },
+    "pret-travaux": { "name": "Modernisierungskredit", "teaser": "Finanzieren Sie eine Renovierung, auch energetische Maßnahmen." },
+    "pret-tresorerie": { "name": "Liquiditätskredit", "teaser": "Überbrücken Sie einen Liquiditätsengpass, ohne Ihre Mittel zu binden." },
+    "loa": { "name": "Leasing", "teaser": "Nutzen Sie ein Fahrzeug oder Gerät, ohne es sofort zu kaufen." },
+    "affacturage": { "name": "Factoring", "teaser": "Wandeln Sie Ihre Kundenrechnungen sofort in Liquidität um." },
+    "pret-relais": { "name": "Zwischenfinanzierung", "teaser": "Kaufen, bevor Sie verkauft haben — für die Übergangszeit." },
+    "pret-immobilier": { "name": "Immobilienkredit", "teaser": "Finanzieren Sie einen Immobilienkauf, geprüft auf Ihre tatsächliche Lage." },
+    "credit-consommation": { "name": "Konsumkredit", "teaser": "Finanzieren Sie ein privates Vorhaben, Ausstattung oder Unerwartetes." },
+    "pret-auto": { "name": "Autokredit", "teaser": "Kaufen Sie ein neues oder gebrauchtes Fahrzeug mit klarer Rate." },
+    "credit-renouvelable": { "name": "Rahmenkredit", "teaser": "Eine flexible Geldreserve, mit Maß zu nutzen." },
+    "pret-etudiant": { "name": "Studienkredit", "teaser": "Finanzieren Sie Studium und Lebenshaltungskosten." },
+    "financement-equipement": { "name": "Ausrüstungsfinanzierung", "teaser": "Finanzieren Sie Maschinen, Material oder Firmenfahrzeuge." },
+    "pret-creation-reprise": { "name": "Gründungs-/Übernahmekredit", "teaser": "Finanzieren Sie Start oder Übernahme einer Tätigkeit." },
+    "immobilier-professionnel": { "name": "Gewerbeimmobilienkredit", "teaser": "Finanzieren Sie Geschäftsräume oder gewerbliche Objekte." }
+  }
+}

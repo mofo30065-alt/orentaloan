@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Pré-diagnostic d'éligibilité — Spark loan",
+    "description": "En quelques questions, une lecture honnête de votre dossier : piste sérieuse, dossier à consolider, ou non envisageable en l'état. Une orientation, pas une décision de crédit."
+  },
+  "intro": {
+    "eyebrow": "L'outil signature",
+    "title": "La Lecture de votre dossier",
+    "subtitle": "Sept questions, deux minutes. Nous vous disons honnêtement où en est votre dossier, avec le motif et les pistes qui restent.",
+    "note": "C'est une orientation, pas une décision de crédit. Aucun score, aucun engagement, aucune donnée transmise sans votre accord.",
+    "start": "Commencer la Lecture"
+  },
+  "ui": {
+    "progress": "Question {current} sur {total}",
+    "back": "Précédent",
+    "next": "Continuer",
+    "result": "Voir ma Lecture",
+    "restart": "Recommencer",
+    "required": "Sélectionnez une réponse pour continuer."
+  },
+  "questions": {
+    "project": { "label": "Quel est votre projet ?" },
+    "employment": { "label": "Quelle est votre situation professionnelle ?" },
+    "seniority": { "label": "Depuis combien de temps dans cette situation ?" },
+    "monthlyIncome": {
+      "label": "Vos revenus nets mensuels",
+      "help": "Revenus du foyer, toutes sources confondues."
+    },
+    "monthlyCharges": {
+      "label": "Vos charges et crédits en cours",
+      "help": "Loyer, pensions, mensualités de crédits déjà en cours."
+    },
+    "ownership": { "label": "Êtes-vous propriétaire de votre logement ?" },
+    "incident": {
+      "label": "Un incident de paiement est-il déclaré à votre nom ?",
+      "help": "Inscription FICP ou FCC à la Banque de France."
+    }
+  },
+  "options": {
+    "project": {
+      "rachat": "Rachat ou regroupement de crédits",
+      "tresorerie": "Trésorerie / besoin de liquidités",
+      "immobilier": "Achat immobilier",
+      "travaux": "Travaux / rénovation",
+      "auto": "Véhicule",
+      "consommation": "Achat / projet personnel",
+      "professionnel": "Projet professionnel"
+    },
+    "employment": {
+      "cdi": "CDI",
+      "cdd": "CDD ou intérim",
+      "independant": "Indépendant / TNS",
+      "retraite": "Retraité",
+      "sansEmploi": "Sans emploi"
+    },
+    "seniority": {
+      "moins1an": "Moins d'un an",
+      "1a3ans": "1 à 3 ans",
+      "plus3ans": "Plus de 3 ans"
+    },
+    "ownership": {
+      "proprietaireSansCredit": "Propriétaire, sans crédit en cours",
+      "proprietaireAvecCredit": "Propriétaire, avec un crédit en cours",
+      "locataire": "Locataire",
+      "heberge": "Hébergé"
+    },
+    "incident": {
+      "oui": "Oui",
+      "non": "Non",
+      "inconnu": "Je ne sais pas"
+    }
+  },
+  "number": { "suffix": "€ / mois" },
+  "states": {
+    "go": {
+      "label": "Piste sérieuse",
+      "description": "Les éléments réunis permettent d'étudier une demande."
+    },
+    "work": {
+      "label": "Dossier à consolider",
+      "description": "Un point précis freine aujourd'hui. Il peut se lever."
+    },
+    "stop": {
+      "label": "Non envisageable en l'état",
+      "description": "Un financement n'est pas réaliste aujourd'hui. Voici une orientation plus utile."
+    }
+  },
+  "result": {
+    "title": "Votre Lecture",
+    "reasonLabel": "Ce qui ressort",
+    "leversLabel": "Ce qui pourrait changer la réponse",
+    "resourceLabel": "Une ressource utile",
+    "productLabel": "Le financement à explorer",
+    "productLink": "Voir ce financement",
+    "note": "Cette lecture est une orientation, pas une décision de crédit. Seule l'étude de votre dossier complet fait foi.",
+    "ctaSimulate": "Estimer ma mensualité",
+    "ctaRequest": "Continuer vers une demande",
+    "ctaRestart": "Refaire la Lecture"
+  },
+  "reasons": {
+    "insufficientCapacity": "En l'état, les revenus déclarés ne couvrent pas une nouvelle échéance sans fragiliser votre budget.",
+    "unemployedOwner": "Sans revenu d'activité, un financement suppose de s'appuyer sur la valeur de votre bien.",
+    "unemployedNoAsset": "Sans revenu d'activité ni bien à mettre en garantie, aucun financement n'est réaliste aujourd'hui.",
+    "filedWithProperty": "L'inscription bloque le crédit classique, mais un rachat adossé à votre bien peut être étudié.",
+    "filedNoCollateral": "Une inscription FICP ou FCC sans bien en garantie ferme l'accès au crédit tant qu'elle court.",
+    "highDebtRatioOwner": "Vos charges pèsent lourd, mais regrouper vos crédits autour de votre bien peut alléger le budget.",
+    "tightCapacity": "Votre capacité de remboursement est étroite : le dossier tient, à condition de le renforcer.",
+    "youngIndependant": "Votre activité est récente : les prêteurs attendent en général plus d'ancienneté et des bilans.",
+    "shortContract": "Un contrat court fragilise le dossier aux yeux d'un prêteur, sans le rendre impossible.",
+    "shortSeniority": "Votre ancienneté est encore courte : quelques mois de plus renforceront nettement le dossier.",
+    "healthyStable": "Situation stable et capacité de remboursement saine : votre dossier part sur de bonnes bases.",
+    "healthyIndependant": "Activité installée et capacité saine : votre dossier d'indépendant part sur de bonnes bases.",
+    "checkFiling": "Votre situation est favorable ; reste à lever le doute sur un éventuel fichage avant d'aller plus loin."
+  },
+  "levers": {
+    "consolidate": "Regrouper vos crédits en cours pour réduire la mensualité globale.",
+    "reduceCharges": "Alléger une charge récurrente avant de déposer votre demande.",
+    "addDownPayment": "Apporter une somme personnelle pour diminuer le montant financé.",
+    "coBorrower": "Présenter un co-emprunteur pour renforcer les revenus du dossier.",
+    "gainSeniority": "Gagner quelques mois d'ancienneté supplémentaire dans votre situation.",
+    "propertyAppraisal": "Faire estimer votre bien pour évaluer la garantie mobilisable.",
+    "provideBilans": "Réunir vos bilans comptables pour justifier la régularité de vos revenus.",
+    "waitDelisting": "Attendre la levée de l'inscription, ou en demander la régularisation.",
+    "verifyFiling": "Vérifier votre situation auprès de la Banque de France (droit d'accès gratuit)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "La Banque de France informe gratuitement sur votre inscription et les voies de régularisation.",
+    "debtCounseling": "Un point conseil budget peut vous aider à assainir la situation avant tout crédit."
+  }
+}

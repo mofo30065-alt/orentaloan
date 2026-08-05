@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Instituição de crédito especializada"
+  },
+  "skipToContent": "Ir para o conteúdo",
+  "nav": {
+    "home": "Início",
+    "credits": "Créditos",
+    "simulator": "Simulador",
+    "diagnostic": "Verificar elegibilidade",
+    "blog": "Conselhos",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "simulate": "Simular o meu crédito",
+    "diagnostic": "Verificar a minha elegibilidade",
+    "simulateShort": "Estimar uma prestação"
+  },
+  "phone": {
+    "label": "Ligue-nos",
+    "display": "+351 210 000 000",
+    "number": "+351210000000"
+  },
+  "trust": {
+    "licensed": "Autorizada {agrement}",
+    "licensedPlaceholder": "Banco de Portugal n.º 918",
+    "address": "Morada real e contactável"
+  },
+  "localeSwitcher": {
+    "label": "Idioma",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "Não usamos qualquer rastreador sem o seu consentimento. Aceitar ou recusar é igualmente simples.",
+    "link": "Saber mais",
+    "accept": "Aceitar tudo",
+    "refuse": "Recusar tudo"
+  },
+  "footer": {
+    "tagline": "Analisamos os processos que outros recusam, com base em factos reais.",
+    "colProducts": "Financiamento",
+    "colCompany": "A empresa",
+    "colLegal": "Legal",
+    "colContact": "Contacto",
+    "legal": {
+      "mentions": "Menções legais",
+      "privacy": "Privacidade",
+      "cookies": "Cookies",
+      "terms": "Termos de utilização",
+      "faq": "Perguntas frequentes"
+    },
+    "company": {
+      "about": "Quem somos",
+      "commitments": "Os nossos compromissos",
+      "blog": "Conselhos"
+    },
+    "newsletter": {
+      "title": "Receba as nossas referências",
+      "help": "Critérios concretos sobre crédito, sem venda agressiva.",
+      "placeholder": "O seu endereço de e-mail",
+      "action": "Subscrever"
+    },
+    "rights": "© {year} {brand}. Todos os direitos reservados.",
+    "publisher": "Spark Finance Portugal S.A. com capital de 2.000.000 € — NIPC 512345678 — Avenida da Liberdade 110, 1250-146 Lisboa"
+  }
+}

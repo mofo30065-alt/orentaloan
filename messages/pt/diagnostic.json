@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Verificação de elegibilidade — Spark loan",
+    "description": "Em algumas perguntas, uma leitura honesta do seu processo: pista séria, processo a reforçar ou inviável de momento. Uma orientação, não uma decisão de crédito."
+  },
+  "intro": {
+    "eyebrow": "A ferramenta distintiva",
+    "title": "A Leitura do seu processo",
+    "subtitle": "Sete perguntas, dois minutos. Dizemos-lhe honestamente onde está o seu processo, com o motivo e as vias que restam.",
+    "note": "É uma orientação, não uma decisão de crédito. Sem pontuação, sem compromisso, sem dados partilhados sem o seu acordo.",
+    "start": "Começar a Leitura"
+  },
+  "ui": {
+    "progress": "Pergunta {current} de {total}",
+    "back": "Voltar",
+    "next": "Continuar",
+    "result": "Ver a minha Leitura",
+    "restart": "Recomeçar",
+    "required": "Selecione uma resposta para continuar."
+  },
+  "questions": {
+    "project": { "label": "Qual é o seu projeto?" },
+    "employment": { "label": "Qual é a sua situação profissional?" },
+    "seniority": { "label": "Há quanto tempo está nesta situação?" },
+    "monthlyIncome": { "label": "Os seus rendimentos líquidos mensais", "help": "Rendimento do agregado, de todas as fontes." },
+    "monthlyCharges": { "label": "Os seus encargos e créditos em curso", "help": "Renda, pensões, prestações de créditos já em curso." },
+    "ownership": { "label": "É proprietário da sua habitação?" },
+    "incident": { "label": "Existe um incidente de pagamento em seu nome?", "help": "Inscrição num ficheiro de incidentes de crédito." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Consolidação de créditos",
+      "tresorerie": "Tesouraria",
+      "immobilier": "Compra de casa",
+      "travaux": "Obras / renovação",
+      "auto": "Veículo",
+      "consommation": "Compra / projeto pessoal",
+      "professionnel": "Projeto profissional"
+    },
+    "employment": {
+      "cdi": "Contrato sem termo",
+      "cdd": "A termo ou temporário",
+      "independant": "Trabalhador independente",
+      "retraite": "Reformado",
+      "sansEmploi": "Sem emprego"
+    },
+    "seniority": { "moins1an": "Menos de um ano", "1a3ans": "De 1 a 3 anos", "plus3ans": "Mais de 3 anos" },
+    "ownership": {
+      "proprietaireSansCredit": "Proprietário, sem crédito em curso",
+      "proprietaireAvecCredit": "Proprietário, com um crédito em curso",
+      "locataire": "Arrendatário",
+      "heberge": "Acolhido"
+    },
+    "incident": { "oui": "Sim", "non": "Não", "inconnu": "Não sei" }
+  },
+  "number": { "suffix": "€ / mês" },
+  "states": {
+    "go": { "label": "Pista séria", "description": "Os elementos reunidos permitem analisar um pedido." },
+    "work": { "label": "Processo a reforçar", "description": "Um ponto preciso trava hoje. Pode ser resolvido." },
+    "stop": { "label": "Inviável de momento", "description": "Um financiamento não é realista hoje. Eis uma orientação mais útil." }
+  },
+  "result": {
+    "title": "A sua Leitura",
+    "reasonLabel": "O que se destaca",
+    "leversLabel": "O que poderia mudar a resposta",
+    "resourceLabel": "Um recurso útil",
+    "productLabel": "O financiamento a explorar",
+    "productLink": "Ver este financiamento",
+    "note": "Esta leitura é uma orientação, não uma decisão de crédito. Só a análise do seu processo completo é determinante.",
+    "ctaSimulate": "Estimar a minha prestação",
+    "ctaRequest": "Continuar para um pedido",
+    "ctaRestart": "Refazer a Leitura"
+  },
+  "reasons": {
+    "insufficientCapacity": "De momento, os rendimentos declarados não cobrem uma nova prestação sem fragilizar o seu orçamento.",
+    "unemployedOwner": "Sem rendimento de atividade, o financiamento deve assentar no valor do seu imóvel.",
+    "unemployedNoAsset": "Sem rendimento de atividade nem um bem em garantia, nenhum financiamento é realista hoje.",
+    "filedWithProperty": "A inscrição bloqueia o crédito clássico, mas uma consolidação garantida pelo seu imóvel pode ser analisada.",
+    "filedNoCollateral": "Uma inscrição sem bem em garantia fecha o acesso ao crédito enquanto estiver ativa.",
+    "highDebtRatioOwner": "Os seus encargos pesam muito, mas consolidar os créditos em torno do seu imóvel pode aliviar o orçamento.",
+    "tightCapacity": "A sua capacidade de reembolso é apertada: o processo sustenta-se, desde que reforçado.",
+    "youngIndependant": "A sua atividade é recente: os financiadores costumam exigir mais antiguidade e contas.",
+    "shortContract": "Um contrato curto fragiliza o processo aos olhos de um financiador, sem o tornar impossível.",
+    "shortSeniority": "A sua antiguidade ainda é curta: mais alguns meses reforçarão claramente o processo.",
+    "healthyStable": "Situação estável e capacidade de reembolso saudável: o seu processo parte bem.",
+    "healthyIndependant": "Atividade consolidada e capacidade saudável: o seu processo de independente parte bem.",
+    "checkFiling": "A sua situação é favorável; falta esclarecer a dúvida sobre uma eventual inscrição antes de avançar."
+  },
+  "levers": {
+    "consolidate": "Consolidar os créditos em curso para reduzir a prestação global.",
+    "reduceCharges": "Aliviar um encargo recorrente antes de apresentar o pedido.",
+    "addDownPayment": "Aportar uma quantia própria para reduzir o montante financiado.",
+    "coBorrower": "Apresentar um coproponente para reforçar o rendimento do processo.",
+    "gainSeniority": "Ganhar mais alguns meses de antiguidade na sua situação.",
+    "propertyAppraisal": "Avaliar o seu imóvel para estimar a garantia disponível.",
+    "provideBilans": "Reunir as suas contas para justificar a regularidade dos rendimentos.",
+    "waitDelisting": "Aguardar o levantamento da inscrição, ou pedir a sua regularização.",
+    "verifyFiling": "Verificar a sua situação junto do ficheiro competente (direito de acesso gratuito)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "A entidade competente informa gratuitamente sobre a sua inscrição e as vias de regularização.",
+    "debtCounseling": "Um serviço de aconselhamento orçamental pode ajudar a organizar a situação antes de qualquer crédito."
+  }
+}

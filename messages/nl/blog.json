@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Advies — Spark loan",
+    "description": "Concrete houvast over krediet, geschreven voor wie net geweigerd werd."
+  },
+  "title": "Advies",
+  "intro": "Concrete houvast over krediet, geschreven voor wie net geweigerd werd. Feitelijk, zonder beloften.",
+  "filterAll": "Alle",
+  "categories": {
+    "fichage": "Registratie",
+    "rachat": "Herfinanciering",
+    "budget": "Budget",
+    "comprendre": "Begrijpen",
+    "garanties": "Zekerheden",
+    "profils": "Profielen"
+  },
+  "minutes": "{count} min lezen",
+  "byAuthor": "Door {author}",
+  "readMore": "Artikel lezen",
+  "backToList": "Alle adviezen",
+  "suggestedTitle": "Lees ook",
+  "shareTitle": "Delen",
+  "empty": "Geen artikel in deze categorie.",
+  "cta": {
+    "title": "Twijfel over uw dossier?",
+    "body": "Doe de Lezing: een eerlijke oriëntatie, in enkele minuten, zonder verplichting.",
+    "action": "Mijn Lezing doen"
+  },
+  "pagination": { "previous": "Vorige", "next": "Volgende", "page": "Pagina {current} van {total}" }
+}

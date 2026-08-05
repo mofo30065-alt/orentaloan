@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Antrag stellen — Spark loan",
+    "description": "Stellen Sie Ihren Finanzierungsantrag in fünf Schritten. Ihre Angaben bleiben auf Ihrem Gerät, bis Sie absenden."
+  },
+  "title": "Ihr Finanzierungsantrag",
+  "subtitle": "Fünf kurze Schritte. Sie können jederzeit zurückgehen.",
+  "savedNote": "Ihre Antworten werden auf diesem Gerät gespeichert, während Sie fertigstellen. Vor dem Absenden wird nichts übermittelt.",
+  "clearSaved": "Löschen und neu beginnen",
+  "progress": "Schritt {current} von {total}",
+  "steps": {
+    "project": "Vorhaben",
+    "personal": "Persönliche Lage",
+    "professional": "Berufliche Lage",
+    "contact": "Kontaktdaten",
+    "summary": "Zusammenfassung"
+  },
+  "fields": {
+    "projectType": "Art des Vorhabens",
+    "amount": "Gewünschter Betrag (€)",
+    "durationMonths": "Gewünschte Laufzeit (Monate)",
+    "maritalStatus": "Familienstand",
+    "dependents": "Unterhaltsberechtigte",
+    "housingStatus": "Wohnsituation",
+    "monthlyIncome": "Monatliches Nettoeinkommen (€)",
+    "monthlyCharges": "Monatliche Ausgaben und Kredite (€)",
+    "employmentStatus": "Berufliche Lage",
+    "seniority": "Dauer in dieser Situation",
+    "profession": "Beruf (optional)",
+    "incident": "Erfasster Zahlungsvorfall",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefon",
+    "postalCode": "Postleitzahl",
+    "city": "Stadt",
+    "select": "Auswählen…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Umschuldung",
+      "tresorerie": "Liquidität",
+      "immobilier": "Immobilienkauf",
+      "travaux": "Renovierung",
+      "auto": "Fahrzeug",
+      "consommation": "Privates Vorhaben",
+      "professionnel": "Geschäftliches Vorhaben"
+    },
+    "maritalStatus": {
+      "celibataire": "Ledig",
+      "marie": "Verheiratet",
+      "pacse": "Eingetragene Partnerschaft",
+      "divorce": "Geschieden",
+      "veuf": "Verwitwet"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Eigentümer, ohne laufenden Kredit",
+      "proprietaireAvecCredit": "Eigentümer, mit laufendem Kredit",
+      "locataire": "Mieter",
+      "heberge": "Untergebracht"
+    },
+    "employmentStatus": {
+      "cdi": "Unbefristet",
+      "cdd": "Befristet oder Zeitarbeit",
+      "independant": "Selbstständig",
+      "retraite": "In Rente",
+      "sansEmploi": "Ohne Beschäftigung"
+    },
+    "seniority": {
+      "moins1an": "Weniger als ein Jahr",
+      "1a3ans": "1 bis 3 Jahre",
+      "plus3ans": "Mehr als 3 Jahre"
+    },
+    "incident": {
+      "oui": "Ja",
+      "non": "Nein",
+      "inconnu": "Weiß nicht"
+    }
+  },
+  "errors": {
+    "required": "Dieses Feld ist erforderlich.",
+    "amountMin": "Der Betrag muss mindestens {min} € betragen.",
+    "amountMax": "Der Betrag darf {max} € nicht überschreiten.",
+    "durationMin": "Die Laufzeit muss mindestens {min} Monate betragen.",
+    "durationMax": "Die Laufzeit darf {max} Monate nicht überschreiten.",
+    "positive": "Geben Sie einen Betrag ≥ 0 an.",
+    "name": "Geben Sie mindestens 2 Zeichen ein.",
+    "email": "Geben Sie eine gültige E-Mail-Adresse ein.",
+    "phone": "Geben Sie eine gültige Telefonnummer ein.",
+    "postalCode": "Geben Sie eine gültige Postleitzahl ein.",
+    "consent": "Ihre Einwilligung ist für die Prüfung des Antrags erforderlich."
+  },
+  "summary": {
+    "title": "Prüfen Sie Ihre Angaben",
+    "edit": "Bearbeiten"
+  },
+  "consent": {
+    "label": "Ich willige in die Prüfung meines Antrags anhand dieser Angaben ein. Meine Finanzdaten sind sensibel und werden nur von den mit der Prüfung betrauten Personen eingesehen, gemäß der Datenschutzerklärung."
+  },
+  "actions": {
+    "back": "Zurück",
+    "next": "Weiter",
+    "submit": "Antrag absenden",
+    "sending": "Wird gesendet…"
+  },
+  "submitError": "Das Senden ist fehlgeschlagen. Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
+  "confirmation": {
+    "meta": {
+      "title": "Antrag gesendet — Spark loan",
+      "description": "Ihr Finanzierungsantrag ist erfasst. Ein Ansprechpartner prüft Ihre Unterlagen."
+    },
+    "title": "Ihr Antrag ist erfasst",
+    "body": "Ein Ansprechpartner prüft Ihre Unterlagen und meldet sich innerhalb der genannten Frist. Eine Bestätigungs-E-Mail wurde soeben an Sie gesendet.",
+    "referenceLabel": "Ihre Referenz",
+    "whatNextTitle": "Wie es weitergeht",
+    "whatNext": [
+      "Wir prüfen die Elemente Ihrer Unterlagen.",
+      "Ein Ansprechpartner meldet sich zur Prüfung.",
+      "Sie erhalten innerhalb der angegebenen Frist eine begründete Antwort."
+    ],
+    "ctaHome": "Zurück zur Startseite"
+  }
+}

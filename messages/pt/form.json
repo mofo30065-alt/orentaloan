@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Pedir — Spark loan",
+    "description": "Apresente o seu pedido de financiamento em cinco passos. Os seus dados ficam no seu dispositivo até enviar."
+  },
+  "title": "O seu pedido de financiamento",
+  "subtitle": "Cinco passos curtos. Pode voltar atrás a qualquer momento.",
+  "savedNote": "As suas respostas são guardadas neste dispositivo enquanto termina. Nada é enviado antes da sua validação.",
+  "clearSaved": "Apagar e recomeçar",
+  "progress": "Passo {current} de {total}",
+  "steps": {
+    "project": "Projeto",
+    "personal": "Situação pessoal",
+    "professional": "Situação profissional",
+    "contact": "Contactos",
+    "summary": "Resumo"
+  },
+  "fields": {
+    "projectType": "Tipo de projeto",
+    "amount": "Montante pretendido (€)",
+    "durationMonths": "Prazo pretendido (meses)",
+    "maritalStatus": "Estado civil",
+    "dependents": "Pessoas a cargo",
+    "housingStatus": "Habitação",
+    "monthlyIncome": "Rendimentos líquidos mensais (€)",
+    "monthlyCharges": "Encargos e créditos mensais (€)",
+    "employmentStatus": "Situação profissional",
+    "seniority": "Antiguidade nesta situação",
+    "profession": "Profissão (opcional)",
+    "incident": "Incidente de pagamento registado",
+    "firstName": "Nome próprio",
+    "lastName": "Apelido",
+    "email": "Endereço de e-mail",
+    "phone": "Telefone",
+    "postalCode": "Código postal",
+    "city": "Cidade",
+    "select": "Selecione…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Consolidação de créditos",
+      "tresorerie": "Tesouraria",
+      "immobilier": "Compra de casa",
+      "travaux": "Obras",
+      "auto": "Veículo",
+      "consommation": "Projeto pessoal",
+      "professionnel": "Projeto profissional"
+    },
+    "maritalStatus": {
+      "celibataire": "Solteiro(a)",
+      "marie": "Casado(a)",
+      "pacse": "União de facto",
+      "divorce": "Divorciado(a)",
+      "veuf": "Viúvo(a)"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Proprietário, sem crédito em curso",
+      "proprietaireAvecCredit": "Proprietário, com um crédito em curso",
+      "locataire": "Arrendatário",
+      "heberge": "Acolhido"
+    },
+    "employmentStatus": {
+      "cdi": "Contrato sem termo",
+      "cdd": "A termo ou temporário",
+      "independant": "Trabalhador independente",
+      "retraite": "Reformado",
+      "sansEmploi": "Sem emprego"
+    },
+    "seniority": {
+      "moins1an": "Menos de um ano",
+      "1a3ans": "De 1 a 3 anos",
+      "plus3ans": "Mais de 3 anos"
+    },
+    "incident": {
+      "oui": "Sim",
+      "non": "Não",
+      "inconnu": "Não sei"
+    }
+  },
+  "errors": {
+    "required": "Este campo é obrigatório.",
+    "amountMin": "O montante deve ser de pelo menos {min} €.",
+    "amountMax": "O montante não pode exceder {max} €.",
+    "durationMin": "O prazo deve ser de pelo menos {min} meses.",
+    "durationMax": "O prazo não pode exceder {max} meses.",
+    "positive": "Indique um montante positivo ou nulo.",
+    "name": "Indique pelo menos 2 caracteres.",
+    "email": "Indique um endereço de e-mail válido.",
+    "phone": "Indique um número de telefone válido.",
+    "postalCode": "Indique um código postal válido.",
+    "consent": "O seu consentimento é necessário para analisar o pedido."
+  },
+  "summary": {
+    "title": "Verifique os seus dados",
+    "edit": "Editar"
+  },
+  "consent": {
+    "label": "Autorizo a análise do meu pedido a partir destas informações. Os meus dados de situação financeira são sensíveis e apenas são consultados pelas pessoas responsáveis pela análise, nos termos da política de privacidade."
+  },
+  "actions": {
+    "back": "Voltar",
+    "next": "Continuar",
+    "submit": "Enviar o meu pedido",
+    "sending": "A enviar…"
+  },
+  "submitError": "O envio falhou. Verifique a sua ligação e tente novamente.",
+  "confirmation": {
+    "meta": {
+      "title": "Pedido enviado — Spark loan",
+      "description": "O seu pedido de financiamento está registado. Um interlocutor está a analisar o seu processo."
+    },
+    "title": "O seu pedido está registado",
+    "body": "Um interlocutor analisa o seu processo e contacta-o no prazo anunciado. Foi-lhe enviado um e-mail de confirmação.",
+    "referenceLabel": "A sua referência",
+    "whatNextTitle": "O que acontece a seguir",
+    "whatNext": [
+      "Verificamos os elementos do seu processo.",
+      "Um interlocutor contacta-o para a análise.",
+      "Recebe uma resposta fundamentada no prazo indicado."
+    ],
+    "ctaHome": "Voltar ao início"
+  }
+}

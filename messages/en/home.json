@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "title": "Spark loan — a loan assessed on your real situation",
+    "description": "Specialist credit provider for files turned away by high-street banks. Assessment on real facts, case by case."
+  },
+  "hero": {
+    "eyebrow": "Specialist credit provider",
+    "title": "A loan assessed on your <mark>real situation</mark>, not on a score.",
+    "subtitle": "We study files that high-street banks often turn away. Every decision rests on concrete facts, file by file — with no promise of approval.",
+    "ctaPrimary": "Check my eligibility",
+    "ctaSecondary": "Estimate a payment"
+  },
+  "situation": {
+    "eyebrow": "Your situation",
+    "title": "Who this financing is for",
+    "intro": "These profiles are often refused elsewhere. Here they are still assessed, on real collateral and income.",
+    "items": [
+      "Listed on a credit-incident register",
+      "Mortgage debt consolidation",
+      "Self-employed without three years of accounts",
+      "Short contracts: fixed-term, temp work",
+      "Senior, working or retired",
+      "Tight business cash flow"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Our financing",
+    "title": "We start with what rests on collateral.",
+    "intro": "Financing backed by an asset stays within reach when the score blocks you. Classic loans follow.",
+    "alsoTitle": "Also available",
+    "allLink": "See all financing"
+  },
+  "advantages": {
+    "eyebrow": "How we work",
+    "title": "What changes, concretely",
+    "items": [
+      {
+        "title": "A decision on your situation",
+        "desc": "We read your real file — income, collateral, history — rather than an automated score."
+      },
+      {
+        "title": "A person, not a counter",
+        "desc": "One contact follows your file and explains every criterion, without jargon."
+      },
+      {
+        "title": "An answer within a clear timeframe",
+        "desc": "We state a review time and stick to it. No artificial urgency."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "How it works",
+    "title": "Five steps, in this order",
+    "items": [
+      {
+        "title": "The eligibility check",
+        "desc": "Seven questions to know honestly where your file stands."
+      },
+      {
+        "title": "The simulation",
+        "desc": "You estimate a monthly payment and total cost, in real time."
+      },
+      {
+        "title": "The application",
+        "desc": "You complete a file in five steps, at your own pace."
+      },
+      {
+        "title": "The review",
+        "desc": "A contact examines your real situation and your documents."
+      },
+      {
+        "title": "The decision",
+        "desc": "You receive a reasoned answer, and the offer where applicable."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "The signature tool",
+    "title": "The Reading of your file",
+    "intro": "A few questions, and we tell you honestly where your file stands — with the reason, and what could move the answer.",
+    "states": {
+      "go": {
+        "label": "Serious prospect",
+        "desc": "The elements gathered allow an application to be studied."
+      },
+      "work": {
+        "label": "File to strengthen",
+        "desc": "One specific point holds you back today. Here is how to lift it."
+      },
+      "stop": {
+        "label": "Not feasible as it stands",
+        "desc": "We point you to a more useful resource than a file bound to be refused."
+      }
+    },
+    "note": "Guidance, not a credit decision. No score shown, no commitment.",
+    "cta": "Run my Reading"
+  },
+  "testimonials": {
+    "eyebrow": "They have been there",
+    "title": "Files taken seriously again",
+    "items": [
+      {
+        "quote": "Refused twice at a branch for a fixed-term contract. Here, they looked at my three years of temp work in the same field.",
+        "name": "Karim B.",
+        "role": "Temp worker, debt consolidation",
+        "rating": 5
+      },
+      {
+        "quote": "Self-employed for eighteen months, without the usual three years of accounts. The loan was backed by my flat.",
+        "name": "Léa M.",
+        "role": "Self-employed, mortgage loan",
+        "rating": 5
+      },
+      {
+        "quote": "They told me clearly what was blocking and what to prepare. I reapplied three months later and it went through.",
+        "name": "Daniel R.",
+        "role": "Senior, home-improvement loan",
+        "rating": 4
+      },
+      {
+        "quote": "I've been self-employed for eighteen months, and they knew how to value my income without full accounts.",
+        "name": "Sofia L.",
+        "role": "Freelancer, personal loan",
+        "rating": 5
+      },
+      {
+        "quote": "My file was processed faster than expected, and I got clear explanations at every stage.",
+        "name": "Eva D.",
+        "role": "Sole trader, debt consolidation",
+        "rating": 5
+      },
+      {
+        "quote": "I had a large overdraft, but the advisor found a budget-friendly solution.",
+        "name": "Thomas V.",
+        "role": "Permanent contract, cash loan",
+        "rating": 4
+      },
+      {
+        "quote": "The loan allowed me to renovate without surprises. The process was serious and supportive.",
+        "name": "Laura P.",
+        "role": "Homeowner, renovation loan",
+        "rating": 5
+      },
+      {
+        "quote": "I never felt judged. Everything happened simply and with transparency.",
+        "name": "Nicolas M.",
+        "role": "Sales rep, consumer credit",
+        "rating": 5
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "In figures",
+    "title": "Pointers, not promises",
+    "note": "Indicative figures, without commitment, subject to change.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "stated review time"
+      },
+      {
+        "value": "7",
+        "label": "questions for an eligibility check"
+      },
+      {
+        "value": "10",
+        "label": "markets in the eurozone"
+      },
+      {
+        "value": "14",
+        "label": "types of financing assessed"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Our legitimacy",
+    "title": "Verifiable, not decorative",
+    "intro": "On this market, transparency is the argument. Here is how to verify us.",
+    "items": [
+      "Authorised by the Central Bank of Ireland (CBI ref. C123456)",
+      "Member of the Financial Services and Pensions Ombudsman (FSPO)",
+      "Branch in Dublin, 12 Dawson Street, D02 XY45"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Transparency in plain sight",
+    "title": "A worked example, with no hidden asterisk",
+    "intro": "Every simulation shows a full representative example, with no hidden asterisk."
+  },
+  "blog": {
+    "eyebrow": "Our advice",
+    "title": "Understand before committing",
+    "allLink": "All advice",
+    "items": [
+      {
+        "slug": "comprendre-inscription-ficp",
+        "category": "Credit listing",
+        "readingTime": "6 min",
+        "title": "Listed for a credit incident: what it really changes for a loan"
+      },
+      {
+        "slug": "rachat-credit-hypothecaire-guide",
+        "category": "Debt consolidation",
+        "readingTime": "8 min",
+        "title": "Mortgage consolidation: when your property becomes a solution"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Start by knowing where your file stands.",
+    "cta": "Run my Reading"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "title": "Simulateur de prêt — Spark loan",
+    "description": "Estimez votre mensualité, le coût total et le TAEG indicatif. Chiffres indicatifs, non contractuels, sous réserve d'acceptation."
+  },
+  "title": "Simulateur de prêt",
+  "subtitle": "Ajustez les paramètres : tout se recalcule en temps réel. Les montants sont indicatifs.",
+  "fields": {
+    "amount": { "label": "Montant du prêt", "help": "Le capital que vous souhaitez emprunter." },
+    "duration": {
+      "label": "Durée de remboursement",
+      "help": "Une durée plus longue baisse la mensualité mais augmente le coût total."
+    },
+    "rate": { "label": "Taux débiteur fixe", "help": "Taux nominal annuel indicatif pour l'estimation." },
+    "downPayment": { "label": "Apport (facultatif)", "help": "Un apport réduit le montant financé." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mois} other {# mois}}",
+    "years": "{count, plural, one {# an} other {# ans}}"
+  },
+  "results": {
+    "heading": "Votre estimation",
+    "monthly": "Mensualité",
+    "monthlyAria": "Mensualité estimée : {value}",
+    "totalInterest": "Total des intérêts",
+    "totalCost": "Coût total du crédit",
+    "apr": "TAEG indicatif",
+    "financed": "Montant financé"
+  },
+  "chart": {
+    "title": "Répartition capital / intérêts",
+    "principal": "Capital",
+    "interest": "Intérêts"
+  },
+  "table": {
+    "show": "Voir le tableau d'amortissement",
+    "hide": "Masquer le tableau d'amortissement",
+    "caption": "Tableau d'amortissement échéance par échéance",
+    "period": "Échéance",
+    "payment": "Mensualité",
+    "principal": "Capital",
+    "interest": "Intérêts",
+    "balance": "Restant dû"
+  },
+  "actions": {
+    "email": "Recevoir ma simulation par e-mail",
+    "emailPlaceholder": "Votre adresse e-mail",
+    "emailSubmit": "Envoyer",
+    "emailSuccess": "Simulation envoyée. Vérifiez votre boîte de réception.",
+    "emailNote": "Nous utilisons votre e-mail uniquement pour vous transmettre cette simulation.",
+    "continue": "Continuer vers une demande"
+  },
+  "disclaimer": "Estimation indicative et non contractuelle, hors assurance et frais éventuels, sous réserve d'étude et d'acceptation de votre dossier. Le TAEG définitif figurera sur votre offre de contrat."
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Najczęstsze pytania — Spark loan",
+    "description": "Szanse, oprocentowanie, bezpieczeństwo, terminy: jasne odpowiedzi, bez obietnic."
+  },
+  "title": "Najczęstsze pytania",
+  "intro": "Jasne odpowiedzi na najczęstsze pytania, bez owijania w bawełnę i bez obietnic.",
+  "searchLabel": "Szukaj pytania",
+  "searchPlaceholder": "Szukaj pytania…",
+  "empty": "Żadne pytanie nie pasuje do wyszukiwania.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Szanse",
+      "items": [
+        {
+          "q": "Czy mogę wziąć kredyt mając wpis w rejestrze?",
+          "a": "Klasyczny kredyt przyznawany na podstawie punktacji zostanie odrzucony, ale finansowanie z zabezpieczeniem można rozpatrzyć. Sprawdzenie szans mówi uczciwie, na jakim etapie jesteś."
+        },
+        {
+          "q": "Czy akceptujecie samozatrudnionych bez trzech lat sprawozdań?",
+          "a": "Tak, pod warunkami: ugruntowana działalność i regularne obroty mogą to zrekompensować."
+        },
+        {
+          "q": "Czy umowa na czas określony lub tymczasowa dyskwalifikuje?",
+          "a": "Nie. Krótka umowa osłabia wniosek, ale nie czyni go niemożliwym, zwłaszcza przy stażu w tej samej branży lub ze współkredytobiorcą."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Oprocentowanie i koszty",
+      "items": [
+        {
+          "q": "Czy RRSO jest gwarantowane z góry?",
+          "a": "Nie. Pokazane stopy są orientacyjne. Ostateczne RRSO znajdzie się w ofercie umowy, po analizie."
+        },
+        {
+          "q": "Dlaczego RRSO jest wyższe niż pokazana stopa?",
+          "a": "RRSO to stopa efektywna obejmująca opłaty i ewentualne ubezpieczenie: to normalne, że jest wyższa niż samo oprocentowanie."
+        },
+        {
+          "q": "Czy są opłaty przygotowawcze?",
+          "a": "Zależnie od produktu. Ewentualne opłaty są jasno wskazane w ofercie, przed podpisaniem."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Bezpieczeństwo i dane",
+      "items": [
+        {
+          "q": "Co robicie z moimi danymi?",
+          "a": "Służą wyłącznie do analizy wniosku i są przeglądane tylko przez osoby odpowiedzialne za analizę, zgodnie z polityką prywatności."
+        },
+        {
+          "q": "Czy moje odpowiedzi w symulatorze są wysyłane?",
+          "a": "Nie. Dopóki nie wyślesz wniosku, Twoje odpowiedzi pozostają na urządzeniu."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Proces i terminy",
+      "items": [
+        {
+          "q": "Ile trwa analiza?",
+          "a": "Zapowiadamy jasny termin analizy i dotrzymujemy go. Bez sztucznego pośpiechu, bez odliczania."
+        },
+        {
+          "q": "Czy sprawdzenie szans to zgoda na kredyt?",
+          "a": "Nie. To uczciwa wskazówka, bez zobowiązań i bez pokazanej punktacji: to nie decyzja kredytowa."
+        },
+        {
+          "q": "Czy mogę wznowić wniosek później?",
+          "a": "Tak. Twoje odpowiedzi są zapisywane na urządzeniu, gdy je uzupełniasz, i usuwane po wysłaniu."
+        }
+      ]
+    }
+  ]
+}

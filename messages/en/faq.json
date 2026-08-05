@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Frequently asked questions — Spark loan",
+    "description": "Eligibility, rates, safety, timing: clear answers, no promises."
+  },
+  "title": "Frequently asked questions",
+  "intro": "Clear answers to the questions we hear most, without spin and without promises.",
+  "searchLabel": "Search a question",
+  "searchPlaceholder": "Search a question…",
+  "empty": "No question matches your search.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Eligibility",
+      "items": [
+        {
+          "q": "Can I borrow while listed for a credit incident?",
+          "a": "Classic credit granted on a score will be refused, but financing backed by collateral can be studied. The eligibility check tells you honestly where you stand."
+        },
+        {
+          "q": "Do you accept the self-employed without three years of accounts?",
+          "a": "Yes, under conditions: an established business and steady statements can make up for the missing accounts."
+        },
+        {
+          "q": "Is a fixed-term or temp contract a deal-breaker?",
+          "a": "No. A short contract weakens the file but does not make it impossible, especially with track record in the same field or a co-borrower."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Rates and costs",
+      "items": [
+        {
+          "q": "Is the APR guaranteed in advance?",
+          "a": "No. The rates shown are indicative. The final APR appears on your contract offer, after review of your file."
+        },
+        {
+          "q": "Why is the APR higher than the rate shown?",
+          "a": "The APR is an effective rate that includes fees and any insurance: it is normal for it to be higher than the borrowing rate alone."
+        },
+        {
+          "q": "Are there arrangement fees?",
+          "a": "Depending on the product. Any fees are stated clearly in the offer, before you sign."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Safety and data",
+      "items": [
+        {
+          "q": "What do you do with my data?",
+          "a": "It is used only to review your request and is accessed only by the people in charge of the review, in line with the privacy policy."
+        },
+        {
+          "q": "Are my simulator answers sent?",
+          "a": "No. Until you submit a request, your answers stay on your device."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Journey and timing",
+      "items": [
+        {
+          "q": "How long does the review take?",
+          "a": "A clear review time is stated, and we stick to it. No artificial urgency, no countdown."
+        },
+        {
+          "q": "Is the eligibility check a credit approval?",
+          "a": "No. It is honest guidance, without commitment or a shown score: it is not a credit decision."
+        },
+        {
+          "q": "Can I resume my application later?",
+          "a": "Yes. Your answers are saved on your device while you finish, and cleared on submission."
+        }
+      ]
+    }
+  ]
+}

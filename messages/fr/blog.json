@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Conseils — Spark loan",
+    "description": "Des repères concrets sur le crédit, écrits pour un lecteur qui vient d'essuyer un refus."
+  },
+  "title": "Conseils",
+  "intro": "Des repères concrets sur le crédit, écrits pour un lecteur qui vient d'essuyer un refus. Factuel, sans promesse.",
+  "filterAll": "Tous",
+  "categories": {
+    "fichage": "Fichage",
+    "rachat": "Rachat de crédit",
+    "budget": "Budget",
+    "comprendre": "Comprendre",
+    "garanties": "Garanties",
+    "profils": "Profils"
+  },
+  "minutes": "{count} min de lecture",
+  "byAuthor": "Par {author}",
+  "readMore": "Lire l'article",
+  "backToList": "Tous les conseils",
+  "suggestedTitle": "À lire aussi",
+  "shareTitle": "Partager",
+  "empty": "Aucun article dans cette catégorie.",
+  "cta": {
+    "title": "Un doute sur votre dossier ?",
+    "body": "Faites la Lecture : une orientation honnête, en quelques minutes, sans engagement.",
+    "action": "Faire ma Lecture"
+  },
+  "pagination": {
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page {current} sur {total}"
+  }
+}

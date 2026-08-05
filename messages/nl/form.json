@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Aanvragen — Spark loan",
+    "description": "Dien uw financieringsaanvraag in vijf stappen in. Uw gegevens blijven op uw toestel tot u verzendt."
+  },
+  "title": "Uw financieringsaanvraag",
+  "subtitle": "Vijf korte stappen. U kunt altijd teruggaan.",
+  "savedNote": "Uw antwoorden worden op dit toestel opgeslagen terwijl u afwerkt. Er wordt niets verzonden vóór uw bevestiging.",
+  "clearSaved": "Wissen en opnieuw beginnen",
+  "progress": "Stap {current} van {total}",
+  "steps": {
+    "project": "Project",
+    "personal": "Persoonlijke situatie",
+    "professional": "Arbeidssituatie",
+    "contact": "Contactgegevens",
+    "summary": "Overzicht"
+  },
+  "fields": {
+    "projectType": "Type project",
+    "amount": "Gewenst bedrag (€)",
+    "durationMonths": "Gewenste looptijd (maanden)",
+    "maritalStatus": "Gezinssituatie",
+    "dependents": "Personen ten laste",
+    "housingStatus": "Woning",
+    "monthlyIncome": "Netto maandinkomen (€)",
+    "monthlyCharges": "Maandelijkse lasten en leningen (€)",
+    "employmentStatus": "Arbeidssituatie",
+    "seniority": "Anciënniteit in deze situatie",
+    "profession": "Beroep (optioneel)",
+    "incident": "Geregistreerde betalingsachterstand",
+    "firstName": "Voornaam",
+    "lastName": "Naam",
+    "email": "E-mailadres",
+    "phone": "Telefoon",
+    "postalCode": "Postcode",
+    "city": "Plaats",
+    "select": "Kies…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Herfinanciering",
+      "tresorerie": "Liquiditeit",
+      "immobilier": "Woningaankoop",
+      "travaux": "Verbouwing",
+      "auto": "Voertuig",
+      "consommation": "Persoonlijk project",
+      "professionnel": "Zakelijk project"
+    },
+    "maritalStatus": {
+      "celibataire": "Alleenstaand",
+      "marie": "Gehuwd",
+      "pacse": "Samenlevingscontract",
+      "divorce": "Gescheiden",
+      "veuf": "Weduwe/weduwnaar"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Eigenaar, zonder lopende lening",
+      "proprietaireAvecCredit": "Eigenaar, met een lopende lening",
+      "locataire": "Huurder",
+      "heberge": "Inwonend"
+    },
+    "employmentStatus": {
+      "cdi": "Vast contract",
+      "cdd": "Tijdelijk of uitzendwerk",
+      "independant": "Zelfstandig",
+      "retraite": "Gepensioneerd",
+      "sansEmploi": "Zonder werk"
+    },
+    "seniority": {
+      "moins1an": "Minder dan een jaar",
+      "1a3ans": "1 tot 3 jaar",
+      "plus3ans": "Meer dan 3 jaar"
+    },
+    "incident": {
+      "oui": "Ja",
+      "non": "Nee",
+      "inconnu": "Weet ik niet"
+    }
+  },
+  "errors": {
+    "required": "Dit veld is verplicht.",
+    "amountMin": "Het bedrag moet minstens {min} € zijn.",
+    "amountMax": "Het bedrag mag niet meer dan {max} € zijn.",
+    "durationMin": "De looptijd moet minstens {min} maanden zijn.",
+    "durationMax": "De looptijd mag niet meer dan {max} maanden zijn.",
+    "positive": "Geef een bedrag van 0 of meer op.",
+    "name": "Geef minstens 2 tekens op.",
+    "email": "Geef een geldig e-mailadres op.",
+    "phone": "Geef een geldig telefoonnummer op.",
+    "postalCode": "Geef een geldige postcode op.",
+    "consent": "Uw toestemming is nodig om de aanvraag te beoordelen."
+  },
+  "summary": {
+    "title": "Controleer uw gegevens",
+    "edit": "Wijzigen"
+  },
+  "consent": {
+    "label": "Ik geef toestemming om mijn aanvraag op basis van deze gegevens te beoordelen. Mijn financiële situatiegegevens zijn gevoelig en worden alleen ingezien door de personen belast met de beoordeling, conform het privacybeleid."
+  },
+  "actions": {
+    "back": "Terug",
+    "next": "Doorgaan",
+    "submit": "Mijn aanvraag verzenden",
+    "sending": "Bezig met verzenden…"
+  },
+  "submitError": "Verzenden mislukt. Controleer uw verbinding en probeer opnieuw.",
+  "confirmation": {
+    "meta": {
+      "title": "Aanvraag verzonden — Spark loan",
+      "description": "Uw financieringsaanvraag is geregistreerd. Een aanspreekpunt bekijkt uw dossier."
+    },
+    "title": "Uw aanvraag is geregistreerd",
+    "body": "Een aanspreekpunt bekijkt uw dossier en neemt binnen de aangekondigde termijn contact op. Er is zojuist een bevestigingsmail naar u verstuurd.",
+    "referenceLabel": "Uw referentie",
+    "whatNextTitle": "Wat er nu gebeurt",
+    "whatNext": [
+      "We controleren de elementen van uw dossier.",
+      "Een aanspreekpunt neemt contact op voor de beoordeling.",
+      "U ontvangt binnen de aangegeven termijn een gemotiveerd antwoord."
+    ],
+    "ctaHome": "Terug naar home"
+  }
+}

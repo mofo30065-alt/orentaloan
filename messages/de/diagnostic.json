@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Eignungsprüfung — Spark loan",
+    "description": "In wenigen Fragen eine ehrliche Lesung Ihrer Unterlagen: ernsthafte Aussicht, zu stärken oder derzeit nicht machbar. Eine Orientierung, keine Kreditentscheidung."
+  },
+  "intro": {
+    "eyebrow": "Das Signatur-Werkzeug",
+    "title": "Die Lesung Ihrer Unterlagen",
+    "subtitle": "Sieben Fragen, zwei Minuten. Wir sagen Ihnen ehrlich, wo Ihre Unterlagen stehen, mit dem Grund und den verbleibenden Wegen.",
+    "note": "Dies ist eine Orientierung, keine Kreditentscheidung. Kein Score, keine Verpflichtung, keine Datenweitergabe ohne Ihr Einverständnis.",
+    "start": "Lesung starten"
+  },
+  "ui": {
+    "progress": "Frage {current} von {total}",
+    "back": "Zurück",
+    "next": "Weiter",
+    "result": "Meine Lesung ansehen",
+    "restart": "Neu beginnen",
+    "required": "Wählen Sie eine Antwort, um fortzufahren."
+  },
+  "questions": {
+    "project": { "label": "Was ist Ihr Vorhaben?" },
+    "employment": { "label": "Wie ist Ihre berufliche Situation?" },
+    "seniority": { "label": "Seit wann sind Sie in dieser Situation?" },
+    "monthlyIncome": { "label": "Ihr monatliches Nettoeinkommen", "help": "Haushaltseinkommen aus allen Quellen." },
+    "monthlyCharges": { "label": "Ihre laufenden Ausgaben und Kredite", "help": "Miete, Unterhalt, Raten bereits laufender Kredite." },
+    "ownership": { "label": "Sind Sie Eigentümer Ihrer Wohnung?" },
+    "incident": { "label": "Liegt ein Zahlungsvorfall auf Ihren Namen vor?", "help": "Negativeintrag bei einer Kreditauskunftei." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Umschuldung",
+      "tresorerie": "Liquidität / Barmittelbedarf",
+      "immobilier": "Immobilienkauf",
+      "travaux": "Renovierung / Modernisierung",
+      "auto": "Fahrzeug",
+      "consommation": "Kauf / privates Vorhaben",
+      "professionnel": "Geschäftliches Vorhaben"
+    },
+    "employment": {
+      "cdi": "Unbefristet",
+      "cdd": "Befristet oder Zeitarbeit",
+      "independant": "Selbstständig",
+      "retraite": "In Rente",
+      "sansEmploi": "Ohne Beschäftigung"
+    },
+    "seniority": { "moins1an": "Weniger als ein Jahr", "1a3ans": "1 bis 3 Jahre", "plus3ans": "Mehr als 3 Jahre" },
+    "ownership": {
+      "proprietaireSansCredit": "Eigentümer, ohne laufenden Kredit",
+      "proprietaireAvecCredit": "Eigentümer, mit laufendem Kredit",
+      "locataire": "Mieter",
+      "heberge": "Untergebracht"
+    },
+    "incident": { "oui": "Ja", "non": "Nein", "inconnu": "Weiß nicht" }
+  },
+  "number": { "suffix": "€ / Monat" },
+  "states": {
+    "go": { "label": "Ernsthafte Aussicht", "description": "Die vorliegenden Elemente erlauben die Prüfung eines Antrags." },
+    "work": { "label": "Unterlagen zu stärken", "description": "Ein konkreter Punkt bremst heute. Er lässt sich lösen." },
+    "stop": { "label": "Derzeit nicht machbar", "description": "Eine Finanzierung ist heute nicht realistisch. Hier eine nützlichere Orientierung." }
+  },
+  "result": {
+    "title": "Ihre Lesung",
+    "reasonLabel": "Was hervorsticht",
+    "leversLabel": "Was die Antwort ändern könnte",
+    "resourceLabel": "Eine nützliche Anlaufstelle",
+    "productLabel": "Die zu prüfende Finanzierung",
+    "productLink": "Diese Finanzierung ansehen",
+    "note": "Diese Lesung ist eine Orientierung, keine Kreditentscheidung. Maßgeblich ist allein die Prüfung Ihrer vollständigen Unterlagen.",
+    "ctaSimulate": "Meine Rate schätzen",
+    "ctaRequest": "Weiter zum Antrag",
+    "ctaRestart": "Lesung erneut ausführen"
+  },
+  "reasons": {
+    "insufficientCapacity": "Derzeit deckt das angegebene Einkommen keine neue Rate, ohne Ihr Budget zu belasten.",
+    "unemployedOwner": "Ohne Erwerbseinkommen muss sich die Finanzierung auf den Wert Ihrer Immobilie stützen.",
+    "unemployedNoAsset": "Ohne Erwerbseinkommen und ohne Sicherheit ist heute keine Finanzierung realistisch.",
+    "filedWithProperty": "Der Eintrag blockiert den klassischen Kredit, doch eine durch Ihre Immobilie besicherte Umschuldung kann geprüft werden.",
+    "filedNoCollateral": "Ein Negativeintrag ohne Sicherheit verschließt den Zugang zum Kredit, solange er besteht.",
+    "highDebtRatioOwner": "Ihre Ausgaben wiegen schwer, doch eine Umschuldung rund um Ihre Immobilie kann das Budget entlasten.",
+    "tightCapacity": "Ihre Rückzahlungsfähigkeit ist knapp: Die Unterlagen tragen, sofern sie gestärkt werden.",
+    "youngIndependant": "Ihre Tätigkeit ist jung: Kreditgeber erwarten meist mehr Historie und Abschlüsse.",
+    "shortContract": "Ein kurzer Vertrag schwächt die Unterlagen aus Sicht eines Kreditgebers, macht sie aber nicht unmöglich.",
+    "shortSeniority": "Ihre Betriebszugehörigkeit ist noch kurz: Ein paar Monate mehr stärken die Unterlagen deutlich.",
+    "healthyStable": "Stabile Lage und gesunde Rückzahlungsfähigkeit: Ihre Unterlagen starten gut.",
+    "healthyIndependant": "Etablierte Tätigkeit und gesunde Fähigkeit: Ihre Selbstständigen-Unterlagen starten gut.",
+    "checkFiling": "Ihre Lage ist günstig; zu klären bleibt ein möglicher Eintrag, bevor es weitergeht."
+  },
+  "levers": {
+    "consolidate": "Laufende Kredite umschulden, um die Gesamtrate zu senken.",
+    "reduceCharges": "Eine wiederkehrende Ausgabe verringern, bevor Sie Ihren Antrag stellen.",
+    "addDownPayment": "Eigenmittel einbringen, um den finanzierten Betrag zu senken.",
+    "coBorrower": "Einen Mitantragsteller stellen, um das Einkommen der Unterlagen zu stärken.",
+    "gainSeniority": "Ein paar Monate mehr Betriebszugehörigkeit gewinnen.",
+    "propertyAppraisal": "Ihre Immobilie bewerten lassen, um die verfügbare Sicherheit einzuschätzen.",
+    "provideBilans": "Ihre Abschlüsse zusammenstellen, um die Beständigkeit Ihres Einkommens zu belegen.",
+    "waitDelisting": "Die Löschung des Eintrags abwarten oder dessen Bereinigung beantragen.",
+    "verifyFiling": "Ihre Lage bei der Kreditauskunftei prüfen (kostenloses Auskunftsrecht)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "Die zuständige Stelle informiert Sie kostenlos über Ihren Eintrag und die Wege zur Bereinigung.",
+    "debtCounseling": "Eine Schuldnerberatung kann helfen, die Lage zu ordnen, bevor Sie einen Kredit aufnehmen."
+  }
+}

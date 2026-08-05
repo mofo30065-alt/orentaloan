@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Spark loan — un credit evaluat pe situația ta reală",
+    "description": "Instituție de credit specializată pentru dosarele refuzate de bănci. Evaluare pe baza unor fapte reale, de la caz la caz."
+  },
+  "hero": {
+    "eyebrow": "Instituție de credit specializată",
+    "title": "Un credit evaluat pe <mark>situația ta reală</mark>, nu pe un scor.",
+    "subtitle": "Studiem dosare pe care băncile le refuză adesea. Fiecare decizie se bazează pe fapte concrete, dosar cu dosar — fără promisiunea aprobării.",
+    "ctaPrimary": "Verifică eligibilitatea mea",
+    "ctaSecondary": "Estimează o rată"
+  },
+  "situation": {
+    "eyebrow": "Situația ta",
+    "title": "Cui i se adresează această finanțare",
+    "intro": "Aceste profiluri sunt adesea refuzate în altă parte. Aici sunt studiate, pe baza garanțiilor și veniturilor reale.",
+    "items": [
+      "Înscris în registrul incidentelor de plată",
+      "Refinanțare cu garanție ipotecară",
+      "Persoană fizică autorizată fără trei bilanțuri",
+      "Contracte scurte: pe durată determinată, temporar",
+      "Senior, activ sau pensionar",
+      "Trezorerie de firmă tensionată"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Finanțarea noastră",
+    "title": "Începem cu ceea ce se sprijină pe o garanție.",
+    "intro": "Finanțarea garantată de un activ rămâne accesibilă când scorul blochează. Creditele clasice urmează.",
+    "alsoTitle": "Disponibile și",
+    "allLink": "Vezi toate finanțările"
+  },
+  "advantages": {
+    "eyebrow": "Cum lucrăm",
+    "title": "Ce se schimbă, concret",
+    "items": [
+      {
+        "title": "O decizie pe situația ta",
+        "desc": "Citim dosarul tău real — venituri, garanții, istoric — în loc de un scor automat."
+      },
+      {
+        "title": "O persoană, nu un ghișeu",
+        "desc": "Un interlocutor îți urmărește dosarul și îți explică fiecare criteriu, fără jargon."
+      },
+      {
+        "title": "Un răspuns într-un termen clar",
+        "desc": "Anunțăm un termen de analiză și îl respectăm. Fără urgență artificială."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Cum funcționează",
+    "title": "Cinci pași, în această ordine",
+    "items": [
+      {
+        "title": "Verificarea eligibilității",
+        "desc": "Șapte întrebări pentru a ști cinstit unde se află dosarul tău."
+      },
+      {
+        "title": "Simularea",
+        "desc": "Estimezi o rată și un cost total, în timp real."
+      },
+      {
+        "title": "Cererea",
+        "desc": "Completezi un dosar în cinci pași, în ritmul tău."
+      },
+      {
+        "title": "Analiza",
+        "desc": "Un interlocutor examinează situația ta reală și documentele."
+      },
+      {
+        "title": "Decizia",
+        "desc": "Primești un răspuns motivat și, dacă e cazul, oferta."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Instrumentul distinctiv",
+    "title": "Citirea dosarului tău",
+    "intro": "Câteva întrebări și îți spunem cinstit unde se află dosarul — cu motivul și ce ar putea schimba răspunsul.",
+    "states": {
+      "go": {
+        "label": "Pistă serioasă",
+        "desc": "Elementele adunate permit studierea unei cereri."
+      },
+      "work": {
+        "label": "Dosar de consolidat",
+        "desc": "Un punct anume frânează azi. Iată cum se rezolvă."
+      },
+      "stop": {
+        "label": "Momentan imposibil",
+        "desc": "Te orientăm către o resursă mai utilă decât un dosar sortit refuzului."
+      }
+    },
+    "note": "O orientare, nu o decizie de creditare. Fără scor, fără angajament.",
+    "cta": "Fă Citirea mea"
+  },
+  "testimonials": {
+    "eyebrow": "Au trecut prin asta",
+    "title": "Dosare luate în serios",
+    "items": [
+      {
+        "quote": "Refuzat de două ori la ghișeu pentru un contract pe durată determinată. Aici s-au uitat la cei trei ani de muncă temporară în același domeniu.",
+        "name": "Karim B.",
+        "role": "Temporar, refinanțare",
+        "rating": 5
+      },
+      {
+        "quote": "Independentă de optsprezece luni, fără cele trei bilanțuri obișnuite. Creditul s-a sprijinit pe apartamentul meu.",
+        "name": "Léa M.",
+        "role": "Independentă, credit ipotecar",
+        "rating": 5
+      },
+      {
+        "quote": "Mi s-a spus clar ce bloca și ce să pregătesc. Am depus din nou trei luni mai târziu și a mers.",
+        "name": "Daniel R.",
+        "role": "Senior, credit pentru renovare",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "În cifre",
+    "title": "Repere, nu promisiuni",
+    "note": "Cifre orientative, fără angajament, pot fi modificate.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "termen de analiză anunțat"
+      },
+      {
+        "value": "7",
+        "label": "întrebări pentru o verificare"
+      },
+      {
+        "value": "10",
+        "label": "piețe în zona euro"
+      },
+      {
+        "value": "14",
+        "label": "tipuri de finanțare studiate"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Legitimitatea noastră",
+    "title": "Verificabilă, nu decorativă",
+    "intro": "Pe această piață, transparența este argumentul. Iată cum ne poți verifica.",
+    "items": [
+      "Autorizată de BNR (nr. RG-PJR-12-123456)",
+      "Membră a CSALB",
+      "Agenție în București, Calea Victoriei 100, 010065"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Transparența la vedere",
+    "title": "Un exemplu cu cifre, fără asterisc ascuns",
+    "intro": "Fiecare simulare arată un exemplu reprezentativ complet, fără asterisc ascuns."
+  },
+  "blog": {
+    "eyebrow": "Sfaturile noastre",
+    "title": "Înțelege înainte să te angajezi",
+    "allLink": "Toate sfaturile",
+    "items": []
+  },
+  "finalCta": {
+    "title": "Începe prin a ști unde se află dosarul tău.",
+    "cta": "Fă Citirea mea"
+  }
+}

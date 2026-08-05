@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact — Spark loan",
+    "description": "Bereik ons per telefoon, e-mail of op kantoor. Online afspraak boeken."
+  },
+  "title": "Contact",
+  "intro": "Een vraag over uw dossier? Schrijf of bel ons. Een persoon, geen loket.",
+  "form": {
+    "title": "Schrijf ons",
+    "name": "Naam",
+    "email": "E-mailadres",
+    "subject": "Onderwerp (optioneel)",
+    "message": "Uw bericht",
+    "submit": "Bericht verzenden",
+    "sending": "Bezig met verzenden…",
+    "success": "Bericht verzonden. We antwoorden snel.",
+    "error": "Verzenden mislukt. Controleer uw verbinding en probeer opnieuw."
+  },
+  "errors": {
+    "required": "Dit veld is verplicht.",
+    "email": "Geef een geldig e-mailadres op.",
+    "message": "Uw bericht moet minstens 10 tekens bevatten."
+  },
+  "info": {
+    "title": "Bereik ons",
+    "phone": "Telefoon",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Openingsuren",
+    "agenciesTitle": "Onze kantoren",
+    "bookingTitle": "Afspraak boeken",
+    "bookingBody": "Kies een moment met een adviseur, op kantoor of telefonisch.",
+    "bookingCta": "Reserveren"
+  }
+}

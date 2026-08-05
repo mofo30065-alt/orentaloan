@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Questions fréquentes — Spark loan",
+    "description": "Éligibilité, taux, sécurité, délais : les réponses claires, sans promesse."
+  },
+  "title": "Questions fréquentes",
+  "intro": "Les réponses claires aux questions qu'on nous pose le plus, sans détour et sans promesse.",
+  "searchLabel": "Rechercher une question",
+  "searchPlaceholder": "Rechercher une question…",
+  "empty": "Aucune question ne correspond à votre recherche.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Éligibilité",
+      "items": [
+        {
+          "q": "Puis-je emprunter en étant fiché FICP ?",
+          "a": "Le crédit classique accordé sur score sera refusé, mais un financement adossé à une garantie peut être étudié. Le pré-diagnostic vous dit honnêtement où vous en êtes."
+        },
+        {
+          "q": "Acceptez-vous les indépendants sans trois bilans ?",
+          "a": "Oui, sous conditions : une activité établie et des relevés réguliers peuvent compenser l'absence de trois bilans."
+        },
+        {
+          "q": "Un CDD ou de l'intérim, est-ce éliminatoire ?",
+          "a": "Non. Un contrat court fragilise le dossier mais ne le rend pas impossible, surtout avec de l'ancienneté dans la même branche ou un co-emprunteur."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Taux et coûts",
+      "items": [
+        {
+          "q": "Le TAEG est-il garanti à l'avance ?",
+          "a": "Non. Les taux affichés sont indicatifs. Le TAEG définitif figure sur votre offre de contrat, après étude de votre dossier."
+        },
+        {
+          "q": "Pourquoi le TAEG est-il plus élevé que le taux affiché ?",
+          "a": "Le TAEG est un taux effectif qui intègre les frais et l'assurance éventuelle : il est normal qu'il soit supérieur au seul taux débiteur."
+        },
+        {
+          "q": "Y a-t-il des frais de dossier ?",
+          "a": "Selon le produit. Les frais éventuels sont indiqués clairement dans l'offre, avant toute signature."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Sécurité et données",
+      "items": [
+        {
+          "q": "Que faites-vous de mes données ?",
+          "a": "Elles servent uniquement à étudier votre demande et ne sont consultées que par les personnes chargées de l'étude, conformément à la politique de confidentialité."
+        },
+        {
+          "q": "Mes réponses au simulateur sont-elles envoyées ?",
+          "a": "Non. Tant que vous ne validez pas de demande, vos réponses restent sur votre appareil."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Parcours et délais",
+      "items": [
+        {
+          "q": "Combien de temps dure l'étude ?",
+          "a": "Un délai d'étude clair vous est annoncé, et nous nous y tenons. Aucune urgence artificielle, aucun compte à rebours."
+        },
+        {
+          "q": "Le pré-diagnostic est-il un accord de crédit ?",
+          "a": "Non. C'est une orientation honnête, sans engagement ni score affiché : ce n'est pas une décision de crédit."
+        },
+        {
+          "q": "Puis-je reprendre ma demande plus tard ?",
+          "a": "Oui. Vos réponses sont enregistrées sur votre appareil le temps de finir, et effacées à l'envoi."
+        }
+      ]
+    }
+  ]
+}

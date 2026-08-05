@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Advice — Spark loan",
+    "description": "Concrete pointers about credit, written for a reader who has just been refused."
+  },
+  "title": "Advice",
+  "intro": "Concrete pointers about credit, written for a reader who has just been refused. Factual, no promises.",
+  "filterAll": "All",
+  "categories": {
+    "fichage": "Credit listing",
+    "rachat": "Debt consolidation",
+    "securite": "Safety"
+  },
+  "minutes": "{count} min read",
+  "byAuthor": "By {author}",
+  "readMore": "Read the article",
+  "backToList": "All advice",
+  "suggestedTitle": "Read also",
+  "shareTitle": "Share",
+  "empty": "No article in this category.",
+  "cta": {
+    "title": "Unsure about your file?",
+    "body": "Run the Reading: honest guidance, in a few minutes, with no commitment.",
+    "action": "Run my Reading"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {current} of {total}"
+  }
+}

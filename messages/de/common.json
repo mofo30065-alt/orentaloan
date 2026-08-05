@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Spezialisierter Kreditgeber"
+  },
+  "skipToContent": "Zum Inhalt springen",
+  "nav": {
+    "home": "Start",
+    "credits": "Kredite",
+    "simulator": "Rechner",
+    "diagnostic": "Eignung prüfen",
+    "blog": "Ratgeber",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "simulate": "Kredit berechnen",
+    "diagnostic": "Meine Eignung prüfen",
+    "simulateShort": "Rate schätzen"
+  },
+  "phone": {
+    "label": "Rufen Sie uns an",
+    "display": "+49 30 0000000",
+    "number": "+49300000000"
+  },
+  "trust": {
+    "licensed": "Zugelassen {agrement}",
+    "licensedPlaceholder": "BaFin-ID 100123456",
+    "address": "Echte, erreichbare Adresse"
+  },
+  "localeSwitcher": {
+    "label": "Sprache",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "Wir setzen keinen Tracker ohne Ihre Einwilligung. Annehmen oder Ablehnen ist gleich einfach.",
+    "link": "Mehr erfahren",
+    "accept": "Alle annehmen",
+    "refuse": "Alle ablehnen"
+  },
+  "footer": {
+    "tagline": "Wir prüfen die Unterlagen, die andere ablehnen — auf Basis echter Fakten.",
+    "colProducts": "Finanzierung",
+    "colCompany": "Das Unternehmen",
+    "colLegal": "Rechtliches",
+    "colContact": "Kontakt",
+    "legal": {
+      "mentions": "Impressum",
+      "privacy": "Datenschutz",
+      "cookies": "Cookies",
+      "terms": "Nutzungsbedingungen",
+      "faq": "FAQ"
+    },
+    "company": {
+      "about": "Wer wir sind",
+      "commitments": "Unsere Zusagen",
+      "blog": "Ratgeber"
+    },
+    "newsletter": {
+      "title": "Unsere Orientierungshilfen",
+      "help": "Konkrete Kriterien zum Kredit, ohne aufdringlichen Verkauf.",
+      "placeholder": "Ihre E-Mail-Adresse",
+      "action": "Abonnieren"
+    },
+    "rights": "© {year} {brand}. Alle Rechte vorbehalten.",
+    "publisher": "Spark Finance Deutschland GmbH mit Stammkapital von 1.000.000 € — HRB 123456 — Friedrichstraße 68, 10117 Berlin"
+  }
+}

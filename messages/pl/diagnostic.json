@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Sprawdzenie szans — Spark loan",
+    "description": "W kilku pytaniach uczciwy odczyt Twojego wniosku: realna szansa, wniosek do wzmocnienia lub obecnie niemożliwe. Wskazówka, nie decyzja kredytowa."
+  },
+  "intro": {
+    "eyebrow": "Nasze wyróżniające narzędzie",
+    "title": "Odczyt Twojego wniosku",
+    "subtitle": "Siedem pytań, dwie minuty. Uczciwie mówimy, na jakim etapie jest wniosek, z powodem i pozostałymi drogami.",
+    "note": "To wskazówka, nie decyzja kredytowa. Bez punktacji, bez zobowiązań, bez udostępniania danych bez Twojej zgody.",
+    "start": "Rozpocznij Odczyt"
+  },
+  "ui": {
+    "progress": "Pytanie {current} z {total}",
+    "back": "Wstecz",
+    "next": "Dalej",
+    "result": "Zobacz mój Odczyt",
+    "restart": "Zacznij od nowa",
+    "required": "Wybierz odpowiedź, aby kontynuować."
+  },
+  "questions": {
+    "project": { "label": "Jaki jest Twój cel?" },
+    "employment": { "label": "Jaka jest Twoja sytuacja zawodowa?" },
+    "seniority": { "label": "Od jak dawna jesteś w tej sytuacji?" },
+    "monthlyIncome": { "label": "Twój miesięczny dochód netto", "help": "Dochód gospodarstwa, ze wszystkich źródeł." },
+    "monthlyCharges": { "label": "Twoje wydatki i bieżące kredyty", "help": "Czynsz, alimenty, raty już trwających kredytów." },
+    "ownership": { "label": "Czy jesteś właścicielem mieszkania?" },
+    "incident": { "label": "Czy na Twoje nazwisko jest zaległość?", "help": "Wpis w rejestrze niespłaconych zobowiązań." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Konsolidacja kredytów",
+      "tresorerie": "Płynność",
+      "immobilier": "Zakup nieruchomości",
+      "travaux": "Remont",
+      "auto": "Pojazd",
+      "consommation": "Zakup / cel osobisty",
+      "professionnel": "Cel biznesowy"
+    },
+    "employment": {
+      "cdi": "Umowa na czas nieokreślony",
+      "cdd": "Na czas określony lub tymczasowa",
+      "independant": "Samozatrudniony",
+      "retraite": "Emeryt",
+      "sansEmploi": "Bez pracy"
+    },
+    "seniority": { "moins1an": "Mniej niż rok", "1a3ans": "Od 1 do 3 lat", "plus3ans": "Ponad 3 lata" },
+    "ownership": {
+      "proprietaireSansCredit": "Właściciel, bez bieżącego kredytu",
+      "proprietaireAvecCredit": "Właściciel, z bieżącym kredytem",
+      "locataire": "Najemca",
+      "heberge": "Zakwaterowany"
+    },
+    "incident": { "oui": "Tak", "non": "Nie", "inconnu": "Nie wiem" }
+  },
+  "number": { "suffix": "€ / mies." },
+  "states": {
+    "go": { "label": "Realna szansa", "description": "Zebrane elementy pozwalają rozpatrzyć wniosek." },
+    "work": { "label": "Wniosek do wzmocnienia", "description": "Jeden konkretny punkt dziś hamuje. Da się go rozwiązać." },
+    "stop": { "label": "Obecnie niemożliwe", "description": "Finansowanie nie jest dziś realistyczne. Oto bardziej przydatna wskazówka." }
+  },
+  "result": {
+    "title": "Twój Odczyt",
+    "reasonLabel": "Co się wyróżnia",
+    "leversLabel": "Co mogłoby zmienić odpowiedź",
+    "resourceLabel": "Przydatne źródło",
+    "productLabel": "Finansowanie do rozważenia",
+    "productLink": "Zobacz to finansowanie",
+    "note": "Ten odczyt to wskazówka, nie decyzja kredytowa. Rozstrzygająca jest tylko analiza pełnego wniosku.",
+    "ctaSimulate": "Oszacuj moją ratę",
+    "ctaRequest": "Przejdź do wniosku",
+    "ctaRestart": "Powtórz Odczyt"
+  },
+  "reasons": {
+    "insufficientCapacity": "Obecnie zadeklarowane dochody nie pokrywają nowej raty bez osłabienia Twojego budżetu.",
+    "unemployedOwner": "Bez dochodu z pracy finansowanie musi opierać się na wartości Twojej nieruchomości.",
+    "unemployedNoAsset": "Bez dochodu z pracy i bez zabezpieczenia żadne finansowanie nie jest dziś realistyczne.",
+    "filedWithProperty": "Wpis blokuje klasyczny kredyt, ale konsolidację zabezpieczoną Twoją nieruchomością można rozpatrzyć.",
+    "filedNoCollateral": "Wpis bez zabezpieczenia zamyka dostęp do kredytu, dopóki obowiązuje.",
+    "highDebtRatioOwner": "Twoje wydatki mocno ciążą, ale konsolidacja kredytów wokół nieruchomości może odciążyć budżet.",
+    "tightCapacity": "Twoja zdolność spłaty jest napięta: wniosek się broni, pod warunkiem wzmocnienia.",
+    "youngIndependant": "Twoja działalność jest młoda: kredytodawcy zwykle oczekują dłuższego stażu i sprawozdań.",
+    "shortContract": "Krótka umowa osłabia wniosek w oczach kredytodawcy, nie czyniąc go niemożliwym.",
+    "shortSeniority": "Twój staż jest jeszcze krótki: kilka miesięcy więcej wyraźnie wzmocni wniosek.",
+    "healthyStable": "Stabilna sytuacja i zdrowa zdolność spłaty: Twój wniosek zaczyna dobrze.",
+    "healthyIndependant": "Ugruntowana działalność i zdrowa zdolność: Twój wniosek jako samozatrudnionego zaczyna dobrze.",
+    "checkFiling": "Twoja sytuacja jest korzystna; pozostaje rozwiać wątpliwość co do ewentualnego wpisu, zanim pójdziesz dalej."
+  },
+  "levers": {
+    "consolidate": "Skonsolidować bieżące kredyty, aby obniżyć łączną ratę.",
+    "reduceCharges": "Zmniejszyć powtarzalny wydatek przed złożeniem wniosku.",
+    "addDownPayment": "Wnieść własne środki, aby obniżyć finansowaną kwotę.",
+    "coBorrower": "Przedstawić współkredytobiorcę, aby wzmocnić dochód wniosku.",
+    "gainSeniority": "Zyskać kilka miesięcy dłuższego stażu w swojej sytuacji.",
+    "propertyAppraisal": "Zlecić wycenę nieruchomości, aby ocenić dostępne zabezpieczenie.",
+    "provideBilans": "Zebrać sprawozdania, aby udokumentować regularność dochodów.",
+    "waitDelisting": "Poczekać na wykreślenie wpisu lub wystąpić o jego uregulowanie.",
+    "verifyFiling": "Sprawdzić swoją sytuację w rejestrze kredytowym (bezpłatne prawo dostępu)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "Właściwy organ bezpłatnie informuje o Twoim wpisie i drogach uregulowania.",
+    "debtCounseling": "Doradztwo budżetowe może pomóc uporządkować sytuację przed jakimkolwiek kredytem."
+  }
+}

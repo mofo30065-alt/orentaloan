@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Spark loan — un prestito valutato sulla tua situazione reale",
+    "description": "Istituto di credito specializzato per pratiche rifiutate dalle banche tradizionali. Valutazione su fatti reali, caso per caso."
+  },
+  "hero": {
+    "eyebrow": "Istituto di credito specializzato",
+    "title": "Un prestito valutato sulla tua <mark>situazione reale</mark>, non su un punteggio.",
+    "subtitle": "Studiamo pratiche che le banche tradizionali spesso rifiutano. Ogni decisione si basa su fatti concreti, pratica per pratica — senza promesse di approvazione.",
+    "ctaPrimary": "Verifica la mia idoneità",
+    "ctaSecondary": "Stima una rata"
+  },
+  "situation": {
+    "eyebrow": "La tua situazione",
+    "title": "A chi si rivolge questo finanziamento",
+    "intro": "Questi profili vengono spesso rifiutati altrove. Qui vengono studiati, in base a garanzie e redditi reali.",
+    "items": [
+      "Segnalato in una centrale rischi",
+      "Consolidamento debiti con garanzia ipotecaria",
+      "Autonomo senza tre bilanci",
+      "Contratti brevi: a termine, interinale",
+      "Senior, attivo o in pensione",
+      "Liquidità aziendale sotto pressione"
+    ]
+  },
+  "credits": {
+    "eyebrow": "I nostri finanziamenti",
+    "title": "Partiamo da ciò che poggia su una garanzia.",
+    "intro": "Il finanziamento garantito da un bene resta accessibile quando il punteggio blocca. I prestiti classici seguono.",
+    "alsoTitle": "Disponibili anche",
+    "allLink": "Vedi tutti i finanziamenti"
+  },
+  "advantages": {
+    "eyebrow": "Il nostro modo di lavorare",
+    "title": "Cosa cambia, concretamente",
+    "items": [
+      {
+        "title": "Una decisione sulla tua situazione",
+        "desc": "Leggiamo la tua pratica reale — reddito, garanzie, storico — invece di un punteggio automatico."
+      },
+      {
+        "title": "Una persona, non uno sportello",
+        "desc": "Un referente segue la tua pratica e ti spiega ogni criterio, senza gergo."
+      },
+      {
+        "title": "Una risposta in tempi chiari",
+        "desc": "Annunciamo un tempo di analisi e lo rispettiamo. Nessuna urgenza artificiale."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Come funziona",
+    "title": "Cinque passi, in quest'ordine",
+    "items": [
+      {
+        "title": "La verifica di idoneità",
+        "desc": "Sette domande per sapere onestamente dove si trova la tua pratica."
+      },
+      {
+        "title": "La simulazione",
+        "desc": "Stimi una rata e un costo totale, in tempo reale."
+      },
+      {
+        "title": "La richiesta",
+        "desc": "Completi la pratica in cinque passi, al tuo ritmo."
+      },
+      {
+        "title": "L'analisi",
+        "desc": "Un referente esamina la tua situazione reale e i tuoi documenti."
+      },
+      {
+        "title": "La decisione",
+        "desc": "Ricevi una risposta motivata e, se del caso, l'offerta."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Lo strumento distintivo",
+    "title": "La Lettura della tua pratica",
+    "intro": "Poche domande e ti diciamo onestamente dove si trova la tua pratica — con il motivo e ciò che potrebbe cambiare la risposta.",
+    "states": {
+      "go": {
+        "label": "Ipotesi seria",
+        "desc": "Gli elementi raccolti permettono di studiare una richiesta."
+      },
+      "work": {
+        "label": "Pratica da rafforzare",
+        "desc": "Un punto preciso frena oggi. Ecco come risolverlo."
+      },
+      "stop": {
+        "label": "Non fattibile per ora",
+        "desc": "Ti orientiamo verso una risorsa più utile di una pratica destinata al rifiuto."
+      }
+    },
+    "note": "Un orientamento, non una decisione di credito. Nessun punteggio, nessun impegno.",
+    "cta": "Fai la mia Lettura"
+  },
+  "testimonials": {
+    "eyebrow": "Ci sono passati",
+    "title": "Pratiche prese sul serio",
+    "items": [
+      {
+        "quote": "Rifiutato due volte in filiale per un contratto a termine. Qui hanno guardato i miei tre anni di interinale nello stesso settore.",
+        "name": "Karim B.",
+        "role": "Interinale, consolidamento debiti",
+        "rating": 5
+      },
+      {
+        "quote": "Autonoma da diciotto mesi, senza i tre bilanci abituali. Il prestito si è basato sul mio appartamento.",
+        "name": "Léa M.",
+        "role": "Autonoma, prestito ipotecario",
+        "rating": 5
+      },
+      {
+        "quote": "Mi hanno detto chiaramente cosa bloccava e cosa preparare. Ho ripresentato tre mesi dopo ed è andata.",
+        "name": "Daniel R.",
+        "role": "Senior, prestito ristrutturazione",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "In cifre",
+    "title": "Riferimenti, non promesse",
+    "note": "Cifre indicative, senza impegno, soggette a modifiche.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "tempo di analisi annunciato"
+      },
+      {
+        "value": "7",
+        "label": "domande per una verifica"
+      },
+      {
+        "value": "10",
+        "label": "mercati nell'area euro"
+      },
+      {
+        "value": "14",
+        "label": "tipi di finanziamento studiati"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "La nostra legittimità",
+    "title": "Verificabile, non decorativa",
+    "intro": "In questo mercato la trasparenza è l'argomento. Ecco come verificarci.",
+    "items": [
+      "Autorizzata dalla Banca d'Italia (n. 19123)",
+      "Aderente all'Arbitro Bancario Finanziario (ABF)",
+      "Filiale a Milano, Corso Buenos Aires 15, 20124"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "La trasparenza in chiaro",
+    "title": "Un esempio con numeri, senza asterischi nascosti",
+    "intro": "Ogni simulazione mostra un esempio rappresentativo completo, senza asterischi nascosti."
+  },
+  "blog": {
+    "eyebrow": "I nostri consigli",
+    "title": "Capire prima di impegnarsi",
+    "allLink": "Tutti i consigli",
+    "items": []
+  },
+  "finalCta": {
+    "title": "Inizia col sapere dove si trova la tua pratica.",
+    "cta": "Fai la mia Lettura"
+  }
+}

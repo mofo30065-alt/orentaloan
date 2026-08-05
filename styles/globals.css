@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * Tokens sémantiques en canaux RGB (voir CLAUDE.md §7.2).
+ * Les composants ne consomment JAMAIS un hex : ils passent par ces variables
+ * exposées comme couleurs Tailwind (bg, surface, text, brand, accent, border...).
+ */
+:root {
+  --bg: 246 244 251; /* papier-lavande clair  #F6F4FB */
+  --surface: 252 251 254; /* craie quasi-blanche   #FCFBFE */
+  --text: 31 22 51; /* encre aubergine       #1F1633 */
+  --text-muted: 107 98 128; /* mauve neutre          #6B6280 */
+  --brand: 75 46 147; /* violet profond        #4B2E93 */
+  --on-brand: 255 255 255; /* blanc */
+  --accent: 124 86 230; /* violet vif (signature) #7C56E6 */
+  --on-accent: 255 255 255; /* blanc */
+  --border: 231 226 245; /* brume-lavande         #E7E2F5 */
+  --danger: 180 40 63; /* alerte carmin         #B4283F */
+}
+
+:root[data-theme='dark'] {
+  --bg: 18 12 36; /* nuit-violette         #120C24 */
+  --surface: 30 22 64; /* surface violette      #1E1640 */
+  --text: 243 239 251; /* os-lilas pâle         #F3EFFB */
+  --text-muted: 167 156 196; /* mauve pâle            #A79CC4 */
+  --brand: 124 92 224; /* violet éclairci       #7C5CE0 */
+  --on-brand: 255 255 255;
+  --accent: 155 123 255; /* violet vif clair      #9B7BFF */
+  --on-accent: 255 255 255;
+  --border: 50 42 85; /* bordure violette      #322A55 */
+  --danger: 224 99 122; /* alerte douce          #E0637A */
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-bg text-text font-sans antialiased;
+    font-feature-settings: 'kern';
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display font-medium text-text;
+    text-wrap: balance;
+  }
+
+  /* Chiffres alignés partout où ils comptent (taux, mensualités, tableaux). */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent ring-offset-2 ring-offset-bg;
+  }
+
+  ::selection {
+    background-color: rgb(var(--accent) / 0.28);
+  }
+}
+
+@layer components {
+  /*
+   * Motif signature : soulignement violet fin qui « souligne le vrai critère ».
+   * Couleur = token (--accent), jamais un hex en dur.
+   */
+  .u-mark {
+    background-image: linear-gradient(rgb(var(--accent) / 0.55), rgb(var(--accent) / 0.55));
+    background-repeat: no-repeat;
+    background-size: 100% 0.24em;
+    background-position: 0 88%;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+  }
+
+  .animate-marquee {
+    animation: marquee 18s linear infinite;
+    will-change: transform;
+  }
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

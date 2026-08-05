@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact — Spark loan",
+    "description": "Nous joindre par téléphone, e-mail ou en agence. Prise de rendez-vous en ligne."
+  },
+  "title": "Contact",
+  "intro": "Une question sur votre dossier ? Écrivez-nous ou appelez-nous. Un interlocuteur, pas un guichet.",
+  "form": {
+    "title": "Écrivez-nous",
+    "name": "Nom",
+    "email": "Adresse e-mail",
+    "subject": "Objet (facultatif)",
+    "message": "Votre message",
+    "submit": "Envoyer le message",
+    "sending": "Envoi en cours…",
+    "success": "Message envoyé. Nous vous répondons rapidement.",
+    "error": "L'envoi a échoué. Vérifiez votre connexion et réessayez."
+  },
+  "errors": {
+    "required": "Ce champ est requis.",
+    "email": "Indiquez une adresse e-mail valide.",
+    "message": "Votre message doit contenir au moins 10 caractères."
+  },
+  "info": {
+    "title": "Nous joindre",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Horaires",
+    "agenciesTitle": "Nos agences",
+    "bookingTitle": "Prendre rendez-vous",
+    "bookingBody": "Choisissez un créneau avec un conseiller, en agence ou par téléphone.",
+    "bookingCta": "Réserver un créneau"
+  }
+}

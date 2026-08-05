@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Wyspecjalizowana instytucja kredytowa"
+  },
+  "skipToContent": "Przejdź do treści",
+  "nav": {
+    "home": "Start",
+    "credits": "Kredyty",
+    "simulator": "Symulator",
+    "diagnostic": "Sprawdź szanse",
+    "blog": "Porady",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "simulate": "Symuluj mój kredyt",
+    "diagnostic": "Sprawdź moje szanse",
+    "simulateShort": "Oszacuj ratę"
+  },
+  "phone": {
+    "label": "Zadzwoń do nas",
+    "display": "+48 22 000 00 00",
+    "number": "+48220000000"
+  },
+  "trust": {
+    "licensed": "Z licencją {agrement}",
+    "licensedPlaceholder": "KNF nr RIP 12345",
+    "address": "Prawdziwy, osiągalny adres"
+  },
+  "localeSwitcher": {
+    "label": "Język",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Pliki cookie",
+    "message": "Nie używamy żadnego trackera bez Twojej zgody. Akceptacja i odrzucenie są równie proste.",
+    "link": "Dowiedz się więcej",
+    "accept": "Zaakceptuj wszystko",
+    "refuse": "Odrzuć wszystko"
+  },
+  "footer": {
+    "tagline": "Analizujemy wnioski, które inni odrzucają, na podstawie realnych faktów.",
+    "colProducts": "Finansowanie",
+    "colCompany": "Firma",
+    "colLegal": "Informacje prawne",
+    "colContact": "Kontakt",
+    "legal": {
+      "mentions": "Nota prawna",
+      "privacy": "Prywatność",
+      "cookies": "Pliki cookie",
+      "terms": "Warunki korzystania",
+      "faq": "Najczęstsze pytania"
+    },
+    "company": {
+      "about": "Kim jesteśmy",
+      "commitments": "Nasze zobowiązania",
+      "blog": "Porady"
+    },
+    "newsletter": {
+      "title": "Otrzymuj nasze wskazówki",
+      "help": "Konkretne kryteria dotyczące kredytu, bez nachalnej sprzedaży.",
+      "placeholder": "Twój adres e-mail",
+      "action": "Zapisz się"
+    },
+    "rights": "© {year} {brand}. Wszelkie prawa zastrzeżone.",
+    "publisher": "Spark Finance Polska S.A. o kapitale 5 000 000 zł — KRS 0001234567 — ul. Marszałkowska 100, 00-026 Warszawa"
+  }
+}

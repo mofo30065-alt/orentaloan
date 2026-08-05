@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Porady — Spark loan",
+    "description": "Konkretne wskazówki o kredycie, napisane dla kogoś, kto właśnie dostał odmowę."
+  },
+  "title": "Porady",
+  "intro": "Konkretne wskazówki o kredycie, napisane dla kogoś, kto właśnie dostał odmowę. Rzeczowo, bez obietnic.",
+  "filterAll": "Wszystkie",
+  "categories": {
+    "fichage": "Rejestry",
+    "rachat": "Konsolidacja",
+    "budget": "Budżet",
+    "comprendre": "Zrozumieć",
+    "garanties": "Zabezpieczenia",
+    "profils": "Profile"
+  },
+  "minutes": "{count} min czytania",
+  "byAuthor": "Autor: {author}",
+  "readMore": "Czytaj artykuł",
+  "backToList": "Wszystkie porady",
+  "suggestedTitle": "Przeczytaj też",
+  "shareTitle": "Udostępnij",
+  "empty": "Brak artykułów w tej kategorii.",
+  "cta": {
+    "title": "Wątpliwości co do wniosku?",
+    "body": "Zrób Odczyt: uczciwa wskazówka, w kilka minut, bez zobowiązań.",
+    "action": "Zrób mój Odczyt"
+  },
+  "pagination": { "previous": "Poprzednia", "next": "Następna", "page": "Strona {current} z {total}" }
+}

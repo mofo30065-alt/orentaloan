@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "title": "Nos financements — Spark loan",
+    "description": "14 financements étudiés sur votre situation réelle. Les crédits adossés à une garantie ou un actif restent accessibles après un refus bancaire."
+  },
+  "index": {
+    "eyebrow": "Nos financements",
+    "title": "Un financement pour chaque situation",
+    "intro": "Nous mettons en avant les crédits adossés à une garantie ou à un actif : ils restent accessibles quand le score bloque. Les financements classiques suivent.",
+    "featuredTitle": "À privilégier après un refus",
+    "classicTitle": "Financements classiques"
+  },
+  "common": {
+    "amounts": "Montants",
+    "duration": "Durées",
+    "range": "de {min} à {max}",
+    "monthsRange": "de {min} à {max} mois",
+    "rateTableTitle": "Taux indicatifs par durée",
+    "rateDuration": "Durée",
+    "rateFixed": "Taux fixe",
+    "rateVariable": "Taux variable",
+    "rateNote": "Taux indicatifs, non contractuels, susceptibles d'évoluer et soumis à l'étude de votre dossier.",
+    "eligibilityTitle": "Conditions d'éligibilité",
+    "eligibleTitle": "Accessible si…",
+    "notEligibleTitle": "Pas adapté si…",
+    "documentsTitle": "Documents à fournir",
+    "faqTitle": "Questions fréquentes",
+    "casesTitle": "Cas concret",
+    "simulatorTitle": "Estimer ce financement",
+    "representativeTitle": "Exemple représentatif",
+    "ctaSimulate": "Simuler ce financement",
+    "ctaDiagnostic": "Vérifier mon éligibilité",
+    "ctaRequest": "Faire une demande",
+    "ctaFinalTitle": "On étudie votre dossier, pas votre score.",
+    "models": {
+      "revolving": "Le crédit renouvelable ne s'amortit pas comme un prêt classique : son coût dépend de votre usage et de la vitesse de remboursement. Utilisez le simulateur général avec prudence, ou parlez-en à un conseiller.",
+      "leasing": "En LOA, vous réglez des loyers puis, en option, une valeur résiduelle. Le calcul dépend du bien et de sa valeur de reprise ; un conseiller établit un loyer précis.",
+      "bridge": "Le prêt relais se rembourse in fine, à la vente de votre bien. Son coût dépend de la durée réelle jusqu'à la vente et du montant avancé.",
+      "factoring": "L'affacturage n'est pas un prêt : vous cédez des factures contre une avance, moyennant une commission. Le coût dépend de votre volume et de vos délais de paiement."
+    }
+  },
+  "products": {
+    "rachat-credit": {
+      "name": "Rachat de crédit",
+      "teaser": "Regrouper vos crédits en une seule mensualité, adossée à votre bien si nécessaire.",
+      "heroSubtitle": "Regrouper vos crédits en une mensualité unique, adossée à votre bien lorsque c'est nécessaire.",
+      "description": "Le rachat de crédit réunit vos prêts en cours en un seul, avec une mensualité réduite et une durée réétalée. Adossé à un bien, il reste étudiable même après un incident de paiement.",
+      "eligible": [
+        "Propriétaire souhaitant regrouper plusieurs crédits",
+        "Budget tendu avec un bien à mobiliser en garantie",
+        "Situation professionnelle variée, indépendant compris"
+      ],
+      "notEligible": [
+        "Locataire sans garant et taux d'endettement déjà très élevé",
+        "Aucun crédit existant à regrouper"
+      ],
+      "documents": [
+        "Pièce d'identité en cours de validité",
+        "Tableaux d'amortissement des crédits à regrouper",
+        "Trois derniers relevés de compte",
+        "Justificatif de propriété ou taxe foncière"
+      ],
+      "faq": [
+        {
+          "q": "Le rachat efface-t-il une inscription FICP ?",
+          "a": "Non. Il peut solder les crédits à l'origine de l'incident, ce qui peut mener à une levée, mais aucune radiation n'est automatique ni garantie."
+        },
+        {
+          "q": "Jusqu'où peut-on allonger la durée ?",
+          "a": "Jusqu'à 420 mois pour un rachat adossé à un bien immobilier, dans la limite de votre capacité de remboursement."
+        },
+        {
+          "q": "Puis-je ajouter une trésorerie ?",
+          "a": "Oui, une enveloppe supplémentaire peut être intégrée si votre garantie et vos revenus le permettent."
+        }
+      ],
+      "case": {
+        "title": "Regroupement de trois crédits",
+        "detail": "80 000 € regroupés sur 180 mois : une mensualité unique remplace trois échéances, pour un coût réétalé et connu d'avance."
+      }
+    },
+    "pret-travaux": {
+      "name": "Prêt travaux",
+      "teaser": "Financer une rénovation, y compris des travaux énergétiques.",
+      "heroSubtitle": "Financer une rénovation, y compris des travaux d'économie d'énergie.",
+      "description": "Le prêt travaux finance l'amélioration de votre logement, du rafraîchissement à la rénovation énergétique. Il peut compléter les aides publiques.",
+      "eligible": [
+        "Propriétaire occupant ou bailleur",
+        "Projet de rénovation énergétique éligible aux aides",
+        "Revenus réguliers, même modestes, avec devis à l'appui"
+      ],
+      "notEligible": [
+        "Travaux sans devis ni justificatif d'usage",
+        "Capacité de remboursement déjà saturée"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Devis détaillés des travaux",
+        "Justificatif de domicile récent",
+        "Deux derniers avis d'imposition"
+      ],
+      "faq": [
+        {
+          "q": "Puis-je cumuler avec une aide publique à la rénovation ?",
+          "a": "Oui. Le prêt travaux complète les aides ; les montants perçus n'entrent pas dans le crédit."
+        },
+        {
+          "q": "Les fonds sont-ils versés en une fois ?",
+          "a": "Selon le chantier, un déblocage progressif sur présentation des factures est possible."
+        },
+        {
+          "q": "Faut-il être propriétaire ?",
+          "a": "Le plus souvent oui, mais un locataire réalisant des travaux avec accord du propriétaire peut être étudié."
+        }
+      ],
+      "case": {
+        "title": "Rénovation énergétique",
+        "detail": "25 000 € sur 84 mois pour une isolation et une pompe à chaleur, en complément des aides."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Prêt de trésorerie",
+      "teaser": "Passer un cap de trésorerie pour votre activité, sans immobiliser vos fonds.",
+      "heroSubtitle": "Passer un cap de trésorerie pour votre activité, sans immobiliser vos actifs.",
+      "description": "Le prêt de trésorerie couvre un besoin en fonds de roulement : décalage de paiement, charge saisonnière, coup dur passager. Étudié sur la réalité de votre activité.",
+      "eligible": [
+        "TPE, indépendant ou TNS avec une activité établie",
+        "Besoin ponctuel de BFR justifiable",
+        "Compte professionnel aux mouvements réguliers"
+      ],
+      "notEligible": [
+        "Activité créée depuis moins de six mois sans historique",
+        "Besoin structurel de long terme relevant d'un autre produit"
+      ],
+      "documents": [
+        "Extrait Kbis ou équivalent",
+        "Deux derniers bilans ou situation comptable",
+        "Relevés du compte professionnel",
+        "Pièce d'identité du dirigeant"
+      ],
+      "faq": [
+        {
+          "q": "Faut-il trois bilans ?",
+          "a": "Non. Une situation comptable récente et des relevés réguliers peuvent suffire à l'étude."
+        },
+        {
+          "q": "Quel délai de déblocage ?",
+          "a": "Après acceptation et signature de l'offre, les fonds sont versés dans les délais légaux."
+        },
+        {
+          "q": "Une garantie est-elle exigée ?",
+          "a": "Selon le montant, une caution du dirigeant ou une garantie peut être demandée."
+        }
+      ],
+      "case": {
+        "title": "Décalage de trésorerie",
+        "detail": "30 000 € sur 48 mois pour absorber un décalage de règlement client, remboursés au fil des encaissements."
+      }
+    },
+    "loa": {
+      "name": "LOA / Leasing",
+      "teaser": "Utiliser un véhicule ou un équipement sans l'acheter tout de suite.",
+      "heroSubtitle": "Utiliser un véhicule ou un équipement sans l'acheter, avec une option d'achat en fin de contrat.",
+      "description": "La location avec option d'achat vous fait payer des loyers pour l'usage d'un bien, avec la possibilité de l'acquérir à sa valeur résiduelle. La charge est étalée, le bien reste la garantie.",
+      "eligible": [
+        "Particulier ou professionnel voulant un usage sans achat immédiat",
+        "Revenus réguliers couvrant le loyer",
+        "Projet portant sur un véhicule ou un équipement identifiable"
+      ],
+      "notEligible": [
+        "Recherche d'un capital en liquide (la LOA finance un usage)",
+        "Bien non assurable ou difficilement revendable"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Justificatif de revenus",
+        "Bon de commande ou devis du bien",
+        "Justificatif de domicile"
+      ],
+      "faq": [
+        {
+          "q": "Suis-je propriétaire du bien ?",
+          "a": "Non pendant la location. Vous le devenez si vous levez l'option d'achat à la valeur résiduelle prévue."
+        },
+        {
+          "q": "L'entretien est-il inclus ?",
+          "a": "Selon le contrat ; certaines formules incluent l'entretien et l'assurance."
+        },
+        {
+          "q": "Puis-je rendre le bien à la fin ?",
+          "a": "Oui. Sans levée d'option, vous restituez le bien dans l'état prévu au contrat."
+        }
+      ],
+      "case": {
+        "title": "Véhicule en LOA",
+        "detail": "30 000 € de valeur, 48 loyers puis une valeur résiduelle : vous choisissez d'acheter ou de restituer."
+      }
+    },
+    "affacturage": {
+      "name": "Affacturage",
+      "teaser": "Convertir vos factures clients en trésorerie disponible immédiatement.",
+      "heroSubtitle": "Convertir vos factures clients en trésorerie disponible immédiatement.",
+      "description": "L'affacturage n'est pas un prêt : vous cédez vos factures à recouvrer contre une avance immédiate, moyennant une commission. Votre trésorerie suit votre chiffre d'affaires.",
+      "eligible": [
+        "Entreprise facturant des clients professionnels",
+        "Poste clients récurrent avec délais de paiement",
+        "Besoin de lisser la trésorerie sans s'endetter"
+      ],
+      "notEligible": [
+        "Activité B2C sans factures professionnelles",
+        "Créances litigieuses ou déjà échues"
+      ],
+      "documents": [
+        "Extrait Kbis",
+        "Balance clients récente",
+        "Exemples de factures et conditions de paiement",
+        "Pièce d'identité du dirigeant"
+      ],
+      "faq": [
+        {
+          "q": "Est-ce un crédit ?",
+          "a": "Non. C'est une cession de créances contre avance ; cela n'augmente pas votre endettement bancaire."
+        },
+        {
+          "q": "Qui relance mes clients ?",
+          "a": "Selon la formule, la relance et le recouvrement peuvent être délégués au factor."
+        },
+        {
+          "q": "Quel coût ?",
+          "a": "Une commission d'affacturage et une commission de financement, selon le volume et les délais. Le détail figure dans le contrat."
+        }
+      ],
+      "case": {
+        "title": "Avance sur factures",
+        "detail": "Un poste clients de 100 000 € financé sous quelques jours, au rythme de vos facturations."
+      }
+    },
+    "pret-relais": {
+      "name": "Prêt relais",
+      "teaser": "Acheter avant d'avoir vendu, le temps de la transition.",
+      "heroSubtitle": "Acheter un nouveau bien avant d'avoir vendu l'actuel, le temps de la transition.",
+      "description": "Le prêt relais avance une partie de la valeur de votre bien mis en vente. Vous remboursez le capital à la vente ; entre-temps, vous ne réglez le plus souvent que les intérêts.",
+      "eligible": [
+        "Propriétaire vendant un bien pour en acheter un autre",
+        "Bien mis en vente à une valeur réaliste",
+        "Capacité à assumer les intérêts pendant la période relais"
+      ],
+      "notEligible": [
+        "Bien difficile à vendre ou surévalué",
+        "Absence de projet d'achat concret en face"
+      ],
+      "documents": [
+        "Estimation ou mandat de vente du bien",
+        "Titre de propriété",
+        "Compromis ou projet d'achat",
+        "Pièce d'identité"
+      ],
+      "faq": [
+        {
+          "q": "Que se passe-t-il si je ne vends pas à temps ?",
+          "a": "Le prêt relais a une durée limitée (12 à 24 mois). Une solution de sortie est prévue et discutée dès le départ."
+        },
+        {
+          "q": "Combien puis-je obtenir ?",
+          "a": "En général une part prudente de la valeur estimée, pour tenir compte du marché."
+        },
+        {
+          "q": "Paie-t-on le capital chaque mois ?",
+          "a": "Non. Le capital est remboursé à la vente ; vous ne réglez que les intérêts, selon la formule choisie."
+        }
+      ],
+      "case": {
+        "title": "Achat avant vente",
+        "detail": "200 000 € avancés sur 12 mois en franchise partielle : vous ne payez que les intérêts jusqu'à la vente."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Prêt immobilier",
+      "teaser": "Financer un achat immobilier étudié sur votre situation réelle.",
+      "heroSubtitle": "Financer un achat immobilier étudié sur votre situation réelle, pas sur un score.",
+      "description": "Le prêt immobilier finance l'acquisition de votre résidence ou d'un investissement. Nous étudions les dossiers atypiques : indépendants, contrats courts, profils écartés ailleurs.",
+      "eligible": [
+        "Projet d'achat avec apport ou garantie",
+        "Revenus réguliers, non salariés compris",
+        "Profil atypique mais dossier solide par ailleurs"
+      ],
+      "notEligible": [
+        "Endettement dépassant nettement les seuils prudentiels sans garantie",
+        "Aucun apport ni bien à hypothéquer"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Compromis de vente",
+        "Trois derniers bulletins de salaire ou bilans",
+        "Relevés de comptes récents"
+      ],
+      "faq": [
+        {
+          "q": "Acceptez-vous les indépendants sans trois bilans ?",
+          "a": "Oui, sous conditions : une activité établie et des relevés réguliers peuvent compenser."
+        },
+        {
+          "q": "Un apport est-il obligatoire ?",
+          "a": "Pas systématiquement, mais il renforce nettement le dossier et le taux."
+        },
+        {
+          "q": "Le taux est-il fixe ?",
+          "a": "Fixe ou variable selon la durée ; le tableau ci-dessus donne des repères indicatifs."
+        }
+      ],
+      "case": {
+        "title": "Achat de résidence",
+        "detail": "200 000 € sur 240 mois : une mensualité connue d'avance, calculée au centime."
+      }
+    },
+    "credit-consommation": {
+      "name": "Crédit à la consommation",
+      "teaser": "Financer un projet personnel, du matériel ou un imprévu.",
+      "heroSubtitle": "Financer un projet personnel, du matériel ou un imprévu.",
+      "description": "Le crédit à la consommation finance un besoin identifié sans hypothéquer de bien. Montants et durées mesurés, étude sur votre budget réel.",
+      "eligible": [
+        "Revenus réguliers couvrant la mensualité",
+        "Projet personnel identifiable",
+        "Taux d'endettement maîtrisé"
+      ],
+      "notEligible": [
+        "Budget déjà tendu par d'autres crédits",
+        "Trésorerie demandée sans capacité de remboursement claire"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Justificatif de domicile",
+        "Deux derniers bulletins de salaire",
+        "Dernier avis d'imposition"
+      ],
+      "faq": [
+        {
+          "q": "Sous quel délai la réponse ?",
+          "a": "Un délai d'étude clair vous est annoncé, et nous nous y tenons."
+        },
+        {
+          "q": "Puis-je rembourser par anticipation ?",
+          "a": "Oui, à tout moment, dans les conditions légales prévues au contrat."
+        },
+        {
+          "q": "Un justificatif d'usage est-il exigé ?",
+          "a": "Selon le montant et le type de crédit ; nous vous le précisons à l'étude."
+        }
+      ],
+      "case": {
+        "title": "Projet personnel",
+        "detail": "15 000 € sur 48 mois : mensualité, coût total et TAEG affichés avant toute signature."
+      }
+    },
+    "pret-auto": {
+      "name": "Prêt auto",
+      "teaser": "Acheter un véhicule neuf ou d'occasion, avec une mensualité claire.",
+      "heroSubtitle": "Acheter un véhicule neuf ou d'occasion, avec une mensualité claire.",
+      "description": "Le prêt auto finance l'achat d'un véhicule. Le bien peut servir de garantie, ce qui ouvre le financement à des profils variés.",
+      "eligible": [
+        "Achat d'un véhicule neuf ou d'occasion identifiable",
+        "Revenus réguliers",
+        "Profil accepté grâce à la garantie du véhicule"
+      ],
+      "notEligible": [
+        "Véhicule sans facture ni carte grise exploitable",
+        "Capacité de remboursement insuffisante malgré la garantie"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Bon de commande ou certificat de cession",
+        "Justificatif de revenus",
+        "Justificatif de domicile"
+      ],
+      "faq": [
+        {
+          "q": "Neuf et occasion sont-ils financés ?",
+          "a": "Oui, avec des durées adaptées à l'âge du véhicule."
+        },
+        {
+          "q": "Le véhicule est-il gagé ?",
+          "a": "Selon la formule, un gage peut être pris comme garantie."
+        },
+        {
+          "q": "Puis-je financer l'assurance ?",
+          "a": "L'assurance emprunteur est facultative et peut être intégrée à la mensualité."
+        }
+      ],
+      "case": {
+        "title": "Voiture d'occasion",
+        "detail": "20 000 € sur 60 mois, garantis par le véhicule financé."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Crédit renouvelable",
+      "teaser": "Une réserve d'argent souple, à utiliser avec mesure.",
+      "heroSubtitle": "Une réserve d'argent souple, à utiliser avec mesure.",
+      "description": "Le crédit renouvelable met à disposition une réserve que vous utilisez librement et reconstituez au fil des remboursements. Souple mais coûteux : à réserver aux petits besoins ponctuels.",
+      "eligible": [
+        "Besoin ponctuel de faible montant",
+        "Capacité à rembourser vite pour limiter le coût",
+        "Revenus réguliers"
+      ],
+      "notEligible": [
+        "Projet long, où un prêt amortissable coûte bien moins cher",
+        "Difficulté à rembourser plus que les intérêts chaque mois"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Justificatif de domicile",
+        "Justificatif de revenus",
+        "Relevé de compte récent"
+      ],
+      "faq": [
+        {
+          "q": "Pourquoi le taux est-il élevé ?",
+          "a": "La souplesse a un coût. Plus vous remboursez vite, moins vous payez d'intérêts."
+        },
+        {
+          "q": "Suis-je obligé d'utiliser la réserve ?",
+          "a": "Non. Les intérêts ne courent que sur la somme réellement utilisée."
+        },
+        {
+          "q": "Est-ce adapté à un gros achat ?",
+          "a": "Rarement. Pour un projet, un prêt amortissable est presque toujours moins cher."
+        }
+      ],
+      "case": {
+        "title": "Petit besoin ponctuel",
+        "detail": "3 000 € utilisés puis remboursés en 24 mois : le coût dépend directement de votre rythme de remboursement."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Prêt étudiant",
+      "teaser": "Financer des études et leur coût de la vie.",
+      "heroSubtitle": "Financer des études et leur coût de la vie, avec un remboursement adapté.",
+      "description": "Le prêt étudiant finance frais de scolarité et vie courante, souvent avec un différé de remboursement pendant les études. Une caution renforce le dossier.",
+      "eligible": [
+        "Étudiant inscrit dans un établissement reconnu",
+        "Présence d'un garant ou d'une caution",
+        "Projet d'études cohérent avec le montant"
+      ],
+      "notEligible": [
+        "Absence de garant et de revenus futurs crédibles",
+        "Montant sans rapport avec le cursus"
+      ],
+      "documents": [
+        "Pièce d'identité",
+        "Certificat de scolarité ou attestation d'inscription",
+        "Justificatifs du garant",
+        "Justificatif de domicile"
+      ],
+      "faq": [
+        {
+          "q": "Puis-je différer le remboursement ?",
+          "a": "Oui, un différé partiel ou total pendant les études est fréquent ; les intérêts courent selon la formule."
+        },
+        {
+          "q": "Faut-il un garant ?",
+          "a": "C'est le plus souvent nécessaire et cela améliore nettement les conditions."
+        },
+        {
+          "q": "Le taux est-il avantageux ?",
+          "a": "Les taux étudiants figurent parmi les plus bas ; voir le tableau indicatif ci-dessus."
+        }
+      ],
+      "case": {
+        "title": "Financement d'un cursus",
+        "detail": "15 000 € sur 60 mois avec différé pendant les études, remboursés à l'entrée dans la vie active."
+      }
+    },
+    "financement-equipement": {
+      "name": "Financement d'équipement",
+      "teaser": "Financer machines, matériel ou véhicules professionnels.",
+      "heroSubtitle": "Financer machines, matériel ou véhicules professionnels sans grever votre trésorerie.",
+      "description": "Le financement d'équipement finance un actif productif, qui sert souvent de garantie. Il préserve votre trésorerie pour l'exploitation.",
+      "eligible": [
+        "Entreprise investissant dans un matériel identifiable",
+        "Actif revendable servant de garantie",
+        "Activité aux comptes réguliers"
+      ],
+      "notEligible": [
+        "Matériel obsolète ou difficilement revendable",
+        "Entreprise sans capacité de remboursement démontrable"
+      ],
+      "documents": [
+        "Extrait Kbis",
+        "Devis ou facture pro forma du matériel",
+        "Deux derniers bilans",
+        "Relevés du compte professionnel"
+      ],
+      "faq": [
+        {
+          "q": "Le matériel sert-il de garantie ?",
+          "a": "Souvent oui, ce qui facilite l'accord même pour une jeune structure."
+        },
+        {
+          "q": "Crédit ou leasing ?",
+          "a": "Les deux sont possibles ; un conseiller compare selon votre fiscalité et vos besoins."
+        },
+        {
+          "q": "Quelle durée ?",
+          "a": "Alignée sur la durée d'usage du matériel, jusqu'à 84 mois."
+        }
+      ],
+      "case": {
+        "title": "Achat de matériel",
+        "detail": "40 000 € sur 60 mois pour un équipement productif, gagé sur le bien financé."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Prêt création / reprise",
+      "teaser": "Financer le lancement ou la reprise d'une activité.",
+      "heroSubtitle": "Financer le lancement ou la reprise d'une activité, au-delà de l'apport personnel.",
+      "description": "Le prêt création-reprise complète vos fonds propres pour démarrer ou racheter une entreprise. Le dossier repose sur le projet, le prévisionnel et les garanties.",
+      "eligible": [
+        "Porteur de projet avec un business plan chiffré",
+        "Apport personnel ou co-financement",
+        "Reprise d'une activité aux comptes exploitables"
+      ],
+      "notEligible": [
+        "Projet sans apport, garantie ni prévisionnel",
+        "Secteur sans aucune visibilité de revenus"
+      ],
+      "documents": [
+        "Business plan et prévisionnel",
+        "Pièce d'identité",
+        "Justificatif d'apport",
+        "Compromis de reprise le cas échéant"
+      ],
+      "faq": [
+        {
+          "q": "Faut-il un apport ?",
+          "a": "Un apport, même modeste, est déterminant ; il peut être complété par des aides à la création."
+        },
+        {
+          "q": "Financez-vous une reprise ?",
+          "a": "Oui, sur la base des comptes de la cible et de votre plan de reprise."
+        },
+        {
+          "q": "Une garantie est-elle demandée ?",
+          "a": "Fréquemment, sous forme de caution du dirigeant ou de garantie d'un organisme dédié."
+        }
+      ],
+      "case": {
+        "title": "Reprise de fonds",
+        "detail": "60 000 € sur 60 mois en complément d'un apport, adossés au prévisionnel de reprise."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Immobilier professionnel",
+      "teaser": "Financer des murs commerciaux ou des locaux professionnels.",
+      "heroSubtitle": "Financer des murs commerciaux ou des locaux professionnels.",
+      "description": "Le crédit immobilier professionnel finance l'achat de locaux d'activité. Le bien constitue la garantie, ce qui ouvre le financement à des structures variées.",
+      "eligible": [
+        "Entreprise achetant ses murs ou un local d'exploitation",
+        "Bien professionnel servant de garantie",
+        "Comptes démontrant la capacité de remboursement"
+      ],
+      "notEligible": [
+        "Local sans usage professionnel réel",
+        "Endettement de la structure déjà critique"
+      ],
+      "documents": [
+        "Extrait Kbis",
+        "Compromis de vente des locaux",
+        "Deux derniers bilans",
+        "Relevés du compte professionnel"
+      ],
+      "faq": [
+        {
+          "q": "SCI ou société d'exploitation ?",
+          "a": "Les deux montages sont étudiés ; un conseiller vous oriente selon votre situation."
+        },
+        {
+          "q": "Quelle durée ?",
+          "a": "Jusqu'à 240 mois, selon le bien et la structure."
+        },
+        {
+          "q": "Taux fixe ou variable ?",
+          "a": "Les deux existent ; le tableau ci-dessus donne des repères indicatifs."
+        }
+      ],
+      "case": {
+        "title": "Achat des murs",
+        "detail": "300 000 € sur 180 mois pour acquérir un local, garantis par le bien lui-même."
+      }
+    }
+  }
+}

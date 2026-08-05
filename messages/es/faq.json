@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Preguntas frecuentes — Spark loan",
+    "description": "Elegibilidad, tipos, seguridad, plazos: respuestas claras, sin promesas."
+  },
+  "title": "Preguntas frecuentes",
+  "intro": "Respuestas claras a las preguntas más habituales, sin rodeos y sin promesas.",
+  "searchLabel": "Buscar una pregunta",
+  "searchPlaceholder": "Buscar una pregunta…",
+  "empty": "Ninguna pregunta coincide con tu búsqueda.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Elegibilidad",
+      "items": [
+        {
+          "q": "¿Puedo pedir un préstamo estando en un fichero de impagos?",
+          "a": "El crédito clásico concedido sobre puntuación será rechazado, pero una financiación con garantía puede estudiarse. El diagnóstico te dice con honestidad dónde estás."
+        },
+        {
+          "q": "¿Aceptáis a autónomos sin tres años de cuentas?",
+          "a": "Sí, bajo condiciones: una actividad consolidada y movimientos regulares pueden compensarlo."
+        },
+        {
+          "q": "¿Un contrato temporal o de ETT es eliminatorio?",
+          "a": "No. Un contrato corto fragiliza el expediente pero no lo hace imposible, sobre todo con antigüedad en el mismo sector o un coprestatario."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Tipos y costes",
+      "items": [
+        {
+          "q": "¿La TAE está garantizada de antemano?",
+          "a": "No. Los tipos mostrados son indicativos. La TAE definitiva figura en tu oferta de contrato, tras el estudio."
+        },
+        {
+          "q": "¿Por qué la TAE es más alta que el tipo mostrado?",
+          "a": "La TAE es un tipo efectivo que incluye los gastos y el seguro eventual: es normal que sea superior al solo tipo deudor."
+        },
+        {
+          "q": "¿Hay comisión de apertura?",
+          "a": "Según el producto. Los gastos eventuales se indican claramente en la oferta, antes de firmar."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Seguridad y datos",
+      "items": [
+        {
+          "q": "¿Qué hacéis con mis datos?",
+          "a": "Solo se usan para estudiar tu solicitud y solo los consultan las personas encargadas del estudio, conforme a la política de privacidad."
+        },
+        {
+          "q": "¿Se envían mis respuestas del simulador?",
+          "a": "No. Hasta que no validas una solicitud, tus respuestas permanecen en tu dispositivo."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Proceso y plazos",
+      "items": [
+        {
+          "q": "¿Cuánto dura el estudio?",
+          "a": "Se anuncia un plazo de estudio claro y lo cumplimos. Sin urgencia artificial, sin cuenta atrás."
+        },
+        {
+          "q": "¿El diagnóstico es una aprobación de crédito?",
+          "a": "No. Es una orientación honesta, sin compromiso ni puntuación mostrada: no es una decisión de crédito."
+        },
+        {
+          "q": "¿Puedo retomar mi solicitud más tarde?",
+          "a": "Sí. Tus respuestas se guardan en tu dispositivo mientras terminas, y se borran al enviar."
+        }
+      ]
+    }
+  ]
+}

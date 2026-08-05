@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "title": "Spark loan — kredyt oceniany na podstawie Twojej realnej sytuacji",
+    "description": "Wyspecjalizowana instytucja kredytowa dla wniosków odrzucanych przez banki. Ocena na podstawie realnych faktów, indywidualnie."
+  },
+  "hero": {
+    "eyebrow": "Wyspecjalizowana instytucja kredytowa",
+    "title": "Kredyt oceniany na podstawie Twojej <mark>realnej sytuacji</mark>, a nie punktacji.",
+    "subtitle": "Analizujemy wnioski, które banki często odrzucają. Każda decyzja opiera się na konkretnych faktach, wniosek po wniosku — bez obietnicy przyznania.",
+    "ctaPrimary": "Sprawdź moje szanse",
+    "ctaSecondary": "Oszacuj ratę"
+  },
+  "situation": {
+    "eyebrow": "Twoja sytuacja",
+    "title": "Dla kogo jest to finansowanie",
+    "intro": "Te profile są często odrzucane gdzie indziej. Tutaj są analizowane, na podstawie realnych zabezpieczeń i dochodów.",
+    "items": [
+      "Wpis w rejestrze niespłaconych zobowiązań",
+      "Konsolidacja z zabezpieczeniem hipotecznym",
+      "Samozatrudniony bez trzech lat sprawozdań",
+      "Krótkie umowy: na czas określony, tymczasowe",
+      "Senior, pracujący lub emeryt",
+      "Napięta płynność firmy"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Nasze finansowanie",
+    "title": "Zaczynamy od tego, co opiera się na zabezpieczeniu.",
+    "intro": "Finansowanie zabezpieczone aktywem pozostaje dostępne, gdy punktacja blokuje. Kredyty klasyczne w dalszej kolejności.",
+    "alsoTitle": "Dostępne również",
+    "allLink": "Zobacz wszystkie finansowania"
+  },
+  "advantages": {
+    "eyebrow": "Jak pracujemy",
+    "title": "Co realnie się zmienia",
+    "items": [
+      {
+        "title": "Decyzja o Twojej sytuacji",
+        "desc": "Czytamy Twój realny wniosek — dochody, zabezpieczenia, historię — zamiast automatycznej punktacji."
+      },
+      {
+        "title": "Osoba, nie okienko",
+        "desc": "Jeden opiekun prowadzi Twój wniosek i wyjaśnia każde kryterium, bez żargonu."
+      },
+      {
+        "title": "Odpowiedź w jasnym terminie",
+        "desc": "Zapowiadamy termin analizy i dotrzymujemy go. Bez sztucznego pośpiechu."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Jak to działa",
+    "title": "Pięć kroków, w tej kolejności",
+    "items": [
+      {
+        "title": "Sprawdzenie szans",
+        "desc": "Siedem pytań, aby uczciwie wiedzieć, na jakim etapie jest wniosek."
+      },
+      {
+        "title": "Symulacja",
+        "desc": "Szacujesz ratę i całkowity koszt, w czasie rzeczywistym."
+      },
+      {
+        "title": "Wniosek",
+        "desc": "Wypełniasz wniosek w pięciu krokach, we własnym tempie."
+      },
+      {
+        "title": "Analiza",
+        "desc": "Opiekun bada Twoją realną sytuację i dokumenty."
+      },
+      {
+        "title": "Decyzja",
+        "desc": "Otrzymujesz uzasadnioną odpowiedź i, w razie potrzeby, ofertę."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Nasze wyróżniające narzędzie",
+    "title": "Odczyt Twojego wniosku",
+    "intro": "Kilka pytań i uczciwie mówimy, na jakim etapie jest wniosek — z powodem i tym, co mogłoby zmienić odpowiedź.",
+    "states": {
+      "go": {
+        "label": "Realna szansa",
+        "desc": "Zebrane elementy pozwalają rozpatrzyć wniosek."
+      },
+      "work": {
+        "label": "Wniosek do wzmocnienia",
+        "desc": "Jeden konkretny punkt dziś hamuje. Oto jak go rozwiązać."
+      },
+      "stop": {
+        "label": "Obecnie niemożliwe",
+        "desc": "Kierujemy Cię do bardziej przydatnego źródła niż wniosek skazany na odrzucenie."
+      }
+    },
+    "note": "To wskazówka, nie decyzja kredytowa. Bez punktacji, bez zobowiązań.",
+    "cta": "Zrób mój Odczyt"
+  },
+  "testimonials": {
+    "eyebrow": "Oni przez to przeszli",
+    "title": "Wnioski potraktowane poważnie",
+    "items": [
+      {
+        "quote": "Dwa razy odrzucony w oddziale przez umowę na czas określony. Tutaj spojrzano na moje trzy lata pracy tymczasowej w tej samej branży.",
+        "name": "Karim B.",
+        "role": "Pracownik tymczasowy, konsolidacja",
+        "rating": 5
+      },
+      {
+        "quote": "Samozatrudniona od osiemnastu miesięcy, bez zwykłych trzech sprawozdań. Kredyt oparto na moim mieszkaniu.",
+        "name": "Léa M.",
+        "role": "Samozatrudniona, kredyt hipoteczny",
+        "rating": 5
+      },
+      {
+        "quote": "Jasno powiedziano mi, co blokuje i co przygotować. Złożyłem ponownie trzy miesiące później i się udało.",
+        "name": "Daniel R.",
+        "role": "Senior, kredyt na remont",
+        "rating": 4
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "W liczbach",
+    "title": "Wskazówki, nie obietnice",
+    "note": "Dane orientacyjne, bez zobowiązań, mogą ulec zmianie.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "zapowiedziany termin analizy"
+      },
+      {
+        "value": "7",
+        "label": "pytań w sprawdzeniu szans"
+      },
+      {
+        "value": "10",
+        "label": "rynków w strefie euro"
+      },
+      {
+        "value": "14",
+        "label": "analizowanych rodzajów finansowania"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Nasza wiarygodność",
+    "title": "Weryfikowalna, nie dekoracyjna",
+    "intro": "Na tym rynku przejrzystość to argument. Oto jak nas zweryfikować.",
+    "items": [
+      "Licencja KNF (nr RIP 12345)",
+      "Członek instytucji Rzecznika Finansowego",
+      "Oddział w Warszawie, ul. Marszałkowska 100, 00-026"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Przejrzystość na widoku",
+    "title": "Przykład z liczbami, bez ukrytej gwiazdki",
+    "intro": "Każda symulacja pokazuje pełny przykład reprezentatywny, bez ukrytej gwiazdki."
+  },
+  "blog": {
+    "eyebrow": "Nasze porady",
+    "title": "Zrozum, zanim się zwiążesz",
+    "allLink": "Wszystkie porady",
+    "items": []
+  },
+  "finalCta": {
+    "title": "Zacznij od tego, by wiedzieć, na jakim etapie jest Twój wniosek.",
+    "cta": "Zrób mój Odczyt"
+  }
+}

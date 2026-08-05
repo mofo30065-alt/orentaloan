@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Simulatore di prestito — Spark loan",
+    "description": "Stima la rata, il costo totale e il TAEG indicativo. Cifre indicative, non contrattuali, salvo approvazione."
+  },
+  "title": "Simulatore di prestito",
+  "subtitle": "Regola i parametri: tutto si ricalcola in tempo reale. Gli importi sono indicativi.",
+  "fields": {
+    "amount": { "label": "Importo del prestito", "help": "Il capitale che desideri richiedere." },
+    "duration": { "label": "Durata del rimborso", "help": "Una durata più lunga riduce la rata ma aumenta il costo totale." },
+    "rate": { "label": "Tasso debitore fisso", "help": "Tasso nominale annuo indicativo per la stima." },
+    "downPayment": { "label": "Anticipo (facoltativo)", "help": "Un anticipo riduce l'importo finanziato." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mese} other {# mesi}}",
+    "years": "{count, plural, one {# anno} other {# anni}}"
+  },
+  "results": {
+    "heading": "La tua stima",
+    "monthly": "Rata mensile",
+    "monthlyAria": "Rata mensile stimata: {value}",
+    "totalInterest": "Totale interessi",
+    "totalCost": "Costo totale del credito",
+    "apr": "TAEG indicativo",
+    "financed": "Importo finanziato"
+  },
+  "chart": { "title": "Ripartizione capitale / interessi", "principal": "Capitale", "interest": "Interessi" },
+  "table": {
+    "show": "Mostra il piano di ammortamento",
+    "hide": "Nascondi il piano di ammortamento",
+    "caption": "Piano di ammortamento, rata per rata",
+    "period": "Rata",
+    "payment": "Pagamento",
+    "principal": "Capitale",
+    "interest": "Interessi",
+    "balance": "Residuo"
+  },
+  "actions": {
+    "email": "Ricevi la simulazione via email",
+    "emailPlaceholder": "Il tuo indirizzo email",
+    "emailSubmit": "Invia",
+    "emailSuccess": "Simulazione inviata. Controlla la tua casella di posta.",
+    "emailNote": "Usiamo la tua email solo per inviarti questa simulazione.",
+    "continue": "Continua con una richiesta"
+  },
+  "disclaimer": "Stima indicativa e non contrattuale, esclusa assicurazione e eventuali spese, salvo analisi e approvazione della pratica. Il TAEG definitivo sarà indicato nella tua offerta contrattuale."
+}

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Faire une demande — Spark loan",
+    "description": "Déposez votre demande de financement en cinq étapes. Vos données de situation restent sur votre appareil tant que vous ne validez pas."
+  },
+  "title": "Votre demande de financement",
+  "subtitle": "Cinq étapes courtes. Vous pouvez revenir en arrière à tout moment.",
+  "savedNote": "Vos réponses sont enregistrées sur cet appareil, le temps de finir. Rien n'est transmis avant votre validation.",
+  "clearSaved": "Effacer et recommencer",
+  "progress": "Étape {current} sur {total}",
+  "steps": {
+    "project": "Projet",
+    "personal": "Situation personnelle",
+    "professional": "Situation professionnelle",
+    "contact": "Coordonnées",
+    "summary": "Récapitulatif"
+  },
+  "fields": {
+    "projectType": "Type de projet",
+    "amount": "Montant souhaité (€)",
+    "durationMonths": "Durée souhaitée (mois)",
+    "maritalStatus": "Situation familiale",
+    "dependents": "Personnes à charge",
+    "housingStatus": "Logement",
+    "monthlyIncome": "Revenus nets mensuels (€)",
+    "monthlyCharges": "Charges et crédits mensuels (€)",
+    "employmentStatus": "Situation professionnelle",
+    "seniority": "Ancienneté dans cette situation",
+    "profession": "Profession (facultatif)",
+    "incident": "Incident de paiement déclaré (FICP / FCC)",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "phone": "Téléphone",
+    "postalCode": "Code postal",
+    "city": "Ville",
+    "select": "Sélectionnez…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Rachat / regroupement de crédits",
+      "tresorerie": "Trésorerie",
+      "immobilier": "Achat immobilier",
+      "travaux": "Travaux / rénovation",
+      "auto": "Véhicule",
+      "consommation": "Projet personnel",
+      "professionnel": "Projet professionnel"
+    },
+    "maritalStatus": {
+      "celibataire": "Célibataire",
+      "marie": "Marié(e)",
+      "pacse": "Pacsé(e)",
+      "divorce": "Divorcé(e)",
+      "veuf": "Veuf / Veuve"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Propriétaire, sans crédit en cours",
+      "proprietaireAvecCredit": "Propriétaire, avec un crédit en cours",
+      "locataire": "Locataire",
+      "heberge": "Hébergé"
+    },
+    "employmentStatus": {
+      "cdi": "CDI",
+      "cdd": "CDD ou intérim",
+      "independant": "Indépendant / TNS",
+      "retraite": "Retraité",
+      "sansEmploi": "Sans emploi"
+    },
+    "seniority": {
+      "moins1an": "Moins d'un an",
+      "1a3ans": "1 à 3 ans",
+      "plus3ans": "Plus de 3 ans"
+    },
+    "incident": {
+      "oui": "Oui",
+      "non": "Non",
+      "inconnu": "Je ne sais pas"
+    }
+  },
+  "errors": {
+    "required": "Ce champ est requis.",
+    "amountMin": "Le montant doit être d'au moins {min} €.",
+    "amountMax": "Le montant ne peut pas dépasser {max} €.",
+    "durationMin": "La durée doit être d'au moins {min} mois.",
+    "durationMax": "La durée ne peut pas dépasser {max} mois.",
+    "positive": "Indiquez un montant positif ou nul.",
+    "name": "Indiquez au moins 2 caractères.",
+    "email": "Indiquez une adresse e-mail valide.",
+    "phone": "Indiquez un numéro de téléphone valide.",
+    "postalCode": "Indiquez un code postal valide.",
+    "consent": "Votre consentement est nécessaire pour étudier la demande."
+  },
+  "summary": {
+    "title": "Vérifiez vos informations",
+    "edit": "Modifier"
+  },
+  "consent": {
+    "label": "J'autorise l'étude de ma demande à partir de ces informations. Mes données de situation financière sont sensibles et ne sont consultées que par les personnes chargées de l'étude, conformément à la politique de confidentialité."
+  },
+  "actions": {
+    "back": "Précédent",
+    "next": "Continuer",
+    "submit": "Envoyer ma demande",
+    "sending": "Envoi en cours…"
+  },
+  "submitError": "L'envoi a échoué. Vérifiez votre connexion et réessayez.",
+  "confirmation": {
+    "meta": {
+      "title": "Demande envoyée — Spark loan",
+      "description": "Votre demande de financement est enregistrée. Un conseiller étudie votre dossier."
+    },
+    "title": "Votre demande est enregistrée",
+    "body": "Un conseiller étudie votre dossier et vous recontacte sous le délai annoncé. Un e-mail de confirmation vient de vous être envoyé.",
+    "referenceLabel": "Votre référence",
+    "whatNextTitle": "La suite",
+    "whatNext": [
+      "Nous vérifions les éléments de votre dossier.",
+      "Un interlocuteur vous recontacte pour l'étude.",
+      "Vous recevez une réponse motivée dans le délai annoncé."
+    ],
+    "ctaHome": "Revenir à l'accueil"
+  }
+}

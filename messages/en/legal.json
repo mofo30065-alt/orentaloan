@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Indicative figures, non-binding and subject to acceptance of your file."
+  },
+  "infobox": {
+    "title": "Representative example",
+    "amount": "Amount borrowed",
+    "duration": "Term",
+    "rate": "Fixed borrowing rate",
+    "apr": "Fixed APR",
+    "monthly": "Monthly payment",
+    "totalCost": "Total cost of credit",
+    "totalDue": "Total amount payable",
+    "example": {
+      "amount": "€15,000",
+      "duration": "48 months",
+      "rate": "6.90%",
+      "apr": "7.12%",
+      "monthly": "€358.50",
+      "totalCost": "€2,207.87",
+      "totalDue": "€17,207.87"
+    },
+    "note": "Representative example, excluding optional insurance. A loan commits you and must be repaid. Check your ability to repay before committing."
+  },
+  "labels": {
+    "editor": "Website publisher",
+    "legalForm": "Legal form",
+    "capital": "Share capital",
+    "registration": "Registration",
+    "regulator": "Supervisory authority",
+    "regulatoryNumber": "Licence number",
+    "vat": "VAT number",
+    "director": "Publication director",
+    "host": "Host",
+    "mediator": "Consumer ombudsman",
+    "dpo": "Data protection officer"
+  },
+  "coolingOff": {
+    "title": "Right of withdrawal",
+    "body": "You have {days} calendar days to withdraw after signing your offer, without giving a reason or incurring any penalty."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Legal notice — Spark loan",
+      "description": "Publisher, host, supervisory authority and mediation."
+    },
+    "title": "Legal notice",
+    "intro": "Information about the publisher of this website and its regulatory framework."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy policy — Spark loan",
+      "description": "What data we process, why, for how long, and your rights."
+    },
+    "title": "Privacy policy",
+    "intro": "Your financial situation data is sensitive. Here, plainly, is what we do with it.",
+    "sections": [
+      {
+        "heading": "Data collected",
+        "body": "Identity and contact details, family, professional and financial situation you provide, and technical browsing data strictly necessary for the site to work."
+      },
+      {
+        "heading": "Purposes",
+        "body": "To assess your financing request, contact you, meet our legal obligations and prevent fraud. No data is ever sold."
+      },
+      {
+        "heading": "Legal basis",
+        "body": "Your consent to assess the request, the performance of pre-contractual steps, and our legal obligations as a credit institution."
+      },
+      {
+        "heading": "Recipients",
+        "body": "Only the people in charge of your file access it, together with the strictly necessary processors, bound by confidentiality."
+      },
+      {
+        "heading": "Retention",
+        "body": "Your data is kept for the review and then for the applicable legal periods, before deletion or anonymisation."
+      },
+      {
+        "heading": "Processing in your browser",
+        "body": "Until you submit your request, your answers stay on your device and are not sent to us."
+      }
+    ],
+    "rightsTitle": "Your rights",
+    "rights": [
+      "Access, rectification and erasure of your data",
+      "Restriction of and objection to processing",
+      "Portability of your data",
+      "Withdrawal of your consent at any time",
+      "Complaint to the data protection authority"
+    ],
+    "dpoIntro": "To exercise your rights, contact our data protection officer:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Terms of use — Spark loan",
+      "description": "Rules for using the website."
+    },
+    "title": "Terms of use",
+    "intro": "These terms govern the use of the site. They are not a credit offer.",
+    "placeholder": "Access to the site is free of charge. By using it, you accept these terms. The content (texts, trademarks, illustrations) belongs to Spark Finance and may not be reproduced without permission. Simulations and pre-diagnostics are indicative and do not bind the lender. Irish law applies."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Cookie policy — Spark loan",
+      "description": "Which cookies we use and how to manage them."
+    },
+    "title": "Cookie policy",
+    "intro": "No tracker is placed without your consent. You can change your choice at any time.",
+    "necessaryTitle": "Strictly necessary cookies",
+    "necessaryBody": "Essential for the site to work (language preference, remembering your cookie choice). They do not require consent.",
+    "optionalTitle": "Measurement and comfort cookies",
+    "optionalBody": "Placed only after your acceptance. They help us improve the site without ever identifying you for advertising.",
+    "manageTitle": "Manage my choice",
+    "manageBody": "Clear the consent cookie in your browser to make the banner reappear, then choose again."
+  }
+}

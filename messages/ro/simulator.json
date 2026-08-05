@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Simulator de credit — Spark loan",
+    "description": "Estimează rata, costul total și DAE orientativă. Cifre orientative, necontractuale, sub rezerva acceptării."
+  },
+  "title": "Simulator de credit",
+  "subtitle": "Ajustează parametrii: totul se recalculează în timp real. Sumele sunt orientative.",
+  "fields": {
+    "amount": { "label": "Suma creditului", "help": "Capitalul pe care vrei să îl împrumuți." },
+    "duration": { "label": "Durata de rambursare", "help": "O durată mai lungă scade rata, dar crește costul total." },
+    "rate": { "label": "Rată fixă a dobânzii", "help": "Rată nominală anuală orientativă pentru estimare." },
+    "downPayment": { "label": "Avans (opțional)", "help": "Un avans reduce suma finanțată." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# lună} few {# luni} other {# de luni}}",
+    "years": "{count, plural, one {# an} few {# ani} other {# de ani}}"
+  },
+  "results": {
+    "heading": "Estimarea ta",
+    "monthly": "Rată lunară",
+    "monthlyAria": "Rată lunară estimată: {value}",
+    "totalInterest": "Total dobânzi",
+    "totalCost": "Cost total al creditului",
+    "apr": "DAE orientativă",
+    "financed": "Sumă finanțată"
+  },
+  "chart": { "title": "Repartiție capital / dobânzi", "principal": "Capital", "interest": "Dobânzi" },
+  "table": {
+    "show": "Arată graficul de rambursare",
+    "hide": "Ascunde graficul de rambursare",
+    "caption": "Grafic de rambursare, rată cu rată",
+    "period": "Rată",
+    "payment": "Plată",
+    "principal": "Capital",
+    "interest": "Dobânzi",
+    "balance": "Rămas"
+  },
+  "actions": {
+    "email": "Primește simularea pe e-mail",
+    "emailPlaceholder": "Adresa ta de e-mail",
+    "emailSubmit": "Trimite",
+    "emailSuccess": "Simulare trimisă. Verifică-ți inboxul.",
+    "emailNote": "Folosim e-mailul tău doar pentru a-ți trimite această simulare.",
+    "continue": "Continuă către o cerere"
+  },
+  "disclaimer": "Estimare orientativă și necontractuală, fără asigurare și eventuale costuri, sub rezerva analizei și acceptării dosarului. DAE definitivă va figura în oferta ta de contract."
+}

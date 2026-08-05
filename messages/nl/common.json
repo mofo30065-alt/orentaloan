@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Gespecialiseerde kredietverstrekker"
+  },
+  "skipToContent": "Naar de inhoud",
+  "nav": {
+    "home": "Home",
+    "credits": "Leningen",
+    "simulator": "Simulator",
+    "diagnostic": "Kansen checken",
+    "blog": "Advies",
+    "contact": "Contact"
+  },
+  "cta": {
+    "simulate": "Mijn lening berekenen",
+    "diagnostic": "Mijn kansen checken",
+    "simulateShort": "Termijn schatten"
+  },
+  "phone": {
+    "label": "Bel ons",
+    "display": "+31 20 0000000",
+    "number": "+31200000000"
+  },
+  "trust": {
+    "licensed": "Vergund {agrement}",
+    "licensedPlaceholder": "AFM-vergunning 12345678",
+    "address": "Echt, bereikbaar adres"
+  },
+  "localeSwitcher": {
+    "label": "Taal",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "We gebruiken geen tracker zonder uw toestemming. Accepteren of weigeren is even eenvoudig.",
+    "link": "Meer weten",
+    "accept": "Alles accepteren",
+    "refuse": "Alles weigeren"
+  },
+  "footer": {
+    "tagline": "We bestuderen de dossiers die anderen weigeren, op basis van echte feiten.",
+    "colProducts": "Financiering",
+    "colCompany": "Het bedrijf",
+    "colLegal": "Juridisch",
+    "colContact": "Contact",
+    "legal": {
+      "mentions": "Juridische informatie",
+      "privacy": "Privacy",
+      "cookies": "Cookies",
+      "terms": "Gebruiksvoorwaarden",
+      "faq": "Veelgestelde vragen"
+    },
+    "company": {
+      "about": "Wie we zijn",
+      "commitments": "Onze beloften",
+      "blog": "Advies"
+    },
+    "newsletter": {
+      "title": "Ontvang onze houvast",
+      "help": "Concrete criteria over krediet, zonder opdringerige verkoop.",
+      "placeholder": "Uw e-mailadres",
+      "action": "Inschrijven"
+    },
+    "rights": "© {year} {brand}. Alle rechten voorbehouden.",
+    "publisher": "Spark Finance Nederland B.V. — KvK 87654321 — Herengracht 100, 1015 BS Amsterdam"
+  }
+}

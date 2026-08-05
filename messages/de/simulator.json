@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Kreditrechner — Spark loan",
+    "description": "Schätzen Sie Ihre Rate, die Gesamtkosten und den effektiven Jahreszins. Richtwerte, unverbindlich, vorbehaltlich der Bewilligung."
+  },
+  "title": "Kreditrechner",
+  "subtitle": "Passen Sie die Parameter an: Alles wird in Echtzeit neu berechnet. Die Beträge sind Richtwerte.",
+  "fields": {
+    "amount": { "label": "Kreditbetrag", "help": "Das Kapital, das Sie aufnehmen möchten." },
+    "duration": { "label": "Laufzeit", "help": "Eine längere Laufzeit senkt die Rate, erhöht aber die Gesamtkosten." },
+    "rate": { "label": "Fester Sollzins", "help": "Indikativer nominaler Jahreszins für die Schätzung." },
+    "downPayment": { "label": "Anzahlung (optional)", "help": "Eine Anzahlung senkt den finanzierten Betrag." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# Monat} other {# Monate}}",
+    "years": "{count, plural, one {# Jahr} other {# Jahre}}"
+  },
+  "results": {
+    "heading": "Ihre Schätzung",
+    "monthly": "Monatsrate",
+    "monthlyAria": "Geschätzte Monatsrate: {value}",
+    "totalInterest": "Zinsen gesamt",
+    "totalCost": "Gesamtkosten des Kredits",
+    "apr": "Effektiver Jahreszins (Richtwert)",
+    "financed": "Finanzierter Betrag"
+  },
+  "chart": { "title": "Aufteilung Kapital / Zinsen", "principal": "Kapital", "interest": "Zinsen" },
+  "table": {
+    "show": "Tilgungsplan anzeigen",
+    "hide": "Tilgungsplan ausblenden",
+    "caption": "Tilgungsplan, Rate für Rate",
+    "period": "Rate",
+    "payment": "Zahlung",
+    "principal": "Kapital",
+    "interest": "Zinsen",
+    "balance": "Restschuld"
+  },
+  "actions": {
+    "email": "Simulation per E-Mail erhalten",
+    "emailPlaceholder": "Ihre E-Mail-Adresse",
+    "emailSubmit": "Senden",
+    "emailSuccess": "Simulation gesendet. Prüfen Sie Ihren Posteingang.",
+    "emailNote": "Wir verwenden Ihre E-Mail nur, um Ihnen diese Simulation zu senden.",
+    "continue": "Weiter zum Antrag"
+  },
+  "disclaimer": "Unverbindliche, indikative Schätzung, ohne Versicherung und etwaige Gebühren, vorbehaltlich Prüfung und Bewilligung Ihrer Unterlagen. Der endgültige effektive Jahreszins steht in Ihrem Vertragsangebot."
+}

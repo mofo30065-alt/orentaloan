@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Întrebări frecvente — Spark loan",
+    "description": "Eligibilitate, dobânzi, securitate, termene: răspunsuri clare, fără promisiuni."
+  },
+  "title": "Întrebări frecvente",
+  "intro": "Răspunsuri clare la cele mai frecvente întrebări, fără ocolișuri și fără promisiuni.",
+  "searchLabel": "Caută o întrebare",
+  "searchPlaceholder": "Caută o întrebare…",
+  "empty": "Nicio întrebare nu corespunde căutării tale.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Eligibilitate",
+      "items": [
+        {
+          "q": "Pot lua un credit dacă sunt înscris în registru?",
+          "a": "Creditul clasic acordat pe scor va fi refuzat, dar o finanțare cu garanție poate fi studiată. Verificarea îți spune cinstit unde te afli."
+        },
+        {
+          "q": "Acceptați independenți fără trei bilanțuri?",
+          "a": "Da, în anumite condiții: o activitate consolidată și rulaje regulate pot compensa."
+        },
+        {
+          "q": "Un contract pe durată determinată sau temporar este eliminatoriu?",
+          "a": "Nu. Un contract scurt fragilizează dosarul, dar nu îl face imposibil, mai ales cu vechime în același domeniu sau un co-împrumutat."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Dobânzi și costuri",
+      "items": [
+        {
+          "q": "DAE este garantată dinainte?",
+          "a": "Nu. Dobânzile afișate sunt orientative. DAE definitivă figurează în oferta de contract, după analiză."
+        },
+        {
+          "q": "De ce DAE este mai mare decât dobânda afișată?",
+          "a": "DAE este o rată efectivă care include costuri și eventuala asigurare: e normal să fie mai mare decât dobânda simplă."
+        },
+        {
+          "q": "Există comisioane de dosar?",
+          "a": "Depinde de produs. Eventualele costuri sunt indicate clar în ofertă, înainte de semnare."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Securitate și date",
+      "items": [
+        {
+          "q": "Ce faceți cu datele mele?",
+          "a": "Sunt folosite doar pentru analiza cererii și consultate doar de persoanele responsabile, conform politicii de confidențialitate."
+        },
+        {
+          "q": "Răspunsurile mele la simulator sunt trimise?",
+          "a": "Nu. Cât timp nu trimiți o cerere, răspunsurile rămân pe dispozitivul tău."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Parcurs și termene",
+      "items": [
+        {
+          "q": "Cât durează analiza?",
+          "a": "Se anunță un termen de analiză clar și îl respectăm. Fără urgență artificială, fără numărătoare inversă."
+        },
+        {
+          "q": "Verificarea este o aprobare de credit?",
+          "a": "Nu. Este o orientare cinstită, fără angajament și fără scor afișat: nu este o decizie de creditare."
+        },
+        {
+          "q": "Pot relua cererea mai târziu?",
+          "a": "Da. Răspunsurile sunt salvate pe dispozitiv cât timp finalizezi și șterse la trimitere."
+        }
+      ]
+    }
+  ]
+}

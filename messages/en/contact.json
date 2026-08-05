@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact — Spark loan",
+    "description": "Reach us by phone, email or at a branch. Book an appointment online."
+  },
+  "title": "Contact",
+  "intro": "A question about your file? Write to us or call us. A person, not a counter.",
+  "form": {
+    "title": "Write to us",
+    "name": "Name",
+    "email": "Email address",
+    "subject": "Subject (optional)",
+    "message": "Your message",
+    "submit": "Send message",
+    "sending": "Sending…",
+    "success": "Message sent. We will reply quickly.",
+    "error": "Sending failed. Check your connection and try again."
+  },
+  "errors": {
+    "required": "This field is required.",
+    "email": "Enter a valid email address.",
+    "message": "Your message must be at least 10 characters."
+  },
+  "info": {
+    "title": "Reach us",
+    "phone": "Phone",
+    "email": "Email",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Hours",
+    "agenciesTitle": "Our branches",
+    "bookingTitle": "Book an appointment",
+    "bookingBody": "Pick a slot with an advisor, at a branch or by phone.",
+    "bookingCta": "Book a slot"
+  }
+}

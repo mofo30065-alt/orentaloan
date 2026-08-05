@@ -1,0 +1,121 @@
+{
+  "meta": {
+    "title": "Eligibility check — Spark loan",
+    "description": "In a few questions, an honest reading of your file: serious prospect, file to strengthen, or not feasible as it stands. Guidance, not a credit decision."
+  },
+  "intro": {
+    "eyebrow": "The signature tool",
+    "title": "The Reading of your file",
+    "subtitle": "Seven questions, two minutes. We tell you honestly where your file stands, with the reason and the paths that remain.",
+    "note": "This is guidance, not a credit decision. No score, no commitment, no data shared without your agreement.",
+    "start": "Start the Reading"
+  },
+  "ui": {
+    "progress": "Question {current} of {total}",
+    "back": "Back",
+    "next": "Continue",
+    "result": "See my Reading",
+    "restart": "Start over",
+    "required": "Select an answer to continue."
+  },
+  "questions": {
+    "project": { "label": "What is your project?" },
+    "employment": { "label": "What is your work situation?" },
+    "seniority": { "label": "How long have you been in this situation?" },
+    "monthlyIncome": { "label": "Your net monthly income", "help": "Household income, from all sources." },
+    "monthlyCharges": {
+      "label": "Your monthly expenses and loans",
+      "help": "Rent, maintenance, instalments on loans already running."
+    },
+    "ownership": { "label": "Do you own your home?" },
+    "incident": {
+      "label": "Is a payment incident registered in your name?",
+      "help": "Listing on a national credit-incident register."
+    }
+  },
+  "options": {
+    "project": {
+      "rachat": "Debt consolidation",
+      "tresorerie": "Cash flow / liquidity need",
+      "immobilier": "Property purchase",
+      "travaux": "Home improvement / renovation",
+      "auto": "Vehicle",
+      "consommation": "Personal purchase / project",
+      "professionnel": "Business project"
+    },
+    "employment": {
+      "cdi": "Permanent contract",
+      "cdd": "Fixed-term or temp",
+      "independant": "Self-employed",
+      "retraite": "Retired",
+      "sansEmploi": "Not employed"
+    },
+    "seniority": {
+      "moins1an": "Less than a year",
+      "1a3ans": "1 to 3 years",
+      "plus3ans": "More than 3 years"
+    },
+    "ownership": {
+      "proprietaireSansCredit": "Owner, no loan running",
+      "proprietaireAvecCredit": "Owner, with a loan running",
+      "locataire": "Tenant",
+      "heberge": "Living with someone"
+    },
+    "incident": {
+      "oui": "Yes",
+      "non": "No",
+      "inconnu": "I don't know"
+    }
+  },
+  "number": { "suffix": "€ / month" },
+  "states": {
+    "go": { "label": "Serious prospect", "description": "The elements gathered allow an application to be studied." },
+    "work": { "label": "File to strengthen", "description": "One specific point holds you back today. It can be lifted." },
+    "stop": {
+      "label": "Not feasible as it stands",
+      "description": "Financing is not realistic today. Here is more useful guidance."
+    }
+  },
+  "result": {
+    "title": "Your Reading",
+    "reasonLabel": "What stands out",
+    "leversLabel": "What could change the answer",
+    "resourceLabel": "A useful resource",
+    "productLabel": "The financing to explore",
+    "productLink": "See this financing",
+    "note": "This reading is guidance, not a credit decision. Only the review of your full file is authoritative.",
+    "ctaSimulate": "Estimate my payment",
+    "ctaRequest": "Continue to an application",
+    "ctaRestart": "Run the Reading again"
+  },
+  "reasons": {
+    "insufficientCapacity": "As it stands, the declared income does not cover a new instalment without straining your budget.",
+    "unemployedOwner": "Without earned income, financing must rely on the value of your property.",
+    "unemployedNoAsset": "Without earned income or an asset to pledge, no financing is realistic today.",
+    "filedWithProperty": "The listing blocks classic credit, but consolidation backed by your property can be studied.",
+    "filedNoCollateral": "A credit-incident listing without an asset to pledge closes access to credit while it runs.",
+    "highDebtRatioOwner": "Your expenses weigh heavily, but consolidating your loans around your property can ease the budget.",
+    "tightCapacity": "Your repayment capacity is narrow: the file holds, provided it is strengthened.",
+    "youngIndependant": "Your business is recent: lenders usually expect more track record and accounts.",
+    "shortContract": "A short contract weakens the file in a lender's eyes, without making it impossible.",
+    "shortSeniority": "Your track record is still short: a few more months will clearly strengthen the file.",
+    "healthyStable": "Stable situation and sound repayment capacity: your file starts on good footing.",
+    "healthyIndependant": "Established business and sound capacity: your self-employed file starts on good footing.",
+    "checkFiling": "Your situation is favourable; it remains to clear up any doubt about a listing before going further."
+  },
+  "levers": {
+    "consolidate": "Consolidate your running loans to reduce the overall monthly payment.",
+    "reduceCharges": "Ease a recurring expense before filing your request.",
+    "addDownPayment": "Add personal funds to lower the financed amount.",
+    "coBorrower": "Present a co-borrower to strengthen the file's income.",
+    "gainSeniority": "Gain a few more months of track record in your situation.",
+    "propertyAppraisal": "Have your property appraised to assess the collateral available.",
+    "provideBilans": "Gather your accounts to evidence the steadiness of your income.",
+    "waitDelisting": "Wait for the listing to be lifted, or request its regularisation.",
+    "verifyFiling": "Check your situation with your central bank (free right of access)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "Your central bank informs you, free of charge, about your listing and the ways to regularise it.",
+    "debtCounseling": "A budget advice service can help you clean up the situation before any credit."
+  }
+}

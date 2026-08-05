@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Simulador de préstamo — Spark loan",
+    "description": "Estima tu cuota, el coste total y la TAE indicativa. Cifras indicativas, no contractuales, sujetas a aprobación."
+  },
+  "title": "Simulador de préstamo",
+  "subtitle": "Ajusta los parámetros: todo se recalcula en tiempo real. Los importes son indicativos.",
+  "fields": {
+    "amount": { "label": "Importe del préstamo", "help": "El capital que deseas pedir prestado." },
+    "duration": { "label": "Plazo de amortización", "help": "Un plazo más largo baja la cuota pero sube el coste total." },
+    "rate": { "label": "Tipo deudor fijo", "help": "Tipo nominal anual indicativo para la estimación." },
+    "downPayment": { "label": "Entrada (opcional)", "help": "Una entrada reduce el importe financiado." }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mes} other {# meses}}",
+    "years": "{count, plural, one {# año} other {# años}}"
+  },
+  "results": {
+    "heading": "Tu estimación",
+    "monthly": "Cuota mensual",
+    "monthlyAria": "Cuota mensual estimada: {value}",
+    "totalInterest": "Total de intereses",
+    "totalCost": "Coste total del crédito",
+    "apr": "TAE indicativa",
+    "financed": "Importe financiado"
+  },
+  "chart": { "title": "Reparto capital / intereses", "principal": "Capital", "interest": "Intereses" },
+  "table": {
+    "show": "Ver el cuadro de amortización",
+    "hide": "Ocultar el cuadro de amortización",
+    "caption": "Cuadro de amortización, cuota a cuota",
+    "period": "Cuota",
+    "payment": "Pago",
+    "principal": "Capital",
+    "interest": "Intereses",
+    "balance": "Pendiente"
+  },
+  "actions": {
+    "email": "Recibir mi simulación por correo",
+    "emailPlaceholder": "Tu correo electrónico",
+    "emailSubmit": "Enviar",
+    "emailSuccess": "Simulación enviada. Revisa tu bandeja de entrada.",
+    "emailNote": "Solo usamos tu correo para enviarte esta simulación.",
+    "continue": "Continuar con una solicitud"
+  },
+  "disclaimer": "Estimación indicativa y no contractual, sin seguro ni posibles gastos, sujeta a estudio y aprobación de tu expediente. La TAE definitiva figurará en tu oferta de contrato."
+}

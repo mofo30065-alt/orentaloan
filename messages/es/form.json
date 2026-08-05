@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Solicitar — Spark loan",
+    "description": "Presenta tu solicitud de financiación en cinco pasos. Tus datos de situación permanecen en tu dispositivo hasta que envías."
+  },
+  "title": "Tu solicitud de financiación",
+  "subtitle": "Cinco pasos cortos. Puedes volver atrás en cualquier momento.",
+  "savedNote": "Tus respuestas se guardan en este dispositivo mientras terminas. Nada se envía antes de tu validación.",
+  "clearSaved": "Borrar y empezar de nuevo",
+  "progress": "Paso {current} de {total}",
+  "steps": {
+    "project": "Proyecto",
+    "personal": "Situación personal",
+    "professional": "Situación laboral",
+    "contact": "Datos de contacto",
+    "summary": "Resumen"
+  },
+  "fields": {
+    "projectType": "Tipo de proyecto",
+    "amount": "Importe deseado (€)",
+    "durationMonths": "Plazo deseado (meses)",
+    "maritalStatus": "Situación familiar",
+    "dependents": "Personas a cargo",
+    "housingStatus": "Vivienda",
+    "monthlyIncome": "Ingresos netos mensuales (€)",
+    "monthlyCharges": "Gastos y préstamos mensuales (€)",
+    "employmentStatus": "Situación laboral",
+    "seniority": "Antigüedad en esta situación",
+    "profession": "Profesión (opcional)",
+    "incident": "Impago registrado",
+    "firstName": "Nombre",
+    "lastName": "Apellidos",
+    "email": "Correo electrónico",
+    "phone": "Teléfono",
+    "postalCode": "Código postal",
+    "city": "Ciudad",
+    "select": "Selecciona…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Reunificación de deuda",
+      "tresorerie": "Tesorería",
+      "immobilier": "Compra de vivienda",
+      "travaux": "Reformas",
+      "auto": "Vehículo",
+      "consommation": "Proyecto personal",
+      "professionnel": "Proyecto profesional"
+    },
+    "maritalStatus": {
+      "celibataire": "Soltero/a",
+      "marie": "Casado/a",
+      "pacse": "Pareja de hecho",
+      "divorce": "Divorciado/a",
+      "veuf": "Viudo/a"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Propietario, sin préstamo en curso",
+      "proprietaireAvecCredit": "Propietario, con un préstamo en curso",
+      "locataire": "Inquilino",
+      "heberge": "Alojado"
+    },
+    "employmentStatus": {
+      "cdi": "Contrato indefinido",
+      "cdd": "Temporal o ETT",
+      "independant": "Autónomo",
+      "retraite": "Jubilado",
+      "sansEmploi": "Sin empleo"
+    },
+    "seniority": {
+      "moins1an": "Menos de un año",
+      "1a3ans": "De 1 a 3 años",
+      "plus3ans": "Más de 3 años"
+    },
+    "incident": {
+      "oui": "Sí",
+      "non": "No",
+      "inconnu": "No lo sé"
+    }
+  },
+  "errors": {
+    "required": "Este campo es obligatorio.",
+    "amountMin": "El importe debe ser de al menos {min} €.",
+    "amountMax": "El importe no puede superar {max} €.",
+    "durationMin": "El plazo debe ser de al menos {min} meses.",
+    "durationMax": "El plazo no puede superar {max} meses.",
+    "positive": "Indica un importe positivo o cero.",
+    "name": "Indica al menos 2 caracteres.",
+    "email": "Indica un correo electrónico válido.",
+    "phone": "Indica un número de teléfono válido.",
+    "postalCode": "Indica un código postal válido.",
+    "consent": "Tu consentimiento es necesario para estudiar la solicitud."
+  },
+  "summary": {
+    "title": "Revisa tus datos",
+    "edit": "Editar"
+  },
+  "consent": {
+    "label": "Autorizo el estudio de mi solicitud a partir de esta información. Mis datos de situación financiera son sensibles y solo los consultan las personas encargadas del estudio, conforme a la política de privacidad."
+  },
+  "actions": {
+    "back": "Atrás",
+    "next": "Continuar",
+    "submit": "Enviar mi solicitud",
+    "sending": "Enviando…"
+  },
+  "submitError": "El envío ha fallado. Comprueba tu conexión e inténtalo de nuevo.",
+  "confirmation": {
+    "meta": {
+      "title": "Solicitud enviada — Spark loan",
+      "description": "Tu solicitud de financiación está registrada. Un interlocutor está estudiando tu expediente."
+    },
+    "title": "Tu solicitud está registrada",
+    "body": "Un interlocutor estudia tu expediente y te contactará en el plazo anunciado. Se te acaba de enviar un correo de confirmación.",
+    "referenceLabel": "Tu referencia",
+    "whatNextTitle": "Qué ocurre ahora",
+    "whatNext": [
+      "Comprobamos los elementos de tu expediente.",
+      "Un interlocutor te contacta para el estudio.",
+      "Recibe una respuesta motivada en el plazo indicado."
+    ],
+    "ctaHome": "Volver al inicio"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Consigli — Spark loan",
+    "description": "Riferimenti concreti sul credito, scritti per chi è appena stato rifiutato."
+  },
+  "title": "Consigli",
+  "intro": "Riferimenti concreti sul credito, scritti per chi è appena stato rifiutato. Concreti, senza promesse.",
+  "filterAll": "Tutti",
+  "categories": {
+    "fichage": "Segnalazioni",
+    "rachat": "Consolidamento",
+    "budget": "Bilancio",
+    "comprendre": "Capire",
+    "garanties": "Garanzie",
+    "profils": "Profili"
+  },
+  "minutes": "{count} min di lettura",
+  "byAuthor": "Di {author}",
+  "readMore": "Leggi l'articolo",
+  "backToList": "Tutti i consigli",
+  "suggestedTitle": "Leggi anche",
+  "shareTitle": "Condividi",
+  "empty": "Nessun articolo in questa categoria.",
+  "cta": {
+    "title": "Dubbi sulla tua pratica?",
+    "body": "Fai la Lettura: un orientamento onesto, in pochi minuti, senza impegno.",
+    "action": "Fai la mia Lettura"
+  },
+  "pagination": { "previous": "Precedente", "next": "Successivo", "page": "Pagina {current} di {total}" }
+}

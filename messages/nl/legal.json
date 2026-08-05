@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Indicatieve cijfers, niet-contractueel en onder voorbehoud van aanvaarding van uw dossier."
+  },
+  "infobox": {
+    "title": "Representatief voorbeeld",
+    "amount": "Geleend bedrag",
+    "duration": "Looptijd",
+    "rate": "Vaste debetrente",
+    "apr": "Vast JKP",
+    "monthly": "Maandtermijn",
+    "totalCost": "Totale kredietkost",
+    "totalDue": "Totaal verschuldigd bedrag",
+    "example": {
+      "amount": "€ 15.000",
+      "duration": "48 maanden",
+      "rate": "6,90%",
+      "apr": "7,12%",
+      "monthly": "€ 358,50",
+      "totalCost": "€ 2.207,87",
+      "totalDue": "€ 17.207,87"
+    },
+    "note": "Representatief voorbeeld, exclusief optionele verzekering. Een krediet verbindt u en moet terugbetaald worden. Controleer uw terugbetalingscapaciteit voor u zich verbindt."
+  },
+  "labels": {
+    "editor": "Uitgever van de site",
+    "legalForm": "Rechtsvorm",
+    "capital": "Maatschappelijk kapitaal",
+    "registration": "Inschrijving",
+    "regulator": "Toezichthouder",
+    "regulatoryNumber": "Vergunningsnummer",
+    "vat": "Btw-nummer",
+    "director": "Verantwoordelijke uitgever",
+    "host": "Host",
+    "mediator": "Geschillenregeling",
+    "dpo": "Functionaris gegevensbescherming"
+  },
+  "coolingOff": {
+    "title": "Herroepingsrecht",
+    "body": "U hebt {days} kalenderdagen om te herroepen na ondertekening van uw aanbod, zonder reden en zonder boete."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Juridische informatie — Spark loan",
+      "description": "Uitgever, host, toezichthouder en bemiddeling."
+    },
+    "title": "Juridische informatie",
+    "intro": "Informatie over de uitgever van deze site en het regelgevend kader."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacybeleid — Spark loan",
+      "description": "Welke gegevens we verwerken, waarom, hoelang en uw rechten."
+    },
+    "title": "Privacybeleid",
+    "intro": "Uw financiële situatiegegevens zijn gevoelig. Hier, zonder omwegen, wat we ermee doen.",
+    "sections": [
+      {
+        "heading": "Verzamelde gegevens",
+        "body": "Identiteit en contactgegevens, gezins-, arbeids- en financiële situatie die u opgeeft, en technische navigatiegegevens die strikt nodig zijn voor de werking van de site."
+      },
+      {
+        "heading": "Doeleinden",
+        "body": "Uw financieringsaanvraag beoordelen, u contacteren, onze wettelijke verplichtingen naleven en fraude voorkomen. Er worden geen gegevens verkocht."
+      },
+      {
+        "heading": "Rechtsgrond",
+        "body": "Uw toestemming om de aanvraag te beoordelen, de uitvoering van precontractuele maatregelen en onze wettelijke verplichtingen als kredietinstelling."
+      },
+      {
+        "heading": "Ontvangers",
+        "body": "Alleen de personen belast met uw dossier hebben toegang, samen met de strikt noodzakelijke verwerkers, gebonden aan vertrouwelijkheid."
+      },
+      {
+        "heading": "Bewaring",
+        "body": "Uw gegevens worden bewaard voor de beoordeling en daarna volgens de toepasselijke wettelijke termijnen, vóór verwijdering of anonimisering."
+      },
+      {
+        "heading": "Verwerking in uw browser",
+        "body": "Zolang u uw aanvraag niet verzendt, blijven uw antwoorden op uw toestel en worden ze niet aan ons doorgegeven."
+      }
+    ],
+    "rightsTitle": "Uw rechten",
+    "rights": [
+      "Inzage, rectificatie en wissing van uw gegevens",
+      "Beperking van en bezwaar tegen de verwerking",
+      "Overdraagbaarheid van uw gegevens",
+      "Intrekking van uw toestemming op elk moment",
+      "Klacht bij de gegevensbeschermingsautoriteit"
+    ],
+    "dpoIntro": "Om uw rechten uit te oefenen, contacteer onze functionaris voor gegevensbescherming:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Gebruiksvoorwaarden — Spark loan",
+      "description": "Regels voor het gebruik van de site."
+    },
+    "title": "Gebruiksvoorwaarden",
+    "intro": "Deze voorwaarden regelen het gebruik van de site. Ze vormen geen kredietaanbod.",
+    "placeholder": "Toegang tot de site is gratis. Door de site te gebruiken, aanvaardt u deze voorwaarden. De inhoud (teksten, merken, illustraties) is eigendom van Spark Finance en mag niet zonder toestemming worden gereproduceerd. Simulaties en vooranalyses zijn indicatief en binden de kredietgever niet. Het Nederlands recht is van toepassing."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Cookiebeleid — Spark loan",
+      "description": "Welke cookies we gebruiken en hoe u ze beheert."
+    },
+    "title": "Cookiebeleid",
+    "intro": "Er wordt geen tracker geplaatst zonder uw toestemming. U kunt uw keuze op elk moment wijzigen.",
+    "necessaryTitle": "Strikt noodzakelijke cookies",
+    "necessaryBody": "Onmisbaar voor de werking van de site (taalvoorkeur, onthouden van uw cookiekeuze). Ze vereisen geen toestemming.",
+    "optionalTitle": "Meet- en comfortcookies",
+    "optionalBody": "Alleen geplaatst na uw aanvaarding. Ze helpen ons de site te verbeteren zonder u ooit voor reclame te identificeren.",
+    "manageTitle": "Mijn keuze beheren",
+    "manageBody": "Wis de toestemmingscookie in uw browser zodat de banner opnieuw verschijnt, en kies opnieuw."
+  }
+}

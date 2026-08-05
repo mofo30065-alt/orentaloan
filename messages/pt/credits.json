@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "O nosso financiamento — Spark loan",
+    "description": "14 tipos de financiamento avaliados pela sua situação real. Os créditos com garantia continuam acessíveis após uma recusa bancária."
+  },
+  "index": {
+    "eyebrow": "O nosso financiamento",
+    "title": "Um financiamento para cada situação",
+    "intro": "Destacamos os créditos garantidos por um bem: continuam acessíveis quando a pontuação bloqueia. O financiamento clássico segue-se.",
+    "featuredTitle": "A privilegiar após uma recusa",
+    "classicTitle": "Financiamento clássico"
+  },
+  "common": {
+    "amounts": "Montantes",
+    "duration": "Prazos",
+    "range": "de {min} a {max}",
+    "monthsRange": "de {min} a {max} meses",
+    "rateTableTitle": "Taxas indicativas por prazo",
+    "rateDuration": "Prazo",
+    "rateFixed": "Taxa fixa",
+    "rateVariable": "Taxa variável",
+    "rateNote": "Taxas indicativas, não contratuais, sujeitas a alteração e à análise do seu processo.",
+    "eligibilityTitle": "Condições de elegibilidade",
+    "eligibleTitle": "Acessível se…",
+    "notEligibleTitle": "Não adequado se…",
+    "documentsTitle": "Documentos a fornecer",
+    "faqTitle": "Perguntas frequentes",
+    "casesTitle": "Caso concreto",
+    "simulatorTitle": "Estimar este financiamento",
+    "representativeTitle": "Exemplo representativo",
+    "ctaSimulate": "Simular este financiamento",
+    "ctaDiagnostic": "Verificar a minha elegibilidade",
+    "ctaRequest": "Pedir",
+    "ctaFinalTitle": "Analisamos o seu processo, não a sua pontuação.",
+    "models": {
+      "revolving": "O crédito renovável não amortiza como um crédito clássico: o custo depende da utilização e da rapidez de reembolso. Use o simulador geral com prudência ou fale com um consultor.",
+      "leasing": "No leasing paga rendas e, opcionalmente, um valor residual. O cálculo depende do bem e do seu valor de recompra; um consultor define uma renda precisa.",
+      "bridge": "O crédito ponte é reembolsado na venda do seu imóvel. O custo depende do tempo real até à venda e do montante adiantado.",
+      "factoring": "O factoring não é um crédito: cede faturas em troca de um adiantamento, com uma comissão. O custo depende do seu volume e dos prazos de pagamento."
+    }
+  },
+  "products": {
+    "rachat-credit": { "name": "Consolidação de créditos", "teaser": "Junte os seus créditos numa só prestação, garantida pelo seu imóvel se necessário." },
+    "pret-travaux": { "name": "Crédito para obras", "teaser": "Financie uma renovação, incluindo obras de eficiência energética." },
+    "pret-tresorerie": { "name": "Crédito de tesouraria", "teaser": "Ultrapasse uma dificuldade de tesouraria para a sua atividade, sem imobilizar fundos." },
+    "loa": { "name": "Leasing / ALD", "teaser": "Utilize um veículo ou equipamento sem o comprar de imediato." },
+    "affacturage": { "name": "Factoring", "teaser": "Transforme as faturas de clientes em tesouraria imediata." },
+    "pret-relais": { "name": "Crédito ponte", "teaser": "Compre antes de ter vendido, durante a transição." },
+    "pret-immobilier": { "name": "Crédito habitação", "teaser": "Financie a compra de casa avaliada pela sua situação real." },
+    "credit-consommation": { "name": "Crédito ao consumo", "teaser": "Financie um projeto pessoal, equipamento ou um imprevisto." },
+    "pret-auto": { "name": "Crédito automóvel", "teaser": "Compre um veículo novo ou usado, com uma prestação clara." },
+    "credit-renouvelable": { "name": "Crédito renovável", "teaser": "Uma reserva de dinheiro flexível, a usar com moderação." },
+    "pret-etudiant": { "name": "Crédito para estudantes", "teaser": "Financie os estudos e o seu custo de vida." },
+    "financement-equipement": { "name": "Financiamento de equipamento", "teaser": "Financie máquinas, material ou veículos profissionais." },
+    "pret-creation-reprise": { "name": "Crédito criação/aquisição", "teaser": "Financie o arranque ou a aquisição de uma atividade." },
+    "immobilier-professionnel": { "name": "Imobiliário empresarial", "teaser": "Financie espaços comerciais ou profissionais." }
+  }
+}

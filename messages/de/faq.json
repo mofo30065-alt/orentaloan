@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Häufige Fragen — Spark loan",
+    "description": "Eignung, Zinsen, Sicherheit, Fristen: klare Antworten, ohne Versprechen."
+  },
+  "title": "Häufige Fragen",
+  "intro": "Klare Antworten auf die häufigsten Fragen, ohne Ausflüchte und ohne Versprechen.",
+  "searchLabel": "Frage suchen",
+  "searchPlaceholder": "Frage suchen…",
+  "empty": "Keine Frage entspricht Ihrer Suche.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Eignung",
+      "items": [
+        {
+          "q": "Kann ich mit Negativeintrag einen Kredit aufnehmen?",
+          "a": "Klassischer, auf einem Score erteilter Kredit wird abgelehnt, doch eine besicherte Finanzierung kann geprüft werden. Die Eignungsprüfung sagt Ihnen ehrlich, wo Sie stehen."
+        },
+        {
+          "q": "Akzeptieren Sie Selbstständige ohne drei Jahresabschlüsse?",
+          "a": "Ja, unter Bedingungen: eine etablierte Tätigkeit und regelmäßige Kontobewegungen können dies ausgleichen."
+        },
+        {
+          "q": "Ist ein befristeter Vertrag oder Zeitarbeit ein Ausschlusskriterium?",
+          "a": "Nein. Ein kurzer Vertrag schwächt die Unterlagen, macht sie aber nicht unmöglich — besonders mit Historie in derselben Branche oder einem Mitantragsteller."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Zinsen und Kosten",
+      "items": [
+        {
+          "q": "Ist der effektive Jahreszins vorab garantiert?",
+          "a": "Nein. Die gezeigten Zinsen sind Richtwerte. Der endgültige effektive Jahreszins steht nach der Prüfung in Ihrem Vertragsangebot."
+        },
+        {
+          "q": "Warum ist der effektive Jahreszins höher als der gezeigte Zins?",
+          "a": "Der effektive Jahreszins enthält Gebühren und etwaige Versicherung: Es ist normal, dass er über dem reinen Sollzins liegt."
+        },
+        {
+          "q": "Gibt es Bearbeitungsgebühren?",
+          "a": "Je nach Produkt. Etwaige Gebühren werden im Angebot klar ausgewiesen, vor der Unterschrift."
+        }
+      ]
+    },
+    {
+      "id": "securite",
+      "label": "Sicherheit und Daten",
+      "items": [
+        {
+          "q": "Was tun Sie mit meinen Daten?",
+          "a": "Sie dienen nur der Prüfung Ihres Antrags und werden nur von den zuständigen Personen eingesehen, gemäß der Datenschutzerklärung."
+        },
+        {
+          "q": "Werden meine Rechner-Antworten gesendet?",
+          "a": "Nein. Solange Sie keinen Antrag absenden, bleiben Ihre Antworten auf Ihrem Gerät."
+        }
+      ]
+    },
+    {
+      "id": "parcours",
+      "label": "Ablauf und Fristen",
+      "items": [
+        {
+          "q": "Wie lange dauert die Prüfung?",
+          "a": "Eine klare Prüffrist wird genannt, und wir halten sie ein. Keine künstliche Dringlichkeit, kein Countdown."
+        },
+        {
+          "q": "Ist die Eignungsprüfung eine Kreditzusage?",
+          "a": "Nein. Sie ist eine ehrliche Orientierung, ohne Verpflichtung oder gezeigten Score: keine Kreditentscheidung."
+        },
+        {
+          "q": "Kann ich meinen Antrag später fortsetzen?",
+          "a": "Ja. Ihre Antworten werden auf Ihrem Gerät gespeichert, während Sie fertigstellen, und beim Absenden gelöscht."
+        }
+      ]
+    }
+  ]
+}

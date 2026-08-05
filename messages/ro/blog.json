@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "title": "Sfaturi — Spark loan",
+    "description": "Repere concrete despre credit, scrise pentru cineva care tocmai a fost refuzat."
+  },
+  "title": "Sfaturi",
+  "intro": "Repere concrete despre credit, scrise pentru cineva care tocmai a fost refuzat. Factual, fără promisiuni.",
+  "filterAll": "Toate",
+  "categories": {
+    "fichage": "Înscrieri",
+    "rachat": "Refinanțare",
+    "budget": "Buget",
+    "comprendre": "Înțelege",
+    "garanties": "Garanții",
+    "profils": "Profiluri"
+  },
+  "minutes": "{count} min de citit",
+  "byAuthor": "De {author}",
+  "readMore": "Citește articolul",
+  "backToList": "Toate sfaturile",
+  "suggestedTitle": "Citește și",
+  "shareTitle": "Distribuie",
+  "empty": "Niciun articol în această categorie.",
+  "cta": {
+    "title": "Ai îndoieli despre dosarul tău?",
+    "body": "Fă Citirea: o orientare cinstită, în câteva minute, fără angajament.",
+    "action": "Fă Citirea mea"
+  },
+  "pagination": { "previous": "Anterior", "next": "Următor", "page": "Pagina {current} din {total}" }
+}

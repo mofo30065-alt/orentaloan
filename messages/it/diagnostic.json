@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "title": "Verifica di idoneità — Spark loan",
+    "description": "In poche domande una lettura onesta della tua pratica: ipotesi seria, pratica da rafforzare o non fattibile per ora. Un orientamento, non una decisione di credito."
+  },
+  "intro": {
+    "eyebrow": "Lo strumento distintivo",
+    "title": "La Lettura della tua pratica",
+    "subtitle": "Sette domande, due minuti. Ti diciamo onestamente dove si trova la tua pratica, con il motivo e le strade che restano.",
+    "note": "È un orientamento, non una decisione di credito. Nessun punteggio, nessun impegno, nessun dato condiviso senza il tuo consenso.",
+    "start": "Inizia la Lettura"
+  },
+  "ui": {
+    "progress": "Domanda {current} di {total}",
+    "back": "Indietro",
+    "next": "Continua",
+    "result": "Vedi la mia Lettura",
+    "restart": "Ricomincia",
+    "required": "Seleziona una risposta per continuare."
+  },
+  "questions": {
+    "project": { "label": "Qual è il tuo progetto?" },
+    "employment": { "label": "Qual è la tua situazione lavorativa?" },
+    "seniority": { "label": "Da quanto tempo sei in questa situazione?" },
+    "monthlyIncome": { "label": "Il tuo reddito netto mensile", "help": "Reddito del nucleo, da tutte le fonti." },
+    "monthlyCharges": { "label": "Le tue spese e i prestiti in corso", "help": "Affitto, assegni, rate di prestiti già in corso." },
+    "ownership": { "label": "Sei proprietario della tua abitazione?" },
+    "incident": { "label": "Risulta un mancato pagamento a tuo nome?", "help": "Segnalazione in una centrale rischi." }
+  },
+  "options": {
+    "project": {
+      "rachat": "Consolidamento debiti",
+      "tresorerie": "Liquidità",
+      "immobilier": "Acquisto casa",
+      "travaux": "Ristrutturazione",
+      "auto": "Veicolo",
+      "consommation": "Acquisto / progetto personale",
+      "professionnel": "Progetto professionale"
+    },
+    "employment": {
+      "cdi": "Tempo indeterminato",
+      "cdd": "Tempo determinato o interinale",
+      "independant": "Autonomo",
+      "retraite": "In pensione",
+      "sansEmploi": "Senza impiego"
+    },
+    "seniority": { "moins1an": "Meno di un anno", "1a3ans": "Da 1 a 3 anni", "plus3ans": "Più di 3 anni" },
+    "ownership": {
+      "proprietaireSansCredit": "Proprietario, senza prestiti in corso",
+      "proprietaireAvecCredit": "Proprietario, con un prestito in corso",
+      "locataire": "In affitto",
+      "heberge": "Ospitato"
+    },
+    "incident": { "oui": "Sì", "non": "No", "inconnu": "Non so" }
+  },
+  "number": { "suffix": "€ / mese" },
+  "states": {
+    "go": { "label": "Ipotesi seria", "description": "Gli elementi raccolti permettono di studiare una richiesta." },
+    "work": { "label": "Pratica da rafforzare", "description": "Un punto preciso frena oggi. Può essere risolto." },
+    "stop": { "label": "Non fattibile per ora", "description": "Un finanziamento non è realistico oggi. Ecco un orientamento più utile." }
+  },
+  "result": {
+    "title": "La tua Lettura",
+    "reasonLabel": "Ciò che emerge",
+    "leversLabel": "Ciò che potrebbe cambiare la risposta",
+    "resourceLabel": "Una risorsa utile",
+    "productLabel": "Il finanziamento da esplorare",
+    "productLink": "Vedi questo finanziamento",
+    "note": "Questa lettura è un orientamento, non una decisione di credito. Fa fede solo l'analisi della pratica completa.",
+    "ctaSimulate": "Stima la mia rata",
+    "ctaRequest": "Continua con una richiesta",
+    "ctaRestart": "Rifai la Lettura"
+  },
+  "reasons": {
+    "insufficientCapacity": "Per ora il reddito dichiarato non copre una nuova rata senza indebolire il tuo bilancio.",
+    "unemployedOwner": "Senza reddito da lavoro, il finanziamento deve poggiare sul valore del tuo immobile.",
+    "unemployedNoAsset": "Senza reddito da lavoro né un bene in garanzia, nessun finanziamento è realistico oggi.",
+    "filedWithProperty": "La segnalazione blocca il credito classico, ma un consolidamento garantito dal tuo immobile può essere studiato.",
+    "filedNoCollateral": "Una segnalazione senza bene in garanzia chiude l'accesso al credito finché è attiva.",
+    "highDebtRatioOwner": "Le tue spese pesano molto, ma consolidare i prestiti attorno al tuo immobile può alleggerire il bilancio.",
+    "tightCapacity": "La tua capacità di rimborso è stretta: la pratica regge, a condizione di rafforzarla.",
+    "youngIndependant": "La tua attività è recente: i finanziatori di solito chiedono più anzianità e bilanci.",
+    "shortContract": "Un contratto breve indebolisce la pratica agli occhi di un finanziatore, senza renderla impossibile.",
+    "shortSeniority": "La tua anzianità è ancora breve: qualche mese in più rafforzerà nettamente la pratica.",
+    "healthyStable": "Situazione stabile e capacità di rimborso sana: la tua pratica parte bene.",
+    "healthyIndependant": "Attività consolidata e capacità sana: la tua pratica da autonomo parte bene.",
+    "checkFiling": "La tua situazione è favorevole; resta da sciogliere il dubbio su un'eventuale segnalazione prima di procedere."
+  },
+  "levers": {
+    "consolidate": "Consolidare i prestiti in corso per ridurre la rata complessiva.",
+    "reduceCharges": "Alleggerire una spesa ricorrente prima di presentare la richiesta.",
+    "addDownPayment": "Apportare una somma propria per ridurre l'importo finanziato.",
+    "coBorrower": "Presentare un co-intestatario per rafforzare il reddito della pratica.",
+    "gainSeniority": "Guadagnare qualche mese in più di anzianità nella tua situazione.",
+    "propertyAppraisal": "Far valutare il tuo immobile per stimare la garanzia disponibile.",
+    "provideBilans": "Raccogliere i bilanci per giustificare la regolarità del reddito.",
+    "waitDelisting": "Attendere la cancellazione della segnalazione, o chiederne la regolarizzazione.",
+    "verifyFiling": "Verificare la tua posizione presso la centrale rischi (diritto di accesso gratuito)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "L'ente competente informa gratuitamente sulla tua segnalazione e sulle vie di regolarizzazione.",
+    "debtCounseling": "Un servizio di consulenza di bilancio può aiutarti a sistemare la situazione prima di qualsiasi credito."
+  }
+}

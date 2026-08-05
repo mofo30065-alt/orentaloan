@@ -1,0 +1,77 @@
+{
+  "brand": {
+    "name": "Spark loan",
+    "tagline": "Specialist credit provider"
+  },
+  "skipToContent": "Skip to content",
+  "nav": {
+    "home": "Home",
+    "credits": "Loans",
+    "simulator": "Simulator",
+    "diagnostic": "Eligibility check",
+    "blog": "Advice",
+    "contact": "Contact"
+  },
+  "cta": {
+    "simulate": "Simulate my loan",
+    "diagnostic": "Check my eligibility",
+    "simulateShort": "Estimate a payment"
+  },
+  "phone": {
+    "label": "Call us",
+    "display": "+33 1 00 00 00 00",
+    "number": "+33100000000"
+  },
+  "trust": {
+    "licensed": "Authorised {agrement}",
+    "licensedPlaceholder": "CBI ref. C123456",
+    "address": "Real, reachable address"
+  },
+  "localeSwitcher": {
+    "label": "Language",
+    "fr": "Français",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "Español",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "Português",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "We use no tracker without your consent. Accepting or declining is equally easy.",
+    "link": "Learn more",
+    "accept": "Accept all",
+    "refuse": "Decline all"
+  },
+  "footer": {
+    "tagline": "We study the files others turn away, on real facts.",
+    "colProducts": "Financing",
+    "colCompany": "The company",
+    "colLegal": "Legal",
+    "colContact": "Reach us",
+    "legal": {
+      "mentions": "Legal notice",
+      "privacy": "Privacy",
+      "cookies": "Cookies",
+      "terms": "Terms of use",
+      "faq": "FAQ"
+    },
+    "company": {
+      "about": "Who we are",
+      "commitments": "Our commitments",
+      "blog": "Advice"
+    },
+    "newsletter": {
+      "title": "Get our pointers",
+      "help": "Concrete criteria about credit, without cold selling.",
+      "placeholder": "Your email address",
+      "action": "Subscribe"
+    },
+    "rights": "© {year} {brand}. All rights reserved.",
+    "publisher": "Spark Finance Ireland Ltd — CRO No. 654321 — 12 Dawson Street, Dublin 2, D02 XY45"
+  }
+}

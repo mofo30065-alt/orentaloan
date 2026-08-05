@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Cifre orientative, necontractuale și sub rezerva acceptării dosarului."
+  },
+  "infobox": {
+    "title": "Exemplu reprezentativ",
+    "amount": "Sumă împrumutată",
+    "duration": "Durată",
+    "rate": "Dobândă fixă",
+    "apr": "DAE fixă",
+    "monthly": "Rată lunară",
+    "totalCost": "Cost total al creditului",
+    "totalDue": "Sumă totală de plată",
+    "example": {
+      "amount": "15.000 €",
+      "duration": "48 de luni",
+      "rate": "6,90%",
+      "apr": "7,12%",
+      "monthly": "358,50 €",
+      "totalCost": "2.207,87 €",
+      "totalDue": "17.207,87 €"
+    },
+    "note": "Exemplu reprezentativ, fără asigurare opțională. Un credit te obligă și trebuie rambursat. Verifică-ți capacitatea de rambursare înainte de a te angaja."
+  },
+  "labels": {
+    "editor": "Editorul site-ului",
+    "legalForm": "Formă juridică",
+    "capital": "Capital social",
+    "registration": "Înregistrare",
+    "regulator": "Autoritate de supraveghere",
+    "regulatoryNumber": "Număr de licență",
+    "vat": "CUI / TVA",
+    "director": "Director de publicație",
+    "host": "Furnizor de găzduire",
+    "mediator": "Mediator pentru consumatori",
+    "dpo": "Responsabil cu protecția datelor"
+  },
+  "coolingOff": {
+    "title": "Drept de retragere",
+    "body": "Ai {days} zile calendaristice pentru a te retrage după semnarea ofertei, fără a fi nevoie să te justifici și fără penalități."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Mențiuni legale — Spark loan",
+      "description": "Editor, găzduire, autoritate de supraveghere și mediere."
+    },
+    "title": "Mențiuni legale",
+    "intro": "Informații despre editorul acestui site și cadrul său de reglementare."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Politica de confidențialitate — Spark loan",
+      "description": "Ce date prelucrăm, de ce, cât timp și drepturile tale."
+    },
+    "title": "Politica de confidențialitate",
+    "intro": "Datele tale privind situația financiară sunt sensibile. Iată, fără ocolișuri, ce facem cu ele.",
+    "sections": [
+      {
+        "heading": "Date colectate",
+        "body": "Identitate și date de contact, situație familială, profesională și financiară pe care le furnizezi, și date tehnice de navigare strict necesare funcționării site-ului."
+      },
+      {
+        "heading": "Scopuri",
+        "body": "Analiza cererii de finanțare, contactarea ta, respectarea obligațiilor legale și prevenirea fraudei. Niciun dat nu este vândut."
+      },
+      {
+        "heading": "Temei juridic",
+        "body": "Consimțământul tău pentru analiza cererii, executarea măsurilor precontractuale și obligațiile noastre legale ca instituție de credit."
+      },
+      {
+        "heading": "Destinatari",
+        "body": "Doar persoanele responsabile de dosarul tău au acces, împreună cu persoanele împuternicite strict necesare, obligate la confidențialitate."
+      },
+      {
+        "heading": "Păstrare",
+        "body": "Datele tale se păstrează pe durata analizei și apoi conform termenelor legale aplicabile, înainte de ștergere sau anonimizare."
+      },
+      {
+        "heading": "Prelucrare în browser",
+        "body": "Cât timp nu îți trimiți cererea, răspunsurile rămân pe dispozitivul tău și nu ne sunt transmise."
+      }
+    ],
+    "rightsTitle": "Drepturile tale",
+    "rights": [
+      "Acces, rectificare și ștergere a datelor",
+      "Restricționare și opoziție la prelucrare",
+      "Portabilitatea datelor",
+      "Retragerea consimțământului oricând",
+      "Plângere la autoritatea de protecție a datelor"
+    ],
+    "dpoIntro": "Pentru a-ți exercita drepturile, contactează responsabilul nostru cu protecția datelor:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Termeni de utilizare — Spark loan",
+      "description": "Reguli de utilizare a site-ului."
+    },
+    "title": "Termeni de utilizare",
+    "intro": "Acești termeni guvernează utilizarea site-ului. Nu constituie o ofertă de credit.",
+    "placeholder": "Accesul la site este gratuit. Prin utilizarea acestuia, acceptați aceste condiții. Conținutul (texte, mărci, ilustrații) aparține Spark Finance și nu poate fi reprodus fără autorizare. Simulările și prediagnozele sunt orientative și nu obligă creditorul. Se aplică legea română."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Politica de cookie-uri — Spark loan",
+      "description": "Ce cookie-uri folosim și cum le gestionezi."
+    },
+    "title": "Politica de cookie-uri",
+    "intro": "Niciun tracker nu este plasat fără consimțământul tău. Îți poți schimba alegerea oricând.",
+    "necessaryTitle": "Cookie-uri strict necesare",
+    "necessaryBody": "Indispensabile funcționării site-ului (preferința de limbă, memorarea alegerii privind cookie-urile). Nu necesită consimțământ.",
+    "optionalTitle": "Cookie-uri de măsurare și confort",
+    "optionalBody": "Plasate doar după acceptarea ta. Ne ajută să îmbunătățim site-ul fără a te identifica vreodată în scopuri publicitare.",
+    "manageTitle": "Gestionează alegerea mea",
+    "manageBody": "Șterge cookie-ul de consimțământ din browser pentru ca bannerul să reapară, apoi alege din nou."
+  }
+}

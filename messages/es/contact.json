@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contacto — Spark loan",
+    "description": "Contáctanos por teléfono, correo o en oficina. Cita previa en línea."
+  },
+  "title": "Contacto",
+  "intro": "¿Una pregunta sobre tu expediente? Escríbenos o llámanos. Una persona, no una ventanilla.",
+  "form": {
+    "title": "Escríbenos",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "subject": "Asunto (opcional)",
+    "message": "Tu mensaje",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando…",
+    "success": "Mensaje enviado. Te responderemos rápidamente.",
+    "error": "El envío ha fallado. Comprueba tu conexión e inténtalo de nuevo."
+  },
+  "errors": {
+    "required": "Este campo es obligatorio.",
+    "email": "Indica un correo electrónico válido.",
+    "message": "Tu mensaje debe tener al menos 10 caracteres."
+  },
+  "info": {
+    "title": "Contactar",
+    "phone": "Teléfono",
+    "email": "Correo",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Horario",
+    "agenciesTitle": "Nuestras oficinas",
+    "bookingTitle": "Pedir cita",
+    "bookingBody": "Elige una franja con un asesor, en oficina o por teléfono.",
+    "bookingCta": "Reservar cita"
+  }
+}
