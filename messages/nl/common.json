@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Mijn lening berekenen",
     "diagnostic": "Mijn kansen checken",
-    "simulateShort": "Termijn schatten"
+    "simulateShort": "Termijn schatten",
+    "request": "Een lening aanvragen"
   },
   "phone": {
     "label": "Bel ons",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Alle rechten voorbehouden.",
     "publisher": "Spark Finance Nederland B.V. — KvK 87654321 — Herengracht 100, 1015 BS Amsterdam"
+  },
+  "whatsapp": {
+    "aria": "Start een WhatsApp-gesprek",
+    "cta": "Chatten via WhatsApp",
+    "prefill": "Hallo, ik heb een vraag over uw financieringsaanbod."
   }
 }

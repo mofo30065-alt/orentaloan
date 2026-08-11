@@ -41,10 +41,10 @@ export function Header() {
             </a>
             <LocaleSwitcher />
             <Link
-              href="/simulateur"
+              href="/demande"
               className={cn(buttonVariants({ variant: 'accent', size: 'sm' }), 'hidden sm:inline-flex')}
             >
-              {t('cta.simulate')}
+              {t('cta.request')}
             </Link>
             <MobileMenu />
           </div>
@@ -79,10 +79,10 @@ function MobileMenu() {
               </Link>
             ))}
             <Link
-              href="/simulateur"
+              href="/demande"
               className={cn(buttonVariants({ variant: 'accent', size: 'md' }), 'mt-sm')}
             >
-              {t('cta.simulate')}
+              {t('cta.request')}
             </Link>
           </nav>
         </Container>

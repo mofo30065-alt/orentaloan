@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Simulează creditul meu",
     "diagnostic": "Verifică eligibilitatea mea",
-    "simulateShort": "Estimează o rată"
+    "simulateShort": "Estimează o rată",
+    "request": "Solicită un credit"
   },
   "phone": {
     "label": "Sună-ne",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Toate drepturile rezervate.",
     "publisher": "Spark Finance România S.A. cu capital de 10.000.000 lei — CUI 43215678 — Calea Victoriei 100, 010065 București"
+  },
+  "whatsapp": {
+    "aria": "Începe o discuție pe WhatsApp",
+    "cta": "Scrie pe WhatsApp",
+    "prefill": "Bună ziua, am o întrebare despre oferta dumneavoastră de finanțare."
   }
 }

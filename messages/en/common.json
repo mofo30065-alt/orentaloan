@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Simulate my loan",
     "diagnostic": "Check my eligibility",
-    "simulateShort": "Estimate a payment"
+    "simulateShort": "Estimate a payment",
+    "request": "Request a loan"
   },
   "phone": {
     "label": "Call us",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. All rights reserved.",
     "publisher": "Spark Finance Ireland Ltd — CRO No. 654321 — 12 Dawson Street, Dublin 2, D02 XY45"
+  },
+  "whatsapp": {
+    "aria": "Start a WhatsApp chat",
+    "cta": "Chat on WhatsApp",
+    "prefill": "Hello, I have a question about your financing offer."
   }
 }

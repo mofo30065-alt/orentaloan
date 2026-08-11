@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Simula il mio prestito",
     "diagnostic": "Verifica la mia idoneità",
-    "simulateShort": "Stima una rata"
+    "simulateShort": "Stima una rata",
+    "request": "Richiedi un prestito"
   },
   "phone": {
     "label": "Chiamaci",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Tutti i diritti riservati.",
     "publisher": "Spark Finance Italia S.p.A. con capitale di 3.000.000 € — P.IVA 12345670960 — Corso Buenos Aires 15, 20124 Milano"
+  },
+  "whatsapp": {
+    "aria": "Avvia una chat WhatsApp",
+    "cta": "Scrivi su WhatsApp",
+    "prefill": "Buongiorno, ho una domanda sulla vostra offerta di finanziamento."
   }
 }

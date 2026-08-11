@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Simular o meu crédito",
     "diagnostic": "Verificar a minha elegibilidade",
-    "simulateShort": "Estimar uma prestação"
+    "simulateShort": "Estimar uma prestação",
+    "request": "Pedir um empréstimo"
   },
   "phone": {
     "label": "Ligue-nos",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Todos os direitos reservados.",
     "publisher": "Spark Finance Portugal S.A. com capital de 2.000.000 € — NIPC 512345678 — Avenida da Liberdade 110, 1250-146 Lisboa"
+  },
+  "whatsapp": {
+    "aria": "Iniciar uma conversa no WhatsApp",
+    "cta": "Falar no WhatsApp",
+    "prefill": "Olá, tenho uma pergunta sobre a vossa oferta de financiamento."
   }
 }

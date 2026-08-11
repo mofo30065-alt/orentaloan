@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Symuluj mój kredyt",
     "diagnostic": "Sprawdź moje szanse",
-    "simulateShort": "Oszacuj ratę"
+    "simulateShort": "Oszacuj ratę",
+    "request": "Złóż wniosek o kredyt"
   },
   "phone": {
     "label": "Zadzwoń do nas",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Wszelkie prawa zastrzeżone.",
     "publisher": "Spark Finance Polska S.A. o kapitale 5 000 000 zł — KRS 0001234567 — ul. Marszałkowska 100, 00-026 Warszawa"
+  },
+  "whatsapp": {
+    "aria": "Rozpocznij czat na WhatsApp",
+    "cta": "Napisz na WhatsApp",
+    "prefill": "Dzień dobry, mam pytanie dotyczące Waszej oferty finansowania."
   }
 }

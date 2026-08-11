@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Kredit berechnen",
     "diagnostic": "Meine Eignung prüfen",
-    "simulateShort": "Rate schätzen"
+    "simulateShort": "Rate schätzen",
+    "request": "Kredit anfragen"
   },
   "phone": {
     "label": "Rufen Sie uns an",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Alle Rechte vorbehalten.",
     "publisher": "Spark Finance Deutschland GmbH mit Stammkapital von 1.000.000 € — HRB 123456 — Friedrichstraße 68, 10117 Berlin"
+  },
+  "whatsapp": {
+    "aria": "WhatsApp-Chat starten",
+    "cta": "Über WhatsApp chatten",
+    "prefill": "Hallo, ich habe eine Frage zu Ihrem Finanzierungsangebot."
   }
 }

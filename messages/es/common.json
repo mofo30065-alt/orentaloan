@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Simular mi préstamo",
     "diagnostic": "Comprobar mi elegibilidad",
-    "simulateShort": "Estimar una cuota"
+    "simulateShort": "Estimar una cuota",
+    "request": "Solicitar un préstamo"
   },
   "phone": {
     "label": "Llámanos",
@@ -73,5 +74,10 @@
     },
     "rights": "© {year} {brand}. Todos los derechos reservados.",
     "publisher": "Spark Finance España S.A. con capital de 3.000.000 € — CIF A-87654321 — Calle de Alcalá 45, 28014 Madrid"
+  },
+  "whatsapp": {
+    "aria": "Iniciar un chat de WhatsApp",
+    "cta": "Chatear por WhatsApp",
+    "prefill": "Hola, tengo una pregunta sobre su oferta de financiación."
   }
 }

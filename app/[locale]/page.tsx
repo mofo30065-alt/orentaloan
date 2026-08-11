@@ -41,6 +41,7 @@ export default async function HomePage({ params }: PageParams) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations('home');
+  const tc = await getTranslations('common');
   const situationItems = t.raw('situation.items') as string[];
 
   return (
@@ -59,17 +60,17 @@ export default async function HomePage({ params }: PageParams) {
               </p>
               <div className="mt-lg flex flex-col gap-sm sm:flex-row">
                 <Link
-                  href="/pre-diagnostic"
+                  href="/demande"
                   className={buttonVariants({ variant: 'accent', size: 'lg' })}
                 >
-                  {t('hero.ctaPrimary')}
+                  {tc('cta.request')}
                   <IconArrowRight className="h-4 w-4" />
                 </Link>
                 <Link
-                  href="/simulateur"
+                  href="/pre-diagnostic"
                   className={buttonVariants({ variant: 'outline', size: 'lg' })}
                 >
-                  {t('hero.ctaSecondary')}
+                  {t('hero.ctaPrimary')}
                 </Link>
               </div>
               <div className="mt-2xl">

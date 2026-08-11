@@ -15,7 +15,8 @@
   "cta": {
     "simulate": "Simuler mon prêt",
     "diagnostic": "Vérifier mon éligibilité",
-    "simulateShort": "Simuler une mensualité"
+    "simulateShort": "Simuler une mensualité",
+    "request": "Demander un prêt"
   },
   "phone": {
     "label": "Nous appeler",
