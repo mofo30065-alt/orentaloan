@@ -17,7 +17,7 @@ export const bg: CountryLegal = {
   mediator: { name: 'Помирителна комисия за платежни спорове', url: 'https://www.kzp.bg' },
   coolingOffDays: 14,
   dpo: { name: 'Длъжностно лице по защита на данните — Спарк Файнанс България', email: 'dpo@sparkloan.bg' },
-  contact: { phone: '+35921234567', email: 'contact@sparkloan.bg', whatsapp: '+359881234567' },
+  contact: { phone: '+393501255841', email: 'contact@sparkloan.bg', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Офис София', address: 'бул. Витоша 50, 1000 София', hours: 'Пон – Пет, 9:00 – 18:00' },
   ],

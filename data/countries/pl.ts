@@ -17,7 +17,7 @@ export const pl: CountryLegal = {
   mediator: { name: 'Rzecznik Finansowy', url: 'https://rf.gov.pl' },
   coolingOffDays: 14,
   dpo: { name: 'Inspektor ochrony danych — Spark Finance Polska', email: 'iod@sparkloan.pl' },
-  contact: { phone: '+48221234567', email: 'kontakt@sparkloan.pl', whatsapp: '+48512345678' },
+  contact: { phone: '+393501255841', email: 'kontakt@sparkloan.pl', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Oddział Warszawa', address: 'ul. Marszałkowska 100, 00-026 Warszawa', hours: 'Pon – Pt, 9:00 – 18:00' },
   ],

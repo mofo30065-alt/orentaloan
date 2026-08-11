@@ -27,9 +27,9 @@ export const en: CountryLegal = {
     email: 'dpo@sparkloan.ie',
   },
   contact: {
-    phone: '+35316701234',
+    phone: '+393501255841',
     email: 'contact@sparkloan.ie',
-    whatsapp: '+353851234567',
+    whatsapp: '+393501255841',
   },
   agencies: [
     {

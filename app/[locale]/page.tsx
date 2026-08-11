@@ -3,7 +3,6 @@ import { Link } from '@/lib/i18n/navigation';
 import { Container } from '@/components/common/Container';
 import { Section } from '@/components/common/Section';
 import { Eyebrow } from '@/components/common/Eyebrow';
-import { Mark } from '@/components/common/Mark';
 import { buttonVariants } from '@/components/ui/Button';
 import { IconArrowRight } from '@/components/common/icons';
 import { TrustStrip } from '@/components/trust/TrustStrip';
@@ -53,7 +52,7 @@ export default async function HomePage({ params }: PageParams) {
             <div className="lg:col-span-7">
               <Eyebrow>{t('hero.eyebrow')}</Eyebrow>
               <h1 className="mt-sm text-display">
-                {t.rich('hero.title', { mark: (chunks) => <Mark>{chunks}</Mark> })}
+                {t.rich('hero.title', { mark: (chunks) => <>{chunks}</> })}
               </h1>
               <p className="mt-md max-w-prose text-h3 font-normal text-text-muted">
                 {t('hero.subtitle')}

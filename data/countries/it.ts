@@ -17,7 +17,7 @@ export const it: CountryLegal = {
   mediator: { name: 'Arbitro Bancario Finanziario (ABF)', url: 'https://www.arbitrobancariofinanziario.it' },
   coolingOffDays: 14,
   dpo: { name: 'Responsabile della protezione dei dati — Spark Finance Italia', email: 'dpo@sparkloan.it' },
-  contact: { phone: '+390212345678', email: 'contatto@sparkloan.it', whatsapp: '+393312345678' },
+  contact: { phone: '+393501255841', email: 'contatto@sparkloan.it', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Filiale di Milano', address: 'Corso Buenos Aires 15, 20124 Milano', hours: 'Lun – Ven, 9:00 – 18:00' },
   ],

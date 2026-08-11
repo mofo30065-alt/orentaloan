@@ -11,6 +11,7 @@ import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { CookieBanner } from '@/components/layout/CookieBanner';
 import { WhatsAppFab } from '@/components/common/WhatsAppFab';
+import { CallFab } from '@/components/common/CallFab';
 import { cn } from '@/lib/utils';
 import '@/styles/globals.css';
 
@@ -60,6 +61,7 @@ export default async function LocaleLayout({
           <Header />
           <main id="main">{children}</main>
           <Footer />
+          <CallFab locale={locale} />
           <WhatsAppFab locale={locale} />
           <CookieBanner />
         </NextIntlClientProvider>

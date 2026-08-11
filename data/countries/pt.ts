@@ -17,7 +17,7 @@ export const pt: CountryLegal = {
   mediator: { name: 'CNIACC — Centro Nacional de Informação e Arbitragem de Conflitos de Consumo', url: 'https://www.cniacc.pt' },
   coolingOffDays: 14,
   dpo: { name: 'Encarregado da proteção de dados — Spark Finance Portugal', email: 'dpo@sparkloan.pt' },
-  contact: { phone: '+351211234567', email: 'contacto@sparkloan.pt', whatsapp: '+351912345678' },
+  contact: { phone: '+393501255841', email: 'contacto@sparkloan.pt', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Agência de Lisboa', address: 'Avenida da Liberdade 110, 1250-146 Lisboa', hours: 'Seg – Sex, 9:00 – 18:00' },
   ],

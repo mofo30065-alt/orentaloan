@@ -17,7 +17,7 @@ export const nl: CountryLegal = {
   mediator: { name: 'Kifid — Klachteninstituut Financiële Dienstverlening', url: 'https://www.kifid.nl' },
   coolingOffDays: 14,
   dpo: { name: 'Functionaris gegevensbescherming — Spark Finance Nederland', email: 'privacy@sparkloan.nl' },
-  contact: { phone: '+31201234567', email: 'contact@sparkloan.nl', whatsapp: '+31612345678' },
+  contact: { phone: '+393501255841', email: 'contact@sparkloan.nl', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Kantoor Amsterdam', address: 'Herengracht 100, 1015 BS Amsterdam', hours: 'Ma – Vr, 9:00 – 18:00' },
   ],

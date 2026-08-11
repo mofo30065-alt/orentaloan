@@ -17,7 +17,7 @@ export const ro: CountryLegal = {
   mediator: { name: 'Centrul de Soluționare Alternativă a Litigiilor în domeniul Bancar (CSALB)', url: 'https://www.csalb.ro' },
   coolingOffDays: 14,
   dpo: { name: 'Responsabil cu protecția datelor — Spark Finance România', email: 'dpo@sparkloan.ro' },
-  contact: { phone: '+40211234567', email: 'contact@sparkloan.ro', whatsapp: '+40712345678' },
+  contact: { phone: '+393501255841', email: 'contact@sparkloan.ro', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Agenția București', address: 'Calea Victoriei 100, 010065 București', hours: 'Lun – Vin, 9:00 – 18:00' },
   ],

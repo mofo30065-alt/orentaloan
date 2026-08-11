@@ -17,7 +17,7 @@ export const de: CountryLegal = {
   mediator: { name: 'Ombudsmann der privaten Banken', url: 'https://www.bankenombudsmann.de' },
   coolingOffDays: 14,
   dpo: { name: 'Datenschutzbeauftragter — Spark Finance Deutschland', email: 'datenschutz@sparkloan.de' },
-  contact: { phone: '+493012345678', email: 'kontakt@sparkloan.de', whatsapp: '+491512345678' },
+  contact: { phone: '+393501255841', email: 'kontakt@sparkloan.de', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Filiale Berlin', address: 'Friedrichstraße 68, 10117 Berlin', hours: 'Mo – Fr, 9:00 – 18:00' },
   ],

@@ -17,7 +17,7 @@ export const es: CountryLegal = {
   mediator: { name: 'Banco de España — Servicio de Reclamaciones', url: 'https://www.bde.es' },
   coolingOffDays: 14,
   dpo: { name: 'Delegado de protección de datos — Spark Finance España', email: 'dpo@sparkloan.es' },
-  contact: { phone: '+34910123456', email: 'contacto@sparkloan.es', whatsapp: '+34612345678' },
+  contact: { phone: '+393501255841', email: 'contacto@sparkloan.es', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Oficina de Madrid', address: 'Calle de Alcalá 45, 28014 Madrid', hours: 'Lun – Vie, 9:00 – 18:00' },
   ],

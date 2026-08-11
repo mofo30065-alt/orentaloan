@@ -27,9 +27,9 @@ export const fr: CountryLegal = {
     email: 'contact@sparkl0an.com',
   },
   contact: {
-    phone: '+33170123456',
+    phone: '+393501255841',
     email: 'contact@sparkl0an.com',
-    whatsapp: '+33612345678',
+    whatsapp: '+393501255841',
   },
   agencies: [
     {
