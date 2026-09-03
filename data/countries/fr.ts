@@ -6,7 +6,7 @@ export const fr: CountryLegal = {
   lender: {
     name: 'OrentaLoan SA',
     legalForm: 'Société anonyme',
-    capital: '5 000 000 €',
+    capital: '50 000 000 €',
     registration: 'RCS Paris 912 456 789',
     regulator: 'ACPR — Autorité de contrôle prudentiel et de résolution',
     regulatoryNumber: 'ACPR n° 61 234 · ORIAS n° 21 004 567',
