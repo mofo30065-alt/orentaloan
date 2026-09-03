@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Spark loan — ein Kredit, geprüft auf Ihre tatsächliche Lage",
+    "title": "OrentaLoan — ein Kredit, geprüft auf Ihre tatsächliche Lage",
     "description": "Spezialisierter Kreditgeber für Unterlagen, die Filialbanken ablehnen. Prüfung auf echte Fakten, Fall für Fall."
   },
   "hero": {
@@ -9,6 +9,14 @@
     "subtitle": "Wir prüfen Unterlagen, die Filialbanken oft ablehnen. Jede Entscheidung beruht auf konkreten Fakten, Fall für Fall — ohne Zusage auf Bewilligung.",
     "ctaPrimary": "Meine Eignung prüfen",
     "ctaSecondary": "Rate schätzen"
+  },
+  "heroMini": {
+    "title": "Auf einen Blick schätzen",
+    "amount": "Betrag",
+    "duration": "Laufzeit",
+    "result": "Geschätzte Rate",
+    "rateNote": "Richtwertschätzung bei {rate} festem Sollzins, ohne Versicherung.",
+    "cta": "Meine Berechnung verfeinern"
   },
   "situation": {
     "eyebrow": "Ihre Lage",

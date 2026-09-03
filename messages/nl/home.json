@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Spark loan — een lening beoordeeld op uw echte situatie",
+    "title": "OrentaLoan — een lening beoordeeld op uw echte situatie",
     "description": "Gespecialiseerde kredietverstrekker voor dossiers die grootbanken weigeren. Beoordeling op echte feiten, geval per geval."
   },
   "hero": {
@@ -9,6 +9,14 @@
     "subtitle": "We bestuderen dossiers die grootbanken vaak weigeren. Elke beslissing berust op concrete feiten, dossier per dossier — zonder belofte van goedkeuring.",
     "ctaPrimary": "Mijn kansen checken",
     "ctaSecondary": "Termijn schatten"
+  },
+  "heroMini": {
+    "title": "In één oogopslag schatten",
+    "amount": "Bedrag",
+    "duration": "Looptijd",
+    "result": "Geschatte termijn",
+    "rateNote": "Indicatieve schatting tegen {rate} vaste debetrente, exclusief verzekering.",
+    "cta": "Mijn simulatie verfijnen"
   },
   "situation": {
     "eyebrow": "Uw situatie",

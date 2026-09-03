@@ -6,7 +6,7 @@ import { createHmac, timingSafeEqual } from 'node:crypto';
  * La persistance réelle de l'abonnement relève du CRM (à brancher).
  */
 const secret = (): string =>
-  process.env.NEWSLETTER_SECRET ?? process.env.RESEND_API_KEY ?? 'spark-dev-secret';
+  process.env.NEWSLETTER_SECRET ?? process.env.RESEND_API_KEY ?? 'orentaloan-dev-secret';
 
 export function signEmail(email: string): string {
   return createHmac('sha256', secret()).update(email.trim().toLowerCase()).digest('hex');

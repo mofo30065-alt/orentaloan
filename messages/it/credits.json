@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "I nostri finanziamenti — Spark loan",
+    "title": "I nostri finanziamenti — OrentaLoan",
     "description": "14 tipi di finanziamento valutati sulla tua situazione reale. I prestiti con garanzia restano accessibili dopo un rifiuto bancario."
   },
   "index": {
@@ -40,19 +40,551 @@
     }
   },
   "products": {
-    "rachat-credit": { "name": "Consolidamento debiti", "teaser": "Unisci i tuoi prestiti in un'unica rata, garantita dal tuo immobile se necessario." },
-    "pret-travaux": { "name": "Prestito ristrutturazione", "teaser": "Finanzia una ristrutturazione, anche interventi di efficienza energetica." },
-    "pret-tresorerie": { "name": "Prestito di liquidità", "teaser": "Supera un momento di liquidità per la tua attività, senza immobilizzare i fondi." },
-    "loa": { "name": "Leasing", "teaser": "Usa un veicolo o un'attrezzatura senza acquistarli subito." },
-    "affacturage": { "name": "Factoring", "teaser": "Trasforma le fatture dei clienti in liquidità immediata." },
-    "pret-relais": { "name": "Prestito ponte", "teaser": "Compra prima di aver venduto, durante la transizione." },
-    "pret-immobilier": { "name": "Mutuo casa", "teaser": "Finanzia l'acquisto di una casa valutato sulla tua situazione reale." },
-    "credit-consommation": { "name": "Prestito personale", "teaser": "Finanzia un progetto personale, attrezzature o un imprevisto." },
-    "pret-auto": { "name": "Prestito auto", "teaser": "Acquista un veicolo nuovo o usato, con una rata chiara." },
-    "credit-renouvelable": { "name": "Credito rotativo", "teaser": "Una riserva di denaro flessibile, da usare con misura." },
-    "pret-etudiant": { "name": "Prestito studenti", "teaser": "Finanzia gli studi e il loro costo della vita." },
-    "financement-equipement": { "name": "Finanziamento attrezzature", "teaser": "Finanzia macchinari, materiali o veicoli aziendali." },
-    "pret-creation-reprise": { "name": "Prestito avvio/rilevamento", "teaser": "Finanzia l'avvio o il rilevamento di un'attività." },
-    "immobilier-professionnel": { "name": "Immobiliare aziendale", "teaser": "Finanzia locali commerciali o professionali." }
+    "rachat-credit": {
+      "name": "Consolidamento debiti",
+      "teaser": "Unisci i tuoi prestiti in un'unica rata, garantita dal tuo immobile se necessario.",
+      "heroSubtitle": "Unire i tuoi prestiti in un'unica rata, garantita dal tuo immobile quando è necessario.",
+      "description": "Il consolidamento debiti riunisce i tuoi prestiti in corso in uno solo, con una rata ridotta e una durata ridistribuita. Garantito da un bene, resta valutabile anche dopo un incidente di pagamento.",
+      "eligible": [
+        "Proprietario che vuole unire più prestiti",
+        "Budget teso con un bene da mettere in garanzia",
+        "Situazione professionale varia, autonomi inclusi"
+      ],
+      "notEligible": [
+        "Affittuario senza garante e con un rapporto rata/reddito già molto elevato",
+        "Nessun prestito esistente da consolidare"
+      ],
+      "documents": [
+        "Documento d'identità in corso di validità",
+        "Piani di ammortamento dei prestiti da consolidare",
+        "Ultimi tre estratti conto",
+        "Attestazione di proprietà o imposta immobiliare"
+      ],
+      "faq": [
+        {
+          "q": "Il consolidamento cancella una segnalazione nelle centrali rischi?",
+          "a": "No. Può estinguere i prestiti all'origine dell'incidente, il che può portare a una cancellazione, ma nessuna radiazione è automatica né garantita."
+        },
+        {
+          "q": "Fino a quanto si può allungare la durata?",
+          "a": "Fino a 420 mesi per un consolidamento garantito da un immobile, nei limiti della tua capacità di rimborso."
+        },
+        {
+          "q": "Posso aggiungere della liquidità?",
+          "a": "Sì, un importo aggiuntivo può essere integrato se la garanzia e i redditi lo consentono."
+        }
+      ],
+      "case": {
+        "title": "Consolidamento di tre prestiti",
+        "detail": "80.000 € consolidati su 180 mesi: un'unica rata sostituisce tre scadenze, per un costo ridistribuito e noto in anticipo."
+      }
+    },
+    "pret-travaux": {
+      "name": "Prestito ristrutturazione",
+      "teaser": "Finanzia una ristrutturazione, anche interventi di efficienza energetica.",
+      "heroSubtitle": "Finanziare una ristrutturazione, anche interventi di risparmio energetico.",
+      "description": "Il prestito ristrutturazione finanzia il miglioramento della tua abitazione, dal rinnovo alla riqualificazione energetica. Può integrare gli incentivi pubblici.",
+      "eligible": [
+        "Proprietario che occupa l'immobile o che lo affitta",
+        "Progetto di riqualificazione energetica idoneo agli incentivi",
+        "Redditi regolari, anche modesti, con preventivo a supporto"
+      ],
+      "notEligible": [
+        "Lavori senza preventivo né giustificativo d'uso",
+        "Capacità di rimborso già satura"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Preventivi dettagliati dei lavori",
+        "Attestazione di residenza recente",
+        "Ultime due dichiarazioni dei redditi"
+      ],
+      "faq": [
+        {
+          "q": "Posso cumularlo con un incentivo pubblico alla ristrutturazione?",
+          "a": "Sì. Il prestito ristrutturazione integra gli incentivi; gli importi percepiti non rientrano nel finanziamento."
+        },
+        {
+          "q": "I fondi vengono erogati in un'unica soluzione?",
+          "a": "A seconda del cantiere, è possibile un'erogazione progressiva dietro presentazione delle fatture."
+        },
+        {
+          "q": "Bisogna essere proprietari?",
+          "a": "Il più delle volte sì, ma un affittuario che esegue lavori con il consenso del proprietario può essere valutato."
+        }
+      ],
+      "case": {
+        "title": "Riqualificazione energetica",
+        "detail": "25.000 € su 84 mesi per un isolamento e una pompa di calore, a integrazione degli incentivi."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Prestito di liquidità",
+      "teaser": "Supera un momento di liquidità per la tua attività, senza immobilizzare i fondi.",
+      "heroSubtitle": "Superare un momento di liquidità per la tua attività, senza immobilizzare i tuoi attivi.",
+      "description": "Il prestito di liquidità copre un fabbisogno di capitale circolante: sfasamento di pagamento, costo stagionale, difficoltà passeggera. Valutato sulla realtà della tua attività.",
+      "eligible": [
+        "Micro impresa, autonomo o libero professionista con attività avviata",
+        "Fabbisogno puntuale di capitale circolante giustificabile",
+        "Conto aziendale con movimenti regolari"
+      ],
+      "notEligible": [
+        "Attività avviata da meno di sei mesi senza storico",
+        "Fabbisogno strutturale di lungo termine di competenza di un altro prodotto"
+      ],
+      "documents": [
+        "Visura camerale o equivalente",
+        "Ultimi due bilanci o situazione contabile",
+        "Estratti del conto aziendale",
+        "Documento d'identità del titolare"
+      ],
+      "faq": [
+        {
+          "q": "Servono tre bilanci?",
+          "a": "No. Una situazione contabile recente ed estratti conto regolari possono bastare per l'analisi."
+        },
+        {
+          "q": "Quali tempi di erogazione?",
+          "a": "Dopo l'accettazione e la firma dell'offerta, i fondi sono erogati nei termini di legge."
+        },
+        {
+          "q": "È richiesta una garanzia?",
+          "a": "A seconda dell'importo, può essere richiesta una fideiussione del titolare o una garanzia."
+        }
+      ],
+      "case": {
+        "title": "Sfasamento di liquidità",
+        "detail": "30.000 € su 48 mesi per assorbire uno sfasamento di pagamento di un cliente, rimborsati man mano che si incassa."
+      }
+    },
+    "loa": {
+      "name": "Leasing",
+      "teaser": "Usa un veicolo o un'attrezzatura senza acquistarli subito.",
+      "heroSubtitle": "Usare un veicolo o un'attrezzatura senza acquistarli, con un'opzione di riscatto a fine contratto.",
+      "description": "Il leasing con opzione di riscatto ti fa pagare canoni per l'uso di un bene, con la possibilità di acquistarlo al suo valore residuo. Il costo è distribuito, il bene resta la garanzia.",
+      "eligible": [
+        "Privato o professionista che vuole l'uso senza acquisto immediato",
+        "Redditi regolari che coprono il canone",
+        "Progetto relativo a un veicolo o un'attrezzatura identificabile"
+      ],
+      "notEligible": [
+        "Ricerca di capitale in contanti (il leasing finanzia un uso)",
+        "Bene non assicurabile o difficilmente rivendibile"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Giustificativo di reddito",
+        "Ordine d'acquisto o preventivo del bene",
+        "Attestazione di residenza"
+      ],
+      "faq": [
+        {
+          "q": "Sono proprietario del bene?",
+          "a": "No durante il leasing. Lo diventi se eserciti l'opzione di riscatto al valore residuo previsto."
+        },
+        {
+          "q": "La manutenzione è inclusa?",
+          "a": "A seconda del contratto; alcune formule includono manutenzione e assicurazione."
+        },
+        {
+          "q": "Posso restituire il bene alla fine?",
+          "a": "Sì. Senza esercitare l'opzione, restituisci il bene nello stato previsto dal contratto."
+        }
+      ],
+      "case": {
+        "title": "Veicolo in leasing",
+        "detail": "30.000 € di valore, 48 canoni poi un valore residuo: scegli se acquistare o restituire."
+      }
+    },
+    "affacturage": {
+      "name": "Factoring",
+      "teaser": "Trasforma le fatture dei clienti in liquidità immediata.",
+      "heroSubtitle": "Trasformare le fatture dei clienti in liquidità immediata.",
+      "description": "Il factoring non è un prestito: cedi le tue fatture da incassare in cambio di un anticipo immediato, dietro una commissione. La tua liquidità segue il tuo fatturato.",
+      "eligible": [
+        "Impresa che fattura a clienti professionali",
+        "Portafoglio clienti ricorrente con termini di pagamento",
+        "Necessità di livellare la liquidità senza indebitarsi"
+      ],
+      "notEligible": [
+        "Attività B2C senza fatture professionali",
+        "Crediti contestati o già scaduti"
+      ],
+      "documents": [
+        "Visura camerale",
+        "Bilancio clienti recente",
+        "Esempi di fatture e condizioni di pagamento",
+        "Documento d'identità del titolare"
+      ],
+      "faq": [
+        {
+          "q": "È un credito?",
+          "a": "No. È una cessione di crediti in cambio di un anticipo; non aumenta il tuo indebitamento bancario."
+        },
+        {
+          "q": "Chi sollecita i miei clienti?",
+          "a": "A seconda della formula, il sollecito e il recupero possono essere delegati al factor."
+        },
+        {
+          "q": "Quale costo?",
+          "a": "Una commissione di factoring e una commissione di finanziamento, in base al volume e ai tempi. Il dettaglio è riportato nel contratto."
+        }
+      ],
+      "case": {
+        "title": "Anticipo su fatture",
+        "detail": "Un portafoglio clienti di 100.000 € finanziato in pochi giorni, al ritmo delle tue fatturazioni."
+      }
+    },
+    "pret-relais": {
+      "name": "Prestito ponte",
+      "teaser": "Compra prima di aver venduto, durante la transizione.",
+      "heroSubtitle": "Comprare un nuovo bene prima di aver venduto quello attuale, durante la transizione.",
+      "description": "Il prestito ponte anticipa una parte del valore del tuo bene in vendita. Rimborsi il capitale alla vendita; nel frattempo, il più delle volte paghi solo gli interessi.",
+      "eligible": [
+        "Proprietario che vende un bene per acquistarne un altro",
+        "Bene messo in vendita a un valore realistico",
+        "Capacità di sostenere gli interessi durante il periodo ponte"
+      ],
+      "notEligible": [
+        "Bene difficile da vendere o sopravvalutato",
+        "Assenza di un progetto d'acquisto concreto"
+      ],
+      "documents": [
+        "Stima o mandato di vendita del bene",
+        "Titolo di proprietà",
+        "Preliminare o progetto d'acquisto",
+        "Documento d'identità"
+      ],
+      "faq": [
+        {
+          "q": "Cosa succede se non vendo in tempo?",
+          "a": "Il prestito ponte ha una durata limitata (da 12 a 24 mesi). Una soluzione di uscita è prevista e discussa fin dall'inizio."
+        },
+        {
+          "q": "Quanto posso ottenere?",
+          "a": "In genere una quota prudente del valore stimato, per tenere conto del mercato."
+        },
+        {
+          "q": "Si paga il capitale ogni mese?",
+          "a": "No. Il capitale è rimborsato alla vendita; paghi solo gli interessi, a seconda della formula scelta."
+        }
+      ],
+      "case": {
+        "title": "Acquisto prima della vendita",
+        "detail": "200.000 € anticipati su 12 mesi con esonero parziale: paghi solo gli interessi fino alla vendita."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Mutuo casa",
+      "teaser": "Finanzia l'acquisto di una casa valutato sulla tua situazione reale.",
+      "heroSubtitle": "Finanziare l'acquisto di una casa valutato sulla tua situazione reale, non su un punteggio.",
+      "description": "Il mutuo casa finanzia l'acquisto della tua abitazione o di un investimento. Studiamo le pratiche atipiche: autonomi, contratti a termine, profili scartati altrove.",
+      "eligible": [
+        "Progetto d'acquisto con anticipo o garanzia",
+        "Redditi regolari, lavoratori autonomi inclusi",
+        "Profilo atipico ma pratica per il resto solida"
+      ],
+      "notEligible": [
+        "Indebitamento che supera nettamente le soglie prudenziali senza garanzia",
+        "Nessun anticipo né bene da ipotecare"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Preliminare di vendita",
+        "Ultime tre buste paga o bilanci",
+        "Estratti conto recenti"
+      ],
+      "faq": [
+        {
+          "q": "Accettate gli autonomi senza tre bilanci?",
+          "a": "Sì, a determinate condizioni: un'attività avviata ed estratti conto regolari possono compensare."
+        },
+        {
+          "q": "L'anticipo è obbligatorio?",
+          "a": "Non sistematicamente, ma rafforza nettamente la pratica e il tasso."
+        },
+        {
+          "q": "Il tasso è fisso?",
+          "a": "Fisso o variabile a seconda della durata; la tabella sopra fornisce riferimenti indicativi."
+        }
+      ],
+      "case": {
+        "title": "Acquisto dell'abitazione",
+        "detail": "200.000 € su 240 mesi: una rata nota in anticipo, calcolata al centesimo."
+      }
+    },
+    "credit-consommation": {
+      "name": "Prestito personale",
+      "teaser": "Finanzia un progetto personale, attrezzature o un imprevisto.",
+      "heroSubtitle": "Finanziare un progetto personale, attrezzature o un imprevisto.",
+      "description": "Il prestito personale finanzia un'esigenza identificata senza ipotecare un bene. Importi e durate misurati, analisi sul tuo budget reale.",
+      "eligible": [
+        "Redditi regolari che coprono la rata",
+        "Progetto personale identificabile",
+        "Rapporto rata/reddito sotto controllo"
+      ],
+      "notEligible": [
+        "Budget già teso da altri prestiti",
+        "Liquidità richiesta senza una chiara capacità di rimborso"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Attestazione di residenza",
+        "Ultime due buste paga",
+        "Ultima dichiarazione dei redditi"
+      ],
+      "faq": [
+        {
+          "q": "In quanto tempo arriva la risposta?",
+          "a": "Ti viene annunciato un tempo di analisi chiaro, e lo rispettiamo."
+        },
+        {
+          "q": "Posso rimborsare in anticipo?",
+          "a": "Sì, in qualsiasi momento, alle condizioni di legge previste dal contratto."
+        },
+        {
+          "q": "È richiesto un giustificativo d'uso?",
+          "a": "A seconda dell'importo e del tipo di prestito; te lo precisiamo in fase di analisi."
+        }
+      ],
+      "case": {
+        "title": "Progetto personale",
+        "detail": "15.000 € su 48 mesi: rata, costo totale e TAEG mostrati prima di qualsiasi firma."
+      }
+    },
+    "pret-auto": {
+      "name": "Prestito auto",
+      "teaser": "Acquista un veicolo nuovo o usato, con una rata chiara.",
+      "heroSubtitle": "Acquistare un veicolo nuovo o usato, con una rata chiara.",
+      "description": "Il prestito auto finanzia l'acquisto di un veicolo. Il bene può fungere da garanzia, il che apre il finanziamento a profili diversi.",
+      "eligible": [
+        "Acquisto di un veicolo nuovo o usato identificabile",
+        "Redditi regolari",
+        "Profilo accettato grazie alla garanzia del veicolo"
+      ],
+      "notEligible": [
+        "Veicolo senza fattura né libretto di circolazione utilizzabile",
+        "Capacità di rimborso insufficiente nonostante la garanzia"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Ordine d'acquisto o certificato di cessione",
+        "Giustificativo di reddito",
+        "Attestazione di residenza"
+      ],
+      "faq": [
+        {
+          "q": "Vengono finanziati nuovo e usato?",
+          "a": "Sì, con durate adeguate all'età del veicolo."
+        },
+        {
+          "q": "Il veicolo è dato in pegno?",
+          "a": "A seconda della formula, può essere costituito un pegno come garanzia."
+        },
+        {
+          "q": "Posso finanziare l'assicurazione?",
+          "a": "L'assicurazione sul credito è facoltativa e può essere integrata nella rata."
+        }
+      ],
+      "case": {
+        "title": "Auto usata",
+        "detail": "20.000 € su 60 mesi, garantiti dal veicolo finanziato."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Credito rotativo",
+      "teaser": "Una riserva di denaro flessibile, da usare con misura.",
+      "heroSubtitle": "Una riserva di denaro flessibile, da usare con misura.",
+      "description": "Il credito rotativo mette a disposizione una riserva che utilizzi liberamente e ricostituisci man mano che rimborsi. Flessibile ma costoso: da riservare a piccole esigenze puntuali.",
+      "eligible": [
+        "Esigenza puntuale di piccolo importo",
+        "Capacità di rimborsare in fretta per limitare il costo",
+        "Redditi regolari"
+      ],
+      "notEligible": [
+        "Progetto lungo, per cui un prestito ammortizzabile costa molto meno",
+        "Difficoltà a rimborsare più degli interessi ogni mese"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Attestazione di residenza",
+        "Giustificativo di reddito",
+        "Estratto conto recente"
+      ],
+      "faq": [
+        {
+          "q": "Perché il tasso è elevato?",
+          "a": "La flessibilità ha un costo. Prima rimborsi, meno interessi paghi."
+        },
+        {
+          "q": "Sono obbligato a usare la riserva?",
+          "a": "No. Gli interessi maturano solo sulla somma effettivamente utilizzata."
+        },
+        {
+          "q": "È adatto a un grosso acquisto?",
+          "a": "Raramente. Per un progetto, un prestito ammortizzabile è quasi sempre meno costoso."
+        }
+      ],
+      "case": {
+        "title": "Piccola esigenza puntuale",
+        "detail": "3.000 € utilizzati e poi rimborsati in 24 mesi: il costo dipende direttamente dal tuo ritmo di rimborso."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Prestito studenti",
+      "teaser": "Finanzia gli studi e il loro costo della vita.",
+      "heroSubtitle": "Finanziare gli studi e il loro costo della vita, con un rimborso su misura.",
+      "description": "Il prestito studenti finanzia le tasse di iscrizione e la vita quotidiana, spesso con un differimento del rimborso durante gli studi. Una fideiussione rafforza la pratica.",
+      "eligible": [
+        "Studente iscritto a un istituto riconosciuto",
+        "Presenza di un garante o di una fideiussione",
+        "Progetto di studi coerente con l'importo"
+      ],
+      "notEligible": [
+        "Assenza di garante e di redditi futuri credibili",
+        "Importo senza rapporto con il percorso di studi"
+      ],
+      "documents": [
+        "Documento d'identità",
+        "Certificato di iscrizione o attestazione di immatricolazione",
+        "Documenti del garante",
+        "Attestazione di residenza"
+      ],
+      "faq": [
+        {
+          "q": "Posso differire il rimborso?",
+          "a": "Sì, un differimento parziale o totale durante gli studi è frequente; gli interessi maturano a seconda della formula."
+        },
+        {
+          "q": "Serve un garante?",
+          "a": "Il più delle volte è necessario e migliora nettamente le condizioni."
+        },
+        {
+          "q": "Il tasso è vantaggioso?",
+          "a": "I tassi per studenti sono tra i più bassi; vedi la tabella indicativa sopra."
+        }
+      ],
+      "case": {
+        "title": "Finanziamento di un percorso di studi",
+        "detail": "15.000 € su 60 mesi con differimento durante gli studi, rimborsati con l'ingresso nel mondo del lavoro."
+      }
+    },
+    "financement-equipement": {
+      "name": "Finanziamento attrezzature",
+      "teaser": "Finanzia macchinari, materiali o veicoli aziendali.",
+      "heroSubtitle": "Finanziare macchinari, materiali o veicoli aziendali senza gravare sulla tua liquidità.",
+      "description": "Il finanziamento attrezzature finanzia un bene produttivo, che spesso funge da garanzia. Preserva la tua liquidità per l'esercizio dell'attività.",
+      "eligible": [
+        "Impresa che investe in un materiale identificabile",
+        "Bene rivendibile che funge da garanzia",
+        "Attività con conti regolari"
+      ],
+      "notEligible": [
+        "Materiale obsoleto o difficilmente rivendibile",
+        "Impresa senza una capacità di rimborso dimostrabile"
+      ],
+      "documents": [
+        "Visura camerale",
+        "Preventivo o fattura proforma del materiale",
+        "Ultimi due bilanci",
+        "Estratti del conto aziendale"
+      ],
+      "faq": [
+        {
+          "q": "Il materiale funge da garanzia?",
+          "a": "Spesso sì, il che facilita l'accordo anche per una struttura giovane."
+        },
+        {
+          "q": "Credito o leasing?",
+          "a": "Entrambi sono possibili; un consulente confronta in base alla tua fiscalità e alle tue esigenze."
+        },
+        {
+          "q": "Quale durata?",
+          "a": "Allineata alla durata d'uso del materiale, fino a 84 mesi."
+        }
+      ],
+      "case": {
+        "title": "Acquisto di materiale",
+        "detail": "40.000 € su 60 mesi per un'attrezzatura produttiva, con pegno sul bene finanziato."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Prestito avvio/rilevamento",
+      "teaser": "Finanzia l'avvio o il rilevamento di un'attività.",
+      "heroSubtitle": "Finanziare l'avvio o il rilevamento di un'attività, oltre l'apporto personale.",
+      "description": "Il prestito avvio/rilevamento integra i tuoi mezzi propri per avviare o rilevare un'impresa. La pratica si basa sul progetto, sul piano previsionale e sulle garanzie.",
+      "eligible": [
+        "Promotore del progetto con un business plan quantificato",
+        "Apporto personale o co-finanziamento",
+        "Rilevamento di un'attività con conti utilizzabili"
+      ],
+      "notEligible": [
+        "Progetto senza apporto, garanzia né previsionale",
+        "Settore senza alcuna visibilità dei ricavi"
+      ],
+      "documents": [
+        "Business plan e piano previsionale",
+        "Documento d'identità",
+        "Giustificativo dell'apporto",
+        "Preliminare di rilevamento se del caso"
+      ],
+      "faq": [
+        {
+          "q": "Serve un apporto?",
+          "a": "Un apporto, anche modesto, è determinante; può essere integrato da incentivi all'avvio d'impresa."
+        },
+        {
+          "q": "Finanziate un rilevamento?",
+          "a": "Sì, sulla base dei conti della società target e del tuo piano di rilevamento."
+        },
+        {
+          "q": "È richiesta una garanzia?",
+          "a": "Frequentemente, sotto forma di fideiussione del titolare o di garanzia di un ente dedicato."
+        }
+      ],
+      "case": {
+        "title": "Rilevamento di un'attività",
+        "detail": "60.000 € su 60 mesi a integrazione di un apporto, ancorati al previsionale di rilevamento."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Immobiliare aziendale",
+      "teaser": "Finanzia locali commerciali o professionali.",
+      "heroSubtitle": "Finanziare muri commerciali o locali professionali.",
+      "description": "Il credito immobiliare aziendale finanzia l'acquisto di locali per l'attività. Il bene costituisce la garanzia, il che apre il finanziamento a strutture diverse.",
+      "eligible": [
+        "Impresa che acquista i propri muri o un locale operativo",
+        "Bene professionale che funge da garanzia",
+        "Conti che dimostrano la capacità di rimborso"
+      ],
+      "notEligible": [
+        "Locale senza un reale uso professionale",
+        "Indebitamento della struttura già critico"
+      ],
+      "documents": [
+        "Visura camerale",
+        "Preliminare di vendita dei locali",
+        "Ultimi due bilanci",
+        "Estratti del conto aziendale"
+      ],
+      "faq": [
+        {
+          "q": "Società immobiliare o società operativa?",
+          "a": "Entrambe le strutture vengono valutate; un consulente ti orienta in base alla tua situazione."
+        },
+        {
+          "q": "Quale durata?",
+          "a": "Fino a 240 mesi, a seconda del bene e della struttura."
+        },
+        {
+          "q": "Tasso fisso o variabile?",
+          "a": "Entrambi esistono; la tabella sopra fornisce riferimenti indicativi."
+        }
+      ],
+      "case": {
+        "title": "Acquisto dei muri",
+        "detail": "300.000 € su 180 mesi per acquistare un locale, garantiti dal bene stesso."
+      }
+    }
   }
 }

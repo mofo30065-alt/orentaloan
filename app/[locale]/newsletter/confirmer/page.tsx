@@ -14,7 +14,7 @@ type PageParams = {
 export async function generateMetadata({ params }: PageParams): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'common.footer.newsletter' });
-  return { title: `${t('confirmTitle')} — Spark loan`, robots: { index: false } };
+  return { title: `${t('confirmTitle')} — OrentaLoan`, robots: { index: false } };
 }
 
 export default async function NewsletterConfirmPage({ params, searchParams }: PageParams) {

@@ -17,7 +17,7 @@ export const routing = defineRouting({
   defaultLocale: 'fr',
   localePrefix: 'always',
   localeCookie: {
-    name: 'SPARK_LOCALE',
+    name: 'ORENTALOAN_LOCALE',
     maxAge: 60 * 60 * 24 * 365,
   },
 });

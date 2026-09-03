@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Instituição de crédito especializada"
   },
   "skipToContent": "Ir para o conteúdo",
@@ -70,14 +70,58 @@
       "title": "Receba as nossas referências",
       "help": "Critérios concretos sobre crédito, sem venda agressiva.",
       "placeholder": "O seu endereço de e-mail",
-      "action": "Subscrever"
+      "action": "Subscrever",
+      "success": "Verifique a sua caixa de entrada: enviámos-lhe um e-mail de confirmação.",
+      "error": "A subscrição falhou. Verifique o seu endereço e tente novamente.",
+      "confirmTitle": "Subscrição confirmada",
+      "confirmBody": "Obrigado, a sua subscrição das nossas referências está confirmada. Pode cancelá-la a qualquer momento.",
+      "confirmError": "Este link de confirmação é inválido ou expirou."
     },
     "rights": "© {year} {brand}. Todos os direitos reservados.",
-    "publisher": "Spark Finance Portugal S.A. com capital de 2.000.000 € — NIPC 512345678 — Avenida da Liberdade 110, 1250-146 Lisboa"
+    "publisher": "OrentaLoan Portugal S.A. com capital de 2.000.000 € — NIPC 512345678 — Avenida da Liberdade 110, 1250-146 Lisboa"
   },
   "whatsapp": {
     "aria": "Iniciar uma conversa no WhatsApp",
     "cta": "Falar no WhatsApp",
     "prefill": "Olá, tenho uma pergunta sobre a vossa oferta de financiamento."
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Quem somos — OrentaLoan",
+        "description": "Instituição de crédito especializada que empresta por conta própria e analisa os processos descartados noutros lados, sobre a situação real."
+      },
+      "title": "Quem somos",
+      "intro": "Somos uma instituição de crédito especializada. Emprestamos por conta própria e analisamos os processos que os bancos tradicionais descartam, sobre a situação real e não sobre uma pontuação.",
+      "sections": [
+        {
+          "heading": "O nosso ofício",
+          "body": "Decidir sobre elementos concretos — rendimentos, garantias, histórico — e não sobre um algoritmo. Transformamos um processo recusado noutros lados num processo qualificado e realista, ou dizemo-lo honestamente quando não é possível."
+        },
+        {
+          "heading": "O nosso público",
+          "body": "Pessoas com incidentes de crédito, independentes sem três balanços, contratos curtos, seniores, tesourarias de empresa apertadas: perfis muitas vezes descartados, que reservamos tempo para analisar."
+        },
+        {
+          "heading": "O nosso método",
+          "body": "Um pré-diagnóstico honesto, uma análise conduzida por um interlocutor que lhe explica cada critério, uma decisão fundamentada. Cada número é indicado antes de qualquer assinatura."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Os nossos compromissos — OrentaLoan",
+        "description": "Transparência, honestidade e decisão sobre a situação real: os compromissos que cumprimos."
+      },
+      "title": "Os nossos compromissos",
+      "intro": "Neste mercado, a transparência é o nosso primeiro argumento. Eis a que nos comprometemos, sem exceção.",
+      "items": [
+        "Nenhuma promessa de concessão: nunca garantimos um acordo.",
+        "Uma decisão sobre a sua situação real, não sobre uma pontuação automática.",
+        "Um prazo de resposta anunciado e cumprido, sem urgência artificial.",
+        "Números sempre indicativos e uma TAEG apresentada antes de qualquer assinatura.",
+        "Os seus dados de situação tratados com cuidado rigoroso, e nunca vendidos."
+      ]
+    }
   }
 }

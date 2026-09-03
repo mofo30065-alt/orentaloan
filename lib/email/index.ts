@@ -14,7 +14,7 @@ import {
   type SimParams,
 } from './templates';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://spark-loan.example';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://orentaloan.example';
 
 /**
  * Envoi transactionnel via Resend. Sans clé configurée, on journalise et on ignore

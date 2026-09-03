@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Onze financiering — Spark loan",
+    "title": "Onze financiering — OrentaLoan",
     "description": "14 financieringstypes beoordeeld op uw echte situatie. Leningen met zekerheid blijven haalbaar na een bankweigering."
   },
   "index": {
@@ -40,19 +40,551 @@
     }
   },
   "products": {
-    "rachat-credit": { "name": "Herfinanciering", "teaser": "Voeg uw leningen samen tot één termijn, indien nodig gedekt door uw woning." },
-    "pret-travaux": { "name": "Verbouwingslening", "teaser": "Financier een renovatie, ook energiebesparende werken." },
-    "pret-tresorerie": { "name": "Liquiditeitskrediet", "teaser": "Overbrug een liquiditeitspiek voor uw activiteit, zonder uw middelen vast te leggen." },
-    "loa": { "name": "Lease", "teaser": "Gebruik een voertuig of uitrusting zonder het meteen te kopen." },
-    "affacturage": { "name": "Factoring", "teaser": "Zet uw klantfacturen om in onmiddellijke liquiditeit." },
-    "pret-relais": { "name": "Overbruggingskrediet", "teaser": "Koop voor u verkocht hebt, tijdens de overgang." },
-    "pret-immobilier": { "name": "Woningkrediet", "teaser": "Financier een woningaankoop beoordeeld op uw echte situatie." },
-    "credit-consommation": { "name": "Consumptief krediet", "teaser": "Financier een persoonlijk project, uitrusting of een onvoorziene uitgave." },
-    "pret-auto": { "name": "Autolening", "teaser": "Koop een nieuw of tweedehands voertuig, met een duidelijke termijn." },
-    "credit-renouvelable": { "name": "Doorlopend krediet", "teaser": "Een flexibele geldreserve, met mate te gebruiken." },
-    "pret-etudiant": { "name": "Studielening", "teaser": "Financier studies en hun levenskosten." },
-    "financement-equipement": { "name": "Uitrustingsfinanciering", "teaser": "Financier machines, materieel of bedrijfsvoertuigen." },
-    "pret-creation-reprise": { "name": "Start-/overnamekrediet", "teaser": "Financier de start of overname van een activiteit." },
-    "immobilier-professionnel": { "name": "Bedrijfsvastgoedkrediet", "teaser": "Financier handelspanden of professionele ruimtes." }
+    "rachat-credit": {
+      "name": "Herfinanciering",
+      "teaser": "Voeg uw leningen samen tot één termijn, indien nodig gedekt door uw woning.",
+      "heroSubtitle": "Uw leningen samenvoegen tot één termijn, indien nodig gedekt door uw woning.",
+      "description": "Herfinanciering brengt uw lopende leningen samen in één, met een lagere termijn en een herverdeelde looptijd. Gedekt door een bezit blijft ze beoordeelbaar, zelfs na een betalingsincident.",
+      "eligible": [
+        "Eigenaar die meerdere leningen wil samenvoegen",
+        "Krap budget met een bezit als zekerheid",
+        "Uiteenlopende beroepssituatie, zelfstandigen inbegrepen"
+      ],
+      "notEligible": [
+        "Huurder zonder borg en met een al zeer hoge schuldratio",
+        "Geen bestaande lening om samen te voegen"
+      ],
+      "documents": [
+        "Geldig identiteitsbewijs",
+        "Aflossingstabellen van de samen te voegen leningen",
+        "Laatste drie rekeningafschriften",
+        "Eigendomsbewijs of onroerendezaakbelasting"
+      ],
+      "faq": [
+        {
+          "q": "Wist herfinanciering een registratie bij het kredietregister?",
+          "a": "Nee. Ze kan de leningen achter het incident aflossen, wat tot een schrapping kan leiden, maar geen enkele schrapping is automatisch of gegarandeerd."
+        },
+        {
+          "q": "Hoever kan de looptijd worden verlengd?",
+          "a": "Tot 420 maanden voor een herfinanciering gedekt door vastgoed, binnen de grenzen van uw aflossingscapaciteit."
+        },
+        {
+          "q": "Kan ik extra liquiditeit toevoegen?",
+          "a": "Ja, een extra bedrag kan worden opgenomen als uw zekerheid en inkomsten dit toelaten."
+        }
+      ],
+      "case": {
+        "title": "Samenvoeging van drie leningen",
+        "detail": "80.000 € samengevoegd over 180 maanden: één termijn vervangt drie vervaldagen, tegen een herverdeelde en vooraf gekende kost."
+      }
+    },
+    "pret-travaux": {
+      "name": "Verbouwingslening",
+      "teaser": "Financier een renovatie, ook energiebesparende werken.",
+      "heroSubtitle": "Een renovatie financieren, ook energiebesparende werken.",
+      "description": "De verbouwingslening financiert de verbetering van uw woning, van opfrissing tot energetische renovatie. Ze kan overheidssteun aanvullen.",
+      "eligible": [
+        "Eigenaar-bewoner of verhuurder",
+        "Energetisch renovatieproject dat in aanmerking komt voor steun",
+        "Regelmatige, ook bescheiden inkomsten, met offerte ter staving"
+      ],
+      "notEligible": [
+        "Werken zonder offerte of gebruiksbewijs",
+        "Al verzadigde aflossingscapaciteit"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Gedetailleerde offertes van de werken",
+        "Recent bewijs van woonplaats",
+        "Laatste twee belastingaanslagen"
+      ],
+      "faq": [
+        {
+          "q": "Kan ik het combineren met overheidssteun voor renovatie?",
+          "a": "Ja. De verbouwingslening vult de steun aan; de ontvangen bedragen tellen niet mee in het krediet."
+        },
+        {
+          "q": "Worden de gelden in één keer uitbetaald?",
+          "a": "Afhankelijk van de werf is een gefaseerde vrijgave op voorlegging van de facturen mogelijk."
+        },
+        {
+          "q": "Moet men eigenaar zijn?",
+          "a": "Meestal wel, maar een huurder die met toestemming van de eigenaar werken uitvoert, kan worden bestudeerd."
+        }
+      ],
+      "case": {
+        "title": "Energetische renovatie",
+        "detail": "25.000 € over 84 maanden voor isolatie en een warmtepomp, als aanvulling op de steun."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Liquiditeitskrediet",
+      "teaser": "Overbrug een liquiditeitspiek voor uw activiteit, zonder uw middelen vast te leggen.",
+      "heroSubtitle": "Een liquiditeitspiek voor uw activiteit overbruggen, zonder uw activa vast te leggen.",
+      "description": "Het liquiditeitskrediet dekt een behoefte aan werkkapitaal: betalingsverschuiving, seizoenslast, tijdelijke tegenslag. Beoordeeld op de realiteit van uw activiteit.",
+      "eligible": [
+        "Kleine onderneming, zelfstandige of vrije beroeper met gevestigde activiteit",
+        "Aantoonbare eenmalige behoefte aan werkkapitaal",
+        "Zakelijke rekening met regelmatige bewegingen"
+      ],
+      "notEligible": [
+        "Minder dan zes maanden geleden opgestarte activiteit zonder historiek",
+        "Structurele langetermijnbehoefte die onder een ander product valt"
+      ],
+      "documents": [
+        "Uittreksel uit het handelsregister of gelijkwaardig",
+        "Laatste twee jaarrekeningen of tussentijdse cijfers",
+        "Afschriften van de zakelijke rekening",
+        "Identiteitsbewijs van de zaakvoerder"
+      ],
+      "faq": [
+        {
+          "q": "Zijn drie jaarrekeningen nodig?",
+          "a": "Nee. Recente tussentijdse cijfers en regelmatige afschriften kunnen volstaan voor de beoordeling."
+        },
+        {
+          "q": "Welke uitbetalingstermijn?",
+          "a": "Na goedkeuring en ondertekening van het aanbod worden de gelden binnen de wettelijke termijnen uitbetaald."
+        },
+        {
+          "q": "Wordt een zekerheid gevraagd?",
+          "a": "Afhankelijk van het bedrag kan een borg van de zaakvoerder of een zekerheid worden gevraagd."
+        }
+      ],
+      "case": {
+        "title": "Liquiditeitsverschuiving",
+        "detail": "30.000 € over 48 maanden om een verschoven klantbetaling op te vangen, terugbetaald op het ritme van de ontvangsten."
+      }
+    },
+    "loa": {
+      "name": "Lease",
+      "teaser": "Gebruik een voertuig of uitrusting zonder het meteen te kopen.",
+      "heroSubtitle": "Een voertuig of uitrusting gebruiken zonder het te kopen, met een koopoptie op het einde van het contract.",
+      "description": "Lease met koopoptie laat u termijnen betalen voor het gebruik van een goed, met de mogelijkheid het tegen de restwaarde te verwerven. De last wordt gespreid, het goed blijft de zekerheid.",
+      "eligible": [
+        "Particulier of professional die gebruik wil zonder onmiddellijke aankoop",
+        "Regelmatige inkomsten die de termijn dekken",
+        "Project rond een identificeerbaar voertuig of uitrusting"
+      ],
+      "notEligible": [
+        "Zoektocht naar contant kapitaal (lease financiert een gebruik)",
+        "Niet-verzekerbaar of moeilijk door te verkopen goed"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Inkomstenbewijs",
+        "Bestelbon of offerte van het goed",
+        "Bewijs van woonplaats"
+      ],
+      "faq": [
+        {
+          "q": "Ben ik eigenaar van het goed?",
+          "a": "Niet tijdens de lease. U wordt het als u de koopoptie tegen de voorziene restwaarde licht."
+        },
+        {
+          "q": "Is het onderhoud inbegrepen?",
+          "a": "Afhankelijk van het contract; sommige formules omvatten onderhoud en verzekering."
+        },
+        {
+          "q": "Kan ik het goed op het einde teruggeven?",
+          "a": "Ja. Zonder de optie te lichten geeft u het goed terug in de contractueel voorziene staat."
+        }
+      ],
+      "case": {
+        "title": "Voertuig in lease",
+        "detail": "30.000 € waarde, 48 termijnen en dan een restwaarde: u kiest tussen kopen of teruggeven."
+      }
+    },
+    "affacturage": {
+      "name": "Factoring",
+      "teaser": "Zet uw klantfacturen om in onmiddellijke liquiditeit.",
+      "heroSubtitle": "Uw klantfacturen omzetten in onmiddellijk beschikbare liquiditeit.",
+      "description": "Factoring is geen lening: u draagt uw te innen facturen over in ruil voor een onmiddellijk voorschot, tegen een commissie. Uw liquiditeit volgt uw omzet.",
+      "eligible": [
+        "Onderneming die factureert aan professionele klanten",
+        "Terugkerende klantenpost met betaaltermijnen",
+        "Behoefte om de liquiditeit te effenen zonder zich te verschulden"
+      ],
+      "notEligible": [
+        "B2C-activiteit zonder professionele facturen",
+        "Betwiste of reeds vervallen vorderingen"
+      ],
+      "documents": [
+        "Uittreksel uit het handelsregister",
+        "Recente klantenbalans",
+        "Voorbeelden van facturen en betaalvoorwaarden",
+        "Identiteitsbewijs van de zaakvoerder"
+      ],
+      "faq": [
+        {
+          "q": "Is het een krediet?",
+          "a": "Nee. Het is een overdracht van vorderingen tegen voorschot; het verhoogt uw bancaire schuld niet."
+        },
+        {
+          "q": "Wie maant mijn klanten aan?",
+          "a": "Afhankelijk van de formule kunnen aanmaning en invordering aan de factor worden gedelegeerd."
+        },
+        {
+          "q": "Welke kost?",
+          "a": "Een factoringcommissie en een financieringscommissie, afhankelijk van volume en termijnen. De details staan in het contract."
+        }
+      ],
+      "case": {
+        "title": "Voorschot op facturen",
+        "detail": "Een klantenpost van 100.000 €, binnen enkele dagen gefinancierd, op het ritme van uw facturatie."
+      }
+    },
+    "pret-relais": {
+      "name": "Overbruggingskrediet",
+      "teaser": "Koop voor u verkocht hebt, tijdens de overgang.",
+      "heroSubtitle": "Een nieuw goed kopen voor het huidige verkocht is, tijdens de overgang.",
+      "description": "Het overbruggingskrediet schiet een deel van de waarde van uw te koop gestelde goed voor. Het kapitaal betaalt u terug bij de verkoop; ondertussen betaalt u meestal alleen de rente.",
+      "eligible": [
+        "Eigenaar die een goed verkoopt om een ander te kopen",
+        "Goed te koop gesteld tegen een realistische waarde",
+        "Vermogen om de rente te dragen tijdens de overbruggingsperiode"
+      ],
+      "notEligible": [
+        "Moeilijk te verkopen of overgewaardeerd goed",
+        "Geen concreet aankoopproject tegenover"
+      ],
+      "documents": [
+        "Schatting of verkoopopdracht van het goed",
+        "Eigendomstitel",
+        "Verkoopcompromis of aankoopproject",
+        "Identiteitsbewijs"
+      ],
+      "faq": [
+        {
+          "q": "Wat als ik niet op tijd verkoop?",
+          "a": "Het overbruggingskrediet heeft een beperkte looptijd (12 tot 24 maanden). Een uitstapoplossing is voorzien en wordt van bij het begin besproken."
+        },
+        {
+          "q": "Hoeveel kan ik krijgen?",
+          "a": "Doorgaans een voorzichtig deel van de geschatte waarde, om rekening te houden met de markt."
+        },
+        {
+          "q": "Betaalt men het kapitaal elke maand?",
+          "a": "Nee. Het kapitaal wordt bij de verkoop terugbetaald; u betaalt alleen de rente, afhankelijk van de gekozen formule."
+        }
+      ],
+      "case": {
+        "title": "Kopen voor verkoop",
+        "detail": "200.000 € voorgeschoten over 12 maanden met gedeeltelijke vrijstelling: u betaalt alleen de rente tot de verkoop."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Woningkrediet",
+      "teaser": "Financier een woningaankoop beoordeeld op uw echte situatie.",
+      "heroSubtitle": "Een woningaankoop financieren beoordeeld op uw echte situatie, niet op een score.",
+      "description": "Het woningkrediet financiert de aankoop van uw woning of een belegging. We bestuderen atypische dossiers: zelfstandigen, korte contracten, elders afgewezen profielen.",
+      "eligible": [
+        "Aankoopproject met eigen inbreng of zekerheid",
+        "Regelmatige inkomsten, niet-loontrekkenden inbegrepen",
+        "Atypisch profiel maar verder solide dossier"
+      ],
+      "notEligible": [
+        "Schuldenlast die de prudentiële drempels zonder zekerheid duidelijk overschrijdt",
+        "Geen eigen inbreng of te hypothekeren goed"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Verkoopcompromis",
+        "Laatste drie loonfiches of jaarrekeningen",
+        "Recente rekeningafschriften"
+      ],
+      "faq": [
+        {
+          "q": "Aanvaardt u zelfstandigen zonder drie jaarrekeningen?",
+          "a": "Ja, onder voorwaarden: een gevestigde activiteit en regelmatige afschriften kunnen dit compenseren."
+        },
+        {
+          "q": "Is een eigen inbreng verplicht?",
+          "a": "Niet stelselmatig, maar ze versterkt het dossier en het tarief duidelijk."
+        },
+        {
+          "q": "Is het tarief vast?",
+          "a": "Vast of variabel afhankelijk van de looptijd; de tabel hierboven geeft indicatieve richtwaarden."
+        }
+      ],
+      "case": {
+        "title": "Aankoop van een woning",
+        "detail": "200.000 € over 240 maanden: een vooraf gekende termijn, tot op de cent berekend."
+      }
+    },
+    "credit-consommation": {
+      "name": "Consumptief krediet",
+      "teaser": "Financier een persoonlijk project, uitrusting of een onvoorziene uitgave.",
+      "heroSubtitle": "Een persoonlijk project, uitrusting of een onvoorziene uitgave financieren.",
+      "description": "Het consumptief krediet financiert een welbepaalde behoefte zonder een goed te hypothekeren. Afgemeten bedragen en looptijden, beoordeling op uw echte budget.",
+      "eligible": [
+        "Regelmatige inkomsten die de termijn dekken",
+        "Identificeerbaar persoonlijk project",
+        "Beheerste schuldratio"
+      ],
+      "notEligible": [
+        "Budget al krap door andere leningen",
+        "Liquiditeit gevraagd zonder duidelijke aflossingscapaciteit"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Bewijs van woonplaats",
+        "Laatste twee loonfiches",
+        "Laatste belastingaanslag"
+      ],
+      "faq": [
+        {
+          "q": "Binnen welke termijn het antwoord?",
+          "a": "U krijgt een duidelijke beoordelingstermijn meegedeeld, en die houden we aan."
+        },
+        {
+          "q": "Kan ik vervroegd terugbetalen?",
+          "a": "Ja, op elk moment, onder de wettelijke voorwaarden voorzien in het contract."
+        },
+        {
+          "q": "Is een gebruiksbewijs vereist?",
+          "a": "Afhankelijk van het bedrag en het type krediet; we preciseren het bij de beoordeling."
+        }
+      ],
+      "case": {
+        "title": "Persoonlijk project",
+        "detail": "15.000 € over 48 maanden: termijn, totale kost en JKP getoond voor elke ondertekening."
+      }
+    },
+    "pret-auto": {
+      "name": "Autolening",
+      "teaser": "Koop een nieuw of tweedehands voertuig, met een duidelijke termijn.",
+      "heroSubtitle": "Een nieuw of tweedehands voertuig kopen, met een duidelijke termijn.",
+      "description": "De autolening financiert de aankoop van een voertuig. Het goed kan als zekerheid dienen, wat de financiering opent voor uiteenlopende profielen.",
+      "eligible": [
+        "Aankoop van een identificeerbaar nieuw of tweedehands voertuig",
+        "Regelmatige inkomsten",
+        "Profiel aanvaard dankzij de zekerheid van het voertuig"
+      ],
+      "notEligible": [
+        "Voertuig zonder factuur of bruikbaar kentekenbewijs",
+        "Ontoereikende aflossingscapaciteit ondanks de zekerheid"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Bestelbon of overdrachtsbewijs",
+        "Inkomstenbewijs",
+        "Bewijs van woonplaats"
+      ],
+      "faq": [
+        {
+          "q": "Worden nieuw en tweedehands gefinancierd?",
+          "a": "Ja, met looptijden aangepast aan de leeftijd van het voertuig."
+        },
+        {
+          "q": "Wordt het voertuig in pand gegeven?",
+          "a": "Afhankelijk van de formule kan een pand als zekerheid worden gevestigd."
+        },
+        {
+          "q": "Kan ik de verzekering financieren?",
+          "a": "De schuldsaldoverzekering is facultatief en kan in de termijn worden opgenomen."
+        }
+      ],
+      "case": {
+        "title": "Tweedehands auto",
+        "detail": "20.000 € over 60 maanden, gewaarborgd door het gefinancierde voertuig."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Doorlopend krediet",
+      "teaser": "Een flexibele geldreserve, met mate te gebruiken.",
+      "heroSubtitle": "Een flexibele geldreserve, met mate te gebruiken.",
+      "description": "Het doorlopend krediet stelt een reserve ter beschikking die u vrij gebruikt en met de aflossingen weer aanvult. Flexibel maar duur: voorbehouden aan kleine, eenmalige behoeften.",
+      "eligible": [
+        "Eenmalige behoefte van klein bedrag",
+        "Vermogen om snel af te lossen om de kost te beperken",
+        "Regelmatige inkomsten"
+      ],
+      "notEligible": [
+        "Langlopend project, waarvoor een aflossbare lening veel goedkoper is",
+        "Moeite om maandelijks meer dan de rente af te lossen"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Bewijs van woonplaats",
+        "Inkomstenbewijs",
+        "Recent rekeningafschrift"
+      ],
+      "faq": [
+        {
+          "q": "Waarom is het tarief hoog?",
+          "a": "Flexibiliteit heeft een prijs. Hoe sneller u aflost, hoe minder rente u betaalt."
+        },
+        {
+          "q": "Ben ik verplicht de reserve te gebruiken?",
+          "a": "Nee. De rente loopt alleen op het werkelijk gebruikte bedrag."
+        },
+        {
+          "q": "Is het geschikt voor een grote aankoop?",
+          "a": "Zelden. Voor een project is een aflossbare lening bijna altijd goedkoper."
+        }
+      ],
+      "case": {
+        "title": "Kleine eenmalige behoefte",
+        "detail": "3.000 € gebruikt en daarna terugbetaald in 24 maanden: de kost hangt rechtstreeks af van uw aflossingstempo."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Studielening",
+      "teaser": "Financier studies en hun levenskosten.",
+      "heroSubtitle": "Studies en hun levenskosten financieren, met een aangepaste terugbetaling.",
+      "description": "De studielening financiert inschrijvingsgeld en dagelijks leven, vaak met uitstel van terugbetaling tijdens de studie. Een borg versterkt het dossier.",
+      "eligible": [
+        "Student ingeschreven bij een erkende instelling",
+        "Aanwezigheid van een borg of zekerheid",
+        "Studieproject dat aansluit bij het bedrag"
+      ],
+      "notEligible": [
+        "Geen borg en geen geloofwaardige toekomstige inkomsten",
+        "Bedrag zonder verband met de opleiding"
+      ],
+      "documents": [
+        "Identiteitsbewijs",
+        "Inschrijvingsattest of inschrijvingsbewijs",
+        "Bewijsstukken van de borg",
+        "Bewijs van woonplaats"
+      ],
+      "faq": [
+        {
+          "q": "Kan ik de terugbetaling uitstellen?",
+          "a": "Ja, gedeeltelijk of volledig uitstel tijdens de studie is gebruikelijk; de rente loopt afhankelijk van de formule."
+        },
+        {
+          "q": "Is een borg nodig?",
+          "a": "Meestal wel en dat verbetert de voorwaarden duidelijk."
+        },
+        {
+          "q": "Is het tarief voordelig?",
+          "a": "Studietarieven behoren tot de laagste; zie de indicatieve tabel hierboven."
+        }
+      ],
+      "case": {
+        "title": "Financiering van een opleiding",
+        "detail": "15.000 € over 60 maanden met uitstel tijdens de studie, terugbetaald bij de intrede in het beroepsleven."
+      }
+    },
+    "financement-equipement": {
+      "name": "Uitrustingsfinanciering",
+      "teaser": "Financier machines, materieel of bedrijfsvoertuigen.",
+      "heroSubtitle": "Machines, materieel of bedrijfsvoertuigen financieren zonder uw liquiditeit te belasten.",
+      "description": "De uitrustingsfinanciering financiert een productief activum, dat vaak als zekerheid dient. Ze vrijwaart uw liquiditeit voor de bedrijfsvoering.",
+      "eligible": [
+        "Onderneming die investeert in een identificeerbaar materieel",
+        "Doorverkoopbaar activum dat als zekerheid dient",
+        "Activiteit met regelmatige rekeningen"
+      ],
+      "notEligible": [
+        "Verouderd of moeilijk door te verkopen materieel",
+        "Onderneming zonder aantoonbare aflossingscapaciteit"
+      ],
+      "documents": [
+        "Uittreksel uit het handelsregister",
+        "Offerte of proformafactuur van het materieel",
+        "Laatste twee jaarrekeningen",
+        "Afschriften van de zakelijke rekening"
+      ],
+      "faq": [
+        {
+          "q": "Dient het materieel als zekerheid?",
+          "a": "Vaak wel, wat de goedkeuring vergemakkelijkt, zelfs voor een jonge structuur."
+        },
+        {
+          "q": "Krediet of lease?",
+          "a": "Beide zijn mogelijk; een adviseur vergelijkt volgens uw fiscaliteit en uw behoeften."
+        },
+        {
+          "q": "Welke looptijd?",
+          "a": "Afgestemd op de gebruiksduur van het materieel, tot 84 maanden."
+        }
+      ],
+      "case": {
+        "title": "Aankoop van materieel",
+        "detail": "40.000 € over 60 maanden voor een productieve uitrusting, verpand op het gefinancierde goed."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Start-/overnamekrediet",
+      "teaser": "Financier de start of overname van een activiteit.",
+      "heroSubtitle": "De start of overname van een activiteit financieren, bovenop de eigen inbreng.",
+      "description": "Het start-/overnamekrediet vult uw eigen middelen aan om een onderneming te starten of over te nemen. Het dossier steunt op het project, de prognose en de zekerheden.",
+      "eligible": [
+        "Projectdrager met een becijferd businessplan",
+        "Eigen inbreng of medefinanciering",
+        "Overname van een activiteit met bruikbare rekeningen"
+      ],
+      "notEligible": [
+        "Project zonder inbreng, zekerheid of prognose",
+        "Sector zonder enig zicht op inkomsten"
+      ],
+      "documents": [
+        "Businessplan en prognose",
+        "Identiteitsbewijs",
+        "Bewijs van inbreng",
+        "Overnamecompromis indien van toepassing"
+      ],
+      "faq": [
+        {
+          "q": "Is een inbreng nodig?",
+          "a": "Een inbreng, ook bescheiden, is bepalend; ze kan worden aangevuld met startsteun."
+        },
+        {
+          "q": "Financiert u een overname?",
+          "a": "Ja, op basis van de rekeningen van het doelbedrijf en uw overnameplan."
+        },
+        {
+          "q": "Wordt een zekerheid gevraagd?",
+          "a": "Vaak, in de vorm van een borg van de zaakvoerder of een waarborg van een gespecialiseerde instelling."
+        }
+      ],
+      "case": {
+        "title": "Overname van een zaak",
+        "detail": "60.000 € over 60 maanden als aanvulling op een inbreng, gesteund op de overnameprognose."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Bedrijfsvastgoedkrediet",
+      "teaser": "Financier handelspanden of professionele ruimtes.",
+      "heroSubtitle": "Handelspanden of professionele ruimtes financieren.",
+      "description": "Het bedrijfsvastgoedkrediet financiert de aankoop van bedrijfsruimtes. Het goed vormt de zekerheid, wat de financiering opent voor uiteenlopende structuren.",
+      "eligible": [
+        "Onderneming die haar panden of een bedrijfsruimte koopt",
+        "Professioneel goed dat als zekerheid dient",
+        "Rekeningen die de aflossingscapaciteit aantonen"
+      ],
+      "notEligible": [
+        "Ruimte zonder werkelijk professioneel gebruik",
+        "Al kritieke schuldenlast van de structuur"
+      ],
+      "documents": [
+        "Uittreksel uit het handelsregister",
+        "Verkoopcompromis van de ruimtes",
+        "Laatste twee jaarrekeningen",
+        "Afschriften van de zakelijke rekening"
+      ],
+      "faq": [
+        {
+          "q": "Patrimoniumvennootschap of exploitatievennootschap?",
+          "a": "Beide structuren worden bestudeerd; een adviseur oriënteert u volgens uw situatie."
+        },
+        {
+          "q": "Welke looptijd?",
+          "a": "Tot 240 maanden, afhankelijk van het goed en de structuur."
+        },
+        {
+          "q": "Vast of variabel tarief?",
+          "a": "Beide bestaan; de tabel hierboven geeft indicatieve richtwaarden."
+        }
+      ],
+      "case": {
+        "title": "Aankoop van de panden",
+        "detail": "300.000 € over 180 maanden om een ruimte te verwerven, gewaarborgd door het goed zelf."
+      }
+    }
   }
 }

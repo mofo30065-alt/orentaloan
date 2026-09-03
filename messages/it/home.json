@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Spark loan — un prestito valutato sulla tua situazione reale",
+    "title": "OrentaLoan — un prestito valutato sulla tua situazione reale",
     "description": "Istituto di credito specializzato per pratiche rifiutate dalle banche tradizionali. Valutazione su fatti reali, caso per caso."
   },
   "hero": {
@@ -9,6 +9,14 @@
     "subtitle": "Studiamo pratiche che le banche tradizionali spesso rifiutano. Ogni decisione si basa su fatti concreti, pratica per pratica — senza promesse di approvazione.",
     "ctaPrimary": "Verifica la mia idoneità",
     "ctaSecondary": "Stima una rata"
+  },
+  "heroMini": {
+    "title": "Stima in un colpo d'occhio",
+    "amount": "Importo",
+    "duration": "Durata",
+    "result": "Rata stimata",
+    "rateNote": "Stima indicativa a {rate} di tasso debitore fisso, assicurazione esclusa.",
+    "cta": "Affina la mia simulazione"
   },
   "situation": {
     "eyebrow": "La tua situazione",

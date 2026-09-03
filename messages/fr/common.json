@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Organisme de crédit spécialisé"
   },
   "skipToContent": "Aller au contenu",
@@ -83,12 +83,12 @@
       "confirmError": "Ce lien de confirmation est invalide ou a expiré."
     },
     "rights": "© {year} {brand}. Tous droits réservés.",
-    "publisher": "Spark Finance SA au capital de 5 000 000 € — RCS Paris 912 456 789 — 18 boulevard des Capucines, 75009 Paris"
+    "publisher": "OrentaLoan SA au capital de 50 000 000 € — RCS Paris 912 456 789 — 18 boulevard des Capucines, 75009 Paris"
   },
   "org": {
     "about": {
       "meta": {
-        "title": "Qui nous sommes — Spark loan",
+        "title": "Qui nous sommes — OrentaLoan",
         "description": "Organisme de crédit spécialisé qui prête en propre et étudie les dossiers écartés ailleurs, sur la situation réelle."
       },
       "title": "Qui nous sommes",
@@ -110,7 +110,7 @@
     },
     "commitments": {
       "meta": {
-        "title": "Nos engagements — Spark loan",
+        "title": "Nos engagements — OrentaLoan",
         "description": "Transparence, honnêteté et décision sur la situation réelle : les engagements que nous tenons."
       },
       "title": "Nos engagements",

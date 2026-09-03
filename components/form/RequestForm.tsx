@@ -20,7 +20,7 @@ import { CheckboxField, Honeypot, SelectField, TextField } from '@/components/fo
 import { ProgressBar } from '@/components/form/ProgressBar';
 import { Button } from '@/components/ui/Button';
 
-const STORAGE_KEY = 'spark_demande';
+const STORAGE_KEY = 'orentaloan_demande';
 
 export function RequestForm({
   prefillAmount,

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Faire une demande — Spark loan",
+    "title": "Faire une demande — OrentaLoan",
     "description": "Déposez votre demande de financement en cinq étapes. Vos données de situation restent sur votre appareil tant que vous ne validez pas."
   },
   "title": "Votre demande de financement",
@@ -106,7 +106,7 @@
   "submitError": "L'envoi a échoué. Vérifiez votre connexion et réessayez.",
   "confirmation": {
     "meta": {
-      "title": "Demande envoyée — Spark loan",
+      "title": "Demande envoyée — OrentaLoan",
       "description": "Votre demande de financement est enregistrée. Un conseiller étudie votre dossier."
     },
     "title": "Votre demande est enregistrée",

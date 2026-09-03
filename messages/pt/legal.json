@@ -41,7 +41,7 @@
   },
   "mentions": {
     "meta": {
-      "title": "Menções legais — Spark loan",
+      "title": "Menções legais — OrentaLoan",
       "description": "Editor, alojamento, autoridade de supervisão e mediação."
     },
     "title": "Menções legais",
@@ -49,7 +49,7 @@
   },
   "privacy": {
     "meta": {
-      "title": "Política de privacidade — Spark loan",
+      "title": "Política de privacidade — OrentaLoan",
       "description": "Que dados tratamos, porquê, durante quanto tempo e os seus direitos."
     },
     "title": "Política de privacidade",
@@ -92,16 +92,16 @@
   },
   "cgu": {
     "meta": {
-      "title": "Termos de utilização — Spark loan",
+      "title": "Termos de utilização — OrentaLoan",
       "description": "Regras de utilização do site."
     },
     "title": "Termos de utilização",
     "intro": "Estes termos regem a utilização do site. Não constituem uma oferta de crédito.",
-    "placeholder": "O acesso ao site é gratuito. Ao utilizá-lo, aceita estas condições. Os conteúdos (textos, marcas, ilustrações) pertencem à Spark Finance e não podem ser reproduzidos sem autorização. As simulações e prédiagnósticos são indicativos e não vinculam o mutuante. Aplica-se a lei portuguesa."
+    "placeholder": "O acesso ao site é gratuito. Ao utilizá-lo, aceita estas condições. Os conteúdos (textos, marcas, ilustrações) pertencem à OrentaLoan e não podem ser reproduzidos sem autorização. As simulações e prédiagnósticos são indicativos e não vinculam o mutuante. Aplica-se a lei portuguesa."
   },
   "cookies": {
     "meta": {
-      "title": "Política de cookies — Spark loan",
+      "title": "Política de cookies — OrentaLoan",
       "description": "Que cookies usamos e como geri-los."
     },
     "title": "Política de cookies",

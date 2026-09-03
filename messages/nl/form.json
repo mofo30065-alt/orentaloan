@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Aanvragen — Spark loan",
+    "title": "Aanvragen — OrentaLoan",
     "description": "Dien uw financieringsaanvraag in vijf stappen in. Uw gegevens blijven op uw toestel tot u verzendt."
   },
   "title": "Uw financieringsaanvraag",
@@ -106,7 +106,7 @@
   "submitError": "Verzenden mislukt. Controleer uw verbinding en probeer opnieuw.",
   "confirmation": {
     "meta": {
-      "title": "Aanvraag verzonden — Spark loan",
+      "title": "Aanvraag verzonden — OrentaLoan",
       "description": "Uw financieringsaanvraag is geregistreerd. Een aanspreekpunt bekijkt uw dossier."
     },
     "title": "Uw aanvraag is geregistreerd",

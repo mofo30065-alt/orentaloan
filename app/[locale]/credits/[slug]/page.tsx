@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
     return {};
   }
   const t = await getTranslations({ locale, namespace: `credits.products.${slug}` });
-  return { title: `${t('name')} — Spark loan`, description: t('heroSubtitle') };
+  return { title: `${t('name')} — OrentaLoan`, description: t('heroSubtitle') };
 }
 
 export default async function CreditPage({ params }: PageParams) {

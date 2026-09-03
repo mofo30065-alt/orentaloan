@@ -4,7 +4,7 @@ export const es: CountryLegal = {
   code: 'ES',
   locale: 'es',
   lender: {
-    name: 'Spark Finance España S.A.',
+    name: 'OrentaLoan España S.A.',
     legalForm: 'Sociedad Anónima',
     capital: '3.000.000 €',
     registration: 'Registro Mercantil de Madrid, CIF A-87654321',
@@ -16,10 +16,10 @@ export const es: CountryLegal = {
   host: { name: 'OVHcloud', address: '2 rue Kellermann, 59100 Roubaix, Francia' },
   mediator: { name: 'Banco de España — Servicio de Reclamaciones', url: 'https://www.bde.es' },
   coolingOffDays: 14,
-  dpo: { name: 'Delegado de protección de datos — Spark Finance España', email: 'dpo@sparkloan.es' },
-  contact: { phone: '+393501255841', email: 'contacto@sparkloan.es', whatsapp: '+393501255841' },
+  dpo: { name: 'Delegado de protección de datos — OrentaLoan España', email: 'dpo@orentaloan.es' },
+  contact: { phone: '+393501255841', email: 'contacto@orentaloan.es', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Oficina de Madrid', address: 'Calle de Alcalá 45, 28014 Madrid', hours: 'Lun – Vie, 9:00 – 18:00' },
   ],
-  bookingUrl: 'https://cita.sparkloan.es',
+  bookingUrl: 'https://cita.orentaloan.es',
 };

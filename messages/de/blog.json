@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Ratgeber — Spark loan",
+    "title": "Ratgeber — OrentaLoan",
     "description": "Konkrete Anhaltspunkte zum Kredit, geschrieben für Leser, die gerade abgelehnt wurden."
   },
   "title": "Ratgeber",
   "intro": "Konkrete Anhaltspunkte zum Kredit, geschrieben für Leser, die gerade abgelehnt wurden. Sachlich, ohne Versprechen.",
   "filterAll": "Alle",
-  "categories": { "fichage": "Negativeintrag", "rachat": "Umschuldung", "securite": "Sicherheit" },
+  "categories": { "fichage": "Negativeintrag", "rachat": "Umschuldung", "securite": "Sicherheit", "budget": "Budget", "comprendre": "Verstehen", "garanties": "Sicherheiten", "profils": "Profile" },
   "minutes": "{count} Min. Lesezeit",
   "byAuthor": "Von {author}",
   "readMore": "Artikel lesen",

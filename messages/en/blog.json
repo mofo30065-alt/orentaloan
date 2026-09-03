@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Advice — Spark loan",
+    "title": "Advice — OrentaLoan",
     "description": "Concrete pointers about credit, written for a reader who has just been refused."
   },
   "title": "Advice",
@@ -9,7 +9,11 @@
   "categories": {
     "fichage": "Credit listing",
     "rachat": "Debt consolidation",
-    "securite": "Safety"
+    "securite": "Safety",
+    "budget": "Budget",
+    "comprendre": "Understanding",
+    "garanties": "Collateral",
+    "profils": "Profiles"
   },
   "minutes": "{count} min read",
   "byAuthor": "By {author}",

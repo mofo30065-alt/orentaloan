@@ -1,7 +1,7 @@
 import { getCountryLegal, type CountryLegal } from '@/data/countries';
 
 /** Nom de marque affiché dans les e-mails. */
-export const BRAND = 'Spark loan';
+export const BRAND = 'OrentaLoan';
 
 export interface EmailConfig {
   country: CountryLegal;

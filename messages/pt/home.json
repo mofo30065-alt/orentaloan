@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Spark loan — um crédito avaliado pela sua situação real",
+    "title": "OrentaLoan — um crédito avaliado pela sua situação real",
     "description": "Instituição de crédito especializada em processos recusados pelos bancos tradicionais. Avaliação com base em factos reais, caso a caso."
   },
   "hero": {
@@ -9,6 +9,14 @@
     "subtitle": "Analisamos processos que os bancos tradicionais recusam frequentemente. Cada decisão assenta em factos concretos, processo a processo — sem promessa de aprovação.",
     "ctaPrimary": "Verificar a minha elegibilidade",
     "ctaSecondary": "Estimar uma prestação"
+  },
+  "heroMini": {
+    "title": "Estimar num relance",
+    "amount": "Montante",
+    "duration": "Prazo",
+    "result": "Prestação estimada",
+    "rateNote": "Estimativa indicativa a {rate} de taxa devedora fixa, sem seguro.",
+    "cta": "Afinar a minha simulação"
   },
   "situation": {
     "eyebrow": "A sua situação",

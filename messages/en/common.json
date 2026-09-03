@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Specialist credit provider"
   },
   "skipToContent": "Skip to content",
@@ -70,14 +70,58 @@
       "title": "Get our pointers",
       "help": "Concrete criteria about credit, without cold selling.",
       "placeholder": "Your email address",
-      "action": "Subscribe"
+      "action": "Subscribe",
+      "success": "Check your inbox: we have sent you a confirmation email.",
+      "error": "Subscription failed. Check your address and try again.",
+      "confirmTitle": "Subscription confirmed",
+      "confirmBody": "Thank you, your subscription to our pointers is confirmed. You can unsubscribe at any time.",
+      "confirmError": "This confirmation link is invalid or has expired."
     },
     "rights": "© {year} {brand}. All rights reserved.",
-    "publisher": "Spark Finance Ireland Ltd — CRO No. 654321 — 12 Dawson Street, Dublin 2, D02 XY45"
+    "publisher": "OrentaLoan Ireland Ltd — CRO No. 654321 — 12 Dawson Street, Dublin 2, D02 XY45"
   },
   "whatsapp": {
     "aria": "Start a WhatsApp chat",
     "cta": "Chat on WhatsApp",
     "prefill": "Hello, I have a question about your financing offer."
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Who we are — OrentaLoan",
+        "description": "Specialised credit institution that lends on its own account and studies the files turned away elsewhere, on the real situation."
+      },
+      "title": "Who we are",
+      "intro": "We are a specialised credit institution. We lend on our own account and study the files that mainstream banks turn away, on the real situation rather than on a score.",
+      "sections": [
+        {
+          "heading": "Our work",
+          "body": "Deciding on concrete elements — income, collateral, history — and not on an algorithm. We turn a file refused elsewhere into a qualified and realistic one, or we say so honestly when it is not possible."
+        },
+        {
+          "heading": "Our audience",
+          "body": "People flagged for credit incidents, self-employed without three sets of accounts, short contracts, seniors, tight business cash flow: profiles often turned away, that we take the time to study."
+        },
+        {
+          "heading": "Our method",
+          "body": "An honest pre-assessment, a study carried out by someone who explains every criterion to you, a reasoned decision. Every figure is shown before any signature."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Our commitments — OrentaLoan",
+        "description": "Transparency, honesty and a decision on the real situation: the commitments we keep."
+      },
+      "title": "Our commitments",
+      "intro": "In this market, transparency is our first argument. Here is what we hold to, without exception.",
+      "items": [
+        "No promise of approval: we never guarantee an agreement.",
+        "A decision on your real situation, not on an automatic score.",
+        "An announced and honoured response time, without artificial urgency.",
+        "Figures always indicative and an APR shown before any signature.",
+        "Your situation data handled with strict care, and never sold."
+      ]
+    }
   }
 }

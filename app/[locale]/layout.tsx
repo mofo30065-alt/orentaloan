@@ -5,7 +5,7 @@ import { getMessages, getTranslations, setRequestLocale } from 'next-intl/server
 import { notFound } from 'next/navigation';
 import { builtLocales, routing } from '@/lib/i18n/routing';
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://spark-loan.example';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://orentaloan.example';
 import { fontDisplay, fontSans, fontMono } from '@/lib/fonts';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';

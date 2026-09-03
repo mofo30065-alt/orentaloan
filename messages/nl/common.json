@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Gespecialiseerde kredietverstrekker"
   },
   "skipToContent": "Naar de inhoud",
@@ -70,14 +70,58 @@
       "title": "Ontvang onze houvast",
       "help": "Concrete criteria over krediet, zonder opdringerige verkoop.",
       "placeholder": "Uw e-mailadres",
-      "action": "Inschrijven"
+      "action": "Inschrijven",
+      "success": "Controleer uw inbox: we hebben u een bevestigingsmail gestuurd.",
+      "error": "De inschrijving is mislukt. Controleer uw adres en probeer opnieuw.",
+      "confirmTitle": "Inschrijving bevestigd",
+      "confirmBody": "Bedankt, uw inschrijving op onze houvast is bevestigd. U kunt zich op elk moment uitschrijven.",
+      "confirmError": "Deze bevestigingslink is ongeldig of verlopen."
     },
     "rights": "© {year} {brand}. Alle rechten voorbehouden.",
-    "publisher": "Spark Finance Nederland B.V. — KvK 87654321 — Herengracht 100, 1015 BS Amsterdam"
+    "publisher": "OrentaLoan Nederland B.V. — KvK 87654321 — Herengracht 100, 1015 BS Amsterdam"
   },
   "whatsapp": {
     "aria": "Start een WhatsApp-gesprek",
     "cta": "Chatten via WhatsApp",
     "prefill": "Hallo, ik heb een vraag over uw financieringsaanbod."
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Wie we zijn — OrentaLoan",
+        "description": "Gespecialiseerde kredietinstelling die voor eigen rekening leent en elders afgewezen dossiers beoordeelt op de echte situatie."
+      },
+      "title": "Wie we zijn",
+      "intro": "We zijn een gespecialiseerde kredietinstelling. We lenen voor eigen rekening en bestuderen de dossiers die klassieke banken afwijzen, op de echte situatie in plaats van op een score.",
+      "sections": [
+        {
+          "heading": "Ons vak",
+          "body": "Beslissen op concrete elementen — inkomsten, zekerheden, historiek — en niet op een algoritme. We maken van een elders afgewezen dossier een gekwalificeerd en realistisch dossier, of we zeggen het eerlijk wanneer het niet kan."
+        },
+        {
+          "heading": "Ons publiek",
+          "body": "Personen met een kredietregistratie, zelfstandigen zonder drie jaarrekeningen, korte contracten, senioren, krappe bedrijfsliquiditeit: vaak afgewezen profielen die we de tijd nemen om te bestuderen."
+        },
+        {
+          "heading": "Onze methode",
+          "body": "Een eerlijke voorafgaande inschatting, een beoordeling door een aanspreekpunt dat u elk criterium uitlegt, een gemotiveerde beslissing. Elk cijfer wordt getoond voor elke ondertekening."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Onze engagementen — OrentaLoan",
+        "description": "Transparantie, eerlijkheid en beslissen op de echte situatie: de engagementen die we nakomen."
+      },
+      "title": "Onze engagementen",
+      "intro": "Op deze markt is transparantie ons eerste argument. Dit is waaraan we ons houden, zonder uitzondering.",
+      "items": [
+        "Geen belofte van toekenning: we garanderen nooit een akkoord.",
+        "Een beslissing op uw echte situatie, niet op een automatische score.",
+        "Een aangekondigde en nagekomen antwoordtermijn, zonder kunstmatige urgentie.",
+        "Cijfers steeds indicatief en een JKP getoond voor elke ondertekening.",
+        "Uw situatiegegevens zorgvuldig behandeld en nooit verkocht."
+      ]
+    }
   }
 }

@@ -41,7 +41,7 @@
   },
   "mentions": {
     "meta": {
-      "title": "Juridische informatie — Spark loan",
+      "title": "Juridische informatie — OrentaLoan",
       "description": "Uitgever, host, toezichthouder en bemiddeling."
     },
     "title": "Juridische informatie",
@@ -49,7 +49,7 @@
   },
   "privacy": {
     "meta": {
-      "title": "Privacybeleid — Spark loan",
+      "title": "Privacybeleid — OrentaLoan",
       "description": "Welke gegevens we verwerken, waarom, hoelang en uw rechten."
     },
     "title": "Privacybeleid",
@@ -92,16 +92,16 @@
   },
   "cgu": {
     "meta": {
-      "title": "Gebruiksvoorwaarden — Spark loan",
+      "title": "Gebruiksvoorwaarden — OrentaLoan",
       "description": "Regels voor het gebruik van de site."
     },
     "title": "Gebruiksvoorwaarden",
     "intro": "Deze voorwaarden regelen het gebruik van de site. Ze vormen geen kredietaanbod.",
-    "placeholder": "Toegang tot de site is gratis. Door de site te gebruiken, aanvaardt u deze voorwaarden. De inhoud (teksten, merken, illustraties) is eigendom van Spark Finance en mag niet zonder toestemming worden gereproduceerd. Simulaties en vooranalyses zijn indicatief en binden de kredietgever niet. Het Nederlands recht is van toepassing."
+    "placeholder": "Toegang tot de site is gratis. Door de site te gebruiken, aanvaardt u deze voorwaarden. De inhoud (teksten, merken, illustraties) is eigendom van OrentaLoan en mag niet zonder toestemming worden gereproduceerd. Simulaties en vooranalyses zijn indicatief en binden de kredietgever niet. Het Nederlands recht is van toepassing."
   },
   "cookies": {
     "meta": {
-      "title": "Cookiebeleid — Spark loan",
+      "title": "Cookiebeleid — OrentaLoan",
       "description": "Welke cookies we gebruiken en hoe u ze beheert."
     },
     "title": "Cookiebeleid",

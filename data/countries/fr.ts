@@ -4,7 +4,7 @@ export const fr: CountryLegal = {
   code: 'FR',
   locale: 'fr',
   lender: {
-    name: 'Spark Finance SA',
+    name: 'OrentaLoan SA',
     legalForm: 'Société anonyme',
     capital: '5 000 000 €',
     registration: 'RCS Paris 912 456 789',
@@ -23,12 +23,12 @@ export const fr: CountryLegal = {
   },
   coolingOffDays: 14,
   dpo: {
-    name: 'Délégué à la protection des données — Spark Finance',
-    email: 'contact@sparkl0an.com',
+    name: 'Délégué à la protection des données — OrentaLoan',
+    email: 'contact@orentaloan.com',
   },
   contact: {
     phone: '+393501255841',
-    email: 'contact@sparkl0an.com',
+    email: 'contact@orentaloan.com',
     whatsapp: '+393501255841',
   },
   agencies: [
@@ -38,5 +38,5 @@ export const fr: CountryLegal = {
       hours: 'Lundi – Vendredi, 9h – 18h',
     },
   ],
-  bookingUrl: 'https://rdv.sparkloan.fr',
+  bookingUrl: 'https://rdv.orentaloan.fr',
 };

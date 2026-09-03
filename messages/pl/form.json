@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Złóż wniosek — Spark loan",
+    "title": "Złóż wniosek — OrentaLoan",
     "description": "Złóż wniosek o finansowanie w pięciu krokach. Twoje dane pozostają na urządzeniu, dopóki nie wyślesz."
   },
   "title": "Twój wniosek o finansowanie",
@@ -106,7 +106,7 @@
   "submitError": "Wysyłanie nie powiodło się. Sprawdź połączenie i spróbuj ponownie.",
   "confirmation": {
     "meta": {
-      "title": "Wniosek wysłany — Spark loan",
+      "title": "Wniosek wysłany — OrentaLoan",
       "description": "Twój wniosek o finansowanie został zarejestrowany. Opiekun analizuje Twój wniosek."
     },
     "title": "Twój wniosek został zarejestrowany",

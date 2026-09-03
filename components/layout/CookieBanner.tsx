@@ -5,7 +5,7 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/lib/i18n/navigation';
 import { Button } from '@/components/ui/Button';
 
-const COOKIE = 'SPARK_COOKIE_CONSENT';
+const COOKIE = 'ORENTALOAN_COOKIE_CONSENT';
 
 function persist(value: 'all' | 'necessary') {
   document.cookie = `${COOKIE}=${value}; path=/; max-age=${60 * 60 * 24 * 365}; samesite=lax`;

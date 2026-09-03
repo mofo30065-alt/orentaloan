@@ -16,10 +16,10 @@ export const bg: CountryLegal = {
   host: { name: 'OVHcloud', address: '2 rue Kellermann, 59100 Roubaix, Франция' },
   mediator: { name: 'Помирителна комисия за платежни спорове', url: 'https://www.kzp.bg' },
   coolingOffDays: 14,
-  dpo: { name: 'Длъжностно лице по защита на данните — Спарк Файнанс България', email: 'dpo@sparkloan.bg' },
-  contact: { phone: '+393501255841', email: 'contact@sparkloan.bg', whatsapp: '+393501255841' },
+  dpo: { name: 'Длъжностно лице по защита на данните — Спарк Файнанс България', email: 'dpo@orentaloan.bg' },
+  contact: { phone: '+393501255841', email: 'contact@orentaloan.bg', whatsapp: '+393501255841' },
   agencies: [
     { name: 'Офис София', address: 'бул. Витоша 50, 1000 София', hours: 'Пон – Пет, 9:00 – 18:00' },
   ],
-  bookingUrl: 'https://zapazwane.sparkloan.bg',
+  bookingUrl: 'https://zapazwane.orentaloan.bg',
 };

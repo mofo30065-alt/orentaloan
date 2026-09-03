@@ -4,7 +4,7 @@ export const en: CountryLegal = {
   code: 'IE',
   locale: 'en',
   lender: {
-    name: 'Spark Finance Ireland Ltd',
+    name: 'OrentaLoan Ireland Ltd',
     legalForm: 'Private company limited by shares',
     capital: '€1,000,000',
     registration: 'CRO No. 654321',
@@ -23,12 +23,12 @@ export const en: CountryLegal = {
   },
   coolingOffDays: 14,
   dpo: {
-    name: 'Data Protection Officer — Spark Finance Ireland',
-    email: 'dpo@sparkloan.ie',
+    name: 'Data Protection Officer — OrentaLoan Ireland',
+    email: 'dpo@orentaloan.ie',
   },
   contact: {
     phone: '+393501255841',
-    email: 'contact@sparkloan.ie',
+    email: 'contact@orentaloan.ie',
     whatsapp: '+393501255841',
   },
   agencies: [
@@ -38,5 +38,5 @@ export const en: CountryLegal = {
       hours: 'Mon – Fri, 9am – 6pm',
     },
   ],
-  bookingUrl: 'https://booking.sparkloan.ie',
+  bookingUrl: 'https://booking.orentaloan.ie',
 };

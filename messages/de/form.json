@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Antrag stellen — Spark loan",
+    "title": "Antrag stellen — OrentaLoan",
     "description": "Stellen Sie Ihren Finanzierungsantrag in fünf Schritten. Ihre Angaben bleiben auf Ihrem Gerät, bis Sie absenden."
   },
   "title": "Ihr Finanzierungsantrag",
@@ -106,7 +106,7 @@
   "submitError": "Das Senden ist fehlgeschlagen. Prüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
   "confirmation": {
     "meta": {
-      "title": "Antrag gesendet — Spark loan",
+      "title": "Antrag gesendet — OrentaLoan",
       "description": "Ihr Finanzierungsantrag ist erfasst. Ein Ansprechpartner prüft Ihre Unterlagen."
     },
     "title": "Ihr Antrag ist erfasst",

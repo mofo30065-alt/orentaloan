@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Istituto di credito specializzato"
   },
   "skipToContent": "Vai al contenuto",
@@ -70,14 +70,58 @@
       "title": "Ricevi i nostri riferimenti",
       "help": "Criteri concreti sul credito, senza vendite aggressive.",
       "placeholder": "Il tuo indirizzo email",
-      "action": "Iscrivimi"
+      "action": "Iscrivimi",
+      "success": "Controlla la tua casella: ti abbiamo inviato un'email di conferma.",
+      "error": "Iscrizione non riuscita. Verifica il tuo indirizzo e riprova.",
+      "confirmTitle": "Iscrizione confermata",
+      "confirmBody": "Grazie, la tua iscrizione ai nostri riferimenti è confermata. Puoi annullarla in qualsiasi momento.",
+      "confirmError": "Questo link di conferma non è valido o è scaduto."
     },
     "rights": "© {year} {brand}. Tutti i diritti riservati.",
-    "publisher": "Spark Finance Italia S.p.A. con capitale di 3.000.000 € — P.IVA 12345670960 — Corso Buenos Aires 15, 20124 Milano"
+    "publisher": "OrentaLoan Italia S.p.A. con capitale di 3.000.000 € — P.IVA 12345670960 — Corso Buenos Aires 15, 20124 Milano"
   },
   "whatsapp": {
     "aria": "Avvia una chat WhatsApp",
     "cta": "Scrivi su WhatsApp",
     "prefill": "Buongiorno, ho una domanda sulla vostra offerta di finanziamento."
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Chi siamo — OrentaLoan",
+        "description": "Istituto di credito specializzato che presta in proprio e studia le pratiche scartate altrove, sulla situazione reale."
+      },
+      "title": "Chi siamo",
+      "intro": "Siamo un istituto di credito specializzato. Prestiamo in proprio e studiamo le pratiche che le banche tradizionali scartano, sulla situazione reale piuttosto che su un punteggio.",
+      "sections": [
+        {
+          "heading": "Il nostro mestiere",
+          "body": "Decidere su elementi concreti — redditi, garanzie, storico — e non su un algoritmo. Trasformiamo una pratica rifiutata altrove in una pratica qualificata e realistica, oppure lo diciamo onestamente quando non è possibile."
+        },
+        {
+          "heading": "Il nostro pubblico",
+          "body": "Soggetti segnalati, autonomi senza tre bilanci, contratti a termine, over 65, aziende con liquidità tesa: profili spesso scartati, che noi ci prendiamo il tempo di studiare."
+        },
+        {
+          "heading": "Il nostro metodo",
+          "body": "Una verifica di idoneità onesta, uno studio condotto da un interlocutore che ti spiega ogni criterio, una decisione motivata. Ogni cifra è indicata prima di qualsiasi firma."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "I nostri impegni — OrentaLoan",
+        "description": "Trasparenza, onestà e decisione sulla situazione reale: gli impegni che manteniamo."
+      },
+      "title": "I nostri impegni",
+      "intro": "In questo mercato, la trasparenza è il nostro primo argomento. Ecco ciò a cui ci atteniamo, senza eccezioni.",
+      "items": [
+        "Nessuna promessa di concessione: non garantiamo mai un accordo.",
+        "Una decisione sulla tua situazione reale, non su un punteggio automatico.",
+        "Un tempo di risposta annunciato e rispettato, senza urgenza artificiale.",
+        "Cifre sempre indicative e un TAEG mostrato prima di qualsiasi firma.",
+        "I dati sulla tua situazione trattati con cura rigorosa, e mai venduti."
+      ]
+    }
   }
 }

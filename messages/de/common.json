@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Spezialisierter Kreditgeber"
   },
   "skipToContent": "Zum Inhalt springen",
@@ -70,14 +70,58 @@
       "title": "Unsere Orientierungshilfen",
       "help": "Konkrete Kriterien zum Kredit, ohne aufdringlichen Verkauf.",
       "placeholder": "Ihre E-Mail-Adresse",
-      "action": "Abonnieren"
+      "action": "Abonnieren",
+      "success": "Prüfen Sie Ihr Postfach: Wir haben Ihnen eine Bestätigungs-E-Mail gesendet.",
+      "error": "Die Anmeldung ist fehlgeschlagen. Prüfen Sie Ihre Adresse und versuchen Sie es erneut.",
+      "confirmTitle": "Anmeldung bestätigt",
+      "confirmBody": "Danke, Ihre Anmeldung zu unseren Orientierungshilfen ist bestätigt. Sie können sich jederzeit abmelden.",
+      "confirmError": "Dieser Bestätigungslink ist ungültig oder abgelaufen."
     },
     "rights": "© {year} {brand}. Alle Rechte vorbehalten.",
-    "publisher": "Spark Finance Deutschland GmbH mit Stammkapital von 1.000.000 € — HRB 123456 — Friedrichstraße 68, 10117 Berlin"
+    "publisher": "OrentaLoan Deutschland GmbH mit Stammkapital von 1.000.000 € — HRB 123456 — Friedrichstraße 68, 10117 Berlin"
   },
   "whatsapp": {
     "aria": "WhatsApp-Chat starten",
     "cta": "Über WhatsApp chatten",
     "prefill": "Hallo, ich habe eine Frage zu Ihrem Finanzierungsangebot."
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Wer wir sind — OrentaLoan",
+        "description": "Spezialisiertes Kreditinstitut, das auf eigene Rechnung verleiht und andernorts abgewiesene Unterlagen auf die tatsächliche Lage prüft."
+      },
+      "title": "Wer wir sind",
+      "intro": "Wir sind ein spezialisiertes Kreditinstitut. Wir verleihen auf eigene Rechnung und prüfen die Unterlagen, die klassische Banken abweisen, auf die tatsächliche Lage statt auf einen Score.",
+      "sections": [
+        {
+          "heading": "Unsere Aufgabe",
+          "body": "Auf Basis konkreter Elemente entscheiden — Einkommen, Sicherheiten, Historie — und nicht auf Basis eines Algorithmus. Wir machen aus andernorts abgewiesenen Unterlagen eine qualifizierte und realistische Akte, oder wir sagen ehrlich, wenn es nicht möglich ist."
+        },
+        {
+          "heading": "Unser Publikum",
+          "body": "Personen mit Negativeintrag, Selbstständige ohne drei Jahresabschlüsse, befristete Verträge, Senioren, angespannte Unternehmensliquidität: oft abgewiesene Profile, die wir uns die Zeit nehmen zu prüfen."
+        },
+        {
+          "heading": "Unsere Methode",
+          "body": "Eine ehrliche Vorabeinschätzung, eine Prüfung durch einen Ansprechpartner, der Ihnen jedes Kriterium erklärt, eine begründete Entscheidung. Jede Zahl wird vor jeder Unterschrift ausgewiesen."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Unsere Zusagen — OrentaLoan",
+        "description": "Transparenz, Ehrlichkeit und Entscheidung auf die tatsächliche Lage: die Zusagen, die wir einhalten."
+      },
+      "title": "Unsere Zusagen",
+      "intro": "In diesem Markt ist Transparenz unser erstes Argument. Daran halten wir uns, ohne Ausnahme.",
+      "items": [
+        "Kein Versprechen einer Bewilligung: Wir garantieren nie eine Zusage.",
+        "Eine Entscheidung auf Ihre tatsächliche Lage, nicht auf einen automatischen Score.",
+        "Eine angekündigte und eingehaltene Antwortfrist, ohne künstliche Dringlichkeit.",
+        "Stets richtungweisende Zahlen und ein effektiver Jahreszins, vor jeder Unterschrift ausgewiesen.",
+        "Ihre Daten zur Lage sorgfältig behandelt und niemals verkauft."
+      ]
+    }
   }
 }

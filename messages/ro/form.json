@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Depune cererea — Spark loan",
+    "title": "Depune cererea — OrentaLoan",
     "description": "Depune cererea de finanțare în cinci pași. Datele tale rămân pe dispozitiv până când trimiți."
   },
   "title": "Cererea ta de finanțare",
@@ -106,7 +106,7 @@
   "submitError": "Trimiterea a eșuat. Verifică conexiunea și încearcă din nou.",
   "confirmation": {
     "meta": {
-      "title": "Cerere trimisă — Spark loan",
+      "title": "Cerere trimisă — OrentaLoan",
       "description": "Cererea ta de finanțare este înregistrată. Un interlocutor îți analizează dosarul."
     },
     "title": "Cererea ta este înregistrată",

@@ -21,7 +21,7 @@ export async function generateMetadata({ params }: PageParams): Promise<Metadata
   const { locale, slug } = await params;
   const article = getArticleBySlug(locale, slug);
   if (!article) return {};
-  return { title: `${article.title} — Spark loan`, description: article.excerpt };
+  return { title: `${article.title} — OrentaLoan`, description: article.excerpt };
 }
 
 export default async function ArticlePage({ params }: PageParams) {

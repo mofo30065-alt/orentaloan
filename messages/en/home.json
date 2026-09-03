@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Spark loan — a loan assessed on your real situation",
+    "title": "OrentaLoan — a loan assessed on your real situation",
     "description": "Specialist credit provider for files turned away by high-street banks. Assessment on real facts, case by case."
   },
   "hero": {
@@ -9,6 +9,14 @@
     "subtitle": "We study files that high-street banks often turn away. Every decision rests on concrete facts, file by file — with no promise of approval.",
     "ctaPrimary": "Check my eligibility",
     "ctaSecondary": "Estimate a payment"
+  },
+  "heroMini": {
+    "title": "Estimate at a glance",
+    "amount": "Amount",
+    "duration": "Term",
+    "result": "Estimated payment",
+    "rateNote": "Indicative estimate at {rate} fixed borrowing rate, insurance excluded.",
+    "cta": "Refine my simulation"
   },
   "situation": {
     "eyebrow": "Your situation",

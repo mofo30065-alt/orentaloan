@@ -41,7 +41,7 @@
   },
   "mentions": {
     "meta": {
-      "title": "Mentions légales — Spark loan",
+      "title": "Mentions légales — OrentaLoan",
       "description": "Éditeur, hébergeur, autorité de contrôle et médiation."
     },
     "title": "Mentions légales",
@@ -49,7 +49,7 @@
   },
   "privacy": {
     "meta": {
-      "title": "Politique de confidentialité — Spark loan",
+      "title": "Politique de confidentialité — OrentaLoan",
       "description": "Quelles données nous traitons, pourquoi, combien de temps, et vos droits."
     },
     "title": "Politique de confidentialité",
@@ -92,16 +92,16 @@
   },
   "cgu": {
     "meta": {
-      "title": "Conditions générales d'utilisation — Spark loan",
+      "title": "Conditions générales d'utilisation — OrentaLoan",
       "description": "Règles d'utilisation du site."
     },
     "title": "Conditions générales d'utilisation",
     "intro": "Ces conditions encadrent l'utilisation du site. Elles ne constituent pas une offre de crédit.",
-    "placeholder": "L'accès au site est gratuit. En le consultant, vous acceptez ces conditions. Les contenus (textes, marques, illustrations) sont la propriété de Spark Finance SA et ne peuvent être reproduits sans autorisation. Les simulations et pré-diagnostics sont fournis à titre indicatif et n'engagent pas l'organisme. Spark Finance se réserve le droit de faire évoluer le site et ces conditions ; la version applicable est celle en ligne au moment de votre visite. Le droit français s'applique."
+    "placeholder": "L'accès au site est gratuit. En le consultant, vous acceptez ces conditions. Les contenus (textes, marques, illustrations) sont la propriété de OrentaLoan SA et ne peuvent être reproduits sans autorisation. Les simulations et pré-diagnostics sont fournis à titre indicatif et n'engagent pas l'organisme. OrentaLoan se réserve le droit de faire évoluer le site et ces conditions ; la version applicable est celle en ligne au moment de votre visite. Le droit français s'applique."
   },
   "cookies": {
     "meta": {
-      "title": "Politique de cookies — Spark loan",
+      "title": "Politique de cookies — OrentaLoan",
       "description": "Quels cookies nous utilisons et comment les gérer."
     },
     "title": "Politique de cookies",

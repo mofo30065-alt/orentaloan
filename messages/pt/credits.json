@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "O nosso financiamento — Spark loan",
+    "title": "O nosso financiamento — OrentaLoan",
     "description": "14 tipos de financiamento avaliados pela sua situação real. Os créditos com garantia continuam acessíveis após uma recusa bancária."
   },
   "index": {
@@ -40,19 +40,551 @@
     }
   },
   "products": {
-    "rachat-credit": { "name": "Consolidação de créditos", "teaser": "Junte os seus créditos numa só prestação, garantida pelo seu imóvel se necessário." },
-    "pret-travaux": { "name": "Crédito para obras", "teaser": "Financie uma renovação, incluindo obras de eficiência energética." },
-    "pret-tresorerie": { "name": "Crédito de tesouraria", "teaser": "Ultrapasse uma dificuldade de tesouraria para a sua atividade, sem imobilizar fundos." },
-    "loa": { "name": "Leasing / ALD", "teaser": "Utilize um veículo ou equipamento sem o comprar de imediato." },
-    "affacturage": { "name": "Factoring", "teaser": "Transforme as faturas de clientes em tesouraria imediata." },
-    "pret-relais": { "name": "Crédito ponte", "teaser": "Compre antes de ter vendido, durante a transição." },
-    "pret-immobilier": { "name": "Crédito habitação", "teaser": "Financie a compra de casa avaliada pela sua situação real." },
-    "credit-consommation": { "name": "Crédito ao consumo", "teaser": "Financie um projeto pessoal, equipamento ou um imprevisto." },
-    "pret-auto": { "name": "Crédito automóvel", "teaser": "Compre um veículo novo ou usado, com uma prestação clara." },
-    "credit-renouvelable": { "name": "Crédito renovável", "teaser": "Uma reserva de dinheiro flexível, a usar com moderação." },
-    "pret-etudiant": { "name": "Crédito para estudantes", "teaser": "Financie os estudos e o seu custo de vida." },
-    "financement-equipement": { "name": "Financiamento de equipamento", "teaser": "Financie máquinas, material ou veículos profissionais." },
-    "pret-creation-reprise": { "name": "Crédito criação/aquisição", "teaser": "Financie o arranque ou a aquisição de uma atividade." },
-    "immobilier-professionnel": { "name": "Imobiliário empresarial", "teaser": "Financie espaços comerciais ou profissionais." }
+    "rachat-credit": {
+      "name": "Consolidação de créditos",
+      "teaser": "Junte os seus créditos numa só prestação, garantida pelo seu imóvel se necessário.",
+      "heroSubtitle": "Juntar os seus créditos numa única prestação, garantida pelo seu imóvel quando necessário.",
+      "description": "A consolidação de créditos reúne os seus empréstimos em curso num só, com uma prestação reduzida e um prazo redistribuído. Garantida por um bem, continua analisável mesmo após um incidente de pagamento.",
+      "eligible": [
+        "Proprietário que pretende juntar vários créditos",
+        "Orçamento apertado com um bem para dar como garantia",
+        "Situação profissional variada, trabalhadores independentes incluídos"
+      ],
+      "notEligible": [
+        "Arrendatário sem fiador e com uma taxa de esforço já muito elevada",
+        "Nenhum crédito existente para juntar"
+      ],
+      "documents": [
+        "Documento de identificação válido",
+        "Mapas de amortização dos créditos a juntar",
+        "Últimos três extratos bancários",
+        "Comprovativo de propriedade ou IMI"
+      ],
+      "faq": [
+        {
+          "q": "A consolidação apaga um registo de incidente de crédito?",
+          "a": "Não. Pode liquidar os créditos na origem do incidente, o que pode levar a um levantamento, mas nenhum cancelamento é automático nem garantido."
+        },
+        {
+          "q": "Até onde se pode alongar o prazo?",
+          "a": "Até 420 meses para uma consolidação garantida por um imóvel, dentro do limite da sua capacidade de reembolso."
+        },
+        {
+          "q": "Posso adicionar tesouraria?",
+          "a": "Sim, um montante adicional pode ser integrado se a sua garantia e os seus rendimentos o permitirem."
+        }
+      ],
+      "case": {
+        "title": "Consolidação de três créditos",
+        "detail": "80 000 € juntos em 180 meses: uma única prestação substitui três vencimentos, com um custo redistribuído e conhecido à partida."
+      }
+    },
+    "pret-travaux": {
+      "name": "Crédito para obras",
+      "teaser": "Financie uma renovação, incluindo obras de eficiência energética.",
+      "heroSubtitle": "Financiar uma renovação, incluindo obras de poupança energética.",
+      "description": "O crédito para obras financia a melhoria da sua habitação, do arranjo à renovação energética. Pode complementar os apoios públicos.",
+      "eligible": [
+        "Proprietário que ocupa a habitação ou que a arrenda",
+        "Projeto de renovação energética elegível para apoios",
+        "Rendimentos regulares, ainda que modestos, com orçamento de suporte"
+      ],
+      "notEligible": [
+        "Obras sem orçamento nem comprovativo de utilização",
+        "Capacidade de reembolso já saturada"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Orçamentos detalhados das obras",
+        "Comprovativo de morada recente",
+        "Últimas duas declarações de IRS"
+      ],
+      "faq": [
+        {
+          "q": "Posso acumular com um apoio público à renovação?",
+          "a": "Sim. O crédito para obras complementa os apoios; os montantes recebidos não entram no crédito."
+        },
+        {
+          "q": "Os fundos são libertados de uma só vez?",
+          "a": "Consoante a obra, é possível uma libertação faseada mediante apresentação das faturas."
+        },
+        {
+          "q": "É preciso ser proprietário?",
+          "a": "Na maioria das vezes sim, mas um arrendatário que realiza obras com o acordo do proprietário pode ser analisado."
+        }
+      ],
+      "case": {
+        "title": "Renovação energética",
+        "detail": "25 000 € em 84 meses para um isolamento e uma bomba de calor, como complemento dos apoios."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Crédito de tesouraria",
+      "teaser": "Ultrapasse uma dificuldade de tesouraria para a sua atividade, sem imobilizar fundos.",
+      "heroSubtitle": "Ultrapassar uma dificuldade de tesouraria para a sua atividade, sem imobilizar os seus ativos.",
+      "description": "O crédito de tesouraria cobre uma necessidade de fundo de maneio: desfasamento de pagamento, encargo sazonal, contratempo pontual. Analisado sobre a realidade da sua atividade.",
+      "eligible": [
+        "Micro empresa, independente ou profissional liberal com atividade estabelecida",
+        "Necessidade pontual de fundo de maneio justificável",
+        "Conta profissional com movimentos regulares"
+      ],
+      "notEligible": [
+        "Atividade criada há menos de seis meses sem histórico",
+        "Necessidade estrutural de longo prazo que compete a outro produto"
+      ],
+      "documents": [
+        "Certidão permanente ou equivalente",
+        "Últimos dois balanços ou situação contabilística",
+        "Extratos da conta profissional",
+        "Documento de identificação do gerente"
+      ],
+      "faq": [
+        {
+          "q": "São precisos três balanços?",
+          "a": "Não. Uma situação contabilística recente e extratos regulares podem bastar para a análise."
+        },
+        {
+          "q": "Qual o prazo de libertação?",
+          "a": "Após a aprovação e a assinatura da proposta, os fundos são libertados nos prazos legais."
+        },
+        {
+          "q": "É exigida uma garantia?",
+          "a": "Consoante o montante, pode ser pedida uma fiança do gerente ou uma garantia."
+        }
+      ],
+      "case": {
+        "title": "Desfasamento de tesouraria",
+        "detail": "30 000 € em 48 meses para absorver um desfasamento de pagamento de um cliente, reembolsados ao ritmo dos recebimentos."
+      }
+    },
+    "loa": {
+      "name": "Leasing / ALD",
+      "teaser": "Utilize um veículo ou equipamento sem o comprar de imediato.",
+      "heroSubtitle": "Utilizar um veículo ou equipamento sem o comprar, com uma opção de compra no fim do contrato.",
+      "description": "O leasing com opção de compra fá-lo pagar rendas pela utilização de um bem, com a possibilidade de o adquirir pelo seu valor residual. O encargo é distribuído, o bem continua a ser a garantia.",
+      "eligible": [
+        "Particular ou profissional que quer a utilização sem compra imediata",
+        "Rendimentos regulares que cobrem a renda",
+        "Projeto sobre um veículo ou equipamento identificável"
+      ],
+      "notEligible": [
+        "Procura de capital em numerário (o leasing financia uma utilização)",
+        "Bem não segurável ou de difícil revenda"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Comprovativo de rendimentos",
+        "Nota de encomenda ou orçamento do bem",
+        "Comprovativo de morada"
+      ],
+      "faq": [
+        {
+          "q": "Sou proprietário do bem?",
+          "a": "Não durante o leasing. Passa a sê-lo se exercer a opção de compra pelo valor residual previsto."
+        },
+        {
+          "q": "A manutenção está incluída?",
+          "a": "Consoante o contrato; algumas fórmulas incluem manutenção e seguro."
+        },
+        {
+          "q": "Posso devolver o bem no fim?",
+          "a": "Sim. Sem exercer a opção, devolve o bem no estado previsto no contrato."
+        }
+      ],
+      "case": {
+        "title": "Veículo em leasing",
+        "detail": "30 000 € de valor, 48 rendas e depois um valor residual: escolhe comprar ou devolver."
+      }
+    },
+    "affacturage": {
+      "name": "Factoring",
+      "teaser": "Transforme as faturas de clientes em tesouraria imediata.",
+      "heroSubtitle": "Transformar as faturas de clientes em tesouraria imediata disponível.",
+      "description": "O factoring não é um crédito: cede as suas faturas a receber em troca de um adiantamento imediato, mediante uma comissão. A sua tesouraria acompanha o seu volume de negócios.",
+      "eligible": [
+        "Empresa que fatura a clientes profissionais",
+        "Carteira de clientes recorrente com prazos de pagamento",
+        "Necessidade de suavizar a tesouraria sem se endividar"
+      ],
+      "notEligible": [
+        "Atividade B2C sem faturas profissionais",
+        "Créditos em litígio ou já vencidos"
+      ],
+      "documents": [
+        "Certidão permanente",
+        "Balancete de clientes recente",
+        "Exemplos de faturas e condições de pagamento",
+        "Documento de identificação do gerente"
+      ],
+      "faq": [
+        {
+          "q": "É um crédito?",
+          "a": "Não. É uma cessão de créditos em troca de adiantamento; não aumenta o seu endividamento bancário."
+        },
+        {
+          "q": "Quem cobra os meus clientes?",
+          "a": "Consoante a fórmula, a cobrança e o recobro podem ser delegados no factor."
+        },
+        {
+          "q": "Qual o custo?",
+          "a": "Uma comissão de factoring e uma comissão de financiamento, consoante o volume e os prazos. O detalhe consta do contrato."
+        }
+      ],
+      "case": {
+        "title": "Adiantamento sobre faturas",
+        "detail": "Uma carteira de clientes de 100 000 € financiada em poucos dias, ao ritmo da sua faturação."
+      }
+    },
+    "pret-relais": {
+      "name": "Crédito ponte",
+      "teaser": "Compre antes de ter vendido, durante a transição.",
+      "heroSubtitle": "Comprar um novo bem antes de ter vendido o atual, durante a transição.",
+      "description": "O crédito ponte adianta uma parte do valor do seu bem posto à venda. Reembolsa o capital na venda; entretanto, na maioria das vezes só paga os juros.",
+      "eligible": [
+        "Proprietário que vende um bem para comprar outro",
+        "Bem posto à venda a um valor realista",
+        "Capacidade de suportar os juros durante o período ponte"
+      ],
+      "notEligible": [
+        "Bem difícil de vender ou sobreavaliado",
+        "Ausência de um projeto de compra concreto"
+      ],
+      "documents": [
+        "Avaliação ou mandato de venda do bem",
+        "Título de propriedade",
+        "Contrato-promessa ou projeto de compra",
+        "Documento de identificação"
+      ],
+      "faq": [
+        {
+          "q": "O que acontece se não vender a tempo?",
+          "a": "O crédito ponte tem um prazo limitado (12 a 24 meses). Uma solução de saída é prevista e discutida logo à partida."
+        },
+        {
+          "q": "Quanto posso obter?",
+          "a": "Em geral uma parte prudente do valor avaliado, para ter em conta o mercado."
+        },
+        {
+          "q": "Paga-se o capital todos os meses?",
+          "a": "Não. O capital é reembolsado na venda; só paga os juros, consoante a fórmula escolhida."
+        }
+      ],
+      "case": {
+        "title": "Comprar antes de vender",
+        "detail": "200 000 € adiantados em 12 meses com carência parcial: só paga os juros até à venda."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Crédito habitação",
+      "teaser": "Financie a compra de casa avaliada pela sua situação real.",
+      "heroSubtitle": "Financiar uma compra de casa avaliada pela sua situação real, não por uma pontuação.",
+      "description": "O crédito habitação financia a compra da sua residência ou de um investimento. Analisamos os processos atípicos: independentes, contratos curtos, perfis descartados noutros lados.",
+      "eligible": [
+        "Projeto de compra com entrada ou garantia",
+        "Rendimentos regulares, não assalariados incluídos",
+        "Perfil atípico mas processo sólido no restante"
+      ],
+      "notEligible": [
+        "Endividamento que ultrapassa claramente os limiares prudenciais sem garantia",
+        "Nenhuma entrada nem bem para hipotecar"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Contrato-promessa de compra e venda",
+        "Últimos três recibos de vencimento ou balanços",
+        "Extratos bancários recentes"
+      ],
+      "faq": [
+        {
+          "q": "Aceitam independentes sem três balanços?",
+          "a": "Sim, sob condições: uma atividade estabelecida e extratos regulares podem compensar."
+        },
+        {
+          "q": "É obrigatória uma entrada?",
+          "a": "Não sistematicamente, mas reforça claramente o processo e a taxa."
+        },
+        {
+          "q": "A taxa é fixa?",
+          "a": "Fixa ou variável consoante o prazo; a tabela acima dá referências indicativas."
+        }
+      ],
+      "case": {
+        "title": "Compra de residência",
+        "detail": "200 000 € em 240 meses: uma prestação conhecida à partida, calculada ao cêntimo."
+      }
+    },
+    "credit-consommation": {
+      "name": "Crédito ao consumo",
+      "teaser": "Financie um projeto pessoal, equipamento ou um imprevisto.",
+      "heroSubtitle": "Financiar um projeto pessoal, equipamento ou um imprevisto.",
+      "description": "O crédito ao consumo financia uma necessidade identificada sem hipotecar um bem. Montantes e prazos medidos, análise sobre o seu orçamento real.",
+      "eligible": [
+        "Rendimentos regulares que cobrem a prestação",
+        "Projeto pessoal identificável",
+        "Taxa de esforço controlada"
+      ],
+      "notEligible": [
+        "Orçamento já apertado por outros créditos",
+        "Tesouraria pedida sem uma capacidade de reembolso clara"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Comprovativo de morada",
+        "Últimos dois recibos de vencimento",
+        "Última declaração de IRS"
+      ],
+      "faq": [
+        {
+          "q": "Em que prazo a resposta?",
+          "a": "É-lhe anunciado um prazo de análise claro, e cumprimo-lo."
+        },
+        {
+          "q": "Posso reembolsar antecipadamente?",
+          "a": "Sim, a qualquer momento, nas condições legais previstas no contrato."
+        },
+        {
+          "q": "É exigido um comprovativo de utilização?",
+          "a": "Consoante o montante e o tipo de crédito; precisamos-lho na análise."
+        }
+      ],
+      "case": {
+        "title": "Projeto pessoal",
+        "detail": "15 000 € em 48 meses: prestação, custo total e TAEG apresentados antes de qualquer assinatura."
+      }
+    },
+    "pret-auto": {
+      "name": "Crédito automóvel",
+      "teaser": "Compre um veículo novo ou usado, com uma prestação clara.",
+      "heroSubtitle": "Comprar um veículo novo ou usado, com uma prestação clara.",
+      "description": "O crédito automóvel financia a compra de um veículo. O bem pode servir de garantia, o que abre o financiamento a perfis variados.",
+      "eligible": [
+        "Compra de um veículo novo ou usado identificável",
+        "Rendimentos regulares",
+        "Perfil aceite graças à garantia do veículo"
+      ],
+      "notEligible": [
+        "Veículo sem fatura nem documento único automóvel utilizável",
+        "Capacidade de reembolso insuficiente apesar da garantia"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Nota de encomenda ou certificado de cessão",
+        "Comprovativo de rendimentos",
+        "Comprovativo de morada"
+      ],
+      "faq": [
+        {
+          "q": "Novo e usado são financiados?",
+          "a": "Sim, com prazos adaptados à idade do veículo."
+        },
+        {
+          "q": "O veículo fica empenhado?",
+          "a": "Consoante a fórmula, pode ser constituído um penhor como garantia."
+        },
+        {
+          "q": "Posso financiar o seguro?",
+          "a": "O seguro do mutuário é facultativo e pode ser integrado na prestação."
+        }
+      ],
+      "case": {
+        "title": "Carro usado",
+        "detail": "20 000 € em 60 meses, garantidos pelo veículo financiado."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Crédito renovável",
+      "teaser": "Uma reserva de dinheiro flexível, a usar com moderação.",
+      "heroSubtitle": "Uma reserva de dinheiro flexível, a usar com moderação.",
+      "description": "O crédito renovável disponibiliza uma reserva que utiliza livremente e reconstitui à medida que reembolsa. Flexível mas caro: reservado a pequenas necessidades pontuais.",
+      "eligible": [
+        "Necessidade pontual de baixo montante",
+        "Capacidade de reembolsar depressa para limitar o custo",
+        "Rendimentos regulares"
+      ],
+      "notEligible": [
+        "Projeto longo, para o qual um crédito amortizável custa muito menos",
+        "Dificuldade em reembolsar mais do que os juros por mês"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Comprovativo de morada",
+        "Comprovativo de rendimentos",
+        "Extrato bancário recente"
+      ],
+      "faq": [
+        {
+          "q": "Porque é que a taxa é elevada?",
+          "a": "A flexibilidade tem um custo. Quanto mais depressa reembolsar, menos juros paga."
+        },
+        {
+          "q": "Sou obrigado a usar a reserva?",
+          "a": "Não. Os juros só correm sobre a quantia efetivamente utilizada."
+        },
+        {
+          "q": "É adequado a uma grande compra?",
+          "a": "Raramente. Para um projeto, um crédito amortizável é quase sempre mais barato."
+        }
+      ],
+      "case": {
+        "title": "Pequena necessidade pontual",
+        "detail": "3 000 € utilizados e depois reembolsados em 24 meses: o custo depende diretamente do seu ritmo de reembolso."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Crédito para estudantes",
+      "teaser": "Financie os estudos e o seu custo de vida.",
+      "heroSubtitle": "Financiar os estudos e o seu custo de vida, com um reembolso adaptado.",
+      "description": "O crédito para estudantes financia propinas e vida corrente, muitas vezes com uma carência de reembolso durante os estudos. Uma fiança reforça o processo.",
+      "eligible": [
+        "Estudante inscrito numa instituição reconhecida",
+        "Presença de um fiador ou de uma garantia",
+        "Projeto de estudos coerente com o montante"
+      ],
+      "notEligible": [
+        "Ausência de fiador e de rendimentos futuros credíveis",
+        "Montante sem relação com o curso"
+      ],
+      "documents": [
+        "Documento de identificação",
+        "Certificado de matrícula ou comprovativo de inscrição",
+        "Comprovativos do fiador",
+        "Comprovativo de morada"
+      ],
+      "faq": [
+        {
+          "q": "Posso diferir o reembolso?",
+          "a": "Sim, uma carência parcial ou total durante os estudos é frequente; os juros correm consoante a fórmula."
+        },
+        {
+          "q": "É preciso um fiador?",
+          "a": "Na maioria das vezes é necessário e melhora claramente as condições."
+        },
+        {
+          "q": "A taxa é vantajosa?",
+          "a": "As taxas para estudantes estão entre as mais baixas; ver a tabela indicativa acima."
+        }
+      ],
+      "case": {
+        "title": "Financiamento de um curso",
+        "detail": "15 000 € em 60 meses com carência durante os estudos, reembolsados à entrada na vida ativa."
+      }
+    },
+    "financement-equipement": {
+      "name": "Financiamento de equipamento",
+      "teaser": "Financie máquinas, material ou veículos profissionais.",
+      "heroSubtitle": "Financiar máquinas, material ou veículos profissionais sem sobrecarregar a sua tesouraria.",
+      "description": "O financiamento de equipamento financia um ativo produtivo, que muitas vezes serve de garantia. Preserva a sua tesouraria para a exploração.",
+      "eligible": [
+        "Empresa que investe num material identificável",
+        "Ativo revendável que serve de garantia",
+        "Atividade com contas regulares"
+      ],
+      "notEligible": [
+        "Material obsoleto ou de difícil revenda",
+        "Empresa sem uma capacidade de reembolso demonstrável"
+      ],
+      "documents": [
+        "Certidão permanente",
+        "Orçamento ou fatura proforma do material",
+        "Últimos dois balanços",
+        "Extratos da conta profissional"
+      ],
+      "faq": [
+        {
+          "q": "O material serve de garantia?",
+          "a": "Muitas vezes sim, o que facilita a aprovação mesmo para uma estrutura jovem."
+        },
+        {
+          "q": "Crédito ou leasing?",
+          "a": "Ambos são possíveis; um consultor compara consoante a sua fiscalidade e as suas necessidades."
+        },
+        {
+          "q": "Qual o prazo?",
+          "a": "Alinhado com a vida útil do material, até 84 meses."
+        }
+      ],
+      "case": {
+        "title": "Compra de material",
+        "detail": "40 000 € em 60 meses para um equipamento produtivo, com penhor sobre o bem financiado."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Crédito criação/aquisição",
+      "teaser": "Financie o arranque ou a aquisição de uma atividade.",
+      "heroSubtitle": "Financiar o arranque ou a aquisição de uma atividade, para além da entrada pessoal.",
+      "description": "O crédito criação/aquisição complementa os seus capitais próprios para iniciar ou comprar uma empresa. O processo assenta no projeto, nas previsões e nas garantias.",
+      "eligible": [
+        "Promotor de projeto com um plano de negócios quantificado",
+        "Entrada pessoal ou cofinanciamento",
+        "Aquisição de uma atividade com contas exploráveis"
+      ],
+      "notEligible": [
+        "Projeto sem entrada, garantia nem previsões",
+        "Setor sem qualquer visibilidade de rendimentos"
+      ],
+      "documents": [
+        "Plano de negócios e previsões",
+        "Documento de identificação",
+        "Comprovativo de entrada",
+        "Contrato-promessa de aquisição, se aplicável"
+      ],
+      "faq": [
+        {
+          "q": "É preciso uma entrada?",
+          "a": "Uma entrada, mesmo modesta, é determinante; pode ser complementada por apoios à criação."
+        },
+        {
+          "q": "Financiam uma aquisição?",
+          "a": "Sim, com base nas contas da empresa-alvo e no seu plano de aquisição."
+        },
+        {
+          "q": "É pedida uma garantia?",
+          "a": "Frequentemente, sob a forma de fiança do gerente ou de garantia de um organismo dedicado."
+        }
+      ],
+      "case": {
+        "title": "Aquisição de um negócio",
+        "detail": "60 000 € em 60 meses como complemento de uma entrada, apoiados nas previsões da aquisição."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Imobiliário empresarial",
+      "teaser": "Financie espaços comerciais ou profissionais.",
+      "heroSubtitle": "Financiar espaços comerciais ou instalações profissionais.",
+      "description": "O crédito imobiliário empresarial financia a compra de instalações de atividade. O bem constitui a garantia, o que abre o financiamento a estruturas variadas.",
+      "eligible": [
+        "Empresa que compra as suas instalações ou um espaço de exploração",
+        "Bem profissional que serve de garantia",
+        "Contas que demonstram a capacidade de reembolso"
+      ],
+      "notEligible": [
+        "Espaço sem uma utilização profissional real",
+        "Endividamento da estrutura já crítico"
+      ],
+      "documents": [
+        "Certidão permanente",
+        "Contrato-promessa das instalações",
+        "Últimos dois balanços",
+        "Extratos da conta profissional"
+      ],
+      "faq": [
+        {
+          "q": "Sociedade imobiliária ou sociedade de exploração?",
+          "a": "Ambas as estruturas são analisadas; um consultor orienta-o consoante a sua situação."
+        },
+        {
+          "q": "Qual o prazo?",
+          "a": "Até 240 meses, consoante o bem e a estrutura."
+        },
+        {
+          "q": "Taxa fixa ou variável?",
+          "a": "Ambas existem; a tabela acima dá referências indicativas."
+        }
+      ],
+      "case": {
+        "title": "Compra das instalações",
+        "detail": "300 000 € em 180 meses para adquirir um espaço, garantidos pelo próprio bem."
+      }
+    }
   }
 }

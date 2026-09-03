@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Wyspecjalizowana instytucja kredytowa"
   },
   "skipToContent": "Przejdź do treści",
@@ -73,7 +73,7 @@
       "action": "Zapisz się"
     },
     "rights": "© {year} {brand}. Wszelkie prawa zastrzeżone.",
-    "publisher": "Spark Finance Polska S.A. o kapitale 5 000 000 zł — KRS 0001234567 — ul. Marszałkowska 100, 00-026 Warszawa"
+    "publisher": "OrentaLoan Polska S.A. o kapitale 5 000 000 zł — KRS 0001234567 — ul. Marszałkowska 100, 00-026 Warszawa"
   },
   "whatsapp": {
     "aria": "Rozpocznij czat na WhatsApp",

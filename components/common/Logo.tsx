@@ -2,7 +2,7 @@ import { useTranslations } from 'next-intl';
 import { cn } from '@/lib/utils';
 
 /**
- * Logo « Spark loan » : marque dessinée (éclair « spark » sur pastille violette + point
+ * Logo « OrentaLoan » : marque dessinée (éclair sur pastille violette + point
  * d'accent) + mot-plein en titrage. Couleurs de marque figées (asset), hex admis ici.
  */
 export function Logo({ className }: { className?: string }) {

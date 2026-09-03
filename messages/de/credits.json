@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "Unsere Finanzierung — Spark loan",
+    "title": "Unsere Finanzierung — OrentaLoan",
     "description": "14 Finanzierungsarten, geprüft auf Ihre tatsächliche Lage. Besicherte Kredite bleiben nach einer Bankablehnung erreichbar."
   },
   "index": {
@@ -40,19 +40,551 @@
     }
   },
   "products": {
-    "rachat-credit": { "name": "Umschuldung", "teaser": "Fassen Sie Ihre Kredite zu einer Rate zusammen, bei Bedarf durch Ihre Immobilie besichert." },
-    "pret-travaux": { "name": "Modernisierungskredit", "teaser": "Finanzieren Sie eine Renovierung, auch energetische Maßnahmen." },
-    "pret-tresorerie": { "name": "Liquiditätskredit", "teaser": "Überbrücken Sie einen Liquiditätsengpass, ohne Ihre Mittel zu binden." },
-    "loa": { "name": "Leasing", "teaser": "Nutzen Sie ein Fahrzeug oder Gerät, ohne es sofort zu kaufen." },
-    "affacturage": { "name": "Factoring", "teaser": "Wandeln Sie Ihre Kundenrechnungen sofort in Liquidität um." },
-    "pret-relais": { "name": "Zwischenfinanzierung", "teaser": "Kaufen, bevor Sie verkauft haben — für die Übergangszeit." },
-    "pret-immobilier": { "name": "Immobilienkredit", "teaser": "Finanzieren Sie einen Immobilienkauf, geprüft auf Ihre tatsächliche Lage." },
-    "credit-consommation": { "name": "Konsumkredit", "teaser": "Finanzieren Sie ein privates Vorhaben, Ausstattung oder Unerwartetes." },
-    "pret-auto": { "name": "Autokredit", "teaser": "Kaufen Sie ein neues oder gebrauchtes Fahrzeug mit klarer Rate." },
-    "credit-renouvelable": { "name": "Rahmenkredit", "teaser": "Eine flexible Geldreserve, mit Maß zu nutzen." },
-    "pret-etudiant": { "name": "Studienkredit", "teaser": "Finanzieren Sie Studium und Lebenshaltungskosten." },
-    "financement-equipement": { "name": "Ausrüstungsfinanzierung", "teaser": "Finanzieren Sie Maschinen, Material oder Firmenfahrzeuge." },
-    "pret-creation-reprise": { "name": "Gründungs-/Übernahmekredit", "teaser": "Finanzieren Sie Start oder Übernahme einer Tätigkeit." },
-    "immobilier-professionnel": { "name": "Gewerbeimmobilienkredit", "teaser": "Finanzieren Sie Geschäftsräume oder gewerbliche Objekte." }
+    "rachat-credit": {
+      "name": "Umschuldung",
+      "teaser": "Fassen Sie Ihre Kredite zu einer Rate zusammen, bei Bedarf durch Ihre Immobilie besichert.",
+      "heroSubtitle": "Ihre Kredite zu einer einzigen Rate zusammenfassen, bei Bedarf durch Ihre Immobilie besichert.",
+      "description": "Die Umschuldung fasst Ihre laufenden Kredite zu einem einzigen zusammen, mit reduzierter Rate und neu gestreckter Laufzeit. Durch einen Vermögenswert besichert, bleibt sie selbst nach einem Zahlungsvorfall prüfbar.",
+      "eligible": [
+        "Eigentümer, der mehrere Kredite zusammenfassen möchte",
+        "Angespanntes Budget mit einem Objekt als Sicherheit",
+        "Vielfältige berufliche Lage, Selbstständige eingeschlossen"
+      ],
+      "notEligible": [
+        "Mieter ohne Bürgen und mit bereits sehr hoher Schuldenquote",
+        "Kein bestehender Kredit zum Zusammenfassen"
+      ],
+      "documents": [
+        "Gültiges Ausweisdokument",
+        "Tilgungspläne der zusammenzufassenden Kredite",
+        "Letzte drei Kontoauszüge",
+        "Eigentumsnachweis oder Grundsteuerbescheid"
+      ],
+      "faq": [
+        {
+          "q": "Löscht die Umschuldung einen Negativeintrag bei der Auskunftei?",
+          "a": "Nein. Sie kann die dem Vorfall zugrunde liegenden Kredite ablösen, was zu einer Löschung führen kann, doch keine Löschung erfolgt automatisch oder ist garantiert."
+        },
+        {
+          "q": "Wie weit lässt sich die Laufzeit strecken?",
+          "a": "Bis zu 420 Monate für eine durch eine Immobilie besicherte Umschuldung, im Rahmen Ihrer Rückzahlungsfähigkeit."
+        },
+        {
+          "q": "Kann ich zusätzliche Liquidität aufnehmen?",
+          "a": "Ja, ein zusätzlicher Betrag lässt sich integrieren, wenn Sicherheit und Einkommen dies zulassen."
+        }
+      ],
+      "case": {
+        "title": "Zusammenfassung dreier Kredite",
+        "detail": "80.000 € über 180 Monate zusammengefasst: Eine einzige Rate ersetzt drei Fälligkeiten, zu neu gestreckten und im Voraus bekannten Kosten."
+      }
+    },
+    "pret-travaux": {
+      "name": "Modernisierungskredit",
+      "teaser": "Finanzieren Sie eine Renovierung, auch energetische Maßnahmen.",
+      "heroSubtitle": "Eine Renovierung finanzieren, auch energetische Maßnahmen.",
+      "description": "Der Modernisierungskredit finanziert die Verbesserung Ihrer Wohnung, von der Auffrischung bis zur energetischen Sanierung. Er kann öffentliche Förderungen ergänzen.",
+      "eligible": [
+        "Eigennutzender Eigentümer oder Vermieter",
+        "Energetisches Sanierungsvorhaben mit Förderanspruch",
+        "Regelmäßiges, auch bescheidenes Einkommen, mit Kostenvoranschlag belegt"
+      ],
+      "notEligible": [
+        "Arbeiten ohne Kostenvoranschlag oder Verwendungsnachweis",
+        "Bereits ausgeschöpfte Rückzahlungsfähigkeit"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Detaillierte Kostenvoranschläge der Arbeiten",
+        "Aktueller Wohnsitznachweis",
+        "Letzte zwei Steuerbescheide"
+      ],
+      "faq": [
+        {
+          "q": "Kann ich ihn mit einer öffentlichen Sanierungsförderung kombinieren?",
+          "a": "Ja. Der Modernisierungskredit ergänzt die Förderungen; die erhaltenen Beträge fließen nicht in den Kredit ein."
+        },
+        {
+          "q": "Werden die Mittel auf einmal ausgezahlt?",
+          "a": "Je nach Baustelle ist eine schrittweise Auszahlung gegen Vorlage der Rechnungen möglich."
+        },
+        {
+          "q": "Muss man Eigentümer sein?",
+          "a": "Meist ja, doch ein Mieter, der mit Zustimmung des Eigentümers Arbeiten durchführt, kann geprüft werden."
+        }
+      ],
+      "case": {
+        "title": "Energetische Sanierung",
+        "detail": "25.000 € über 84 Monate für Dämmung und Wärmepumpe, ergänzend zu den Förderungen."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Liquiditätskredit",
+      "teaser": "Überbrücken Sie einen Liquiditätsengpass, ohne Ihre Mittel zu binden.",
+      "heroSubtitle": "Einen Liquiditätsengpass für Ihre Tätigkeit überbrücken, ohne Ihre Vermögenswerte zu binden.",
+      "description": "Der Liquiditätskredit deckt einen Betriebsmittelbedarf: Zahlungsverzögerung, saisonale Last, vorübergehender Rückschlag. Geprüft auf die Realität Ihrer Tätigkeit.",
+      "eligible": [
+        "Kleinbetrieb, Selbstständiger oder Freiberufler mit etablierter Tätigkeit",
+        "Belegbarer punktueller Betriebsmittelbedarf",
+        "Geschäftskonto mit regelmäßigen Bewegungen"
+      ],
+      "notEligible": [
+        "Vor weniger als sechs Monaten gegründete Tätigkeit ohne Historie",
+        "Struktureller Langfristbedarf, für den ein anderes Produkt zuständig ist"
+      ],
+      "documents": [
+        "Handelsregisterauszug oder gleichwertig",
+        "Letzte zwei Jahresabschlüsse oder betriebswirtschaftliche Auswertung",
+        "Auszüge des Geschäftskontos",
+        "Ausweisdokument der Geschäftsführung"
+      ],
+      "faq": [
+        {
+          "q": "Braucht man drei Jahresabschlüsse?",
+          "a": "Nein. Eine aktuelle betriebswirtschaftliche Auswertung und regelmäßige Auszüge können für die Prüfung genügen."
+        },
+        {
+          "q": "Welche Auszahlungsfrist?",
+          "a": "Nach Zusage und Unterzeichnung des Angebots werden die Mittel innerhalb der gesetzlichen Fristen ausgezahlt."
+        },
+        {
+          "q": "Wird eine Sicherheit verlangt?",
+          "a": "Je nach Betrag kann eine Bürgschaft der Geschäftsführung oder eine Sicherheit verlangt werden."
+        }
+      ],
+      "case": {
+        "title": "Liquiditätsverzögerung",
+        "detail": "30.000 € über 48 Monate, um eine verzögerte Kundenzahlung aufzufangen, zurückgezahlt im Takt der Eingänge."
+      }
+    },
+    "loa": {
+      "name": "Leasing",
+      "teaser": "Nutzen Sie ein Fahrzeug oder Gerät, ohne es sofort zu kaufen.",
+      "heroSubtitle": "Ein Fahrzeug oder Gerät nutzen, ohne es zu kaufen, mit einer Kaufoption am Vertragsende.",
+      "description": "Beim Leasing mit Kaufoption zahlen Sie Raten für die Nutzung eines Objekts, mit der Möglichkeit, es zu seinem Restwert zu erwerben. Die Last wird gestreckt, das Objekt bleibt die Sicherheit.",
+      "eligible": [
+        "Privatperson oder Gewerbetreibender, der die Nutzung ohne sofortigen Kauf möchte",
+        "Regelmäßiges Einkommen, das die Rate deckt",
+        "Vorhaben zu einem klar bestimmbaren Fahrzeug oder Gerät"
+      ],
+      "notEligible": [
+        "Suche nach Barkapital (Leasing finanziert eine Nutzung)",
+        "Nicht versicherbares oder schwer weiterverkäufliches Objekt"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Einkommensnachweis",
+        "Bestellung oder Kostenvoranschlag des Objekts",
+        "Wohnsitznachweis"
+      ],
+      "faq": [
+        {
+          "q": "Bin ich Eigentümer des Objekts?",
+          "a": "Nicht während des Leasings. Sie werden es, wenn Sie die Kaufoption zum vorgesehenen Restwert ausüben."
+        },
+        {
+          "q": "Ist die Wartung enthalten?",
+          "a": "Je nach Vertrag; manche Pakete umfassen Wartung und Versicherung."
+        },
+        {
+          "q": "Kann ich das Objekt am Ende zurückgeben?",
+          "a": "Ja. Ohne Ausübung der Option geben Sie das Objekt im vertraglich vorgesehenen Zustand zurück."
+        }
+      ],
+      "case": {
+        "title": "Fahrzeug im Leasing",
+        "detail": "30.000 € Wert, 48 Raten und anschließend ein Restwert: Sie entscheiden zwischen Kauf und Rückgabe."
+      }
+    },
+    "affacturage": {
+      "name": "Factoring",
+      "teaser": "Wandeln Sie Ihre Kundenrechnungen sofort in Liquidität um.",
+      "heroSubtitle": "Ihre Kundenrechnungen sofort in verfügbare Liquidität umwandeln.",
+      "description": "Factoring ist kein Kredit: Sie treten Ihre offenen Rechnungen gegen einen sofortigen Vorschuss ab, gegen eine Provision. Ihre Liquidität folgt Ihrem Umsatz.",
+      "eligible": [
+        "Unternehmen, das an gewerbliche Kunden fakturiert",
+        "Wiederkehrender Forderungsbestand mit Zahlungszielen",
+        "Bedarf, die Liquidität zu glätten, ohne sich zu verschulden"
+      ],
+      "notEligible": [
+        "B2C-Tätigkeit ohne gewerbliche Rechnungen",
+        "Strittige oder bereits fällige Forderungen"
+      ],
+      "documents": [
+        "Handelsregisterauszug",
+        "Aktuelle Debitorenaufstellung",
+        "Beispiele für Rechnungen und Zahlungsbedingungen",
+        "Ausweisdokument der Geschäftsführung"
+      ],
+      "faq": [
+        {
+          "q": "Ist das ein Kredit?",
+          "a": "Nein. Es ist eine Abtretung von Forderungen gegen Vorschuss; sie erhöht Ihre Bankverschuldung nicht."
+        },
+        {
+          "q": "Wer mahnt meine Kunden?",
+          "a": "Je nach Paket können Mahnung und Einzug an den Factor delegiert werden."
+        },
+        {
+          "q": "Welche Kosten?",
+          "a": "Eine Factoring-Provision und eine Finanzierungsprovision, je nach Volumen und Fristen. Die Einzelheiten stehen im Vertrag."
+        }
+      ],
+      "case": {
+        "title": "Rechnungsvorschuss",
+        "detail": "Ein Forderungsbestand von 100.000 €, innerhalb weniger Tage finanziert, im Takt Ihrer Fakturierung."
+      }
+    },
+    "pret-relais": {
+      "name": "Zwischenfinanzierung",
+      "teaser": "Kaufen, bevor Sie verkauft haben — für die Übergangszeit.",
+      "heroSubtitle": "Ein neues Objekt kaufen, bevor das aktuelle verkauft ist — für die Übergangszeit.",
+      "description": "Die Zwischenfinanzierung finanziert einen Teil des Werts Ihres zum Verkauf stehenden Objekts vor. Das Kapital zahlen Sie beim Verkauf zurück; in der Zwischenzeit begleichen Sie meist nur die Zinsen.",
+      "eligible": [
+        "Eigentümer, der ein Objekt verkauft, um ein anderes zu kaufen",
+        "Zu einem realistischen Wert angebotenes Objekt",
+        "Fähigkeit, die Zinsen während der Überbrückungszeit zu tragen"
+      ],
+      "notEligible": [
+        "Schwer verkäufliches oder überbewertetes Objekt",
+        "Kein konkretes Kaufvorhaben gegenüber"
+      ],
+      "documents": [
+        "Wertermittlung oder Verkaufsauftrag des Objekts",
+        "Eigentumsnachweis",
+        "Kaufvorvertrag oder Kaufvorhaben",
+        "Ausweisdokument"
+      ],
+      "faq": [
+        {
+          "q": "Was passiert, wenn ich nicht rechtzeitig verkaufe?",
+          "a": "Die Zwischenfinanzierung hat eine begrenzte Laufzeit (12 bis 24 Monate). Eine Ausstiegslösung ist vorgesehen und wird von Anfang an besprochen."
+        },
+        {
+          "q": "Wie viel kann ich erhalten?",
+          "a": "In der Regel einen vorsichtigen Anteil des geschätzten Werts, um dem Markt Rechnung zu tragen."
+        },
+        {
+          "q": "Zahlt man das Kapital jeden Monat?",
+          "a": "Nein. Das Kapital wird beim Verkauf zurückgezahlt; Sie begleichen nur die Zinsen, je nach gewähltem Paket."
+        }
+      ],
+      "case": {
+        "title": "Kauf vor Verkauf",
+        "detail": "200.000 € über 12 Monate mit teilweiser Tilgungsaussetzung vorfinanziert: Sie zahlen bis zum Verkauf nur die Zinsen."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Immobilienkredit",
+      "teaser": "Finanzieren Sie einen Immobilienkauf, geprüft auf Ihre tatsächliche Lage.",
+      "heroSubtitle": "Einen Immobilienkauf finanzieren, geprüft auf Ihre tatsächliche Lage, nicht auf einen Score.",
+      "description": "Der Immobilienkredit finanziert den Kauf Ihres Wohnsitzes oder einer Kapitalanlage. Wir prüfen atypische Unterlagen: Selbstständige, befristete Verträge, andernorts abgewiesene Profile.",
+      "eligible": [
+        "Kaufvorhaben mit Eigenkapital oder Sicherheit",
+        "Regelmäßiges Einkommen, Nichtangestellte eingeschlossen",
+        "Atypisches Profil, aber ansonsten solide Unterlagen"
+      ],
+      "notEligible": [
+        "Verschuldung, die die aufsichtsrechtlichen Schwellen ohne Sicherheit deutlich überschreitet",
+        "Weder Eigenkapital noch ein beleihbares Objekt"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Kaufvorvertrag",
+        "Letzte drei Gehaltsabrechnungen oder Jahresabschlüsse",
+        "Aktuelle Kontoauszüge"
+      ],
+      "faq": [
+        {
+          "q": "Akzeptieren Sie Selbstständige ohne drei Jahresabschlüsse?",
+          "a": "Ja, unter Bedingungen: eine etablierte Tätigkeit und regelmäßige Auszüge können dies ausgleichen."
+        },
+        {
+          "q": "Ist Eigenkapital Pflicht?",
+          "a": "Nicht grundsätzlich, doch es stärkt die Unterlagen und den Zins deutlich."
+        },
+        {
+          "q": "Ist der Zins fest?",
+          "a": "Fest oder variabel je nach Laufzeit; die Tabelle oben gibt Richtwerte."
+        }
+      ],
+      "case": {
+        "title": "Kauf des Wohnsitzes",
+        "detail": "200.000 € über 240 Monate: eine im Voraus bekannte, auf den Cent berechnete Rate."
+      }
+    },
+    "credit-consommation": {
+      "name": "Konsumkredit",
+      "teaser": "Finanzieren Sie ein privates Vorhaben, Ausstattung oder Unerwartetes.",
+      "heroSubtitle": "Ein privates Vorhaben, Ausstattung oder Unerwartetes finanzieren.",
+      "description": "Der Konsumkredit finanziert einen bestimmten Bedarf, ohne ein Objekt zu beleihen. Maßvolle Beträge und Laufzeiten, Prüfung auf Ihr tatsächliches Budget.",
+      "eligible": [
+        "Regelmäßiges Einkommen, das die Rate deckt",
+        "Bestimmbares privates Vorhaben",
+        "Beherrschte Schuldenquote"
+      ],
+      "notEligible": [
+        "Bereits durch andere Kredite angespanntes Budget",
+        "Liquidität ohne klare Rückzahlungsfähigkeit angefragt"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Wohnsitznachweis",
+        "Letzte zwei Gehaltsabrechnungen",
+        "Letzter Steuerbescheid"
+      ],
+      "faq": [
+        {
+          "q": "In welcher Frist kommt die Antwort?",
+          "a": "Ihnen wird eine klare Prüffrist genannt, und wir halten sie ein."
+        },
+        {
+          "q": "Kann ich vorzeitig zurückzahlen?",
+          "a": "Ja, jederzeit, zu den im Vertrag vorgesehenen gesetzlichen Bedingungen."
+        },
+        {
+          "q": "Wird ein Verwendungsnachweis verlangt?",
+          "a": "Je nach Betrag und Kreditart; wir teilen es Ihnen bei der Prüfung mit."
+        }
+      ],
+      "case": {
+        "title": "Privates Vorhaben",
+        "detail": "15.000 € über 48 Monate: Rate, Gesamtkosten und effektiver Jahreszins vor jeder Unterschrift ausgewiesen."
+      }
+    },
+    "pret-auto": {
+      "name": "Autokredit",
+      "teaser": "Kaufen Sie ein neues oder gebrauchtes Fahrzeug mit klarer Rate.",
+      "heroSubtitle": "Ein neues oder gebrauchtes Fahrzeug mit klarer Rate kaufen.",
+      "description": "Der Autokredit finanziert den Kauf eines Fahrzeugs. Das Objekt kann als Sicherheit dienen, was die Finanzierung für vielfältige Profile öffnet.",
+      "eligible": [
+        "Kauf eines bestimmbaren neuen oder gebrauchten Fahrzeugs",
+        "Regelmäßiges Einkommen",
+        "Dank der Fahrzeugsicherheit akzeptiertes Profil"
+      ],
+      "notEligible": [
+        "Fahrzeug ohne Rechnung oder verwertbare Zulassung",
+        "Trotz Sicherheit unzureichende Rückzahlungsfähigkeit"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Bestellung oder Abtretungsbescheinigung",
+        "Einkommensnachweis",
+        "Wohnsitznachweis"
+      ],
+      "faq": [
+        {
+          "q": "Werden Neu- und Gebrauchtwagen finanziert?",
+          "a": "Ja, mit an das Fahrzeugalter angepassten Laufzeiten."
+        },
+        {
+          "q": "Wird das Fahrzeug verpfändet?",
+          "a": "Je nach Paket kann ein Pfand als Sicherheit bestellt werden."
+        },
+        {
+          "q": "Kann ich die Versicherung mitfinanzieren?",
+          "a": "Die Restschuldversicherung ist freiwillig und kann in die Rate integriert werden."
+        }
+      ],
+      "case": {
+        "title": "Gebrauchtwagen",
+        "detail": "20.000 € über 60 Monate, durch das finanzierte Fahrzeug besichert."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Rahmenkredit",
+      "teaser": "Eine flexible Geldreserve, mit Maß zu nutzen.",
+      "heroSubtitle": "Eine flexible Geldreserve, mit Maß zu nutzen.",
+      "description": "Der Rahmenkredit stellt eine Reserve bereit, die Sie frei nutzen und mit der Tilgung wieder auffüllen. Flexibel, aber teuer: kleinen, punktuellen Bedarfen vorbehalten.",
+      "eligible": [
+        "Punktueller Bedarf mit geringem Betrag",
+        "Fähigkeit, schnell zu tilgen, um die Kosten zu begrenzen",
+        "Regelmäßiges Einkommen"
+      ],
+      "notEligible": [
+        "Langfristiges Vorhaben, bei dem ein Tilgungskredit deutlich günstiger ist",
+        "Schwierigkeit, monatlich mehr als die Zinsen zu tilgen"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Wohnsitznachweis",
+        "Einkommensnachweis",
+        "Aktueller Kontoauszug"
+      ],
+      "faq": [
+        {
+          "q": "Warum ist der Zins hoch?",
+          "a": "Die Flexibilität hat ihren Preis. Je schneller Sie tilgen, desto weniger Zinsen zahlen Sie."
+        },
+        {
+          "q": "Muss ich die Reserve nutzen?",
+          "a": "Nein. Zinsen fallen nur auf den tatsächlich genutzten Betrag an."
+        },
+        {
+          "q": "Eignet er sich für eine große Anschaffung?",
+          "a": "Selten. Für ein Vorhaben ist ein Tilgungskredit fast immer günstiger."
+        }
+      ],
+      "case": {
+        "title": "Kleiner punktueller Bedarf",
+        "detail": "3.000 € genutzt und dann über 24 Monate zurückgezahlt: Die Kosten hängen direkt von Ihrem Tilgungstempo ab."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Studienkredit",
+      "teaser": "Finanzieren Sie Studium und Lebenshaltungskosten.",
+      "heroSubtitle": "Studium und Lebenshaltungskosten finanzieren, mit angepasster Rückzahlung.",
+      "description": "Der Studienkredit finanziert Studiengebühren und Lebenshaltung, oft mit einer Rückzahlungsaussetzung während des Studiums. Ein Bürge stärkt die Unterlagen.",
+      "eligible": [
+        "An einer anerkannten Einrichtung eingeschriebener Studierender",
+        "Vorhandensein eines Bürgen oder einer Sicherheit",
+        "Zum Betrag stimmiges Studienvorhaben"
+      ],
+      "notEligible": [
+        "Kein Bürge und keine glaubhaften künftigen Einkünfte",
+        "Betrag ohne Bezug zum Studiengang"
+      ],
+      "documents": [
+        "Ausweisdokument",
+        "Immatrikulationsbescheinigung oder Einschreibnachweis",
+        "Nachweise des Bürgen",
+        "Wohnsitznachweis"
+      ],
+      "faq": [
+        {
+          "q": "Kann ich die Rückzahlung aufschieben?",
+          "a": "Ja, eine teilweise oder vollständige Aussetzung während des Studiums ist üblich; die Zinsen laufen je nach Paket."
+        },
+        {
+          "q": "Braucht man einen Bürgen?",
+          "a": "Meist ist er nötig und verbessert die Konditionen deutlich."
+        },
+        {
+          "q": "Ist der Zins günstig?",
+          "a": "Studienzinsen gehören zu den niedrigsten; siehe die Richtwerttabelle oben."
+        }
+      ],
+      "case": {
+        "title": "Finanzierung eines Studiengangs",
+        "detail": "15.000 € über 60 Monate mit Aussetzung während des Studiums, zurückgezahlt beim Einstieg ins Berufsleben."
+      }
+    },
+    "financement-equipement": {
+      "name": "Ausrüstungsfinanzierung",
+      "teaser": "Finanzieren Sie Maschinen, Material oder Firmenfahrzeuge.",
+      "heroSubtitle": "Maschinen, Material oder Firmenfahrzeuge finanzieren, ohne Ihre Liquidität zu belasten.",
+      "description": "Die Ausrüstungsfinanzierung finanziert einen produktiven Vermögenswert, der oft als Sicherheit dient. Sie schont Ihre Liquidität für den laufenden Betrieb.",
+      "eligible": [
+        "Unternehmen, das in ein bestimmbares Material investiert",
+        "Weiterverkäuflicher Vermögenswert als Sicherheit",
+        "Tätigkeit mit regelmäßigen Abschlüssen"
+      ],
+      "notEligible": [
+        "Veraltetes oder schwer verkäufliches Material",
+        "Unternehmen ohne nachweisbare Rückzahlungsfähigkeit"
+      ],
+      "documents": [
+        "Handelsregisterauszug",
+        "Kostenvoranschlag oder Proforma-Rechnung des Materials",
+        "Letzte zwei Jahresabschlüsse",
+        "Auszüge des Geschäftskontos"
+      ],
+      "faq": [
+        {
+          "q": "Dient das Material als Sicherheit?",
+          "a": "Oft ja, was die Zusage selbst für ein junges Unternehmen erleichtert."
+        },
+        {
+          "q": "Kredit oder Leasing?",
+          "a": "Beides ist möglich; ein Berater vergleicht je nach Ihrer Steuersituation und Ihren Bedürfnissen."
+        },
+        {
+          "q": "Welche Laufzeit?",
+          "a": "An die Nutzungsdauer des Materials angelehnt, bis zu 84 Monate."
+        }
+      ],
+      "case": {
+        "title": "Kauf von Material",
+        "detail": "40.000 € über 60 Monate für eine produktive Ausrüstung, verpfändet auf das finanzierte Objekt."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Gründungs-/Übernahmekredit",
+      "teaser": "Finanzieren Sie Start oder Übernahme einer Tätigkeit.",
+      "heroSubtitle": "Start oder Übernahme einer Tätigkeit über das Eigenkapital hinaus finanzieren.",
+      "description": "Der Gründungs-/Übernahmekredit ergänzt Ihr Eigenkapital, um ein Unternehmen zu starten oder zu übernehmen. Die Unterlagen stützen sich auf Vorhaben, Planung und Sicherheiten.",
+      "eligible": [
+        "Projektträger mit beziffertem Businessplan",
+        "Eigenkapital oder Kofinanzierung",
+        "Übernahme einer Tätigkeit mit verwertbaren Abschlüssen"
+      ],
+      "notEligible": [
+        "Vorhaben ohne Eigenkapital, Sicherheit oder Planung",
+        "Branche ohne jede Ertragssicht"
+      ],
+      "documents": [
+        "Businessplan und Planungsrechnung",
+        "Ausweisdokument",
+        "Nachweis des Eigenkapitals",
+        "Übernahmevorvertrag, falls zutreffend"
+      ],
+      "faq": [
+        {
+          "q": "Braucht man Eigenkapital?",
+          "a": "Eigenkapital, auch bescheiden, ist entscheidend; es kann durch Gründungsförderungen ergänzt werden."
+        },
+        {
+          "q": "Finanzieren Sie eine Übernahme?",
+          "a": "Ja, auf Basis der Abschlüsse des Zielunternehmens und Ihres Übernahmeplans."
+        },
+        {
+          "q": "Wird eine Sicherheit verlangt?",
+          "a": "Häufig, in Form einer Bürgschaft der Geschäftsführung oder einer Sicherheit einer spezialisierten Stelle."
+        }
+      ],
+      "case": {
+        "title": "Geschäftsübernahme",
+        "detail": "60.000 € über 60 Monate ergänzend zu einem Eigenkapital, gestützt auf die Übernahmeplanung."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Gewerbeimmobilienkredit",
+      "teaser": "Finanzieren Sie Geschäftsräume oder gewerbliche Objekte.",
+      "heroSubtitle": "Geschäftsräume oder gewerbliche Objekte finanzieren.",
+      "description": "Der Gewerbeimmobilienkredit finanziert den Kauf von Betriebsräumen. Das Objekt bildet die Sicherheit, was die Finanzierung für vielfältige Strukturen öffnet.",
+      "eligible": [
+        "Unternehmen, das seine Räume oder ein Betriebsobjekt kauft",
+        "Gewerbliches Objekt als Sicherheit",
+        "Abschlüsse, die die Rückzahlungsfähigkeit belegen"
+      ],
+      "notEligible": [
+        "Objekt ohne tatsächliche gewerbliche Nutzung",
+        "Bereits kritische Verschuldung der Struktur"
+      ],
+      "documents": [
+        "Handelsregisterauszug",
+        "Kaufvorvertrag der Räume",
+        "Letzte zwei Jahresabschlüsse",
+        "Auszüge des Geschäftskontos"
+      ],
+      "faq": [
+        {
+          "q": "Besitzgesellschaft oder Betriebsgesellschaft?",
+          "a": "Beide Strukturen werden geprüft; ein Berater orientiert Sie je nach Ihrer Lage."
+        },
+        {
+          "q": "Welche Laufzeit?",
+          "a": "Bis zu 240 Monate, je nach Objekt und Struktur."
+        },
+        {
+          "q": "Fester oder variabler Zins?",
+          "a": "Beides gibt es; die Tabelle oben gibt Richtwerte."
+        }
+      ],
+      "case": {
+        "title": "Kauf der Räume",
+        "detail": "300.000 € über 180 Monate für den Erwerb eines Objekts, durch das Objekt selbst besichert."
+      }
+    }
   }
 }

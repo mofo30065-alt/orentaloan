@@ -25,7 +25,7 @@ function isRateLimited(ip: string): boolean {
 const isEmail = (value: unknown): value is string =>
   typeof value === 'string' && /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(value);
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://spark-loan.example';
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://orentaloan.example';
 
 export async function POST(request: Request): Promise<NextResponse> {
   const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ?? 'local';

@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Spark loan",
+    "name": "OrentaLoan",
     "tagline": "Entidad de crédito especializada"
   },
   "skipToContent": "Ir al contenido",
@@ -70,14 +70,58 @@
       "title": "Recibe nuestras claves",
       "help": "Criterios concretos sobre el crédito, sin venta agresiva.",
       "placeholder": "Tu correo electrónico",
-      "action": "Suscribirme"
+      "action": "Suscribirme",
+      "success": "Revisa tu bandeja: te hemos enviado un correo de confirmación.",
+      "error": "La suscripción ha fallado. Comprueba tu dirección y vuelve a intentarlo.",
+      "confirmTitle": "Suscripción confirmada",
+      "confirmBody": "Gracias, tu suscripción a nuestras claves está confirmada. Puedes darte de baja en cualquier momento.",
+      "confirmError": "Este enlace de confirmación no es válido o ha caducado."
     },
     "rights": "© {year} {brand}. Todos los derechos reservados.",
-    "publisher": "Spark Finance España S.A. con capital de 3.000.000 € — CIF A-87654321 — Calle de Alcalá 45, 28014 Madrid"
+    "publisher": "OrentaLoan España S.A. con capital de 3.000.000 € — CIF A-87654321 — Calle de Alcalá 45, 28014 Madrid"
   },
   "whatsapp": {
     "aria": "Iniciar un chat de WhatsApp",
     "cta": "Chatear por WhatsApp",
     "prefill": "Hola, tengo una pregunta sobre su oferta de financiación."
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Quiénes somos — OrentaLoan",
+        "description": "Entidad de crédito especializada que presta con fondos propios y estudia los expedientes descartados en otros sitios, sobre la situación real."
+      },
+      "title": "Quiénes somos",
+      "intro": "Somos una entidad de crédito especializada. Prestamos con fondos propios y estudiamos los expedientes que los bancos tradicionales descartan, sobre la situación real y no sobre una puntuación.",
+      "sections": [
+        {
+          "heading": "Nuestro oficio",
+          "body": "Decidir sobre elementos concretos —ingresos, garantías, historial— y no sobre un algoritmo. Transformamos un expediente rechazado en otros sitios en un expediente cualificado y realista, o lo decimos honestamente cuando no es posible."
+        },
+        {
+          "heading": "Nuestro público",
+          "body": "Personas en ficheros de morosidad, autónomos sin tres balances, contratos temporales, sénior, tesorerías de empresa ajustadas: perfiles a menudo descartados, que nos tomamos el tiempo de estudiar."
+        },
+        {
+          "heading": "Nuestro método",
+          "body": "Un prediagnóstico honesto, un estudio realizado por un interlocutor que te explica cada criterio, una decisión motivada. Cada cifra se indica antes de cualquier firma."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Nuestros compromisos — OrentaLoan",
+        "description": "Transparencia, honestidad y decisión sobre la situación real: los compromisos que mantenemos."
+      },
+      "title": "Nuestros compromisos",
+      "intro": "En este mercado, la transparencia es nuestro primer argumento. Esto es a lo que nos atenemos, sin excepción.",
+      "items": [
+        "Ninguna promesa de concesión: nunca garantizamos una aprobación.",
+        "Una decisión sobre tu situación real, no sobre una puntuación automática.",
+        "Un plazo de respuesta anunciado y cumplido, sin urgencia artificial.",
+        "Cifras siempre indicativas y una TAE mostrada antes de cualquier firma.",
+        "Tus datos de situación tratados con un cuidado estricto, y nunca vendidos."
+      ]
+    }
   }
 }

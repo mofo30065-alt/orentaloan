@@ -1,10 +1,15 @@
 import type { Article } from './types';
 import { fr } from './fr';
 import { en } from './en';
+import { it } from './it';
+import { es } from './es';
+import { de } from './de';
+import { nl } from './nl';
+import { pt } from './pt';
 
 export type { Article, ArticleSection } from './types';
 
-const byLocale: Record<string, Article[]> = { fr, en };
+const byLocale: Record<string, Article[]> = { fr, en, it, es, de, nl, pt };
 
 export function getArticles(locale: string): Article[] {
   const list = byLocale[locale] ?? fr;
