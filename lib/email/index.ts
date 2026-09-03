@@ -1,5 +1,6 @@
 import { Resend } from 'resend';
 import type { RequestFormValues } from '@/lib/validation/requestSchema';
+import { siteUrl } from '@/lib/siteUrl';
 import { emailConfig, hasResend } from './config';
 import {
   applicantAck,
@@ -13,8 +14,6 @@ import {
   type EmailContent,
   type SimParams,
 } from './templates';
-
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://orentaloan.example';
 
 /**
  * Envoi transactionnel via Resend. Sans clé configurée, on journalise et on ignore

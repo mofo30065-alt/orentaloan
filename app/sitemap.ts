@@ -2,8 +2,7 @@ import type { MetadataRoute } from 'next';
 import { routing } from '@/lib/i18n/routing';
 import { creditSlugs } from '@/data/credits';
 import { getAllSlugs } from '@/data/blog';
-
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://orentaloan.example';
+import { siteUrl } from '@/lib/siteUrl';
 
 const staticPaths = [
   '',

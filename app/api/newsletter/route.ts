@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { signEmail } from '@/lib/newsletter';
 import { sendNewsletterConfirm } from '@/lib/email';
+import { siteUrl } from '@/lib/siteUrl';
 
 /**
  * Inscription newsletter (double opt-in) : valide l'adresse, anti-spam (honeypot + rate
@@ -24,8 +25,6 @@ function isRateLimited(ip: string): boolean {
 
 const isEmail = (value: unknown): value is string =>
   typeof value === 'string' && /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(value);
-
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? 'https://orentaloan.example';
 
 export async function POST(request: Request): Promise<NextResponse> {
   const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() ?? 'local';
