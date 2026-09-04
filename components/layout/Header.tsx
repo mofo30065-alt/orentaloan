@@ -4,7 +4,6 @@ import { mainNav } from '@/data/navigation';
 import { buttonVariants } from '@/components/ui/Button';
 import { Container } from '@/components/common/Container';
 import { Logo } from '@/components/common/Logo';
-import { LocaleSwitcher } from '@/components/layout/LocaleSwitcher';
 import { IconPhone } from '@/components/common/icons';
 import { cn } from '@/lib/utils';
 
@@ -39,7 +38,6 @@ export function Header() {
               <IconPhone className="h-4 w-4 text-brand" />
               <span>{t('phone.display')}</span>
             </a>
-            <LocaleSwitcher />
             <Link
               href="/demande"
               className={cn(buttonVariants({ variant: 'accent', size: 'sm' }), 'hidden sm:inline-flex')}

@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "title": "Naše financovanie — OrentaPôžička",
+    "description": "14 financovania preštudovaných na vašej skutočnej situácii. Úvery kryté zárukou alebo aktívom zostávajú dostupné aj po odmietnutí banky."
+  },
+  "index": {
+    "eyebrow": "Naše financovanie",
+    "title": "Financovanie pre každú situáciu",
+    "intro": "Zdôrazňujeme kredity kryté zárukou alebo aktívom: zostávajú dostupné, keď je skóre zablokované. Nasleduje klasické financovanie.",
+    "featuredTitle": "Uprednostniť po odmietnutí",
+    "classicTitle": "Klasické financovanie"
+  },
+  "common": {
+    "amounts": "čiastky",
+    "duration": "Trvanie",
+    "range": "od {min} do {max}",
+    "monthsRange": "od {min} do {max} mesiacov",
+    "rateTableTitle": "Orientačné sadzby podľa trvania",
+    "rateDuration": "Trvanie",
+    "rateFixed": "Pevná sadzba",
+    "rateVariable": "Variabilná sadzba",
+    "rateNote": "Orientačné sadzby, nezmluvné, podliehajú zmenám a podliehajú preštudovaniu vášho súboru.",
+    "eligibilityTitle": "Požiadavky na spôsobilosť",
+    "eligibleTitle": "Prístupné, ak…",
+    "notEligibleTitle": "Nevhodné, ak…",
+    "documentsTitle": "Dokumenty na poskytnutie",
+    "faqTitle": "Často kladené otázky",
+    "casesTitle": "Konkrétny prípad",
+    "simulatorTitle": "Odhadnite toto financovanie",
+    "representativeTitle": "Reprezentatívny príklad",
+    "ctaSimulate": "Simulujte toto financovanie",
+    "ctaDiagnostic": "Skontrolujte moju spôsobilosť",
+    "ctaRequest": "Urobte žiadosť",
+    "ctaFinalTitle": "Študujeme váš súbor, nie vaše skóre.",
+    "models": {
+      "revolving": "Revolvingový úver sa neamortizuje ako klasický úver: jeho cena závisí od vášho použitia a rýchlosti splácania. Používajte všeobecný simulátor opatrne alebo sa porozprávajte s poradcom.",
+      "leasing": "V LOA platíte nájomné a potom voliteľne zostatkovú hodnotu. Výpočet závisí od nehnuteľnosti a jej protihodnoty; poradca stanoví presné nájomné.",
+      "bridge": "Preklenovací úver je v konečnom dôsledku splatený pri predaji vašej nehnuteľnosti. Jeho cena závisí od skutočného trvania do predaja a sumy zálohy.",
+      "factoring": "Faktoring nie je pôžička: priraďujete faktúry za zálohu, za províziu. Cena závisí od vášho objemu a vašich platobných podmienok."
+    }
+  },
+  "products": {
+    "rachat-credit": {
+      "name": "Splatenie kreditu",
+      "teaser": "Konsolidujte svoje kredity do jedinej mesačnej platby, v prípade potreby zabezpečenej vaším majetkom.",
+      "heroSubtitle": "Konsolidujte svoje kredity do jedinej mesačnej platby, ktorú v prípade potreby zabezpečí vaše vlastníctvo.",
+      "description": "Úverové refinancovanie spája vaše súčasné úvery do jedného so zníženou mesačnou splátkou a predĺženou dobou trvania. Je zabezpečený aktívom a zostáva študovať aj po platobnom incidente.",
+      "eligible": [
+        "Vlastník, ktorý chce konsolidovať niekoľko kreditov",
+        "Napätý rozpočet s majetkom, ktorý sa má mobilizovať ako záruka",
+        "Rôzna profesionálna situácia, vrátane nezávislosti"
+      ],
+      "notEligible": [
+        "Nájomca bez ručiteľa a už aj tak veľmi vysoká zadlženosť",
+        "Žiadny existujúci úver na konsolidáciu"
+      ],
+      "documents": [
+        "Platné ID",
+        "Amortizačné tabuľky pre kredity, ktoré sa majú zoskupiť",
+        "Posledné tri výpisy z účtu",
+        "Doklad o vlastníctve alebo daň z nehnuteľnosti"
+      ],
+      "faq": [
+        {
+          "q": "Vymaže spätné odkúpenie registráciu FICP?",
+          "a": "Nie. Môže uzavrieť kredity pri vzniku incidentu, čo môže viesť k zrieknutiu sa práva, ale žiadne odpísanie nie je automatické ani zaručené."
+        },
+        {
+          "q": "Ako ďaleko je možné predĺžiť trvanie?",
+          "a": "Až 420 mesiacov na odkúpenie kryté nehnuteľnosťou v rámci limitu vašej schopnosti splácať."
+        },
+        {
+          "q": "Môžem pridať hotovosť?",
+          "a": "Áno, môže byť zahrnutá aj ďalšia obálka, ak to vaša záruka a váš príjem dovoľujú."
+        }
+      ],
+      "case": {
+        "title": "Zoskupenie troch kreditov",
+        "detail": "80 000 EUR zoskupených na 180 mesiacov: jedna mesačná platba nahrádza tri splátky za vopred rozložené a vopred známe náklady."
+      }
+    },
+    "pret-travaux": {
+      "name": "Pracovná pôžička",
+      "teaser": "Financovanie rekonštrukcie vrátane energetických prác.",
+      "heroSubtitle": "Financovanie rekonštrukcie vrátane úspor energie.",
+      "description": "Úver na práce financuje zlepšenie vášho domova, od osvieženia až po energetickú renováciu. Môže dopĺňať verejnú pomoc.",
+      "eligible": [
+        "Vlastník-užívateľ alebo prenajímateľ",
+        "Projekt energetickej obnovy oprávnený na pomoc",
+        "Pravidelný príjem, aj keď skromný, s podpornou ponukou"
+      ],
+      "notEligible": [
+        "Práca bez odhadu alebo dokladu o používaní",
+        "Kapacita preplácania je už nasýtená"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Podrobné cenové ponuky na prácu",
+        "Nedávny doklad o adrese",
+        "Posledné dva daňové výmery"
+      ],
+      "faq": [
+        {
+          "q": "Môžem sa spojiť s verejnou pomocou na renováciu?",
+          "a": "áno. Pracovná pôžička dopĺňa pomôcku; prijaté sumy nevstupujú do zápočtu."
+        },
+        {
+          "q": "Vyplácajú sa prostriedky naraz?",
+          "a": "V závislosti od lokality je možné postupné uvoľňovanie po predložení faktúr."
+        },
+        {
+          "q": "Musíte byť vlastníkom?",
+          "a": "Väčšinou áno, ale dá sa naštudovať nájomca vykonávajúci práce so súhlasom vlastníka."
+        }
+      ],
+      "case": {
+        "title": "Energetická obnova",
+        "detail": "25 000 € počas 84 mesiacov na zateplenie a tepelné čerpadlo okrem pomoci."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Pôžička v hotovosti",
+      "teaser": "Dosiahnite míľnik v peňažnom toku pre svoje podnikanie bez viazania finančných prostriedkov.",
+      "heroSubtitle": "Dosiahnite míľnik peňažných tokov pre svoje podnikanie bez imobilizácie svojich aktív.",
+      "description": "Hotovostná pôžička pokrýva požiadavku na prevádzkový kapitál: oneskorenie platby, sezónny poplatok, dočasný zásah. Preštudujte si realitu svojej činnosti.",
+      "eligible": [
+        "TPE, nezávislý alebo TNS so zavedenou činnosťou",
+        "Príležitostná potreba ospravedlniteľného WCR",
+        "Profesionálny účet s pravidelnými pohybmi"
+      ],
+      "notEligible": [
+        "Aktivita vytvorená pred menej ako šiestimi mesiacmi bez histórie",
+        "Dlhodobá štrukturálna potreba týkajúca sa iného produktu"
+      ],
+      "documents": [
+        "Kbis extrakt alebo ekvivalent",
+        "Posledné dve súvahy alebo účtovná situácia",
+        "Profesionálne výpisy z účtu",
+        "ID manažéra"
+      ],
+      "faq": [
+        {
+          "q": "Sú potrebné tri hodnotenia?",
+          "a": "Nie. Súčasná účtovná situácia a pravidelné výkazy môžu byť pre štúdiu postačujúce."
+        },
+        {
+          "q": "Aký je čas vydania?",
+          "a": "Po prijatí a podpísaní ponuky sú finančné prostriedky vyplatené v zákonných lehotách."
+        },
+        {
+          "q": "Vyžaduje sa záruka?",
+          "a": "V závislosti od výšky sa môže požadovať manažérsky dlhopis alebo záruka."
+        }
+      ],
+      "case": {
+        "title": "Hotovostný posun",
+        "detail": "30 000 EUR počas 48 mesiacov na absorbovanie omeškania platby zákazníkom, ktoré sa vrátia po prijatí inkasa."
+      }
+    },
+    "loa": {
+      "name": "LOA / Leasing",
+      "teaser": "Používanie vozidla alebo vybavenia bez jeho okamžitého nákupu.",
+      "heroSubtitle": "Používajte vozidlo alebo vybavenie bez jeho kúpy, s možnosťou kúpy na konci zmluvy.",
+      "description": "Prenájom s predkupným právom vás núti platiť nájomné za užívanie nehnuteľnosti s možnosťou nadobudnutia za jej zostatkovú cenu. Poplatok sa rozloží, ručením zostáva nehnuteľnosť.",
+      "eligible": [
+        "Individuálne alebo profesionálne použitie bez okamžitého nákupu",
+        "Pravidelný príjem pokrývajúci nájomné",
+        "Projekt zahŕňajúci identifikovateľné vozidlo alebo vybavenie"
+      ],
+      "notEligible": [
+        "Vyhľadajte hotovostný kapitál (LOA financuje použitie)",
+        "Nepoistiteľný majetok alebo ťažko predajný majetok"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Doklad o príjme",
+        "Objednávka alebo cenová ponuka na tovar",
+        "Doklad o adrese"
+      ],
+      "faq": [
+        {
+          "q": "Vlastním nehnuteľnosť?",
+          "a": "Počas prenájmu nie. Stanete sa ním, ak uplatníte nákupnú opciu za očakávanú zostatkovú hodnotu."
+        },
+        {
+          "q": "Je zahrnutá údržba?",
+          "a": "Podľa zmluvy; niektoré balíčky zahŕňajú údržbu a poistenie."
+        },
+        {
+          "q": "Môžem tovar na konci vrátiť?",
+          "a": "áno. Bez uplatnenia opcie vraciate nehnuteľnosť v stave podľa zmluvy."
+        }
+      ],
+      "case": {
+        "title": "Vozidlo na LOA",
+        "detail": "Hodnota 30 000 €, 48 nájmov potom zostatková hodnota: vyberiete si kúpu alebo vrátenie."
+      }
+    },
+    "affacturage": {
+      "name": "Faktoring",
+      "teaser": "Premeňte svoje zákaznícke faktúry na okamžite dostupnú hotovosť.",
+      "heroSubtitle": "Premeňte svoje zákaznícke faktúry na okamžite dostupnú hotovosť.",
+      "description": "Faktoring nie je pôžička: priraďujete svoje faktúry k inkasu oproti okamžitej zálohe za províziu. Váš peňažný tok sleduje váš obrat.",
+      "eligible": [
+        "Profesionálni klienti v oblasti účtovania firiem",
+        "Opakujúca sa položka zákazníka s termínmi splatnosti",
+        "Potreba hladkého cash flow bez toho, aby ste sa zadlžili"
+      ],
+      "notEligible": [
+        "B2C činnosť bez profesionálnych faktúr",
+        "Sporné alebo už splatné dlhy"
+      ],
+      "documents": [
+        "Kbis extrakt",
+        "Nedávny zostatok zákazníkov",
+        "Príklady faktúr a platobných podmienok",
+        "ID manažéra"
+      ],
+      "faq": [
+        {
+          "q": "Je to kredit?",
+          "a": "Nie. Ide o postúpenie pohľadávky proti zálohe; to nezvýši váš bankový dlh."
+        },
+        {
+          "q": "Kto kontaktuje mojich zákazníkov?",
+          "a": "V závislosti od vzorca možno pripomenutie a obnovenie delegovať na faktor."
+        },
+        {
+          "q": "akú cenu?",
+          "a": "Faktoringová provízia a finančná provízia v závislosti od objemu a termínov. Podrobnosti sú v zmluve."
+        }
+      ],
+      "case": {
+        "title": "Preddavok na faktúry",
+        "detail": "Zákaznícky účet vo výške 100 000 € prefinancovaný v priebehu niekoľkých dní podľa sadzby Vašej fakturácie."
+      }
+    },
+    "pret-relais": {
+      "name": "Preklenovací úver",
+      "teaser": "Kúpte pred predajom, čas na prechod.",
+      "heroSubtitle": "Kúpte si novú nehnuteľnosť pred predajom tej súčasnej, počas prechodu.",
+      "description": "Preklenovací úver poskytuje zálohu časti hodnoty vašej nehnuteľnosti ponúkanej na predaj. Pri predaji splatíte kapitál; medzitým platíte najčastejšie len úroky.",
+      "eligible": [
+        "Majiteľ predáva jednu nehnuteľnosť, aby si kúpil druhú",
+        "Nehnuteľnosť ponúkaná na predaj za reálnu cenu",
+        "Schopnosť prevziať úrok počas prechodného obdobia"
+      ],
+      "notEligible": [
+        "Veľmi ťažké predať alebo nadhodnotené",
+        "Absencia konkrétneho projektu nákupu vpredu"
+      ],
+      "documents": [
+        "Odhad alebo mandát na predaj nehnuteľnosti",
+        "List vlastníctva",
+        "Kompromisný alebo nákupný plán",
+        "Doklad totožnosti"
+      ],
+      "faq": [
+        {
+          "q": "Čo sa stane, ak nepredám včas?",
+          "a": "Preklenovací úver má obmedzenú dobu trvania (12 až 24 mesiacov). Od začiatku sa plánuje a diskutuje o riešení výstupu."
+        },
+        {
+          "q": "Koľko môžem dostať?",
+          "a": "Vo všeobecnosti konzervatívna časť odhadovanej hodnoty, aby sa zohľadnil trh."
+        },
+        {
+          "q": "Platíme kapitál každý mesiac?",
+          "a": "Nie. Kapitál je splatený pri predaji; platíte len úroky podľa zvoleného vzorca."
+        }
+      ],
+      "case": {
+        "title": "Nákup pred predajom",
+        "detail": "200 000 € vopred na 12 mesiacov s čiastočným oslobodením: platíte len úroky do predaja."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Úver na nehnuteľnosť",
+      "teaser": "Financujte nákup nehnuteľnosti na základe vašej skutočnej situácie.",
+      "heroSubtitle": "Financovanie kúpy nehnuteľnosti skúmate na základe vašej skutočnej situácie, nie skóre.",
+      "description": "Úver na nehnuteľnosť slúži na financovanie obstarania vášho bývania alebo investície. Študujeme atypické súbory: nezávislé osoby, krátke zmluvy, profily vylúčené inde.",
+      "eligible": [
+        "Nákup projektu s príspevkom alebo zárukou",
+        "Pravidelný príjem, vrátane nemzdového príjmu",
+        "Atypický profil, ale inak pevný pilník"
+      ],
+      "notEligible": [
+        "Dlh jednoznačne prekračuje prahové hodnoty obozretného podnikania bez záruky",
+        "Žiadny príspevok alebo nehnuteľnosť na hypotéku"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Predajný kompromis",
+        "Posledné tri výplatné pásky alebo súvahy",
+        "Nedávne výpisy z účtu"
+      ],
+      "faq": [
+        {
+          "q": "Prijímate živnostníkov bez troch súvah?",
+          "a": "Áno, za podmienok: zavedená aktivita a pravidelné čítania môžu kompenzovať."
+        },
+        {
+          "q": "Je príspevok povinný?",
+          "a": "Nie systematicky, ale jednoznačne to posilňuje súbor a mieru."
+        },
+        {
+          "q": "Je sadzba pevná?",
+          "a": "Pevné alebo variabilné v závislosti od trvania; vyššie uvedená tabuľka uvádza orientačné referenčné hodnoty."
+        }
+      ],
+      "case": {
+        "title": "Kúpa bývania",
+        "detail": "200 000 EUR na 240 mesiacov: mesačná splátka vopred známa, vypočítaná na centy."
+      }
+    },
+    "credit-consommation": {
+      "name": "Spotrebný úver",
+      "teaser": "Financujte osobný projekt, vybavenie alebo nepredvídanú udalosť.",
+      "heroSubtitle": "Financujte osobný projekt, vybavenie alebo nepredvídanú udalosť.",
+      "description": "Spotrebný úver financuje identifikovanú potrebu bez založenia nehnuteľnosti. Namerané sumy a trvanie, preštudujte si svoj skutočný rozpočet.",
+      "eligible": [
+        "Pravidelný príjem pokrývajúci mesačnú splátku",
+        "Identifikovateľný osobný projekt",
+        "Miera dlhu pod kontrolou"
+      ],
+      "notEligible": [
+        "Rozpočet je už natiahnutý o iné kredity",
+        "Požadovaná hotovosť bez jasnej schopnosti splácať"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Doklad o adrese",
+        "Posledné dve výplatné pásky",
+        "Posledné daňové oznámenie"
+      ],
+      "faq": [
+        {
+          "q": "Kedy bude odpoveď?",
+          "a": "Jasný termín štúdia je vám oznámený a my sa ho držíme."
+        },
+        {
+          "q": "Môžem predčasne splatiť?",
+          "a": "Áno, kedykoľvek, za zákonných podmienok stanovených v zmluve."
+        },
+        {
+          "q": "Vyžaduje sa doklad o používaní?",
+          "a": "V závislosti od výšky a typu úveru; to vám povieme počas štúdia."
+        }
+      ],
+      "case": {
+        "title": "Osobný projekt",
+        "detail": "15 000 EUR počas 48 mesiacov: mesačná platba, celkové náklady a RPMN zobrazené pred každým podpisom."
+      }
+    },
+    "pret-auto": {
+      "name": "Pôžička na auto",
+      "teaser": "Kúpte si nové alebo ojazdené vozidlo s jasnou mesačnou splátkou.",
+      "heroSubtitle": "Kúpte si nové alebo ojazdené vozidlo s jasnou mesačnou splátkou.",
+      "description": "Autopôžička slúži na financovanie kúpy vozidla. Nehnuteľnosť môže slúžiť ako záruka, ktorá otvára financovanie pre rôzne profily.",
+      "eligible": [
+        "Nákup identifikovateľného nového alebo ojazdeného vozidla",
+        "Pravidelný príjem",
+        "Profil akceptovaný vďaka záruke na vozidlo"
+      ],
+      "notEligible": [
+        "Vozidlo bez faktúry alebo použiteľnej evidenčnej karty",
+        "Nedostatočná kapacita splácania napriek záruke"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Objednávka alebo osvedčenie o prevode",
+        "Doklad o príjme",
+        "Doklad o adrese"
+      ],
+      "faq": [
+        {
+          "q": "Sú nové a použité financované?",
+          "a": "Áno, s trvaním prispôsobeným veku vozidla."
+        },
+        {
+          "q": "Je vozidlo v zálohe?",
+          "a": "V závislosti od vzorca môže byť zástava braná ako záruka."
+        },
+        {
+          "q": "Môžem financovať poistenie?",
+          "a": "Poistenie dlžníka je voliteľné a môže byť zahrnuté v mesačnej splátke."
+        }
+      ],
+      "case": {
+        "title": "Ojazdené auto",
+        "detail": "20 000 € počas 60 mesiacov, garantované financovaným vozidlom."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Revolvingový úver",
+      "teaser": "Flexibilná rezerva peňazí, ktorá sa má používať s mierou.",
+      "heroSubtitle": "Flexibilná rezerva peňazí, ktorá sa má používať s mierou.",
+      "description": "Revolvingový úver poskytuje rezervu, ktorú môžete voľne používať a dopĺňať počas splácania. Flexibilné, ale drahé: rezervované pre malé, jednorazové potreby.",
+      "eligible": [
+        "Malá jednorázová potreba",
+        "Schopnosť rýchlo splácať s cieľom obmedziť náklady",
+        "Pravidelný príjem"
+      ],
+      "notEligible": [
+        "Dlhý projekt, kde návratný úver stojí oveľa menej",
+        "Ťažkosti so splácaním viac ako je úrok každý mesiac"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Doklad o adrese",
+        "Doklad o príjme",
+        "Nedávny výpis z účtu"
+      ],
+      "faq": [
+        {
+          "q": "Prečo je sadzba vysoká?",
+          "a": "Flexibilita niečo stojí. Čím rýchlejšie splatíte, tým menší úrok zaplatíte."
+        },
+        {
+          "q": "Musím použiť rezervu?",
+          "a": "Nie. Úroky sa kumulujú iba zo skutočne použitej sumy."
+        },
+        {
+          "q": "Je vhodný na veľký nákup?",
+          "a": "Málokedy. Na projekt je návratný úver takmer vždy lacnejší."
+        }
+      ],
+      "case": {
+        "title": "Malá občasná potreba",
+        "detail": "3 000 EUR spotrebovaných a splatených do 24 mesiacov: náklady priamo závisia od vašej miery splácania."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Študentská pôžička",
+      "teaser": "Financovanie štúdií a ich životné náklady.",
+      "heroSubtitle": "Finančné štúdie a ich životné náklady s primeranou úhradou.",
+      "description": "Študentská pôžička financuje školné a bežný život, často s odloženou dobou splácania počas štúdia. Väzba posilňuje puzdro.",
+      "eligible": [
+        "Študent zapísaný v uznávanom zariadení",
+        "Prítomnosť ručiteľa alebo ručiteľa",
+        "Projekt štúdie v súlade so sumou"
+      ],
+      "notEligible": [
+        "Absencia ručiteľa a vierohodné budúce príjmy",
+        "Suma nesúvisiaca s kurzom"
+      ],
+      "documents": [
+        "Doklad totožnosti",
+        "Školské osvedčenie alebo osvedčenie o registrácii",
+        "Podporné dokumenty ručiteľa",
+        "Doklad o adrese"
+      ],
+      "faq": [
+        {
+          "q": "Môžem odložiť splácanie?",
+          "a": "Áno, čiastočný alebo úplný odklad počas štúdia je bežný; úroky sa pripisujú podľa vzorca."
+        },
+        {
+          "q": "Je potrebný ručiteľ?",
+          "a": "To je najčastejšie potrebné a jednoznačne to zlepšuje podmienky."
+        },
+        {
+          "q": "Je kurz výhodný?",
+          "a": "Študentské sadzby patria medzi najnižšie; pozri indikatívnu tabuľku vyššie."
+        }
+      ],
+      "case": {
+        "title": "Financovanie kurzu",
+        "detail": "15 000 € počas 60 mesiacov s odkladom počas štúdia, preplácaných pri vstupe do pracovného života."
+      }
+    },
+    "financement-equipement": {
+      "name": "Financovanie zariadení",
+      "teaser": "Financujte profesionálne stroje, zariadenia alebo vozidlá.",
+      "heroSubtitle": "Financujte profesionálne stroje, vybavenie alebo vozidlá bez toho, aby ste zaťažili svoj cash flow.",
+      "description": "Financovanie zariadení financuje produktívne aktívum, ktoré často slúži ako kolaterál. Zachová váš cash flow pre operácie.",
+      "eligible": [
+        "Spoločnosť investujúca do identifikovateľného vybavenia",
+        "Opätovne predajné aktívum slúžiace ako kolaterál",
+        "Pravidelná aktivita účtu"
+      ],
+      "notEligible": [
+        "Zariadenie je zastarané alebo sa ťažko predáva",
+        "Spoločnosť bez preukázateľnej schopnosti splácať"
+      ],
+      "documents": [
+        "Kbis extrakt",
+        "Cenová ponuka alebo proforma faktúra za vybavenie",
+        "Posledné dve hodnotenia",
+        "Profesionálne výpisy z účtu"
+      ],
+      "faq": [
+        {
+          "q": "Slúži materiál ako záruka?",
+          "a": "Často áno, čo uľahčuje dohodu aj mladej štruktúre."
+        },
+        {
+          "q": "Úver alebo leasing?",
+          "a": "Oboje je možné; poradca porovnáva podľa vašej daňovej situácie a vašich potrieb."
+        },
+        {
+          "q": "ako dlho?",
+          "a": "V súlade s dobou používania zariadenia až 84 mesiacov."
+        }
+      ],
+      "case": {
+        "title": "Nákup vybavenia",
+        "detail": "40 000 EUR počas 60 mesiacov na výrobné zariadenia, ktoré sú založené na financovanom majetku."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Vytvorenie/obnovenie pôžičky",
+      "teaser": "Financujte spustenie alebo obnovenie činnosti.",
+      "heroSubtitle": "Financujte spustenie alebo obnovenie činnosti nad rámec osobného príspevku.",
+      "description": "Pôžička na založenie a prevzatie dopĺňa vaše vlastné prostriedky na začatie alebo kúpu podnikania. Súbor je založený na projekte, prognóze a zárukách.",
+      "eligible": [
+        "Vedúci projektu s nákladným podnikateľským plánom",
+        "Osobný príspevok alebo spolufinancovanie",
+        "Obnovenie činnosti so zneužiteľnými účtami"
+      ],
+      "notEligible": [
+        "Projekt bez príspevku, záruky alebo prognózy",
+        "Sektor bez akejkoľvek viditeľnosti výnosov"
+      ],
+      "documents": [
+        "Podnikateľský plán a prognóza",
+        "Doklad totožnosti",
+        "Doklad o príspevku",
+        "Kompromis obnovy, ak je to potrebné"
+      ],
+      "faq": [
+        {
+          "q": "Je potrebný príspevok?",
+          "a": "Rozhodujúci je príspevok, aj keď skromný; môže byť doplnená o kreatívne pomôcky."
+        },
+        {
+          "q": "Financujete prevzatie?",
+          "a": "Áno, na základe cieľových účtov a vášho plánu obnovy."
+        },
+        {
+          "q": "Vyžaduje sa záruka?",
+          "a": "Často vo forme záruky od manažéra alebo záruky od špecializovanej organizácie."
+        }
+      ],
+      "case": {
+        "title": "Vymáhanie finančných prostriedkov",
+        "detail": "60 000 EUR počas 60 mesiacov navyše k príspevku, ktorý je podporený prognózou oživenia."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Profesionálne nehnuteľnosti",
+      "teaser": "Financujte komerčné nehnuteľnosti alebo profesionálne priestory.",
+      "heroSubtitle": "Financujte komerčné nehnuteľnosti alebo profesionálne priestory.",
+      "description": "Profesionálny úver na nehnuteľnosti financuje nákup obchodných priestorov. Nehnuteľnosť predstavuje záruku, ktorá otvára financovanie rôznym štruktúram.",
+      "eligible": [
+        "Spoločnosť kupujúca svoje priestory alebo prevádzkové priestory",
+        "Profesionálna nehnuteľnosť slúžiaca ako záruka",
+        "Účty preukazujúce schopnosť splácať"
+      ],
+      "notEligible": [
+        "Lokálne bez skutočného profesionálneho využitia",
+        "Dlh štruktúry je už kritický"
+      ],
+      "documents": [
+        "Kbis extrakt",
+        "Zmluva o predaji priestorov",
+        "Posledné dve hodnotenia",
+        "Profesionálne výpisy z účtu"
+      ],
+      "faq": [
+        {
+          "q": "SCI alebo prevádzková spoločnosť?",
+          "a": "Obidve usporiadania sú študované; poradca vám poradí podľa vašej situácie."
+        },
+        {
+          "q": "ako dlho?",
+          "a": "Až 240 mesiacov v závislosti od nehnuteľnosti a štruktúry."
+        },
+        {
+          "q": "Pevná alebo variabilná sadzba?",
+          "a": "Obaja existujú; vyššie uvedená tabuľka uvádza orientačné referenčné hodnoty."
+        }
+      ],
+      "case": {
+        "title": "Nákup stien",
+        "detail": "300 000 € počas 180 mesiacov na získanie priestorov, garantovaných samotnou nehnuteľnosťou."
+      }
+    }
+  }
+}

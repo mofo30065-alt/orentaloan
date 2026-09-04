@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Ota yhteyttä - OrentaLoan",
+    "description": "Ota yhteyttä puhelimitse, sähköpostilla tai toimistolla. Varaa aika verkossa."
+  },
+  "title": "Ota yhteyttä",
+  "intro": "Kysymys tiedostostasi? Kirjoita meille tai soita meille. Keskustelukumppani, ei laskuri.",
+  "form": {
+    "title": "Kirjoita meille",
+    "name": "Nimi",
+    "email": "Sähköpostiosoite",
+    "subject": "Aihe (valinnainen)",
+    "message": "Sinun viestisi",
+    "submit": "Lähetä viesti",
+    "sending": "Lähetys käynnissä…",
+    "success": "Viesti lähetetty. Vastaamme nopeasti.",
+    "error": "Lähetys epäonnistui. Tarkista yhteys ja yritä uudelleen."
+  },
+  "errors": {
+    "required": "Tämä kenttä on pakollinen.",
+    "email": "Anna kelvollinen sähköpostiosoite.",
+    "message": "Viestisi tulee sisältää vähintään 10 merkkiä."
+  },
+  "info": {
+    "title": "Ota yhteyttä",
+    "phone": "Puhelin",
+    "email": "Sähköposti",
+    "whatsapp": "WhatsApp-liiketoiminta",
+    "hours": "Aikataulut",
+    "agenciesTitle": "Toimistomme",
+    "bookingTitle": "Varaa aika",
+    "bookingBody": "Valitse paikka neuvonantajan kanssa, toimistosta tai puhelimitse.",
+    "bookingCta": "Varaa paikka"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Poradenstvo — OrentaPôžička",
+    "description": "Konkrétne referencie na úver, napísané pre čitateľa, ktorý bol práve odmietnutý."
+  },
+  "title": "Poradenstvo",
+  "intro": "Konkrétne referencie na úver, napísané pre čitateľa, ktorý bol práve odmietnutý. Faktické, bez sľubov.",
+  "filterAll": "Všetky",
+  "categories": {
+    "fichage": "Podanie",
+    "rachat": "Splatenie kreditu",
+    "budget": "Rozpočet",
+    "comprendre": "Aby sme pochopili",
+    "garanties": "Záruky",
+    "profils": "Profily"
+  },
+  "minutes": "{count} min",
+  "byAuthor": "Autor: {author}",
+  "readMore": "Prečítajte si článok",
+  "backToList": "Všetky rady",
+  "suggestedTitle": "Prečítajte si tiež",
+  "shareTitle": "zdieľať",
+  "empty": "V tejto kategórii nie sú žiadne články.",
+  "cta": {
+    "title": "Máte nejaké pochybnosti o svojom súbore?",
+    "body": "Urobte si čítanie: úprimné poradenstvo, len za pár minút, bez záväzkov.",
+    "action": "Urobte si moje čítanie"
+  },
+  "pagination": {
+    "previous": "Predchádzajúce",
+    "next": "Sledovanie",
+    "page": "Strana {current} na {total}"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Kontakt — OrentaPôžička",
+    "description": "Kontaktujte nás telefonicky, emailom alebo v agentúre. Dohodnite si stretnutie online."
+  },
+  "title": "Kontaktovať",
+  "intro": "Máte otázku týkajúcu sa vášho súboru? Napíšte nám alebo zavolajte. Hovorca, nie počítadlo.",
+  "form": {
+    "title": "Napíšte nám",
+    "name": "Meno",
+    "email": "E-mailová adresa",
+    "subject": "Predmet (voliteľné)",
+    "message": "Vaša správa",
+    "submit": "Odoslať správu",
+    "sending": "Prebieha odosielanie…",
+    "success": "Správa odoslaná. Reagujeme rýchlo.",
+    "error": "Odoslanie zlyhalo. Skontrolujte pripojenie a skúste to znova."
+  },
+  "errors": {
+    "required": "Toto pole je povinné.",
+    "email": "Zadajte platnú e-mailovú adresu.",
+    "message": "Vaša správa musí obsahovať aspoň 10 znakov."
+  },
+  "info": {
+    "title": "Kontaktujte nás",
+    "phone": "Telefón",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Rozvrhy",
+    "agenciesTitle": "Naše agentúry",
+    "bookingTitle": "Dohodnite si stretnutie",
+    "bookingBody": "Vyberte si slot s poradcom, v agentúre alebo telefonicky.",
+    "bookingCta": "Zarezervujte si miesto"
+  }
+}

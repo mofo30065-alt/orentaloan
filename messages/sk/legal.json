@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Orientačné čísla, mimozmluvné a podliehajúce prijatiu vášho spisu."
+  },
+  "infobox": {
+    "title": "Reprezentatívny príklad",
+    "amount": "Požičaná suma",
+    "duration": "Trvanie",
+    "rate": "Pevná úroková sadzba úveru",
+    "apr": "Pevná APR",
+    "monthly": "Mesačná splátka",
+    "totalCost": "Celkové náklady na úver",
+    "totalDue": "Celková splatná suma",
+    "example": {
+      "amount": "15 000 €",
+      "duration": "48 mesiacov",
+      "rate": "6,90 %",
+      "apr": "7,12 %",
+      "monthly": "358,50 €",
+      "totalCost": "2 207,87 €",
+      "totalDue": "17 207,87 €"
+    },
+    "note": "Reprezentatívny príklad, s výnimkou voliteľného poistenia. Pôžička vás zaväzuje a musíte ju splatiť. Pred záväzkom skontrolujte svoje možnosti splácania."
+  },
+  "labels": {
+    "editor": "Editor stránok",
+    "legalForm": "Právny stav",
+    "capital": "Základné imanie",
+    "registration": "Registrácia",
+    "regulator": "Dozorný orgán",
+    "regulatoryNumber": "Číslo schválenia",
+    "vat": "DPH v rámci Spoločenstva",
+    "director": "Riaditeľ publikácie",
+    "host": "Hostiteľ",
+    "mediator": "Sprostredkovateľ spotrebiteľov",
+    "dpo": "splnomocnenec pre ochranu údajov"
+  },
+  "coolingOff": {
+    "title": "Právo na odstúpenie od zmluvy",
+    "body": "Po podpísaní ponuky máte {days} kalendárnych dní na odstúpenie od zmluvy bez toho, aby ste sa museli ospravedlňovať alebo ukladať pokutu."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Právne upozornenia — OrentaLoan",
+      "description": "Vydavateľ, hostiteľ, kontrolná autorita a sprostredkovanie."
+    },
+    "title": "Právne upozornenia",
+    "intro": "Informácie týkajúce sa vydavateľa tejto stránky a jej regulačného rámca."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Zásady ochrany osobných údajov — OrentaLoan",
+      "description": "Aké údaje spracúvame, prečo, ako dlho a aké máte práva."
+    },
+    "title": "Zásady ochrany osobných údajov",
+    "intro": "Údaje o vašej finančnej situácii sú citlivé. Tu je, otvorene, to, čo s tým robíme.",
+    "sections": [
+      {
+        "heading": "Zozbierané údaje",
+        "body": "Identifikačné a kontaktné údaje, rodinná, profesijná a finančná situácia, ktorú poskytnete, a technické navigačné údaje nevyhnutne potrebné na prevádzku stránky."
+      },
+      {
+        "heading": "Účely",
+        "body": "Preštudujte si svoju žiadosť o financovanie, kontaktujte vás, dodržiavajte naše zákonné povinnosti a predchádzajte podvodom. Nepredávajú sa žiadne údaje."
+      },
+      {
+        "heading": "Právny základ",
+        "body": "Váš súhlas so štúdiom žiadosti, vykonaním predzmluvných opatrení a našimi zákonnými povinnosťami ako úverovej inštitúcie."
+      },
+      {
+        "heading": "Príjemcovia",
+        "body": "Prístup k vášmu spisu majú len osoby zodpovedné za preštudovanie vášho spisu, ako aj nevyhnutne potrební subdodávatelia, viazaní mlčanlivosťou."
+      },
+      {
+        "heading": "Čas použiteľnosti",
+        "body": "Vaše údaje sa uchovávajú počas trvania štúdie a potom počas príslušných zákonných období, pred vymazaním alebo anonymizáciou."
+      },
+      {
+        "heading": "Spracovanie na strane prehliadača",
+        "body": "Kým nepotvrdíte svoju žiadosť, vaše odpovede zostanú na vašom zariadení a nebudú nám odoslané."
+      }
+    ],
+    "rightsTitle": "Vaše práva",
+    "rights": [
+      "Prístup, oprava a vymazanie vašich údajov",
+      "Obmedzenie a odpor voči spracovaniu",
+      "Prenosnosť vašich údajov",
+      "Odvolanie súhlasu kedykoľvek",
+      "Sťažnosť na úrade na ochranu údajov"
+    ],
+    "dpoIntro": "Ak chcete uplatniť svoje práva, kontaktujte nášho úradníka pre ochranu údajov:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Všeobecné podmienky použitia — OrentaPôžička",
+      "description": "Pravidlá používania stránky."
+    },
+    "title": "Všeobecné podmienky používania",
+    "intro": "Tieto podmienky upravujú používanie stránky. Nepredstavujú úverovú ponuku.",
+    "placeholder": "Prístup na stránku je bezplatný. Nahliadnutím do nej súhlasíte s týmito podmienkami. Obsah (texty, značky, ilustrácie) je majetkom OrentaLoan SA a nemôže byť reprodukovaný bez povolenia. Simulácie a predbežné diagnostiky sú poskytované len na informačné účely a nezaväzujú organizáciu. OrentaLoan si vyhradzuje právo na zmenu stránky a týchto podmienok; platná verzia je verzia online v čase vašej návštevy. Platí francúzske právo."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Zásady používania súborov cookie — OrentaLoan",
+      "description": "Aké cookies používame a ako ich spravovať."
+    },
+    "title": "Zásady používania súborov cookie",
+    "intro": "Bez vášho súhlasu sa neumiestňuje žiadny sledovač. Svoj výber môžete kedykoľvek zmeniť.",
+    "necessaryTitle": "Nevyhnutne potrebné cookies",
+    "necessaryBody": "Nevyhnutné pre fungovanie stránky (jazykové preferencie, zapamätanie si cookies podľa vášho výberu). Nevyžadujú súhlas.",
+    "optionalTitle": "Meracie a komfortné cookies",
+    "optionalBody": "Vložené až po vašom prijatí. Pomáhajú nám zlepšovať stránku bez toho, aby sme vás identifikovali na reklamné účely.",
+    "manageTitle": "Spravujte môj výber",
+    "manageBody": "Vymažte súbor cookie súhlasu prehliadača, aby sa banner znova zobrazil, a potom vyberte znova."
+  }
+}

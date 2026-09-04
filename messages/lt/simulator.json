@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Simulateur de prÃªt â€” OrentaLoan",
+    "description": "Estimez votre mensualitÃ©, le coÃ»t total et le TAEG indicatif. Chiffres indicatifs, non contractuels, sous rÃ©serve d'acceptation."
+  },
+  "title": "Simulateur de prÃªt",
+  "subtitle": "Ajustez les paramÃ¨tres : tout se recalcule en temps rÃ©el. Les montants sont indicatifs.",
+  "fields": {
+    "amount": {
+      "label": "Montant du prÃªt",
+      "help": "Le capital que vous souhaitez emprunter."
+    },
+    "duration": {
+      "label": "DurÃ©e de remboursement",
+      "help": "Une durÃ©e plus longue baisse la mensualitÃ© mais augmente le coÃ»t total."
+    },
+    "rate": {
+      "label": "Taux dÃ©biteur fixe",
+      "help": "Taux nominal annuel indicatif pour l'estimation."
+    },
+    "downPayment": {
+      "label": "Apport (facultatif)",
+      "help": "Un apport rÃ©duit le montant financÃ©."
+    }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mois} other {# mois}}",
+    "years": "{count, plural, one {# an} other {# ans}}"
+  },
+  "results": {
+    "heading": "Votre estimation",
+    "monthly": "MensualitÃ©",
+    "monthlyAria": "MensualitÃ© estimÃ©e : {value}",
+    "totalInterest": "Total des intÃ©rÃªts",
+    "totalCost": "CoÃ»t total du crÃ©dit",
+    "apr": "TAEG indicatif",
+    "financed": "Montant financÃ©"
+  },
+  "chart": {
+    "title": "RÃ©partition capital / intÃ©rÃªts",
+    "principal": "Capital",
+    "interest": "IntÃ©rÃªts"
+  },
+  "table": {
+    "show": "Voir le tableau d'amortissement",
+    "hide": "Masquer le tableau d'amortissement",
+    "caption": "Tableau d'amortissement Ã©chÃ©ance par Ã©chÃ©ance",
+    "period": "Ã‰chÃ©ance",
+    "payment": "MensualitÃ©",
+    "principal": "Capital",
+    "interest": "IntÃ©rÃªts",
+    "balance": "Restant dÃ»"
+  },
+  "actions": {
+    "email": "Recevoir ma simulation par e-mail",
+    "emailPlaceholder": "Votre adresse e-mail",
+    "emailSubmit": "Envoyer",
+    "emailSuccess": "Simulation envoyÃ©e. VÃ©rifiez votre boÃ®te de rÃ©ception.",
+    "emailNote": "Nous utilisons votre e-mail uniquement pour vous transmettre cette simulation.",
+    "continue": "Continuer vers une demande"
+  },
+  "disclaimer": "Estimation indicative et non contractuelle, hors assurance et frais Ã©ventuels, sous rÃ©serve d'Ã©tude et d'acceptation de votre dossier. Le TAEG dÃ©finitif figurera sur votre offre de contrat."
+}

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Hae - OrentaLoan",
+    "description": "Lähetä rahoituspyyntösi viidessä vaiheessa. Tilannetietosi säilyvät laitteellasi, kunnes vahvistat."
+  },
+  "title": "Rahoituspyyntösi",
+  "subtitle": "Viisi lyhyttä askelta. Voit palata milloin tahansa.",
+  "savedNote": "Vastauksesi tallennetaan tälle laitteelle, kunnes olet valmis. Mitään ei lähetetä ennen vahvistusta.",
+  "clearSaved": "Tyhjennä ja aloita uudelleen",
+  "progress": "Vaihe {current} - {total}",
+  "steps": {
+    "project": "Projekti",
+    "personal": "Henkilökohtainen tilanne",
+    "professional": "Ammattimainen tilanne",
+    "contact": "Yhteystiedot",
+    "summary": "Yhteenveto"
+  },
+  "fields": {
+    "projectType": "Projektin tyyppi",
+    "amount": "Haluttu summa (€)",
+    "durationMonths": "Haluttu kesto (kuukautta)",
+    "maritalStatus": "Perheen tilanne",
+    "dependents": "Huollettavat",
+    "housingStatus": "Majoitus",
+    "monthlyIncome": "Kuukauden nettotulo (€)",
+    "monthlyCharges": "Kuukausimaksut ja hyvitykset (€)",
+    "employmentStatus": "Ammattimainen tilanne",
+    "seniority": "Vanhuus tässä tilanteessa",
+    "profession": "Ammatti (valinnainen)",
+    "incident": "Ilmoitettu maksutapahtuma (FICP / FCC)",
+    "firstName": "Etunimi",
+    "lastName": "Nimi",
+    "email": "Sähköpostiosoite",
+    "phone": "Puhelin",
+    "postalCode": "Postinumero",
+    "city": "Kaupunki",
+    "select": "Valitse…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Luottojen lunastaminen / yhdistäminen",
+      "tresorerie": "käteistä",
+      "immobilier": "Kiinteistön osto",
+      "travaux": "Työt/remontti",
+      "auto": "Ajoneuvo",
+      "consommation": "Henkilökohtainen projekti",
+      "professionnel": "Ammattimainen projekti"
+    },
+    "maritalStatus": {
+      "celibataire": "Poikamies",
+      "marie": "Morsian)",
+      "pacse": "Pacsé",
+      "divorce": "eronnut)",
+      "veuf": "Leski/Leski"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Omistaja, ilman nykyistä luottoa",
+      "proprietaireAvecCredit": "Omistaja, nykyinen luotto",
+      "locataire": "Vuokralainen",
+      "heberge": "Isännöi"
+    },
+    "employmentStatus": {
+      "cdi": "Toistaiseksi voimassa oleva sopimus",
+      "cdd": "Määräaikainen tai määräaikainen sopimus",
+      "independant": "Itsenäinen / TNS",
+      "retraite": "Eläkkeelle siirtyminen",
+      "sansEmploi": "Työtön"
+    },
+    "seniority": {
+      "moins1an": "Alle vuosi",
+      "1a3ans": "1-3 vuotta",
+      "plus3ans": "Yli 3 vuotta"
+    },
+    "incident": {
+      "oui": "Kyllä",
+      "non": "Ei",
+      "inconnu": "En tiedä"
+    }
+  },
+  "errors": {
+    "required": "Tämä kenttä on pakollinen.",
+    "amountMin": "Summan on oltava vähintään €{min}.",
+    "amountMax": "Summa ei saa ylittää €{max}.",
+    "durationMin": "Keston on oltava vähintään {min} kuukautta.",
+    "durationMax": "Kesto ei saa ylittää {max} kuukautta.",
+    "positive": "Ilmoita positiivinen tai nolla määrä.",
+    "name": "Määritä vähintään 2 merkkiä.",
+    "email": "Anna kelvollinen sähköpostiosoite.",
+    "phone": "Anna kelvollinen puhelinnumero.",
+    "postalCode": "Anna kelvollinen postinumero.",
+    "consent": "Pyynnön käsittelyyn tarvitaan suostumuksesi."
+  },
+  "summary": {
+    "title": "Tarkista tietosi",
+    "edit": "Muokkaamaan"
+  },
+  "consent": {
+    "label": "Annan luvan tutkia pyyntöni näiden tietojen perusteella. Taloudellisen tilanteeni tiedot ovat arkaluonteisia, ja ne ovat luottamuksellisuuspolitiikan mukaisesti vain tutkimuksesta vastaavien nähtävillä."
+  },
+  "actions": {
+    "back": "Edellinen",
+    "next": "Jatkaa",
+    "submit": "Lähetä pyyntöni",
+    "sending": "Lähetys käynnissä…"
+  },
+  "submitError": "Lähetys epäonnistui. Tarkista yhteys ja yritä uudelleen.",
+  "confirmation": {
+    "meta": {
+      "title": "Pyyntö lähetetty — OrentaLoan",
+      "description": "Rahoituspyyntösi on rekisteröity. Neuvoja tutkii tiedostosi."
+    },
+    "title": "Pyyntösi tallennetaan",
+    "body": "Neuvoja tutkii tiedostosi ja ottaa sinuun yhteyttä ilmoitetun määräajan kuluessa. Sinulle on juuri lähetetty vahvistussähköposti.",
+    "referenceLabel": "Sinun referenssisi",
+    "whatNextTitle": "Jatko",
+    "whatNext": [
+      "Tarkistamme tiedostosi elementit.",
+      "Yhteyshenkilö ottaa sinuun yhteyttä tutkimukseen liittyen.",
+      "Saat perustellun vastauksen ilmoitetun määräajan kuluessa."
+    ],
+    "ctaHome": "Palaa kotiin"
+  }
+}

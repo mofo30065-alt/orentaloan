@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Conseils â€” OrentaLoan",
+    "description": "Des repÃ¨res concrets sur le crÃ©dit, Ã©crits pour un lecteur qui vient d'essuyer un refus."
+  },
+  "title": "Conseils",
+  "intro": "Des repÃ¨res concrets sur le crÃ©dit, Ã©crits pour un lecteur qui vient d'essuyer un refus. Factuel, sans promesse.",
+  "filterAll": "Tous",
+  "categories": {
+    "fichage": "Fichage",
+    "rachat": "Rachat de crÃ©dit",
+    "budget": "Budget",
+    "comprendre": "Comprendre",
+    "garanties": "Garanties",
+    "profils": "Profils"
+  },
+  "minutes": "{count} min de lecture",
+  "byAuthor": "Par {author}",
+  "readMore": "Lire l'article",
+  "backToList": "Tous les conseils",
+  "suggestedTitle": "Ã€ lire aussi",
+  "shareTitle": "Partager",
+  "empty": "Aucun article dans cette catÃ©gorie.",
+  "cta": {
+    "title": "Turite abejonių dėl failo?",
+    "body": "Skaitykite: sąžiningai susiorientuokite vos per kelias minutes, be jokių įsipareigojimų.",
+    "action": "Skaityti"
+  },
+  "pagination": {
+    "previous": "Ankstesnis",
+    "next": "Kitas",
+    "page": "{current} puslapis iš __OR__TOKEN_1__"
+  }
+}

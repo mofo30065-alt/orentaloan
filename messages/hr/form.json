@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Faire une demande â€” OrentaLoan",
+    "description": "DÃ©posez votre demande de financement en cinq Ã©tapes. Vos donnÃ©es de situation restent sur votre appareil tant que vous ne validez pas."
+  },
+  "title": "Votre demande de financement",
+  "subtitle": "Cinq Ã©tapes courtes. Vous pouvez revenir en arriÃ¨re Ã  tout moment.",
+  "savedNote": "Vos rÃ©ponses sont enregistrÃ©es sur cet appareil, le temps de finir. Rien n'est transmis avant votre validation.",
+  "clearSaved": "Effacer et recommencer",
+  "progress": "Ã‰tape {current} sur {total}",
+  "steps": {
+    "project": "Projet",
+    "personal": "Situation personnelle",
+    "professional": "Situation professionnelle",
+    "contact": "CoordonnÃ©es",
+    "summary": "RÃ©capitulatif"
+  },
+  "fields": {
+    "projectType": "Type de projet",
+    "amount": "Montant souhaitÃ© (â‚¬)",
+    "durationMonths": "DurÃ©e souhaitÃ©e (mois)",
+    "maritalStatus": "Situation familiale",
+    "dependents": "Personnes Ã  charge",
+    "housingStatus": "Logement",
+    "monthlyIncome": "Mjesečni neto prihod (€)",
+    "monthlyCharges": "Mjesečni troškovi i krediti (€)",
+    "employmentStatus": "Situation professionnelle",
+    "seniority": "Duljina službe u ovoj situaciji",
+    "profession": "Zvanje (nije obavezno)",
+    "incident": "Prijavljen incident s plaćanjem (FICP / FCC)",
+    "firstName": "Ime",
+    "lastName": "Prezime",
+    "email": "Email adresa",
+    "phone": "Telefon",
+    "postalCode": "Poštanski broj",
+    "city": "Grad",
+    "select": "Odaberite..."
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Otkup / konsolidacija kredita",
+      "tresorerie": "Novčani tok",
+      "immobilier": "Kupnja nekretnine",
+      "travaux": "Rad / renoviranje",
+      "auto": "Vozilo",
+      "consommation": "Osobni projekt",
+      "professionnel": "Profesionalni projekt"
+    },
+    "maritalStatus": {
+      "celibataire": "Neoženjen",
+      "marie": "Oženjen",
+      "pacse": "Građansko partnerstvo",
+      "divorce": "Razveden",
+      "veuf": "Udovica"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Vlasnik, trenutno bez kredit",
+      "proprietaireAvecCredit": "Vlasnik, s trenutnim kreditom",
+      "locataire": "Stanar",
+      "heberge": "Smješten"
+    },
+    "employmentStatus": {
+      "cdi": "Stalni ugovor",
+      "cdd": "Ugovor na određeno ili privremeni",
+      "independant": "Nezavisan / TNS",
+      "retraite": "U mirovini",
+      "sansEmploi": "Nezaposlen"
+    },
+    "seniority": {
+      "moins1an": "Manje od godinu dana",
+      "1a3ans": "1 Nakon 3 godine",
+      "plus3ans": "Više od 3 godine"
+    },
+    "incident": {
+      "oui": "Da",
+      "non": "Ne",
+      "inconnu": "Ne znam"
+    }
+  },
+  "errors": {
+    "required": "Ovo polje je obavezno.",
+    "amountMin": "Iznos mora biti najmanje {min} €.",
+    "amountMax": "Iznos ne može premašiti {max} â‚¬.",
+    "durationMin": "Trajanje mora biti najmanje {min} mjeseci.",
+    "durationMax": "Trajanje ne može premašiti {max} mjeseci.",
+    "positive": "Navedite pozitivan ili nulti iznos.",
+    "name": "Navedite najmanje 2 znaka.",
+    "email": "Navedite valjanu adresu e-pošte.",
+    "phone": "Navedite važeći telefonski broj.",
+    "postalCode": "Unesite važeći poštanski broj.",
+    "consent": "Vaš pristanak je neophodan za proučavanje zahtjeva."
+  },
+  "summary": {
+    "title": "Provjerite svoje podatke",
+    "edit": "Izmijenite"
+  },
+  "consent": {
+    "label": "Dopuštam proučavanje mog zahtjeva na temelju ovih informacija. Podaci o mojoj financijskoj situaciji su osjetljivi i konzultiraju ih samo oni koji su odgovorni za studiju, u skladu s politikom povjerljivosti."
+  },
+  "actions": {
+    "back": "Prethodno",
+    "next": "Nastavi",
+    "submit": "Pošalji moj zahtjev",
+    "sending": "Slanje u tijeku..."
+  },
+  "submitError": "Slanje nije uspjelo. Provjerite vezu i pokušajte ponovno.",
+  "confirmation": {
+    "meta": {
+      "title": "Zahtjev poslan â€” OrentaLoan",
+      "description": "Vaš zahtjev za financiranje je zabilježen. Savjetnik proučava vašu datoteku."
+    },
+    "title": "Vaš zahtjev je zabilježen",
+    "body": "Savjetnik proučava vašu datoteku i kontaktirat ćete vas unutar najavljenog roka. E-pošta s potvrdom upravo vam je poslano",
+    "referenceLabel": "Vaša referenca",
+    "whatNextTitle": "Ostalo",
+    "whatNext": [
+      "Provjeravamo elemente u vašoj datoteci.",
+      "Kontakt osoba će vas kontaktirati za studiju",
+      "Dobit ćete obrazložen odgovor u roku od najavljeni rok"
+    ],
+    "ctaHome": "Povratak na početnu stranicu."
+  }
+}

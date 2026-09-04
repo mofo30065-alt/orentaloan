@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Contact â€” OrentaLoan",
+    "description": "Nous joindre par tÃ©lÃ©phone, e-mail ou en agence. Prise de rendez-vous en ligne."
+  },
+  "title": "Contact",
+  "intro": "Une question sur votre dossier ? Ã‰crivez-nous ou appelez-nous. Un interlocuteur, pas un guichet.",
+  "form": {
+    "title": "Ã‰crivez-nous",
+    "name": "Nom",
+    "email": "Adresse e-mail",
+    "subject": "Objet (facultatif)",
+    "message": "Votre message",
+    "submit": "Envoyer le message",
+    "sending": "Envoi en coursâ€¦",
+    "success": "Message envoyÃ©. Nous vous rÃ©pondons rapidement.",
+    "error": "L'envoi a Ã©chouÃ©. VÃ©rifiez votre connexion et rÃ©essayez."
+  },
+  "errors": {
+    "required": "Ce champ est requis.",
+    "email": "Indiquez une adresse e-mail valide.",
+    "message": "Votre message doit contenir au moins 10 caractÃ¨res."
+  },
+  "info": {
+    "title": "Nous joindre",
+    "phone": "TÃ©lÃ©phone",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Horaires",
+    "agenciesTitle": "Nos agences",
+    "bookingTitle": "Prendre rendez-vous",
+    "bookingBody": "Choisissez un crÃ©neau avec un conseiller, en agence ou par tÃ©lÃ©phone.",
+    "bookingCta": "RÃ©server un crÃ©neau"
+  }
+}

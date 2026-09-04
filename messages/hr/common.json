@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "name": "OrentaLoan",
+    "tagline": "Specijalizirana kreditna organizacija"
+  },
+  "skipToContent": "Idi na sadržaj",
+  "nav": {
+    "home": "Dobrodošli",
+    "credits": "Zasluge",
+    "simulator": "Simulator",
+    "diagnostic": "Pre-dijagnoza",
+    "blog": "Savjet",
+    "contact": "Kontakt"
+  },
+  "cta": {
+    "simulate": "Simulirajte moj zajam",
+    "diagnostic": "Provjerite ispunjavam li uvjete",
+    "simulateShort": "Simulirajte mjesečno plaćanje",
+    "request": "Podnesite zahtjev za kredit"
+  },
+  "phone": {
+    "label": "Nazovite nas",
+    "display": "+39 350 125 5841",
+    "number": "+393501255841"
+  },
+  "whatsapp": {
+    "aria": "Započnite razgovor na WhatsAppu",
+    "cta": "Chatajte na WhatsAppu",
+    "prefill": "Pozdrav, imam pitanje o vašoj ponudi financiranja."
+  },
+  "trust": {
+    "licensed": "Odobreno {agrement}",
+    "licensedPlaceholder": "ACPR br. 61,234",
+    "address": "Prava i kontaktibilna adresa"
+  },
+  "localeSwitcher": {
+    "label": "Jezik",
+    "fr": "francuski",
+    "en": "engleski",
+    "de": "Deutsch",
+    "es": "španjolski",
+    "it": "talijanski",
+    "nl": "Nizozemska",
+    "pt": "portugalski",
+    "pl": "poljski",
+    "ro": "Română",
+    "bg": "Bʺlgarski"
+  },
+  "cookies": {
+    "title": "Kolačići",
+    "message": "Ne koristimo tragače bez vašeg pristanka. Možete prihvatiti ili odbiti, u oba slučaja je jednako jednostavno.",
+    "link": "Saznajte više",
+    "accept": "prihvati sve",
+    "refuse": "Odbij sve"
+  },
+  "footer": {
+    "tagline": "Proučavamo datoteke koje drugi odbacuju, na temelju stvarnih elemenata.",
+    "colProducts": "Financiranje",
+    "colCompany": "Organizam",
+    "colLegal": "Pravne informacije",
+    "colContact": "Kontaktirajte nas",
+    "legal": {
+      "mentions": "Pravne obavijesti",
+      "privacy": "Povjerljivost",
+      "cookies": "Kolačići",
+      "terms": "Opći uvjeti",
+      "faq": "Često postavljana pitanja"
+    },
+    "company": {
+      "about": "Tko smo mi",
+      "commitments": "Naše obveze",
+      "blog": "Savjet"
+    },
+    "newsletter": {
+      "title": "Primite naša mjerila",
+      "help": "Konkretni kriteriji na kredit, bez predistraživanja.",
+      "placeholder": "Vaša email adresa",
+      "action": "registriram se",
+      "success": "Provjerite svoju pristiglu poštu: poslana vam je potvrdna e-pošta.",
+      "error": "Registracija nije uspjela. Provjerite svoju adresu i pokušajte ponovno.",
+      "confirmTitle": "Registracija potvrđena",
+      "confirmBody": "Hvala vam, vaša registracija u našim mjerilima je potvrđena. Možete se odjaviti u bilo kojem trenutku.",
+      "confirmError": "Ova poveznica za potvrdu nije važeća ili je istekla."
+    },
+    "rights": "© {year} {brand}. Sva prava pridržana.",
+    "publisher": "OrentaLoan SA s kapitalom od 50.000.000 € — RCS Paris 912 456 789 — 18 boulevard des Capucines, 75009 Pariz"
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Tko smo mi — OrentaLoan",
+        "description": "Specijalizirana kreditna organizacija koja se sama posuđuje i proučava dosjee odbijene drugdje, na stvarnom stanju."
+      },
+      "title": "Tko smo mi",
+      "intro": "Mi smo specijalizirana kreditna organizacija. Posuđujemo izravno i proučavamo datoteke koje mrežne banke odbiju, na temelju stvarne situacije, a ne na temelju rezultata.",
+      "sections": [
+        {
+          "heading": "Naš posao",
+          "body": "Odlučite se o konkretnim elementima – prihodima, jamstvima, povijesti – a ne o algoritmu. Dosje koji je drugdje odbijen pretvaramo u kvalificirani i realan dosje, ili to kažemo iskreno kada to nije moguće."
+        },
+        {
+          "heading": "Naša publika",
+          "body": "Registrirani zajmoprimci, neovisni bez tri bilance, kratki ugovori, starije osobe, napeti korporativni novčani tok: profili koji se često odbacuju, a koje mi uzimamo vremena za proučavanje."
+        },
+        {
+          "heading": "Naša metoda",
+          "body": "Iskrena pred-dijagnoza, studija koju je proveo kontakt koji vam objašnjava svaki kriterij, obrazložena odluka. Svaki broj je naznačen prije bilo kojeg potpisa."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Naše obveze — OrentaLoan",
+        "description": "Transparentnost, poštenje i odluka o stvarnoj situaciji: obveze kojih se pridržavamo."
+      },
+      "title": "Naše obveze",
+      "intro": "Na ovom tržištu transparentnost je naš prvi argument. To je ono za što se zalažemo, bez iznimke.",
+      "items": [
+        "Bez obećanja davanja: nikada ne jamčimo dogovor.",
+        "Odluka o vašoj stvarnoj situaciji, a ne o automatskom rezultatu.",
+        "Najavljeno i ispoštovano vrijeme odgovora, bez umjetne hitnosti.",
+        "Uvijek indikativne brojke i APR prikazani prije bilo kakvog potpisa.",
+        "Vaši podaci o situaciji tretiraju se sa strogom pažnjom i nikad se ne prodaju."
+      ]
+    }
+  }
+}

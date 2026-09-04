@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "PrÃ©-diagnostic d'Ã©ligibilitÃ© â€” OrentaLoan",
+    "description": "En quelques questions, une lecture honnÃªte de votre dossier : piste sÃ©rieuse, dossier Ã  consolider, ou non envisageable en l'Ã©tat. Une orientation, pas une dÃ©cision de crÃ©dit."
+  },
+  "intro": {
+    "eyebrow": "L'outil signature",
+    "title": "La Lecture de votre dossier",
+    "subtitle": "Sept questions, deux minutes. Nous vous disons honnÃªtement oÃ¹ en est votre dossier, avec le motif et les pistes qui restent.",
+    "note": "C'est une orientation, pas une dÃ©cision de crÃ©dit. Aucun score, aucun engagement, aucune donnÃ©e transmise sans votre accord.",
+    "start": "Commencer la Lecture"
+  },
+  "ui": {
+    "progress": "Question {current} sur {total}",
+    "back": "PrÃ©cÃ©dent",
+    "next": "Continuer",
+    "result": "Voir ma Lecture",
+    "restart": "Recommencer",
+    "required": "SÃ©lectionnez une rÃ©ponse pour continuer."
+  },
+  "questions": {
+    "project": {
+      "label": "Quel est votre projet ?"
+    },
+    "employment": {
+      "label": "Quelle est votre situation professionnelle ?"
+    },
+    "seniority": {
+      "label": "Depuis combien de temps dans cette situation ?"
+    },
+    "monthlyIncome": {
+      "label": "Vos revenus nets mensuels",
+      "help": "Revenus du foyer, toutes sources confondues."
+    },
+    "monthlyCharges": {
+      "label": "Vaši trenutni troškovi i krediti",
+      "help": "Najamnina, mirovine, mjesečna plaćanja kredita već su u tijeku."
+    },
+    "ownership": {
+      "label": "Posjedujete li svoj dom?"
+    },
+    "incident": {
+      "label": "Je li incident s plaćanjem prijavljen na vaše ime?",
+      "help": "FICP ili FCC registracija u Banque de France."
+    }
+  },
+  "options": {
+    "project": {
+      "rachat": "Otkup ili konsolidacija kredita",
+      "tresorerie": "Novčani tok / potreba za likvidnošću",
+      "immobilier": "Kupnja nekretnine",
+      "travaux": "Radovi / obnova",
+      "auto": "Vozilo",
+      "consommation": "Kupnja / osobni projekt",
+      "professionnel": "Profesionalni projekt"
+    },
+    "employment": {
+      "cdi": "Stalni ugovor",
+      "cdd": "Ugovor na određeno vrijeme ili privremeni",
+      "independant": "Neovisni / TNS",
+      "retraite": "U mirovini",
+      "sansEmploi": "Nezaposlen"
+    },
+    "seniority": {
+      "moins1an": "Manje od godinu dana",
+      "1a3ans": "1 do 3 godine",
+      "plus3ans": "Više od 3 godine"
+    },
+    "ownership": {
+      "proprietaireSansCredit": "Vlasnik, bez trenutnog kredita",
+      "proprietaireAvecCredit": "Vlasnik, s trenutnim kreditom",
+      "locataire": "Stanar",
+      "heberge": "Hostirano"
+    },
+    "incident": {
+      "oui": "Da",
+      "non": "Ne",
+      "inconnu": "Ne znam"
+    }
+  },
+  "number": {
+    "suffix": "â‚¬ / mjesec"
+  },
+  "states": {
+    "go": {
+      "label": "Ozbiljna prednost",
+      "description": "Elementi okupljeni dopustiti da se prouči zahtjev."
+    },
+    "work": {
+      "label": "Datoteka koju treba konsolidirati",
+      "description": "Određena točka danas usporava. Može ustati."
+    },
+    "stop": {
+      "label": "Nije moguće u ovom trenutku",
+      "description": "Financiranje danas nije realno. Evo još korisnih uputa."
+    }
+  },
+  "result": {
+    "title": "Vaše čitanje",
+    "reasonLabel": "Što se ističe",
+    "leversLabel": "Što bi moglo promijeniti odgovor",
+    "resourceLabel": "Koristan izvor",
+    "productLabel": "Financiranje za istraživanje",
+    "productLink": "Pogledajte ovo financiranje",
+    "note": "Ovo čitanje služi kao smjernica, a ne kao odluka o kreditu. Autentična je samo studija vašeg kompletnog dosjea.",
+    "ctaSimulate": "Procijenite moju mjesečnu isplatu",
+    "ctaRequest": "Nastavite na zahtjev",
+    "ctaRestart": "Ponovite čitanje"
+  },
+  "reasons": {
+    "insufficientCapacity": "Kako sada stoji, prijavljeni prihod ne pokriva novi datum dospijeća bez oslabljivanja vašeg proračuna.",
+    "unemployedOwner": "Bez zarađenog prihoda, financiranje zahtijeva oslanjanje na vrijednost vaše imovine.",
+    "unemployedNoAsset": "Bez prihoda od rada ili imovine koja se može staviti kao kolateral, nikakvo financiranje danas nije realno.",
+    "filedWithProperty": "Registracija blokira klasični kredit, ali može se proučiti otkup uz potporu vaše imovine.",
+    "filedNoCollateral": "FICP ili FCC registracija bez kolaterala zatvara pristup kreditu dok traje.",
+    "highDebtRatioOwner": "Vaši su troškovi veliki, ali grupiranje kredita oko vaše nekretnine može olakšati proračun.",
+    "tightCapacity": "Vaša sposobnost otplate je uska: datoteka izdrži, pod uvjetom da je ojačana.",
+    "youngIndependant": "Vaša je aktivnost nedavna: zajmodavci općenito očekuju više radnog staža i više bilance.",
+    "shortContract": "Kratki ugovor slabi dosje u očima zajmodavca, ali ga ne čini nemogućim.",
+    "shortSeniority": "Vaš radni staž je još uvijek kratak: još nekoliko mjeseci jasno će ojačati slučaj.",
+    "healthyStable": "Stabilna situacija i zdrava sposobnost otplate: vaša je datoteka na dobrom početku.",
+    "healthyIndependant": "Uspostavljena aktivnost i zdrav kapacitet: vaša neovisna datoteka je na dobrom početku.",
+    "checkFiling": "Vaša situacija je povoljna; Preostaje otkloniti svaku sumnju o mogućem snimanju prije nego što krenemo dalje."
+  },
+  "levers": {
+    "consolidate": "Grupirajte svoje trenutne kredite kako biste smanjili ukupnu mjesečnu uplatu.",
+    "reduceCharges": "Olakšajte ponavljajuće naplate prije podnošenja zahtjeva.",
+    "addDownPayment": "Donesite osobni iznos kako biste smanjili financirani iznos.",
+    "coBorrower": "Predstavite sudužnika kako biste povećali prihod datoteke.",
+    "gainSeniority": "Dobijte nekoliko mjeseci dodatnog staža u svojoj situaciji.",
+    "propertyAppraisal": "Neka vaša nekretnina bude procijenjena kako bi se procijenilo dostupno jamstvo.",
+    "provideBilans": "Prikupite svoje računovodstvene bilance kako biste opravdali redovitost svojih prihoda.",
+    "waitDelisting": "Pričekajte da se registracija ukine ili zatražite regularizaciju.",
+    "verifyFiling": "Provjerite svoju situaciju kod Banque de France (pravo slobodnog pristupa)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "Banque de France pruža besplatne informacije o vašoj registraciji i putovima za reguliranje.",
+    "debtCounseling": "Savjeti za proračun mogu vam pomoći da raščistite situaciju prije kredita."
+  }
+}

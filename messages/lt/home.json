@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "OrentaLoan â€” un crÃ©dit Ã©tudiÃ© sur votre situation rÃ©elle",
+    "description": "Organisme de crÃ©dit spÃ©cialisÃ© pour les dossiers Ã©cartÃ©s par les banques de rÃ©seau. Ã‰tude sur des Ã©lÃ©ments rÃ©els, dossier par dossier."
+  },
+  "hero": {
+    "eyebrow": "Organisme de crÃ©dit spÃ©cialisÃ©",
+    "title": "Un crÃ©dit Ã©tudiÃ© sur votre <mark>situation rÃ©elle</mark>, pas sur un score.",
+    "subtitle": "Nous Ã©tudions des dossiers que les banques de rÃ©seau Ã©cartent souvent. Chaque dÃ©cision se prend sur des Ã©lÃ©ments concrets, dossier par dossier â€” sans promesse d'accord.",
+    "ctaPrimary": "VÃ©rifier mon Ã©ligibilitÃ©",
+    "ctaSecondary": "Simuler une mensualitÃ©"
+  },
+  "heroMini": {
+    "title": "Estimer en un coup d'Å“il",
+    "amount": "Montant",
+    "duration": "DurÃ©e",
+    "result": "MensualitÃ© estimÃ©e",
+    "rateNote": "Estimation indicative Ã  {rate} de taux dÃ©biteur fixe, hors assurance.",
+    "cta": "Affiner ma simulation"
+  },
+  "situation": {
+    "eyebrow": "Votre situation",
+    "title": "Ã€ qui s'adresse ce financement",
+    "intro": "Ces profils sont souvent refusÃ©s ailleurs. Ils restent Ã©tudiÃ©s ici, selon les garanties et les revenus rÃ©els.",
+    "items": [
+      "Inscription FICP ou FCC",
+      "Rachat de crÃ©dit hypothÃ©caire",
+      "IndÃ©pendant ou TNS sans trois bilans",
+      "Contrat court : CDD, intÃ©rim",
+      "Senior en activitÃ© ou retraitÃ©",
+      "TrÃ©sorerie professionnelle tendue"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Nos financements",
+    "title": "On commence par ce qui repose sur une garantie.",
+    "intro": "Les financements adossÃ©s Ã  un bien ou Ã  un actif restent accessibles quand le score bloque. Les crÃ©dits classiques suivent.",
+    "alsoTitle": "Ã‰galement disponibles",
+    "allLink": "Voir tous les financements"
+  },
+  "advantages": {
+    "eyebrow": "Notre maniÃ¨re de travailler",
+    "title": "Ce qui change, concrÃ¨tement",
+    "items": [
+      {
+        "title": "Une dÃ©cision sur votre situation",
+        "desc": "Nous lisons votre dossier rÃ©el â€” revenus, garanties, historique â€” plutÃ´t qu'un score automatique."
+      },
+      {
+        "title": "Un interlocuteur, pas un guichet",
+        "desc": "Une personne suit votre dossier et vous explique chaque critÃ¨re, sans jargon."
+      },
+      {
+        "title": "Une rÃ©ponse dans un dÃ©lai clair",
+        "desc": "Nous annonÃ§ons un dÃ©lai d'Ã©tude et nous nous y tenons. Aucune urgence artificielle."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Comment Ã§a marche",
+    "title": "Penki veiksmai tokia tvarka",
+    "items": [
+      {
+        "title": "Išankstinė diagnozė",
+        "desc": "Septyni klausimai, kad nuoširdžiai sužinotumėte, kur yra jūsų failas."
+      },
+      {
+        "title": "Modeliavimas",
+        "desc": "Apskaičiuojate mėnesinį mokėjimą ir bendrą kainą realiuoju laiku."
+      },
+      {
+        "title": "Užklausa",
+        "desc": "Failą užpildote penkiais veiksmais savo tempu."
+      },
+      {
+        "title": "Tyrimas",
+        "desc": "Kontaktinis asmuo tiria tikrąją jūsų situaciją ir patvirtinamuosius dokumentus."
+      },
+      {
+        "title": "Sprendimas",
+        "desc": "Gaunate pagrįstą atsakymą ir pasiūlymą, jei taikoma."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Parašo įrankis",
+    "title": "Failo skaitymas",
+    "intro": "Keli klausimai ir mes sąžiningai pasakysime, kur yra jūsų failas – nurodant priežastį ir kas galėtų pakeisti atsakymą.",
+    "states": {
+      "go": {
+        "label": "Stebėti rimtą",
+        "desc": "Surinkti elementai leidžia išnagrinėti užklausą"
+      },
+      "work": {
+        "label": "Konsoliduotinas failas",
+        "desc": "Šiandien stabdo konkretus dalykas."
+      },
+      "stop": {
+        "label": "Šiuo metu neįmanoma",
+        "desc": "Mes nukreipiame jus į naudingesnį šaltinį nei failas, pasmerktas atmesti."
+      }
+    },
+    "note": "Orientacija, o ne sprendimas dėl kredito. Nerodomas balas, nėra įsipareigojimo.",
+    "cta": "Skaitykite"
+  },
+  "testimonials": {
+    "eyebrow": "Jie ten buvo",
+    "title": "Rimtai vertinami failai",
+    "items": [
+      {
+        "quote": "Agentūroje du kartus buvo atsisakyta sudaryti terminuotą sutartį. Čia pažvelgėme į mano trejų metų laikiną darbą tame pačiame padalinyje.",
+        "name": "Karim B.",
+        "role": "Laikinas, kredito išpirkimas",
+        "rating": 5
+      },
+      {
+        "quote": "Nepriklausomas aštuoniolika mėnesių, be trijų įprastų įvertinimų. Paskola buvo suteikta mano bute.",
+        "name": "Léa M.",
+        "role": "Nepriklausoma hipotekos paskola",
+        "rating": 5
+      },
+      {
+        "quote": "Man buvo aiškiai pasakyta, kas blokuoja ir ką reikia paruošti. Po trijų mėnesių vėl pateikiau bylą, taip ir atsitiko.",
+        "name": "Daniel R.",
+        "role": "Vyresnysis, paskola darbui",
+        "rating": 4
+      },
+      {
+        "quote": "Nepriklausoma aštuoniolika mėnesių, jie galėjo įvertinti mano pajamas be pilnų balansų.",
+        "name": "Sofia L.",
+        "role": "Laisvai samdomas darbuotojas, asmeninė paskola",
+        "rating": 5
+      },
+      {
+        "quote": "Mon dossier a Ã©tÃ© traitÃ© plus vite que prÃ©vu et j'ai eu des explications claires Ã  chaque Ã©tape.",
+        "name": "Eva D.",
+        "role": "Auto-entrepreneur, rachat de crÃ©dits",
+        "rating": 5
+      },
+      {
+        "quote": "J'avais un dÃ©couvert important, mais le conseiller a trouvÃ© une solution adaptÃ©e Ã  mon budget.",
+        "name": "Thomas V.",
+        "role": "CDI, trÃ©sorerie",
+        "rating": 4
+      },
+      {
+        "quote": "Le prÃªt m'a permis de faire des travaux sans surprise. Le suivi a Ã©tÃ© sÃ©rieux et humain.",
+        "name": "Laura P.",
+        "role": "PropriÃ©taire, prÃªt travaux",
+        "rating": 5
+      },
+      {
+        "quote": "Je n'ai pas eu l'impression d'Ãªtre jugÃ©. Tout s'est dÃ©roulÃ© simplement et avec transparence.",
+        "name": "Nicolas M.",
+        "role": "Agent commercial, crÃ©dit consommation",
+        "rating": 5
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "En chiffres",
+    "title": "Des repÃ¨res, pas des promesses",
+    "note": "Chiffres indicatifs, hors engagement, susceptibles d'Ã©voluer.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "dÃ©lai d'Ã©tude annoncÃ©"
+      },
+      {
+        "value": "7",
+        "label": "questions pour un prÃ©-diagnostic"
+      },
+      {
+        "value": "14",
+        "label": "types de financement Ã©tudiÃ©s"
+      },
+      {
+        "value": "10",
+        "label": "marchÃ©s en zone euro"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Notre lÃ©gitimitÃ©",
+    "title": "VÃ©rifiable, pas dÃ©coratif",
+    "intro": "Sur ce marchÃ©, la transparence est l'argument. Voici de quoi nous vÃ©rifier.",
+    "items": [
+      "AgrÃ©Ã© ACPR nÂ° 61 234 Â· ORIAS nÂ° 21 004 567",
+      "AdhÃ©rent de l'Association Nationale des MÃ©diateurs (ANM)",
+      "Agence Ã  Paris, 18 boulevard des Capucines (75009)"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "La transparence en clair",
+    "title": "Un exemple chiffrÃ©, sans astÃ©risque cachÃ©",
+    "intro": "Chaque simulation affiche un exemple reprÃ©sentatif complet, sans astÃ©risque cachÃ©."
+  },
+  "blog": {
+    "eyebrow": "Nos conseils",
+    "title": "Comprendre avant de s'engager",
+    "allLink": "Tous les conseils",
+    "items": [
+      {
+        "slug": "comprendre-inscription-ficp",
+        "category": "Fichage",
+        "readingTime": "6 min",
+        "title": "FichÃ© FICP : ce que cela change vraiment pour un crÃ©dit"
+      },
+      {
+        "slug": "rachat-credit-hypothecaire-guide",
+        "category": "Rachat de crÃ©dit",
+        "readingTime": "8 min",
+        "title": "Rachat hypothÃ©caire : quand votre bien devient une solution"
+      },
+      {
+        "slug": "taux-endettement-35-pourcent",
+        "category": "Budget",
+        "readingTime": "5 min",
+        "title": "Taux d'endettement Ã  35 % : ce que la rÃ¨gle change pour vous"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Commencez par savoir oÃ¹ en est votre dossier.",
+    "cta": "Skaitykite"
+  }
+}

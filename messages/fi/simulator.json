@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Lainasimulaattori – OrentaLoan",
+    "description": "Arvioi kuukausimaksusi, kokonaiskustannukset ja ohjeellinen vuosikorko. Ohjeelliset luvut, ei-sopimukseen perustuvia, hyväksyttävinä."
+  },
+  "title": "Laina simulaattori",
+  "subtitle": "Säädä parametreja: kaikki lasketaan uudelleen reaaliajassa. Summat ovat ohjeellisia.",
+  "fields": {
+    "amount": {
+      "label": "Lainan määrä",
+      "help": "Pääoma, jonka haluat lainata."
+    },
+    "duration": {
+      "label": "Korvauksen kesto",
+      "help": "Pidempi aika alentaa kuukausimaksua, mutta lisää kokonaiskustannuksia."
+    },
+    "rate": {
+      "label": "Kiinteä lainakorko",
+      "help": "Arvioinnin ohjeellinen vuotuinen nimelliskorko."
+    },
+    "downPayment": {
+      "label": "Sisäänotto (valinnainen)",
+      "help": "Osuus pienentää rahoitettavaa määrää."
+    }
+  },
+  "unit": {
+    "months": "{count, plural, one {# kuukausi} other {# kuukautta}}",
+    "years": "{count, plural, one {# vuosi} other {# vuotta}}"
+  },
+  "results": {
+    "heading": "Sinun arviosi",
+    "monthly": "Kuukausimaksu",
+    "monthlyAria": "Arvioitu kuukausimaksu: {value}",
+    "totalInterest": "Kokonaiskorko",
+    "totalCost": "Luoton kokonaiskustannukset",
+    "apr": "Ohjeellinen vuosikorko",
+    "financed": "Rahoitettu määrä"
+  },
+  "chart": {
+    "title": "Pääoman/koron jakautuminen",
+    "principal": "Pääoma",
+    "interest": "Kiinnostuksen kohteet"
+  },
+  "table": {
+    "show": "Katso poistotaulukko",
+    "hide": "Piilota poistotaulukko",
+    "caption": "Poistotaulukko maturiteetin mukaan",
+    "period": "Eräpäivä",
+    "payment": "Kuukausimaksu",
+    "principal": "Pääoma",
+    "interest": "Kiinnostuksen kohteet",
+    "balance": "Erääntynyt"
+  },
+  "actions": {
+    "email": "Vastaanota simulaationi sähköpostitse",
+    "emailPlaceholder": "Sähköpostiosoitteesi",
+    "emailSubmit": "Lähetä",
+    "emailSuccess": "Simulaatio lähetetty. Tarkista postilaatikkosi.",
+    "emailNote": "Käytämme sähköpostiasi vain tämän simulaation lähettämiseen.",
+    "continue": "Jatka pyytämistä"
+  },
+  "disclaimer": "Alustava ja sopimuksen ulkopuolinen arvio ilman vakuutusta ja mahdollisia kustannuksia, mikäli tiedostosi tutkitaan ja hyväksytään. Lopullinen todellinen vuosikorko näkyy sopimustarjouksessasi."
+}

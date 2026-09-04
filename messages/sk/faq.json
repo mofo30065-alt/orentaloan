@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Questions fréquentes — OrentaLoan",
+    "description": "Spôsobilosť, sadzby, bezpečnosť, termíny: jasné odpovede, bez sľubov."
+  },
+  "title": "Často kladené otázky",
+  "intro": "Jasné odpovede na otázky, ktoré sa nás najviac pýtajú, priamočiare a bez sľubov.",
+  "searchLabel": "Vyhľadajte otázku",
+  "searchPlaceholder": "Vyhľadajte otázku…",
+  "empty": "Vášmu vyhľadávaniu nezodpovedajú žiadne otázky.",
+  "categories": [
+    {
+      "id": "spôsobilosť",
+      "label": "Spôsobilosť",
+      "items": [
+        {
+          "q": "Môžem si požičať, keď som registrovaný FICP?",
+          "a": "Klasický úver poskytnutý na základe skóre bude zamietnutý, ale financovanie kryté zárukou je možné preštudovať. Preddiagnostika vám úprimne povie, kde sa nachádzate."
+        },
+        {
+          "q": "Prijímate živnostníkov bez troch súvah?",
+          "a": "Áno, za podmienok: zavedená činnosť a pravidelné výkazy môžu kompenzovať absenciu troch súvah."
+        },
+        {
+          "q": "Zmluva na dobu určitú alebo práca na dobu určitú, je to vylučujúce?",
+          "a": "Nie. Krátky kontrakt oslabuje súbor, ale neznemožňuje ho, najmä v prípade seniority v rovnakom sektore alebo spoludlžníka."
+        }
+      ]
+    },
+    {
+      "id": "ceny",
+      "label": "Sadzby a náklady",
+      "items": [
+        {
+          "q": "Je RPMN zaručená vopred?",
+          "a": "Nie. Zobrazené sadzby sú orientačné. Konečná RPMN sa objaví vo vašej ponuke zmluvy po preštudovaní vášho súboru."
+        },
+        {
+          "q": "Prečo je RPMN vyššia ako zobrazená sadzba?",
+          "a": "RPMN je efektívna sadzba, ktorá zahŕňa náklady a akékoľvek poistenie: je normálne, že je vyššia ako samotná úverová sadzba."
+        },
+        {
+          "q": "Existujú nejaké poplatky za spracovanie?",
+          "a": "V závislosti od produktu. Akékoľvek náklady sú jasne uvedené v ponuke pred akýmkoľvek podpisom."
+        }
+      ]
+    },
+    {
+      "id": "bezpečnosť",
+      "label": "Bezpečnosť a dáta",
+      "items": [
+        {
+          "q": "Čo robíte s mojimi údajmi?",
+          "a": "Používajú sa iba na preštudovanie vašej žiadosti a konzultujú s nimi iba osoby zodpovedné za štúdiu v súlade so zásadami dôvernosti."
+        },
+        {
+          "q": "Odosielajú sa moje odpovede zo simulátora?",
+          "a": "Nie. Kým žiadosť neoveríte, vaše odpovede zostanú vo vašom zariadení."
+        }
+      ]
+    },
+    {
+      "id": "kurz",
+      "label": "Trasa a termíny",
+      "items": [
+        {
+          "q": "Ako dlho trvá štúdium?",
+          "a": "Jasný termín štúdia je vám oznámený a my sa ho držíme. Žiadna umelá naliehavosť, žiadne odpočítavanie."
+        },
+        {
+          "q": "Je preddiagnostika úverovou zmluvou?",
+          "a": "Nie. Je to úprimná orientácia, bez záväzku alebo zobrazeného skóre: nie je to úverové rozhodnutie."
+        },
+        {
+          "q": "Môžem svoju žiadosť obnoviť neskôr?",
+          "a": "áno. Vaše odpovede sa uložia do vášho zariadenia až do dokončenia a po odoslaní sa odstránia."
+        }
+      ]
+    }
+  ]
+}

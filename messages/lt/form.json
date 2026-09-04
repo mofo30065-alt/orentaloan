@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Faire une demande â€” OrentaLoan",
+    "description": "DÃ©posez votre demande de financement en cinq Ã©tapes. Vos donnÃ©es de situation restent sur votre appareil tant que vous ne validez pas."
+  },
+  "title": "Votre demande de financement",
+  "subtitle": "Cinq Ã©tapes courtes. Vous pouvez revenir en arriÃ¨re Ã  tout moment.",
+  "savedNote": "Vos rÃ©ponses sont enregistrÃ©es sur cet appareil, le temps de finir. Rien n'est transmis avant votre validation.",
+  "clearSaved": "Effacer et recommencer",
+  "progress": "Ã‰tape {current} sur {total}",
+  "steps": {
+    "project": "Projet",
+    "personal": "Situation personnelle",
+    "professional": "Situation professionnelle",
+    "contact": "CoordonnÃ©es",
+    "summary": "RÃ©capitulatif"
+  },
+  "fields": {
+    "projectType": "Type de projet",
+    "amount": "Montant souhaitÃ© (â‚¬)",
+    "durationMonths": "DurÃ©e souhaitÃ©e (mois)",
+    "maritalStatus": "Situation familiale",
+    "dependents": "Personnes Ã  charge",
+    "housingStatus": "Logement",
+    "monthlyIncome": "Revenus nets mensuels (â‚¬)",
+    "monthlyCharges": "Charges et crÃ©dits mensuels (â‚¬)",
+    "employmentStatus": "Situation professionnelle",
+    "seniority": "AnciennetÃ© dans cette situation",
+    "profession": "Profession (facultatif)",
+    "incident": "Incident de paiement dÃ©clarÃ© (FICP / FCC)",
+    "firstName": "PrÃ©nom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "phone": "TÃ©lÃ©phone",
+    "postalCode": "Code postal",
+    "city": "Ville",
+    "select": "SÃ©lectionnezâ€¦"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Rachat / regroupement de crÃ©dits",
+      "tresorerie": "TrÃ©sorerie",
+      "immobilier": "Achat immobilier",
+      "travaux": "Travaux / rÃ©novation",
+      "auto": "VÃ©hicule",
+      "consommation": "Projet personnel",
+      "professionnel": "Projet professionnel"
+    },
+    "maritalStatus": {
+      "celibataire": "CÃ©libataire",
+      "marie": "MariÃ©(e)",
+      "pacse": "PacsÃ©(e)",
+      "divorce": "DivorcÃ©(e)",
+      "veuf": "Veuf / Veuve"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "PropriÃ©taire, sans crÃ©dit en cours",
+      "proprietaireAvecCredit": "PropriÃ©taire, avec un crÃ©dit en cours",
+      "locataire": "Locataire",
+      "heberge": "HÃ©bergÃ©"
+    },
+    "employmentStatus": {
+      "cdi": "CDI",
+      "cdd": "CDD ou intÃ©rim",
+      "independant": "IndÃ©pendant / TNS",
+      "retraite": "RetraitÃ©",
+      "sansEmploi": "Sans emploi"
+    },
+    "seniority": {
+      "moins1an": "Moins d'un an",
+      "1a3ans": "1 Ã  3 ans",
+      "plus3ans": "Plus de 3 ans"
+    },
+    "incident": {
+      "oui": "Taip",
+      "non": "Ne",
+      "inconnu": "Nežinau"
+    }
+  },
+  "errors": {
+    "required": "Šis laukas yra būtinas.",
+    "amountMin": "Suma turi būti bent {min} â‚¬.",
+    "amountMax": "Suma negali viršyti {max} â‚¬.",
+    "durationMin": "Trukmė turi būti bent {min} mėnesių.",
+    "durationMax": "Trukmė negali viršyti {max} mėnesių.",
+    "positive": "Nurodykite teigiamą arba nulinę sumą.",
+    "name": "Nurodykite bent 2 simbolius.",
+    "email": "Pateikite galiojantį el. pašto adresą.",
+    "phone": "Pateikite galiojantį telefono numerį.",
+    "postalCode": "Įveskite galiojantį pašto kodą.",
+    "consent": "Norint išnagrinėti užklausą, būtinas jūsų sutikimas."
+  },
+  "summary": {
+    "title": "Patikrinkite savo informaciją",
+    "edit": "Keisti"
+  },
+  "consent": {
+    "label": "Suteikiu teisę nagrinėti savo užklausą remiantis šia informacija. Mano finansinės padėties duomenys yra neskelbtini ir su jais gali susipažinti tik už tyrimą atsakingi asmenys, vadovaudamiesi konfidencialumo politika."
+  },
+  "actions": {
+    "back": "Ankstesnis",
+    "next": "Continuer",
+    "submit": "Envoyer ma demande",
+    "sending": "Envoi en coursâ€¦"
+  },
+  "submitError": "L'envoi a Ã©chouÃ©. VÃ©rifiez votre connexion et rÃ©essayez.",
+  "confirmation": {
+    "meta": {
+      "title": "Demande envoyÃ©e â€” OrentaLoan",
+      "description": "Votre demande de financement est enregistrÃ©e. Un conseiller Ã©tudie votre dossier."
+    },
+    "title": "Votre demande est enregistrÃ©e",
+    "body": "Un conseiller Ã©tudie votre dossier et vous recontacte sous le dÃ©lai annoncÃ©. Un e-mail de confirmation vient de vous Ãªtre envoyÃ©.",
+    "referenceLabel": "Votre rÃ©fÃ©rence",
+    "whatNextTitle": "La suite",
+    "whatNext": [
+      "Nous vÃ©rifions les Ã©lÃ©ments de votre dossier.",
+      "Un interlocuteur vous recontacte pour l'Ã©tude.",
+      "Vous recevez une rÃ©ponse motivÃ©e dans le dÃ©lai annoncÃ©."
+    ],
+    "ctaHome": "Revenir Ã  l'accueil"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Questions frÃ©quentes â€” OrentaLoan",
+    "description": "Ã‰ligibilitÃ©, taux, sÃ©curitÃ©, dÃ©lais : les rÃ©ponses claires, sans promesse."
+  },
+  "title": "Questions frÃ©quentes",
+  "intro": "Les rÃ©ponses claires aux questions qu'on nous pose le plus, sans dÃ©tour et sans promesse.",
+  "searchLabel": "Rechercher une question",
+  "searchPlaceholder": "Rechercher une questionâ€¦",
+  "empty": "Aucune question ne correspond Ã  votre recherche.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Ã‰ligibilitÃ©",
+      "items": [
+        {
+          "q": "Puis-je emprunter en Ã©tant fichÃ© FICP ?",
+          "a": "Le crÃ©dit classique accordÃ© sur score sera refusÃ©, mais un financement adossÃ© Ã  une garantie peut Ãªtre Ã©tudiÃ©. Le prÃ©-diagnostic vous dit honnÃªtement oÃ¹ vous en Ãªtes."
+        },
+        {
+          "q": "Acceptez-vous les indÃ©pendants sans trois bilans ?",
+          "a": "Oui, sous conditions : une activitÃ© Ã©tablie et des relevÃ©s rÃ©guliers peuvent compenser l'absence de trois bilans."
+        },
+        {
+          "q": "Un CDD ou de l'intÃ©rim, est-ce Ã©liminatoire ?",
+          "a": "Non. Un contrat court fragilise le dossier mais ne le rend pas impossible, surtout avec de l'anciennetÃ© dans la mÃªme branche ou un co-emprunteur."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Taux et coÃ»ts",
+      "items": [
+        {
+          "q": "Le TAEG est-il garanti Ã  l'avance ?",
+          "a": "Ne. Prikazani tečajevi su indikativni. Konačni APR pojavljuje se u vašoj ugovornoj ponudi nakon proučavanja vaše datoteke."
+        },
+        {
+          "q": "Zašto je APR viši od prikazane stope?",
+          "a": "APR je efektivna stopa koja uključuje troškove i moguće osiguranje: normalno je da bude viša od same stope zaduživanja."
+        },
+        {
+          "q": "Postoje li naknade za obradu?",
+          "a": "Ovisno o proizvodu. Svi troškovi su jasno naznačeni u ponudi, prije bilo kakvog potpisa."
+        }
+      ]
+    },
+    {
+      "id": "sigurnost",
+      "label": "Sigurnost i podaci",
+      "items": [
+        {
+          "q": "Što radite s mojim podacima?",
+          "a": "Koriste se samo za proučavanje vašeg zahtjeva i konzultiraju ih samo osobe odgovorne za istraživanje, u skladu s politikom povjerljivosti."
+        },
+        {
+          "q": "Jesu li moji odgovori na simulatoru poslani?",
+          "a": "Ne. Dok ne potvrdite zahtjev, vaši odgovori ostaju na vašem uređaju."
+        }
+      ]
+    },
+    {
+      "id": "tečaj",
+      "label": "Tečaj i rokovi",
+      "items": [
+        {
+          "q": "Koliko traje studij?",
+          "a": "Jasan vam je rok za učenje i mi ga se pridržavamo. Nema umjetne hitnosti, nema odbrojavanja."
+        },
+        {
+          "q": "Je li prethodna dijagnoza ugovor o kreditu?",
+          "a": "Ne. To je poštena orijentacija, bez obveze ili prikazanog rezultata: to nije kreditna odluka."
+        },
+        {
+          "q": "Mogu li kasnije nastaviti sa svojim zahtjevom?",
+          "a": "Da. Vaši se odgovori spremaju na vaš uređaj dok ne završite i brišu se nakon slanja."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "name": "OrentaLoan",
+    "tagline": "Organisme de crÃ©dit spÃ©cialisÃ©"
+  },
+  "skipToContent": "Aller au contenu",
+  "nav": {
+    "home": "Accueil",
+    "credits": "CrÃ©dits",
+    "simulator": "Simulateur",
+    "diagnostic": "PrÃ©-diagnostic",
+    "blog": "Conseils",
+    "contact": "Contact"
+  },
+  "cta": {
+    "simulate": "Simuler mon prÃªt",
+    "diagnostic": "VÃ©rifier mon Ã©ligibilitÃ©",
+    "simulateShort": "Simuler une mensualitÃ©",
+    "request": "Demander un prÃªt"
+  },
+  "phone": {
+    "label": "Nous appeler",
+    "display": "+39 350 125 5841",
+    "number": "+393501255841"
+  },
+  "whatsapp": {
+    "aria": "DÃ©marrer une discussion sur WhatsApp",
+    "cta": "Discuter sur WhatsApp",
+    "prefill": "Bonjour, j'ai une question sur votre offre de financement."
+  },
+  "trust": {
+    "licensed": "AgrÃ©Ã© {agrement}",
+    "licensedPlaceholder": "ACPR nÂ° 61 234",
+    "address": "Adresse rÃ©elle et joignable"
+  },
+  "localeSwitcher": {
+    "label": "Langue",
+    "fr": "FranÃ§ais",
+    "en": "English",
+    "de": "Deutsch",
+    "es": "EspaÃ±ol",
+    "it": "Italiano",
+    "nl": "Nederlands",
+    "pt": "PortuguÃªs",
+    "pl": "Polski",
+    "ro": "RomÃ¢nÄƒ",
+    "bg": "Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "Nous n'utilisons aucun traceur sans votre accord. Vous pouvez accepter ou refuser, c'est aussi simple dans les deux cas.",
+    "link": "En savoir plus",
+    "accept": "Tout accepter",
+    "refuse": "Tout refuser"
+  },
+  "footer": {
+    "tagline": "Nous Ã©tudions les dossiers que d'autres Ã©cartent, sur des Ã©lÃ©ments rÃ©els.",
+    "colProducts": "Financements",
+    "colCompany": "L'organisme",
+    "colLegal": "Informations lÃ©gales",
+    "colContact": "Nous joindre",
+    "legal": {
+      "mentions": "Mentions lÃ©gales",
+      "privacy": "ConfidentialitÃ©",
+      "cookies": "Cookies",
+      "terms": "Conditions gÃ©nÃ©rales",
+      "faq": "Questions frÃ©quentes"
+    },
+    "company": {
+      "about": "Qui nous sommes",
+      "commitments": "Nos engagements",
+      "blog": "Conseils"
+    },
+    "newsletter": {
+      "title": "Recevoir nos repÃ¨res",
+      "help": "Des critÃ¨res concrets sur le crÃ©dit, sans dÃ©marchage.",
+      "placeholder": "Votre adresse e-mail",
+      "action": "Je m'inscris",
+      "success": "VÃ©rifiez votre boÃ®te : un e-mail de confirmation vous a Ã©tÃ© envoyÃ©.",
+      "error": "L'inscription a Ã©chouÃ©. VÃ©rifiez votre adresse et rÃ©essayez.",
+      "confirmTitle": "Inscription confirmÃ©e",
+      "confirmBody": "Merci, votre inscription Ã  nos repÃ¨res est confirmÃ©e. Vous pouvez vous dÃ©sinscrire Ã  tout moment.",
+      "confirmError": "Ce lien de confirmation est invalide ou a expirÃ©."
+    },
+    "rights": "Â© {year} {brand}. Tous droits rÃ©servÃ©s.",
+    "publisher": "OrentaLoan SA au capital de 50 000 000 â‚¬ â€” RCS Paris 912 456 789 â€” 18 boulevard des Capucines, 75009 Paris"
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Qui nous sommes â€” OrentaLoan",
+        "description": "Organisme de crÃ©dit spÃ©cialisÃ© qui prÃªte en propre et Ã©tudie les dossiers Ã©cartÃ©s ailleurs, sur la situation rÃ©elle."
+      },
+      "title": "Qui nous sommes",
+      "intro": "Nous sommes un organisme de crÃ©dit spÃ©cialisÃ©. Nous prÃªtons en propre et nous Ã©tudions les dossiers que les banques de rÃ©seau Ã©cartent, sur la situation rÃ©elle plutÃ´t que sur un score.",
+      "sections": [
+        {
+          "heading": "Notre mÃ©tier",
+          "body": "DÃ©cider sur des Ã©lÃ©ments concrets â€” revenus, garanties, historique â€” et non sur un algorithme. Nous transformons un dossier refusÃ© ailleurs en dossier qualifiÃ© et rÃ©aliste, ou nous le disons honnÃªtement quand ce n'est pas possible."
+        },
+        {
+          "heading": "Notre public",
+          "body": "Emprunteurs fichÃ©s, indÃ©pendants sans trois bilans, contrats courts, seniors, trÃ©soreries d'entreprise tendues : des profils souvent Ã©cartÃ©s, que nous prenons le temps d'Ã©tudier."
+        },
+        {
+          "heading": "Notre mÃ©thode",
+          "body": "Un prÃ©-diagnostic honnÃªte, une Ã©tude menÃ©e par un interlocuteur qui vous explique chaque critÃ¨re, une dÃ©cision motivÃ©e. Chaque chiffre est indiquÃ© avant toute signature."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Nos engagements â€” OrentaLoan",
+        "description": "Transparence, honnÃªtetÃ© et dÃ©cision sur la situation rÃ©elle : les engagements que nous tenons."
+      },
+      "title": "Nos engagements",
+      "intro": "Sur ce marchÃ©, la transparence est notre premier argument. Voici ce Ã  quoi nous nous tenons, sans exception.",
+      "items": [
+        "Jokio dotacijos pažado: mes niekada negarantuojame susitarimo.",
+        "Sprendimas dėl tikrosios situacijos, o ne dėl automatinio balo.",
+        "Paskelbtas ir išlaikomas atsakymo laikas be dirbtinės skubos.",
+        "Visada prieš parašą pateikiami orientaciniai skaičiai ir APR.",
+        "Jūsų situacijos duomenys buvo apdoroti labai atsargiai ir niekada nebuvo parduoti."
+      ]
+    }
+  }
+}

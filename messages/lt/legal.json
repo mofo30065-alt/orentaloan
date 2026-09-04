@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Chiffres indicatifs, non contractuels et sous rÃ©serve d'acceptation de votre dossier."
+  },
+  "infobox": {
+    "title": "Exemple reprÃ©sentatif",
+    "amount": "Montant empruntÃ©",
+    "duration": "DurÃ©e",
+    "rate": "Taux dÃ©biteur fixe",
+    "apr": "TAEG fixe",
+    "monthly": "MensualitÃ©",
+    "totalCost": "CoÃ»t total du crÃ©dit",
+    "totalDue": "Montant total dÃ»",
+    "example": {
+      "amount": "15 000 â‚¬",
+      "duration": "48 mois",
+      "rate": "6,90 %",
+      "apr": "7,12 %",
+      "monthly": "358,50 â‚¬",
+      "totalCost": "2 207,87 â‚¬",
+      "totalDue": "17 207,87 â‚¬"
+    },
+    "note": "Exemple reprÃ©sentatif, hors assurance facultative. Un crÃ©dit vous engage et doit Ãªtre remboursÃ©. VÃ©rifiez vos capacitÃ©s de remboursement avant de vous engager."
+  },
+  "labels": {
+    "editor": "Ã‰diteur du site",
+    "legalForm": "Forme juridique",
+    "capital": "Capital social",
+    "registration": "Immatriculation",
+    "regulator": "AutoritÃ© de contrÃ´le",
+    "regulatoryNumber": "NumÃ©ro d'agrÃ©ment",
+    "vat": "TVA intracommunautaire",
+    "director": "Directeur de la publication",
+    "host": "HÃ©bergeur",
+    "mediator": "MÃ©diateur de la consommation",
+    "dpo": "DÃ©lÃ©guÃ© Ã  la protection des donnÃ©es"
+  },
+  "coolingOff": {
+    "title": "Droit de rÃ©tractation",
+    "body": "Vous disposez de {days} jours calendaires pour vous rÃ©tracter aprÃ¨s la signature de votre offre, sans avoir Ã  vous justifier ni Ã  supporter de pÃ©nalitÃ©."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Mentions lÃ©gales â€” OrentaLoan",
+      "description": "Ã‰diteur, hÃ©bergeur, autoritÃ© de contrÃ´le et mÃ©diation."
+    },
+    "title": "Mentions lÃ©gales",
+    "intro": "Informations relatives Ã  l'Ã©diteur de ce site et Ã  son cadre rÃ©glementaire."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Politique de confidentialitÃ© â€” OrentaLoan",
+      "description": "Quelles donnÃ©es nous traitons, pourquoi, combien de temps, et vos droits."
+    },
+    "title": "Privatumo politika",
+    "intro": "Jūsų finansinės padėties duomenys yra neskelbtini. Štai ką mes su juo darome iš karto.",
+    "sections": [
+      {
+        "heading": "Surinkti duomenys",
+        "body": "Jūsų pateikta tapatybė ir kontaktiniai duomenys, šeimos, profesinė ir finansinė padėtis bei techniniai naršymo duomenys, būtini svetainės veikimui."
+      },
+      {
+        "heading": "Tikslai",
+        "body": "Išnagrinėti jūsų finansavimo prašymą, susisiekti su jumis, laikytis teisinių įsipareigojimų ir užkirsti kelią sukčiavimui. Jokie duomenys neparduodami."
+      },
+      {
+        "heading": "Teisinis pagrindas",
+        "body": "Jūsų sutikimas dėl prašymo išnagrinėjimo, ikisutartinių priemonių vykdymo ir mūsų teisinių įsipareigojimų nustatyti kreditą."
+      },
+      {
+        "heading": "Gavėjai",
+        "body": "Prieigą prie jos turi tik asmenys, atsakingi už jūsų bylos tyrimą, taip pat griežtai būtini subrangovai, kurie yra saistomi konfidencialumo."
+      },
+      {
+        "heading": "Saugojimo laikotarpis",
+        "body": "Jūsų duomenys saugomi visą tyrimo laikotarpį, o vėliau – taikomus teisinius laikotarpius, prieš ištrinant arba padarant anoniminius."
+      },
+      {
+        "heading": "Naršyklės pusės apdorojimas",
+        "body": "Kol nepatvirtinsite užklausos, jūsų atsakymai lieka jūsų įrenginyje ir mums neperduodami."
+      }
+    ],
+    "rightsTitle": "Jūsų teisės",
+    "rights": [
+      "Prieiga prie jūsų duomenų, jų taisymas ir ištrynimas",
+      "Apribojimas ir prieštaravimas tvarkymui",
+      "Jūsų duomenų perkeliamumas",
+      "Retrait de votre consentement Ã  tout moment",
+      "RÃ©clamation auprÃ¨s de l'autoritÃ© de protection des donnÃ©es"
+    ],
+    "dpoIntro": "Pour exercer vos droits, contactez notre dÃ©lÃ©guÃ© Ã  la protection des donnÃ©es :"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Conditions gÃ©nÃ©rales d'utilisation â€” OrentaLoan",
+      "description": "RÃ¨gles d'utilisation du site."
+    },
+    "title": "Conditions gÃ©nÃ©rales d'utilisation",
+    "intro": "Ces conditions encadrent l'utilisation du site. Elles ne constituent pas une offre de crÃ©dit.",
+    "placeholder": "L'accÃ¨s au site est gratuit. En le consultant, vous acceptez ces conditions. Les contenus (textes, marques, illustrations) sont la propriÃ©tÃ© de OrentaLoan SA et ne peuvent Ãªtre reproduits sans autorisation. Les simulations et prÃ©-diagnostics sont fournis Ã  titre indicatif et n'engagent pas l'organisme. OrentaLoan se rÃ©serve le droit de faire Ã©voluer le site et ces conditions ; la version applicable est celle en ligne au moment de votre visite. Le droit franÃ§ais s'applique."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Politique de cookies â€” OrentaLoan",
+      "description": "Quels cookies nous utilisons et comment les gÃ©rer."
+    },
+    "title": "Politique de cookies",
+    "intro": "Aucun traceur n'est dÃ©posÃ© sans votre accord. Vous pouvez modifier votre choix Ã  tout moment.",
+    "necessaryTitle": "Cookies strictement nÃ©cessaires",
+    "necessaryBody": "Indispensables au fonctionnement du site (prÃ©fÃ©rence de langue, mÃ©morisation de votre choix de cookies). Ils ne nÃ©cessitent pas de consentement.",
+    "optionalTitle": "Cookies de mesure et de confort",
+    "optionalBody": "DÃ©posÃ©s uniquement aprÃ¨s votre acceptation. Ils nous aident Ã  amÃ©liorer le site sans jamais vous identifier Ã  des fins publicitaires.",
+    "manageTitle": "GÃ©rer mon choix",
+    "manageBody": "Videz le cookie de consentement de votre navigateur pour que le bandeau rÃ©apparaisse, puis choisissez Ã  nouveau."
+  }
+}

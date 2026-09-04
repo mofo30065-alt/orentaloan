@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "title": "Preddiagnostika oprávnenosti — OrentaPôžička",
+    "description": "V niekoľkých otázkach, úprimné čítanie vášho súboru: seriózne vedenie, súbor, ktorý sa má konsolidovať, alebo nie je možné, ako to stojí. Orientačné, nie úverové rozhodnutie."
+  },
+  "intro": {
+    "eyebrow": "Nástroj na podpisovanie",
+    "title": "Čítanie vášho súboru",
+    "subtitle": "Sedem otázok, dve minúty. Úprimne vám povieme, kde je váš prípad, s dôvodom a zvyšnými vodítkami.",
+    "note": "Toto je orientačné, nie úverové rozhodnutie. Žiadne skóre, žiadny záväzok, žiadne dáta prenášané bez vášho súhlasu.",
+    "start": "Začnite čítať"
+  },
+  "ui": {
+    "progress": "Otázka {current} o {total}",
+    "back": "Predchádzajúce",
+    "next": "Pokračovať",
+    "result": "Pozri moje čítanie",
+    "restart": "Začnite znova",
+    "required": "Pokračujte výberom odpovede."
+  },
+  "questions": {
+    "project": {
+      "label": "Aký je váš projekt?"
+    },
+    "employment": {
+      "label": "Aká je vaša profesionálna situácia?"
+    },
+    "seniority": {
+      "label": "Ako dlho ste v tejto situácii?"
+    },
+    "monthlyIncome": {
+      "label": "Váš mesačný čistý príjem",
+      "help": "Príjem domácnosti, všetky zdroje spolu."
+    },
+    "monthlyCharges": {
+      "label": "Vaše aktuálne poplatky a kredity",
+      "help": "Nájomné, dôchodky, mesačné splátky pôžičiek už prebiehajú."
+    },
+    "ownership": {
+      "label": "Vlastníte svoj dom?"
+    },
+    "incident": {
+      "label": "Je platobný incident vyhlásený na vaše meno?",
+      "help": "Registrácia FICP alebo FCC v Banque de France."
+    }
+  },
+  "options": {
+    "project": {
+      "rachat": "Splatenie alebo konsolidácia úverov",
+      "tresorerie": "Cash flow/potreba likvidity",
+      "immobilier": "Kúpa nehnuteľnosti",
+      "travaux": "Práce / rekonštrukcia",
+      "auto": "Vozidlo",
+      "consommation": "Nákup / osobný projekt",
+      "professionnel": "Profesionálny projekt"
+    },
+    "employment": {
+      "cdi": "Trvalá zmluva",
+      "cdd": "Zmluva na dobu určitú alebo dočasná",
+      "independant": "Nezávislý / TNS",
+      "retraite": "odchod do dôchodku",
+      "sansEmploi": "Nezamestnaný"
+    },
+    "seniority": {
+      "moins1an": "Menej ako rok",
+      "1a3ans": "1 až 3 roky",
+      "plus3ans": "Viac ako 3 roky"
+    },
+    "ownership": {
+      "proprietaireSansCredit": "Vlastník, bez aktuálneho kreditu",
+      "proprietaireAvecCredit": "Majiteľ s aktuálnym kreditom",
+      "locataire": "Nájomca",
+      "heberge": "Hostené"
+    },
+    "incident": {
+      "oui": "áno",
+      "non": "Nie",
+      "inconnu": "ja neviem"
+    }
+  },
+  "number": {
+    "suffix": "€/mesiac"
+  },
+  "states": {
+    "go": {
+      "label": "Seriózna trať",
+      "description": "Zhromaždené prvky umožňujú študovať požiadavku."
+    },
+    "work": {
+      "label": "Súbor na konsolidáciu",
+      "description": "Dnes sa spomaľuje špecifický bod. Môže vstať."
+    },
+    "stop": {
+      "label": "V súčasnom stave to nie je možné",
+      "description": "Financovanie dnes nie je reálne. Tu je užitočnejší návod."
+    }
+  },
+  "result": {
+    "title": "Vaše čítanie",
+    "reasonLabel": "Čo vyniká",
+    "leversLabel": "Čo môže zmeniť odpoveď",
+    "resourceLabel": "Užitočný zdroj",
+    "productLabel": "Financovanie na preskúmanie",
+    "productLink": "Pozrite si toto financovanie",
+    "note": "Toto čítanie je orientačné, nie úverové rozhodnutie. Iba štúdium vášho úplného súboru je autentické.",
+    "ctaSimulate": "Odhadnite moju mesačnú splátku",
+    "ctaRequest": "Pokračujte v žiadosti",
+    "ctaRestart": "Zopakujte čítanie"
+  },
+  "reasons": {
+    "insufficientCapacity": "V súčasnosti deklarovaný príjem nepokrýva nový termín bez toho, aby to neoslabilo váš rozpočet.",
+    "unemployedOwner": "Bez príjmu z činnosti si financovanie vyžaduje spoliehať sa na hodnotu svojho majetku.",
+    "unemployedNoAsset": "Bez príjmu z práce alebo majetku, ktorý by sa dal ako zábezpeka, dnes nie je reálne žiadne financovanie.",
+    "filedWithProperty": "Registrácia blokuje klasický kredit, ale je možné študovať spätné odkúpenie kryté vašou nehnuteľnosťou.",
+    "filedNoCollateral": "Registrácia FICP alebo FCC bez záruky obmedzuje prístup k úveru, kým trvá.",
+    "highDebtRatioOwner": "Vaše výdavky majú veľkú váhu, ale zoskupenie kreditov okolo vášho majetku môže znížiť rozpočet.",
+    "tightCapacity": "Vaša kapacita splácania je obmedzená: súbor drží, ak ho posilníte.",
+    "youngIndependant": "Vaša činnosť je nedávna: veritelia vo všeobecnosti očakávajú viac seniority a súvahy.",
+    "shortContract": "Krátka zmluva oslabuje súbor v očiach veriteľa bez toho, aby ho znemožňovala.",
+    "shortSeniority": "Votre ancienneté est encore courte : quelques mois de plus renforceront nettement le dossier.",
+    "healthyStable": "Stabilná situácia a zdravá schopnosť splácania: váš súbor je na dobrej ceste.",
+    "healthyIndependant": "Zavedená aktivita a zdravá kapacita: váš nezávislý súbor má dobrý začiatok.",
+    "checkFiling": "Vaša situácia je priaznivá; Zostáva odstrániť pochybnosti o možnej registrácii predtým, ako pôjdeme ďalej."
+  },
+  "levers": {
+    "consolidate": "Konsolidujte svoje súčasné kredity, aby ste znížili celkovú mesačnú platbu.",
+    "reduceCharges": "Pred odoslaním žiadosti znížte opakujúci sa poplatok.",
+    "addDownPayment": "Na zníženie financovanej sumy si prineste osobnú sumu.",
+    "coBorrower": "Predložte spoludlžníka na posilnenie príjmu súboru.",
+    "gainSeniority": "Získajte vo svojej situácii niekoľko mesiacov navyše.",
+    "propertyAppraisal": "Nechajte si oceniť svoju nehnuteľnosť, aby ste mohli posúdiť dostupnú záruku.",
+    "provideBilans": "Zhromaždite svoje účtovné súvahy, aby ste zdôvodnili pravidelnosť svojich príjmov.",
+    "waitDelisting": "Počkajte na zrušenie registrácie alebo požiadajte o úpravu.",
+    "verifyFiling": "Overte si svoju situáciu s Banque de France (právo na voľný prístup)."
+  },
+  "resources": {
+    "mediationBanqueDeFrance": "Banque de France poskytuje bezplatné informácie o vašich registračných a regularizačných trasách.",
+    "debtCounseling": "Rozpočtové poradenstvo vám môže pomôcť vyčistiť situáciu pred akýmkoľvek úverom."
+  }
+}

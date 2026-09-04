@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Questions frÃ©quentes â€” OrentaLoan",
+    "description": "Ã‰ligibilitÃ©, taux, sÃ©curitÃ©, dÃ©lais : les rÃ©ponses claires, sans promesse."
+  },
+  "title": "Questions frÃ©quentes",
+  "intro": "Les rÃ©ponses claires aux questions qu'on nous pose le plus, sans dÃ©tour et sans promesse.",
+  "searchLabel": "Rechercher une question",
+  "searchPlaceholder": "Rechercher une questionâ€¦",
+  "empty": "Aucune question ne correspond Ã  votre recherche.",
+  "categories": [
+    {
+      "id": "eligibilite",
+      "label": "Ã‰ligibilitÃ©",
+      "items": [
+        {
+          "q": "Puis-je emprunter en Ã©tant fichÃ© FICP ?",
+          "a": "Le crÃ©dit classique accordÃ© sur score sera refusÃ©, mais un financement adossÃ© Ã  une garantie peut Ãªtre Ã©tudiÃ©. Le prÃ©-diagnostic vous dit honnÃªtement oÃ¹ vous en Ãªtes."
+        },
+        {
+          "q": "Acceptez-vous les indÃ©pendants sans trois bilans ?",
+          "a": "Oui, sous conditions : une activitÃ© Ã©tablie et des relevÃ©s rÃ©guliers peuvent compenser l'absence de trois bilans."
+        },
+        {
+          "q": "Un CDD ou de l'intÃ©rim, est-ce Ã©liminatoire ?",
+          "a": "Non. Un contrat court fragilise le dossier mais ne le rend pas impossible, surtout avec de l'anciennetÃ© dans la mÃªme branche ou un co-emprunteur."
+        }
+      ]
+    },
+    {
+      "id": "tarifs",
+      "label": "Taux et coÃ»ts",
+      "items": [
+        {
+          "q": "Le TAEG est-il garanti Ã  l'avance ?",
+          "a": "Ne. Rodomi įkainiai yra orientaciniai. Galutinė APR pateikiama sutarties pasiūlyme, išnagrinėjus bylą."
+        },
+        {
+          "q": "Kodėl APR yra didesnė nei rodoma norma?",
+          "a": "APR yra efektyvi norma, kuri apima išlaidas ir galimą draudimą: normalu, kad ji yra didesnė už vien skolinimosi palūkanų normą."
+        },
+        {
+          "q": "Ar yra taikomi apdorojimo mokesčiai?",
+          "a": "Priklausomai nuo gaminio. Visos išlaidos yra aiškiai nurodytos pasiūlyme, prieš pasirašant."
+        }
+      ]
+    },
+    {
+      "id": "sauga",
+      "label": "Sauga ir duomenys",
+      "items": [
+        {
+          "q": "Ką daryti su mano duomenimis?",
+          "a": "Jie naudojami tik jūsų užklausai išnagrinėti ir su jais konsultuojasi tik už tyrimą atsakingi asmenys pagal konfidencialumo politiką."
+        },
+        {
+          "q": "Ar mano atsakymai į simuliatorių išsiųsti?",
+          "a": "Ne. Kol nepatvirtinsite užklausos, atsakymai lieka jūsų įrenginyje."
+        }
+      ]
+    },
+    {
+      "id": "kursas",
+      "label": "Kursas ir terminai",
+      "items": [
+        {
+          "q": "Kiek trunka tyrimas?",
+          "a": "Jums paskelbtas aiškus studijų terminas, ir mes jo laikomės. Jokios dirbtinės skubos, jokio atgalinio skaičiavimo."
+        },
+        {
+          "q": "Ar išankstinė diagnozė yra kredito sutartis?",
+          "a": "Ne. Tai sąžininga orientacija be įsipareigojimo ar rodomo balo: tai nėra kredito sprendimas."
+        },
+        {
+          "q": "Ar galiu vėliau atnaujinti užklausą?",
+          "a": "Taip. Atsakymai išsaugomi jūsų įrenginyje, kol baigsite, ir ištrinami, kai juos išsiunčiate."
+        }
+      ]
+    }
+  ]
+}

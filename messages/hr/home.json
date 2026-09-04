@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "OrentaLoan – kredit proučen na temelju vaše stvarne situacije",
+    "description": "Kreditna organizacija specijalizirana za datoteke koje su mrežne banke odbile. Proučite stvarne elemente, datoteku po datoteku"
+  },
+  "hero": {
+    "eyebrow": "Specijalizirana kreditna organizacija",
+    "title": "Kredit proučavan na temelju vaše <mark>stvarne situacije</mark>, a ne na temelju rezultata",
+    "subtitle": "Proučavamo datoteke koje banke. mreža često odbacuje. Svaka se odluka donosi o konkretnim elementima, datoteku po datoteku – bez obećanja dogovora.",
+    "ctaPrimary": "Provjerite ispunjavam li uvjete",
+    "ctaSecondary": "Simulirajte mjesečno plaćanje"
+  },
+  "heroMini": {
+    "title": "Procijenite na prvi pogled",
+    "amount": "Iznos",
+    "duration": "Trajanje",
+    "result": "Procijenjena mjesečna uplata",
+    "rateNote": "Indikativna procjena uz {rate} fiksnu kamatnu stopu, isključujući osiguranje",
+    "cta": "Precizirajte moju simulaciju"
+  },
+  "situation": {
+    "eyebrow": "Vaša situacija.",
+    "title": "za koga je ovo financiranje",
+    "intro": "Ovi profili se često odbijaju drugdje. Ovdje ostaju proučavani, ovisno o jamstvima i stvarnom prihodu",
+    "items": [
+      "FICP ili FCC registracija",
+      "Otkup. hipotekarni kredit",
+      "Neovisni ili TNS bez tri bilance",
+      "Kratki ugovor: CDD, privremeni",
+      "Viši u djelatnosti ili u mirovini",
+      "Niski profesionalni novčani tok"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Naše financiranje",
+    "title": "Počinjemo s onim što se temelji na jamstvu.",
+    "intro": "Financiranje podržano vlasništvom ili imovinom ostaje dostupno kada je rezultat blokiran. Slijede klasični špici.",
+    "alsoTitle": "Također dostupno",
+    "allLink": "Pogledajte sva financiranja"
+  },
+  "advantages": {
+    "eyebrow": "Naš način rada",
+    "title": "Što se konkretno mijenja",
+    "items": [
+      {
+        "title": "Odluka o vašoj situaciji",
+        "desc": "Mi pročitajte svoj stvarni rekord – zarade, jamstva, povijest – umjesto automatskog rezultata."
+      },
+      {
+        "title": "Osoba za kontakt, a ne šalter",
+        "desc": "Osoba prati vašu datoteku i objašnjava vam svaki kriterij, bez žargona."
+      },
+      {
+        "title": "Odgovor u jasnom roku",
+        "desc": "Najavljujemo studijski rok i pridržavamo ga se. Bez umjetne hitnosti."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Kako funkcionira",
+    "title": "Pet koraka, ovim redoslijedom",
+    "items": [
+      {
+        "title": "Pred-dijagnoza",
+        "desc": "Sedam pitanja da biste iskreno saznali gdje stoji vaša datoteka."
+      },
+      {
+        "title": "Simulacija",
+        "desc": "Procjenjujete mjesečnu uplatu i ukupni trošak, u stvarnom vremenu."
+      },
+      {
+        "title": "Zahtjev",
+        "desc": "Dovršavate datoteku u pet koraka, vlastitim tempom."
+      },
+      {
+        "title": "Studija",
+        "desc": "Kontakt ispituje vašu stvarnu situaciju i vaše popratne dokumente."
+      },
+      {
+        "title": "Odluka",
+        "desc": "Dobivate obrazložen odgovor i ponudu ako je primjenjiva."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Alat za potpis",
+    "title": "Čitanje vaše datoteke",
+    "intro": "Nekoliko pitanja, a mi ćemo vam iskreno reći gdje je vaša datoteka – s razlogom i što bi moglo utjecati na odgovor.",
+    "states": {
+      "go": {
+        "label": "Ozbiljno pratiti",
+        "desc": "Prikupljeni elementi omogućuju proučavanje zahtjeva"
+      },
+      "work": {
+        "label": "Datoteku treba konsolidirati",
+        "desc": "Danas postoji određena točka."
+      },
+      "stop": {
+        "label": "Kako sada nije moguće",
+        "desc": "Usmjeravamo vas na korisniji izvor od datoteke osuđene na odbijanje."
+      }
+    },
+    "note": "Orijentacija, a ne kreditna odluka. Nema prikazanog rezultata, nema obveze.",
+    "cta": "Čitajte me"
+  },
+  "testimonials": {
+    "eyebrow": "Bili su tamo",
+    "title": "Datoteke su shvaćene ozbiljno",
+    "items": [
+      {
+        "quote": "Dva puta odbijena u agenciji za ugovor na određeno vrijeme. Evo, pogledali smo moje tri godine privremenog rada u istoj poslovnici.",
+        "name": "Karim B.",
+        "role": "Privremeno, otkup kredita",
+        "rating": 5
+      },
+      {
+        "quote": "Neovisan osamnaest mjeseci, bez tri uobičajene procjene. Kredit je bio temeljen na mom stanu.",
+        "name": "LÃ©a M.",
+        "role": "Samostalni, hipotekarni zajam",
+        "rating": 5
+      },
+      {
+        "quote": "Jasno mi je rečeno što blokira i na što se trebam pripremiti. Ponovno sam podnio zahtjev tri mjeseca kasnije, dogodilo se.",
+        "name": "Daniel R.",
+        "role": "Stariji, zajam za posao",
+        "rating": 4
+      },
+      {
+        "quote": "Nezavisan osamnaest mjeseci, mogli su procijeniti moj prihod bez potpunih bilanci.",
+        "name": "Sofia L.",
+        "role": "Honorarac, osobna posudba",
+        "rating": 5
+      },
+      {
+        "quote": "Moj je dosje obrađen brže od očekivanog i imao sam jasna objašnjenja u svakoj fazi.",
+        "name": "Eva D.",
+        "role": "Samozaposlena, otkup kredita",
+        "rating": 5
+      },
+      {
+        "quote": "Imala sam značajno prekoračenje, ali savjetnik je pronašao rješenje prilagođeno mom budžetu.",
+        "name": "Thomas V.",
+        "role": "Stalni ugovor, gotovina",
+        "rating": 4
+      },
+      {
+        "quote": "Zajam mi je omogućio da radim bez iznenađenja. Praćenje je bilo ozbiljno i ljudski.",
+        "name": "Laura P.",
+        "role": "Vlasnica, spremna za posao",
+        "rating": 5
+      },
+      {
+        "quote": "Nisam se osjećala kao da me osuđuju. Sve se dogodilo jednostavno i transparentno.",
+        "name": "Nicolas M.",
+        "role": "Prodajni agent, potrošački kredit",
+        "rating": 5
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "U brojkama",
+    "title": "Referentne vrijednosti, ne obećanja",
+    "note": "Indikativne brojke, isključujući obvezu, predmet mijenjati se razvijati.",
+    "items": [
+      {
+        "value": "48 h",
+        "label": "najavljeno vrijeme učenja"
+      },
+      {
+        "value": "7",
+        "label": "pitanja za prethodnu dijagnozu"
+      },
+      {
+        "value": "14",
+        "label": "proučavanih vrsta financiranja"
+      },
+      {
+        "value": "10",
+        "label": "tržišta u eurozoni"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Naš legitimitet",
+    "title": "Provjerljivo, a ne dekorativno",
+    "intro": "Na ovom tržištu transparentnost je argument. Evo nešto u što se možemo uvjeriti.",
+    "items": [
+      "ACPR odobren br. 61 234 · ORIAS br. 21 004 567",
+      "Član Nacionalnog udruženja medijatora (ANM)",
+      "Agencija u Parizu, 18 boulevard des Capucines (75009)"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Transparentnost na jednostavnom jeziku",
+    "title": "Šifrirani primjer, bez skrivenih zvjezdica",
+    "intro": "Svaka simulacija prikazuje potpuni reprezentativni primjer, bez skrivenih zvjezdica."
+  },
+  "blog": {
+    "eyebrow": "Naš savjet",
+    "title": "Razumite prije nego što se obvežete",
+    "allLink": "Svi savjeti",
+    "items": [
+      {
+        "slug": "understand-inscription-ficp",
+        "category": "Datoteka",
+        "readingTime": "6 min",
+        "title": "FICP datoteka: što stvarno mijenja za kredit"
+      },
+      {
+        "slug": "redemption-credit-mortgage-guide",
+        "category": "Otkup kredita",
+        "readingTime": "8 min",
+        "title": "Otkup hipoteke: kada vaša nekretnina postane rješenje"
+      },
+      {
+        "slug": "debt-rate-35-percent",
+        "category": "Budget",
+        "readingTime": "5 min",
+        "title": "Stopa duga na 35%: što pravilo mijenja za vas"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Za početak saznajte gdje se nalazi vaša datoteka.",
+    "cta": "Čitajte me"
+  }
+}

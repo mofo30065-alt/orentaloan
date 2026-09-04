@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "OrentaLoan — pôžička preštudovaná na vašu skutočnú situáciu",
+    "description": "Špecializovaná úverová organizácia pre súbory zamietnuté sieťovými bankami. Štúdia na skutočných prvkoch, súbor po súbore."
+  },
+  "hero": {
+    "eyebrow": "Špecializovaná úverová organizácia",
+    "title": "Kredit naštudovaný na vašej <mark>skutočnej situácii</mark>, nie na skóre.",
+    "subtitle": "Študujeme súbory, ktoré sieťové banky často ignorujú. Každé rozhodnutie sa robí na konkrétnych prvkoch, súbor po súbore – bez prísľubu dohody.",
+    "ctaPrimary": "Skontrolujte moju spôsobilosť",
+    "ctaSecondary": "Simulujte mesačnú platbu"
+  },
+  "heroMini": {
+    "title": "Odhad na prvý pohľad",
+    "amount": "Suma",
+    "duration": "Trvanie",
+    "result": "Odhadovaná mesačná splátka",
+    "rateNote": "Orientačný odhad na {rate} fixnej ​​úrokovej sadzby úveru bez poistenia.",
+    "cta": "Upravte moju simuláciu"
+  },
+  "situation": {
+    "eyebrow": "Vaša situácia",
+    "title": "Pre koho sú tieto financie určené?",
+    "intro": "Tieto profily sú často odmietnuté inde. Zostávajú tu študovať, podľa záruk a reálneho príjmu.",
+    "items": [
+      "Registrácia FICP alebo FCC",
+      "Splatenie hypotekárneho úveru",
+      "Nezávislé alebo TNS bez troch súvah",
+      "Krátka zmluva: zmluva na dobu určitú, dočasná",
+      "Aktívny alebo dôchodca senior",
+      "Pevný profesionálny cash flow"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Naše financovanie",
+    "title": "Začíname tým, čo je založené na záruke.",
+    "intro": "Financovanie kryté nehnuteľnosťou alebo aktívom zostáva dostupné, keď je skóre zablokované. Nasledujú klasické kredity.",
+    "alsoTitle": "Tiež k dispozícii",
+    "allLink": "Pozrite si všetky finančné prostriedky"
+  },
+  "advantages": {
+    "eyebrow": "Náš spôsob práce",
+    "title": "Čo sa konkrétne zmení",
+    "items": [
+      {
+        "title": "Rozhodnutie o vašej situácii",
+        "desc": "Čítame váš skutočný záznam – príjmy, záruky, históriu – a nie automatické skóre."
+      },
+      {
+        "title": "Rozhovor, nie počítadlo",
+        "desc": "Osoba monitoruje váš súbor a vysvetľuje vám každé kritérium bez žargónu."
+      },
+      {
+        "title": "Odpoveď v jasnej lehote",
+        "desc": "Vyhlasujeme termín štúdia a ten sa držíme. Žiadna umelá naliehavosť."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Ako to funguje",
+    "title": "Päť krokov v tomto poradí",
+    "items": [
+      {
+        "title": "Preddiagnostika",
+        "desc": "Sedem otázok, aby ste úprimne zistili, kde je váš súbor."
+      },
+      {
+        "title": "Simulácia",
+        "desc": "Odhadujete mesačnú splátku a celkové náklady v reálnom čase."
+      },
+      {
+        "title": "Žiadosť",
+        "desc": "Súbor dokončíte v piatich krokoch vlastným tempom."
+      },
+      {
+        "title": "Štúdia",
+        "desc": "Partner preskúma vašu skutočnú situáciu a vaše podporné dokumenty."
+      },
+      {
+        "title": "Rozhodnutie",
+        "desc": "Dostanete odôvodnenú odpoveď a prípadne ponuku."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Nástroj na podpisovanie",
+    "title": "Čítanie vášho súboru",
+    "intro": "Niekoľko otázok a my vám úprimne povieme, kde je váš prípad – s dôvodom a čo by mohlo pohnúť odpoveďou.",
+    "states": {
+      "go": {
+        "label": "Seriózna trať",
+        "desc": "Zhromaždené prvky umožňujú študovať požiadavku."
+      },
+      "work": {
+        "label": "Súbor na konsolidáciu",
+        "desc": "Dnes sa spomaľuje špecifický bod. Tu je návod, ako to zdvihnúť."
+      },
+      "stop": {
+        "label": "V súčasnom stave to nie je možné",
+        "desc": "Nasmerujeme vás na užitočnejší zdroj, než je súbor odsúdený na odmietnutie."
+      }
+    },
+    "note": "Orientačné, nie úverové rozhodnutie. Žiadne zobrazené skóre, žiadne zapojenie.",
+    "cta": "Urobte si moje čítanie"
+  },
+  "testimonials": {
+    "eyebrow": "Prešli tadiaľto",
+    "title": "Súbory sa berú vážne",
+    "items": [
+      {
+        "quote": "Dvakrát odmietnutý v agentúre na zmluvu na dobu určitú. Tu sme sa pozreli na moju trojročnú brigádu v tej istej brandži.",
+        "name": "Karim B.",
+        "role": "Brigádnik, preplatenie kreditu",
+        "rating": 5
+      },
+      {
+        "quote": "Osemnásť mesiacov nezávislý, bez obvyklých troch hodnotení. Úver bol založený na mojom byte.",
+        "name": "Léa M.",
+        "role": "Živnostník, hypotekárny úver",
+        "rating": 5
+      },
+      {
+        "quote": "Bolo mi jasne povedané, čo blokuje a čo si mám pripraviť. Po troch mesiacoch som podal žiadosť znova a stalo sa.",
+        "name": "Daniel R.",
+        "role": "Senior, pracovný úver",
+        "rating": 4
+      },
+      {
+        "quote": "Osemnásť mesiacov nezávislí, dokázali môj príjem zhodnotiť bez kompletných posudkov.",
+        "name": "Sofia L.",
+        "role": "Na voľnej nohe, osobná pôžička",
+        "rating": 5
+      },
+      {
+        "quote": "Môj súbor bol spracovaný rýchlejšie, ako sa očakávalo, a v každej fáze som mal jasné vysvetlenia.",
+        "name": "Eva D.",
+        "role": "Živnostník, splácanie kreditu",
+        "rating": 5
+      },
+      {
+        "quote": "Mal som značné prečerpanie, ale poradca našiel riešenie prispôsobené môjmu rozpočtu.",
+        "name": "Tomáš V.",
+        "role": "Trvalá zmluva, pokladnica",
+        "rating": 4
+      },
+      {
+        "quote": "Pôžička mi umožnila pracovať bez prekvapení. Pokračovanie bolo seriózne a humánne.",
+        "name": "Laura P.",
+        "role": "Majiteľ, pôžička na prácu",
+        "rating": 5
+      },
+      {
+        "quote": "Nemal som pocit, že by ma odsudzovali. Všetko prebehlo jednoducho a transparentne.",
+        "name": "Nicolas M.",
+        "role": "Obchodný zástupca, spotrebný úver",
+        "rating": 5
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "Podľa čísel",
+    "title": "Referencie, nie sľuby",
+    "note": "Orientačné údaje, s výnimkou záväzkov, sa môžu zmeniť.",
+    "items": [
+      {
+        "value": "48 hodín",
+        "label": "oznámený termín štúdia"
+      },
+      {
+        "value": "7",
+        "label": "otázky na predbežnú diagnózu"
+      },
+      {
+        "value": "14",
+        "label": "študované typy financovania"
+      },
+      {
+        "value": "10",
+        "label": "trhy eurozóny"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Naša legitimita",
+    "title": "Overiteľné, nie dekoratívne",
+    "intro": "Na tomto trhu je argumentom transparentnosť. Tu je niečo na kontrolu.",
+    "items": [
+      "ACPR schválené č. 61 234 · ORIAS č. 21 004 567",
+      "Člen Národnej asociácie mediátorov (ANM)",
+      "Agentúra v Paríži, 18 boulevard des Capucines (75009)"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Transparentnosť v jednoduchej angličtine",
+    "title": "Číselný príklad bez skrytej hviezdičky",
+    "intro": "Každá simulácia zobrazuje úplný reprezentatívny príklad bez skrytých hviezdičiek."
+  },
+  "blog": {
+    "eyebrow": "Naša rada",
+    "title": "Pochopte pred spáchaním",
+    "allLink": "Všetky rady",
+    "items": [
+      {
+        "slug": "rozumej-fic-registrácia",
+        "category": "Podanie",
+        "readingTime": "6 min",
+        "title": "Súbor FICP: čo to skutočne mení pre pôžičku"
+      },
+      {
+        "slug": "sprievodca splatením-úveru-hypotéka",
+        "category": "Splatenie kreditu",
+        "readingTime": "8 min",
+        "title": "Odkúpenie hypotéky: keď sa vaša nehnuteľnosť stane riešením"
+      },
+      {
+        "slug": "miera dlhu-35 percent",
+        "category": "Rozpočet",
+        "readingTime": "5 min",
+        "title": "Sadzba dlhu 35 %: čo pre vás mení pravidlo"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Začnite tým, že budete vedieť, kde sa váš súbor nachádza.",
+    "cta": "Urobte si moje čítanie"
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "title": "Naše financiranje â€” OrentaLoan",
+    "description": "14 financiranja proučeno u vašoj stvarnoj situaciji. Krediti podržani jamstvom ili imovinom ostaju dostupni nakon odbijanja banke."
+  },
+  "index": {
+    "eyebrow": "Naše financiranje",
+    "title": "Financiranje za svaku situaciju",
+    "intro": "Ističemo kredite osigurane jamstvom ili imovinom: oni ostaju dostupni kada je rezultat blokiran",
+    "featuredTitle": "nakon odbijanja",
+    "classicTitle": "Klasično financiranje"
+  },
+  "common": {
+    "amounts": "Iznosi.",
+    "duration": "Trajanje",
+    "range": "od {min} do {max}",
+    "monthsRange": "od {min} do {max} mjeseci",
+    "rateTableTitle": "Indikativne stope prema trajanju",
+    "rateDuration": "Trajanje",
+    "rateFixed": "Fiksne stope",
+    "rateVariable": "Promjenjive stope",
+    "rateNote": "Indikativne, neugovorne stope, koje će se vjerojatno razvijati i podliježu proučavanje vaše datoteke",
+    "eligibilityTitle": "Uvjeti prihvatljivosti",
+    "eligibleTitle": "Dostupno ako...",
+    "notEligibleTitle": "Nije prikladno ako...",
+    "documentsTitle": "Dokumenti koje treba dostaviti",
+    "faqTitle": "Često postavljana pitanja",
+    "casesTitle": "Konkretan slučaj",
+    "simulatorTitle": "Procijenite ovo financiranje",
+    "representativeTitle": "Reprezentativni primjer",
+    "ctaSimulate": "Simuliraj ovo financiranje",
+    "ctaDiagnostic": "Provjerite moju podobnost",
+    "ctaRequest": "Podnesite zahtjev",
+    "ctaFinalTitle": "Proučavamo vašu datoteku, a ne vaš rezultat.",
+    "models": {
+      "revolving": "Revolving kredit ne amortizira se kao tradicionalni zajam: njegov trošak ovisi o vašoj upotrebi i brzini otplate. Koristite opći simulator s oprezom ili razgovarajte sa savjetnikom.",
+      "leasing": "U LOA plaćate najamninu, a zatim, po izboru, preostalu vrijednost. Izračun ovisi o imovini i njezinoj povratnoj vrijednosti; savjetnik utvrđuje točnu najamninu.",
+      "bridge": "Kredit za premošćivanje u konačnici se otplaćuje nakon prodaje vaše nekretnine. Njegov trošak ovisi o stvarnom trajanju do prodaje i iznosu predujma.",
+      "factoring": "Faktoring nije zajam: prenosite fakture uz predujam, uz proviziju. Cijena ovisi o vašem volumenu i uvjetima plaćanja."
+    }
+  },
+  "products": {
+    "rachat-credit": {
+      "name": "Iskorištavanje kredita",
+      "teaser": "Konsolidirajte svoje kredite u jedno mjesečno plaćanje, uz potporu vaše imovine ako je potrebno.",
+      "heroSubtitle": "Konsolidirajte svoje kredite u jednu mjesečnu uplatu, uz potporu svoje imovine kada je to potrebno.",
+      "description": "Otkup kredita spaja vaše trenutne zajmove u jedan, sa smanjenom mjesečnom uplatom i reprogramiranim trajanjem. Potpomognut vlasništvom, ostaje proučavan čak i nakon incidenta s plaćanjem.",
+      "eligible": [
+        "Vlasnik želi objediniti nekoliko kredita",
+        "Mali proračun s imovinom koja se mobilizira kao jamstvo",
+        "Različita profesionalna situacija, uključujući samozaposlene"
+      ],
+      "notEligible": [
+        "Stanar bez jamca i već vrlo visoka stopa zaduženosti",
+        "Nema postojećeg kredita za grupiranje"
+      ],
+      "documents": [
+        "Važeći identifikacijski dokument",
+        "Amortizacijske tablice za kredite za grupiranje",
+        "Zadnja tri izvoda računa",
+        "Dokaz o vlasništvu ili vlasništvu porez"
+      ],
+      "faq": [
+        {
+          "q": "Briše li ponovna kupnja FICP registraciju?",
+          "a": "Ne. Može zatvoriti kredite na početku incidenta, što može dovesti do odricanja, ali otpis nije automatski niti zajamčen."
+        },
+        {
+          "q": "Koliko možemo produljiti trajanje?",
+          "a": "Do 420 mjeseci za otkup potpomognut nekretninom, unutar ograničenja vašeg kapaciteta otplate."
+        },
+        {
+          "q": "Mogu li dodati gotovinu?",
+          "a": "Da, može se uključiti dodatna omotnica ako to dopuštaju vaše jamstvo i prihod."
+        }
+      ],
+      "case": {
+        "title": "Grupiranje tri kredita",
+        "detail": "80.000 € grupiranih tijekom 180 mjeseci: jedna mjesečna uplata zamjenjuje tri rate, za raspodjelu troškova i unaprijed poznatu."
+      }
+    },
+    "pret-travaux": {
+      "name": "Radni zajam",
+      "teaser": "Financirajte obnovu, uključujući energetske radove.",
+      "heroSubtitle": "Financirajte obnovu, uključujući radove na uštedi energije.",
+      "description": "Zajmom za radove financira se poboljšanje vašeg doma, od hlađenja do energetske obnove. Može dopuniti javnu pomoć.",
+      "eligible": [
+        "Vlasnik-stanar ili najmodavac",
+        "Projekt energetske obnove prihvatljiv za potporu",
+        "Redoviti prihod, čak i skroman, s pratećom procjenom"
+      ],
+      "notEligible": [
+        "Rad bez procjene ili dokaza o korištenju",
+        "Kapacitet za nadoknadu već je ispunjen"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Detaljna procjena radova",
+        "Nedavni dokaz adrese",
+        "Posljednje dvije porezne obavijesti"
+      ],
+      "faq": [
+        {
+          "q": "Mogu li kombinirati javnu pomoć za renoviranje?",
+          "a": "Da. Zajam za rad nadopunjuje pomoć; prikupljeni iznosi ne ulaze u kredit."
+        },
+        {
+          "q": "Jesu li sredstva isplaćena odjednom?",
+          "a": "Ovisno o mjestu, moguće je postupno otpuštanje nakon predočenja računa."
+        },
+        {
+          "q": "Morate li biti vlasnik?",
+          "a": "Najčešće da, ali može se proučiti najmoprimac koji izvodi radove uz suglasnost vlasnika."
+        }
+      ],
+      "case": {
+        "title": "Energetska obnova",
+        "detail": "25.000 € kroz 84 mjeseca za izolaciju i dizalicu topline, uz pomoć."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Gotovinski zajam",
+      "teaser": "Prijeđite prekretnicu novčanog toka za svoju aktivnost, bez vezanja sredstava.",
+      "heroSubtitle": "Ostvarite prekretnicu novčanog toka za svoje poslovanje, bez imobilizacije svoje imovine.",
+      "description": "Gotovinski zajam pokriva zahtjev za radnim kapitalom: kašnjenje plaćanja, sezonsko opterećenje, privremene poteškoće. Proučite stvarnost svoje aktivnosti.",
+      "eligible": [
+        "TPE, neovisno ili TNS s uspostavljenom aktivnošću",
+        "Jednokratna potreba za opravdanim obrtnim kapitalom",
+        "Profesionalni račun s redovitim pokretima"
+      ],
+      "notEligible": [
+        "Aktivnost stvorena nakon manje od šest mjeseci bez povijesti",
+        "Dugoročna strukturna potreba koja se odnosi na drugi proizvod"
+      ],
+      "documents": [
+        "Kbis izvadak ili ekvivalent",
+        "Posljednje dvije bilance ili računovodstvena situacija",
+        "Profesionalna izvješća o računu",
+        "Identitet dokument upravitelja"
+      ],
+      "faq": [
+        {
+          "q": "Jesu li potrebne tri bilance?",
+          "a": "Ne. Nedavna računovodstvena situacija i redoviti izvještaji mogu biti dovoljni za studiju."
+        },
+        {
+          "q": "Koje je vrijeme izdavanja?",
+          "a": "Nakon prihvaćanja i potpisivanja ponude sredstva se isplaćuju u zakonskim rokovima."
+        },
+        {
+          "q": "Je li potrebno jamstvo?",
+          "a": "Ovisno o iznosu, može se tražiti jamstvo upravitelja ili jamstvo."
+        }
+      ],
+      "case": {
+        "title": "Nedostatak novčanog toka",
+        "detail": "30.000 € tijekom 48 mjeseci za apsorbiranje praznine u plaćanju korisnika, nadoknađuje se po primitku naplate."
+      }
+    },
+    "loa": {
+      "name": "LOA / Leasing",
+      "teaser": "Korištenje vozila ili opreme bez trenutne kupnje.",
+      "heroSubtitle": "Koristite vozilo ili opremu bez kupnje, uz mogućnost kupnje na kraju ugovora.",
+      "description": "Najam s opcijom otkupa znači da plaćate najamninu za korištenje nekretnine, uz mogućnost stjecanja iste po njenoj preostaloj vrijednosti. Naplata se širi, dobro ostaje garancija.",
+      "eligible": [
+        "Pojedinac ili profesionalac koji želi koristiti bez trenutne kupnje",
+        "Redoviti prihod koji pokriva najam",
+        "Projekt koji se odnosi na vozilo ili opremu koja se može identificirati"
+      ],
+      "notEligible": [
+        "Potražite gotovinski kapital (upotreba financiranja LOA)",
+        "Imovina koja se ne može osigurati ili ju je teško preprodati"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Dokaz o prihodu",
+        "Narudžbenica ili ponuda za nekretninu",
+        "Dokaz o adresi"
+      ],
+      "faq": [
+        {
+          "q": "Jesam li ja vlasnik nekretnine?",
+          "a": "Ne tijekom najma. To postajete ako iskoristite opciju kupnje po očekivanoj rezidualnoj vrijednosti."
+        },
+        {
+          "q": "Je li uključeno održavanje?",
+          "a": "Prema ugovoru; neki paketi uključuju održavanje i osiguranje."
+        },
+        {
+          "q": "Mogu li na kraju vratiti nekretninu?",
+          "a": "Da. Bez korištenja opcije vraćate nekretninu u stanju predviđenom ugovorom."
+        }
+      ],
+      "case": {
+        "title": "Vozilo pod LOA",
+        "detail": "Vrijednost od 30.000 €, 48 najamnina zatim preostala vrijednost: vi birate kupiti ili vratiti."
+      }
+    },
+    "affacturage": {
+      "name": "Faktoring",
+      "teaser": "Pretvorite fakture svojih klijenata u odmah dostupnu gotovinu.",
+      "heroSubtitle": "Pretvorite fakture svojih klijenata u odmah dostupnu gotovinu.",
+      "description": "Faktoring nije zajam: dodijelite svoje fakture na naplatu uz trenutni predujam, u zamjenu za proviziju. Vaš novčani tok prati vaš promet.",
+      "eligible": [
+        "Tvrtka koja fakturira profesionalne klijente",
+        "Ponavljajuća potraživanja s rokovima plaćanja",
+        "Potreba za izravnavanjem novčanog tijeka bez zaduživanja"
+      ],
+      "notEligible": [
+        "B2C aktivnost bez profesionalnih faktura",
+        "Osporena ili već dospjela dugovanja"
+      ],
+      "documents": [
+        "Kbis izvadak",
+        "Nedavno stanje klijenta",
+        "Primjeri faktura i uvjeta plaćanja",
+        "Identitet dokument upravitelja"
+      ],
+      "faq": [
+        {
+          "q": "Je li ovo kredit?",
+          "a": "Ne. To je ustupanje dugova u zamjenu za predujam; to ne povećava vaš bankovni dug."
+        },
+        {
+          "q": "Tko kontaktira moje klijente?",
+          "a": "Ovisno o formuli, opomene i naplata mogu se delegirati faktoru."
+        },
+        {
+          "q": "Koja je cijena?",
+          "a": "Provizija za faktoring i provizija za financiranje, ovisno o obimu i rokovima. Detalji se nalaze u ugovoru."
+        }
+      ],
+      "case": {
+        "title": "Predujam na fakturama",
+        "detail": "Korisnička stavka od 100.000 € financirana u roku od nekoliko dana, prema stopi vaših faktura."
+      }
+    },
+    "pret-relais": {
+      "name": "Zajam za premošćivanje",
+      "teaser": "Kupite prije nego što ste prodali, tijekom prijelaza.",
+      "heroSubtitle": "Kupite novu nekretninu prije nego što ste prodali trenutnu, tijekom prijelaza.",
+      "description": "Kredit za premošćivanje predujmi dio vrijednosti vaše nekretnine stavljene na prodaju. Otplatite kapital prilikom prodaje; u međuvremenu najčešće plaćate samo kamate.",
+      "eligible": [
+        "Vlasnik prodaje nekretninu da bi kupio drugu",
+        "Nekretnina stavljena na prodaju po realnoj vrijednosti",
+        "Mogućnost preuzimanja kamate tijekom razdoblja prijenosa"
+      ],
+      "notEligible": [
+        "Nekretnina koja se teško prodaje ili je precijenjena",
+        "Nepostojanje konkretnog projekta kupnje nasuprot"
+      ],
+      "documents": [
+        "Procjena ili mandat za prodaju nekretnine",
+        "Vlasnički list",
+        "Kompromis ili predložena kupnja",
+        "Identifikacijski dokument"
+      ],
+      "faq": [
+        {
+          "q": "Što se događa ako ne prodam na vrijeme?",
+          "a": "Zajam za premošćivanje ima ograničeno trajanje (12 do 24 mjeseca). Izlazno rješenje se planira i raspravlja od samog početka."
+        },
+        {
+          "q": "Koliko mogu dobiti?",
+          "a": "Općenito, konzervativni dio procijenjene vrijednosti, kako bi se uzelo u obzir tržište."
+        },
+        {
+          "q": "Plaćamo li glavnicu svaki mjesec?",
+          "a": "Ne. Kapital se otplaćuje prilikom prodaje; plaćate samo kamate, prema odabranoj formuli."
+        }
+      ],
+      "case": {
+        "title": "Kupnja prije prodaje",
+        "detail": "200.000 € unaprijed za 12 mjeseci s djelomičnim izuzećem: plaćate samo kamate do prodaje."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Zajam za nekretninu",
+      "teaser": "Financirajte kupnju nekretnine na temelju vaše stvarne situacije.",
+      "heroSubtitle": "Financiranje kupnje nekretnine proučeno na temelju vaše stvarne situacije, a ne na temelju rezultata.",
+      "description": "Zajmom za nekretninu financira se stjecanje vašeg stana ili ulaganja. Proučavamo atipične dosjee: neovisne osobe, kratke ugovore, profile isključene drugdje.",
+      "eligible": [
+        "Kupnja projekta s doprinosom ili jamstvom",
+        "Redoviti prihod, uključeni samozaposleni",
+        "Netipičan profil, ali inače solidna datoteka"
+      ],
+      "notEligible": [
+        "Dug jasno premašuje bonitetne pragove bez jamstva",
+        "Nema doprinosa ili imovine koja se može staviti pod hipoteku"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Ugovor o prodaji",
+        "Zadnje tri platne liste ili bilance",
+        "Najnoviji izvodi računa"
+      ],
+      "faq": [
+        {
+          "q": "Prihvaćate li samozaposlene osobe bez tri bilance?",
+          "a": "Da, pod uvjetima: uspostavljena aktivnost i redovita očitanja mogu nadoknaditi."
+        },
+        {
+          "q": "Je li doprinos obavezan?",
+          "a": "Ne sustavno, ali jasno jača datoteku i brzinu."
+        },
+        {
+          "q": "Je li stopa fiksna?",
+          "a": "Fiksno ili promjenjivo ovisno o trajanju; gornja tablica daje indikativne referentne vrijednosti."
+        }
+      ],
+      "case": {
+        "title": "Kupnja boravišta",
+        "detail": "200.000 € tijekom 240 mjeseci: mjesečna uplata poznata unaprijed, izračunata do centa."
+      }
+    },
+    "credit-consommation": {
+      "name": "Potrošački kredit",
+      "teaser": "Financirajte osobni projekt, opremu ili neočekivani događaj.",
+      "heroSubtitle": "Financirajte osobni projekt, opremu ili neočekivani događaj.",
+      "description": "Potrošačkim kreditom financira se utvrđena potreba bez stavljanja imovine pod hipoteku. Izmjereni iznosi i trajanja, proučite prema svom stvarnom budžetu.",
+      "eligible": [
+        "Redoviti prihodi koji pokrivaju mjesečnu otplatu",
+        "Osobni projekt koji se može identificirati",
+        "Stopa duga pod kontrolom"
+      ],
+      "notEligible": [
+        "Proračun je već opterećen drugim kreditima",
+        "Gotovina je zatražena bez jasne mogućnosti otplate"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Dokaz o adresi",
+        "Zadnja dva isplatna lista",
+        "Zadnja porezna obavijest"
+      ],
+      "faq": [
+        {
+          "q": "U kojem vremenu odgovora?",
+          "a": "Jasan vam je rok za učenje i mi ga se pridržavamo."
+        },
+        {
+          "q": "Mogu li prijevremeno otplatiti?",
+          "a": "Da, u bilo koje vrijeme, pod pravnim uvjetima navedenim u ugovoru."
+        },
+        {
+          "q": "Je li potreban dokaz o korištenju?",
+          "a": "Ovisno o iznosu i vrsti kredita; to ćemo vam reći tijekom studije."
+        }
+      ],
+      "case": {
+        "title": "Osobni projekt",
+        "detail": "15.000 € tijekom 48 mjeseci: mjesečno plaćanje, ukupni trošak i APR prikazani prije bilo kakvog potpisa."
+      }
+    },
+    "pret-auto": {
+      "name": "Kredit za automobil",
+      "teaser": "Kupite novo ili rabljeno vozilo uz čistu mjesečnu otplatu.",
+      "heroSubtitle": "Kupite novo ili rabljeno vozilo uz čistu mjesečnu otplatu.",
+      "description": "Kreditom za automobil financira se kupnja vozila. Nekretnina se može koristiti kao jamstvo, što otvara mogućnost financiranja za razne profile.",
+      "eligible": [
+        "Kupnja prepoznatljivog novog ili rabljenog vozila",
+        "Redoviti prihod",
+        "Profil prihvaćen zahvaljujući jamstvu za vozilo"
+      ],
+      "notEligible": [
+        "Vozilo bez računa ili upotrebljive registracijske kartice",
+        "Nedovoljna sposobnost otplate unatoč jamstvu"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Narudžbenica ili potvrda o prijenosu",
+        "Dokaz o prihodu",
+        "Dokaz o adresi"
+      ],
+      "faq": [
+        {
+          "q": "Financiraju li se nova i rabljena vozila?",
+          "a": "Da, s trajanjem prilagođenim starosti vozila."
+        },
+        {
+          "q": "Je li vozilo u zalogu?",
+          "a": "Ovisno o formuli, zalog se može uzeti kao jamstvo."
+        },
+        {
+          "q": "Mogu li financirati osiguranje?",
+          "a": "Osiguranje zajmoprimca nije obavezno i ​​može se uključiti u mjesečnu otplatu."
+        }
+      ],
+      "case": {
+        "title": "Rabljeni automobil",
+        "detail": "20.000 € tijekom 60 mjeseci, jamstvo financiranog vozila."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Revolving kredit",
+      "teaser": "Fleksibilna rezerva novca koju treba štedljivo koristiti.",
+      "heroSubtitle": "Fleksibilna rezerva novca koju treba štedljivo koristiti.",
+      "description": "Revolving kredit osigurava rezervu koju slobodno koristite i nadopunjujete tijekom otplate. Fleksibilan, ali skup: rezerviran za male, jednokratne potrebe.",
+      "eligible": [
+        "Jednokratna potreba malog iznosa",
+        "Mogućnost brze otplate kako bi se ograničili troškovi",
+        "Redoviti prihod"
+      ],
+      "notEligible": [
+        "Dug projekt, gdje amortizirajući zajam košta mnogo manje",
+        "Poteškoće s otplatom većom od kamate svaki mjesec"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Dokaz o adresi",
+        "Dokaz o prihodu",
+        "Nedavni izvadak računa"
+      ],
+      "faq": [
+        {
+          "q": "Zašto je stopa visoka?",
+          "a": "Fleksibilnost ima svoju cijenu. Što brže otplaćujete, plaćate manje kamate."
+        },
+        {
+          "q": "Moram li koristiti pričuvu?",
+          "a": "Ne. Kamate se obračunavaju samo na stvarno iskorišteni iznos."
+        },
+        {
+          "q": "Je li ovo prikladno za veliku kupnju?",
+          "a": "Rijetko. Za projekt je povratni kredit gotovo uvijek jeftiniji."
+        }
+      ],
+      "case": {
+        "title": "Mala jednokratna potreba",
+        "detail": "3000 € iskorišteno i otplaćeno u 24 mjeseca: trošak izravno ovisi o vašoj stopi otplate."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Studentski zajam",
+      "teaser": "Financijski studij i troškovi života.",
+      "heroSubtitle": "Financijski studij i troškovi života uz odgovarajuću naknadu.",
+      "description": "Studentskim kreditom financiraju se školarine i svakodnevni život, često uz odgodu otplate tijekom studija. Veza jača slučaj.",
+      "eligible": [
+        "Student upisan u priznatu ustanovu",
+        "Prisutnost jamca ili jamstva",
+        "Studijski projekt u skladu s iznosom"
+      ],
+      "notEligible": [
+        "Odsutnost jamca i vjerodostojnog budućeg prihoda",
+        "Iznos koji nije povezan s tečajem"
+      ],
+      "documents": [
+        "Identifikacijski dokument",
+        "Školska svjedodžba ili potvrda o registraciji",
+        "Popratni dokumenti od jamca",
+        "Dokaz o adresi"
+      ],
+      "faq": [
+        {
+          "q": "Mogu li odgoditi povrat?",
+          "a": "Da, djelomično ili potpuno odgađanje tijekom studija je uobičajeno; kamate se obračunavaju prema formuli."
+        },
+        {
+          "q": "Je li potreban jamac?",
+          "a": "Ovo je najčešće potrebno i značajno poboljšava uvjete."
+        },
+        {
+          "q": "Je li cijena povoljnija?",
+          "a": "Studentske cijene među najnižima su; pogledajte gornju pokaznu tablicu."
+        }
+      ],
+      "case": {
+        "title": "Financiranje tečaja",
+        "detail": "15.000 € tijekom 60 mjeseci s odgodom tijekom studija, nadoknada po ulasku u radni vijek."
+      }
+    },
+    "financement-equipement": {
+      "name": "Financiranje opreme",
+      "teaser": "Financirajte profesionalne strojeve, opremu ili vozila.",
+      "heroSubtitle": "Financirajte profesionalne strojeve, opremu ili vozila bez opterećenja vašeg novčanog toka.",
+      "description": "Financiranjem opreme financira se proizvodna imovina, koja često služi kao kolateral. Čuva vaš novčani tok za poslovanje.",
+      "eligible": [
+        "Tvrtka ulaže u prepoznatljivu opremu",
+        "Imovina koja se može preprodati i služi kao jamstvo",
+        "Redovna aktivnost računa"
+      ],
+      "notEligible": [
+        "Oprema zastarjela ili je teško preprodati",
+        "Tvrtka bez dokazane sposobnosti otplate"
+      ],
+      "documents": [
+        "Kbis izvadak",
+        "Ponuda ili predračun za opremu",
+        "Posljednje dvije bilance",
+        "Profesionalna izvješća o računu"
+      ],
+      "faq": [
+        {
+          "q": "Služi li oprema kao jamstvo?",
+          "a": "Često da, što olakšava dogovor čak i mladoj strukturi."
+        },
+        {
+          "q": "Kredit ili leasing?",
+          "a": "Oba su moguća; savjetnik uspoređuje prema vašoj poreznoj situaciji i vašim potrebama."
+        },
+        {
+          "q": "Koliko dugo?",
+          "a": "Usklađeno s trajanjem korištenja opreme, do 84 mjeseca."
+        }
+      ],
+      "case": {
+        "title": "Kupnja opreme",
+        "detail": "40.000 € tijekom 60 mjeseci za proizvodnu opremu, založeno na financiranu imovinu."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Kreativni zajam/zajam za nastavak",
+      "teaser": "Financirajte pokretanje ili nastavak aktivnosti.",
+      "heroSubtitle": "Financirajte pokretanje ili nastavak aktivnosti, osim osobnog doprinosa.",
+      "description": "Zajam za stvaranje i preuzimanje dopunjuje vaša vlastita sredstva za pokretanje ili kupnju posla. Datoteka se temelji na projektu, prognozi i jamstvima.",
+      "eligible": [
+        "Voditelj projekta s poslovnim planom s troškovima",
+        "Osobni doprinos ili sufinanciranje",
+        "Nastavak aktivnosti s računima koji se mogu iskoristiti"
+      ],
+      "notEligible": [
+        "Projekt bez doprinosa, jamstva ili predviđanja",
+        "Sektor bez ikakve vidljivosti prihoda"
+      ],
+      "documents": [
+        "Poslovni plan i predviđanje",
+        "Identifikacijski dokument",
+        "Dokaz doprinosa",
+        "Kompromis o preuzimanju ako je primjenjivo"
+      ],
+      "faq": [
+        {
+          "q": "Je li potreban doprinos?",
+          "a": "Doprinos, čak i skroman, odlučujući je; može se nadopuniti kreativnim pomagalima."
+        },
+        {
+          "q": "Financirate li preuzimanje?",
+          "a": "Da, na temelju ciljnih računa i vašeg plana oporavka."
+        },
+        {
+          "q": "Je li potrebno jamstvo?",
+          "a": "Često, u obliku jamstva upravitelja ili jamstva namjenske organizacije."
+        }
+      ],
+      "case": {
+        "title": "Povrat sredstava",
+        "detail": "60.000 € tijekom 60 mjeseci uz doprinos, potkrijepljen prognozom oporavka."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Profesionalne nekretnine",
+      "teaser": "Financirajte poslovne nekretnine ili poslovne prostore.",
+      "heroSubtitle": "Financirajte poslovne nekretnine ili poslovne prostore.",
+      "description": "Profesionalni kredit za nekretnine financira kupnju poslovnog prostora. Imovina predstavlja jamstvo, što otvara mogućnost financiranja različitim strukturama.",
+      "eligible": [
+        "Tvrtka kupuje svoje prostore ili poslovne prostore",
+        "Profesionalna imovina koja služi kao jamstvo",
+        "Računi koji pokazuju sposobnost otplate"
+      ],
+      "notEligible": [
+        "Prostori bez prave profesionalne upotrebe",
+        "Dug strukture već je kritičan"
+      ],
+      "documents": [
+        "Kbis izvadak",
+        "Kompromis za prodaju prostora",
+        "Posljednje dvije bilance",
+        "Profesionalna izvješća o računu"
+      ],
+      "faq": [
+        {
+          "q": "SCI ili tvrtka eksploatacije?",
+          "a": "Proučavaju se dva rasporeda; savjetnik će vas voditi prema vašoj situaciji."
+        },
+        {
+          "q": "Koliko dugo?",
+          "a": "Do 240 mjeseci, ovisno o vlasništvu i strukturi."
+        },
+        {
+          "q": "Fiksna ili varijabilna stopa?",
+          "a": "Oba postoje; gornja tablica daje indikativne referentne vrijednosti."
+        }
+      ],
+      "case": {
+        "title": "Kupnja zidova",
+        "detail": "300.000 € tijekom 180 mjeseci za stjecanje prostora, za što jamči samo vlasništvo."
+      }
+    }
+  }
+}

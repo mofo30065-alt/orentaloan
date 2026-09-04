@@ -9,8 +9,13 @@ import { pt } from './pt';
 import { pl } from './pl';
 import { ro } from './ro';
 import { bg } from './bg';
+import { el } from './el';
+import { fi } from './fi';
+import { sk } from './sk';
+import { hr } from './hr';
+import { lt } from './lt';
 
-const byLocale: Record<string, CountryLegal> = { fr, en, es, de, it, nl, pt, pl, ro, bg };
+const byLocale: Record<string, CountryLegal> = { fr, en, es, de, it, nl, pt, pl, ro, bg, el, fi, sk, hr, lt };
 
 /** Renvoie les données légales du pays associé à la locale (fr → France). */
 export function getCountryLegal(locale: string): CountryLegal {

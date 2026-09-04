@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Indikativne brojke, nisu ugovorene i ovise o prihvaćanju vaše datoteke."
+  },
+  "infobox": {
+    "title": "Reprezentativni primjer",
+    "amount": "Iznos posuđenog iznosa",
+    "duration": "Trajanje",
+    "rate": "Fiksna kreditna stopa",
+    "apr": "Fiksna APR",
+    "monthly": "Mjesečna otplata",
+    "totalCost": "Ukupni trošak zajma",
+    "totalDue": "Ukupni iznos od",
+    "example": {
+      "amount": "15.000 €",
+      "duration": "48 mjeseci",
+      "rate": "6,90%",
+      "apr": "7,12%",
+      "monthly": "358,50 €",
+      "totalCost": "2.207,87 €",
+      "totalDue": "17.207,87 €"
+    },
+    "note": "Reprezentativni primjer, isključujući izborno osiguranje. Kredit vas obvezuje i morate ga vratiti. Provjerite svoje mogućnosti otplate prije nego što se obvežete."
+  },
+  "labels": {
+    "editor": "Urednik stranice",
+    "legalForm": "Pravni oblik",
+    "capital": "Dionički kapital",
+    "registration": "Registracija",
+    "regulator": "Kontrolno tijelo",
+    "regulatoryNumber": "Broj odobrenja",
+    "vat": "PDV unutar zajednice",
+    "director": "Direktor publikacije",
+    "host": "Domaćin",
+    "mediator": "Posrednik potrošača",
+    "dpo": "Službenik za zaštitu podataka"
+  },
+  "coolingOff": {
+    "title": "Pravo na povlačenje",
+    "body": "Imate {days} kalendarskih dana povući se nakon što potpišete svoju ponudu, bez potrebe da se opravdavate ili snosite kaznu."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Pravne obavijesti â€” OrentaLoan",
+      "description": "izdavač, domaćin, kontrolno i posredničko tijelo."
+    },
+    "title": "Pravne obavijesti",
+    "intro": "Informacije koje se odnose na izdavača ove stranice i njegov regulatorni okvir"
+  },
+  "privacy": {
+    "meta": {
+      "title": "Politika privatnosti – OrentaLoan",
+      "description": "Koje podatke obrađujemo, zašto, koliko dugo i vaša prava."
+    },
+    "title": "Pravila o privatnosti",
+    "intro": "Podaci o vašoj financijskoj situaciji su osjetljivi. Evo, odmah, što ćemo učiniti s njim.",
+    "sections": [
+      {
+        "heading": "Prikupljeni podaci",
+        "body": "Podaci o identitetu i kontaktu, obiteljska, profesionalna i financijska situacija koje navedete te podaci o tehničkoj navigaciji koji su nužno potrebni za rad stranice."
+      },
+      {
+        "heading": "Svrhe",
+        "body": "Proučiti vaš zahtjev za financiranje, kontaktirati vas, poštovati naše zakonske obveze i spriječiti prijevaru. Podaci se ne prodaju."
+      },
+      {
+        "heading": "Pravna osnova",
+        "body": "Vaš pristanak za proučavanje zahtjeva, izvršenje predugovornih mjera i naše pravne obveze za uspostavljanje kredita."
+      },
+      {
+        "heading": "Primatelji",
+        "body": "Samo osobe odgovorne za proučavanje vaše datoteke imaju pristup njoj, kao i strogo nužni podizvođači, vezani povjerljivošću."
+      },
+      {
+        "heading": "Razdoblje čuvanja",
+        "body": "Vaši se podaci čuvaju tijekom trajanja studije, a zatim tijekom primjenjivih zakonskih razdoblja, prije brisanja ili anonimizacije."
+      },
+      {
+        "heading": "Obrada na strani preglednika",
+        "body": "Dok ne potvrdite svoj zahtjev, vaši odgovori ostaju na vašem uređaju i ne šalju nam se."
+      }
+    ],
+    "rightsTitle": "Vaša prava",
+    "rights": [
+      "Pristup, ispravak i brisanje vaših podataka",
+      "Ograničenje i protivljenje obradi",
+      "Prenosivost vaših podataka",
+      "Retrait de votre consentement Ã  tout moment",
+      "RÃ©clamation auprÃ¨s de l'autoritÃ© de protection des donnÃ©es"
+    ],
+    "dpoIntro": "Pour exercer vos droits, contactez notre dÃ©lÃ©guÃ© Ã  la protection des donnÃ©es :"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Conditions gÃ©nÃ©rales d'utilisation â€” OrentaLoan",
+      "description": "RÃ¨gles d'utilisation du site."
+    },
+    "title": "Conditions gÃ©nÃ©rales d'utilisation",
+    "intro": "Ces conditions encadrent l'utilisation du site. Elles ne constituent pas une offre de crÃ©dit.",
+    "placeholder": "L'accÃ¨s au site est gratuit. En le consultant, vous acceptez ces conditions. Les contenus (textes, marques, illustrations) sont la propriÃ©tÃ© de OrentaLoan SA et ne peuvent Ãªtre reproduits sans autorisation. Les simulations et prÃ©-diagnostics sont fournis Ã  titre indicatif et n'engagent pas l'organisme. OrentaLoan se rÃ©serve le droit de faire Ã©voluer le site et ces conditions ; la version applicable est celle en ligne au moment de votre visite. Le droit franÃ§ais s'applique."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Politique de cookies â€” OrentaLoan",
+      "description": "Quels cookies nous utilisons et comment les gÃ©rer."
+    },
+    "title": "Politique de cookies",
+    "intro": "Aucun traceur n'est dÃ©posÃ© sans votre accord. Vous pouvez modifier votre choix Ã  tout moment.",
+    "necessaryTitle": "Cookies strictement nÃ©cessaires",
+    "necessaryBody": "Indispensables au fonctionnement du site (prÃ©fÃ©rence de langue, mÃ©morisation de votre choix de cookies). Ils ne nÃ©cessitent pas de consentement.",
+    "optionalTitle": "Cookies de mesure et de confort",
+    "optionalBody": "DÃ©posÃ©s uniquement aprÃ¨s votre acceptation. Ils nous aident Ã  amÃ©liorer le site sans jamais vous identifier Ã  des fins publicitaires.",
+    "manageTitle": "GÃ©rer mon choix",
+    "manageBody": "Videz le cookie de consentement de votre navigateur pour que le bandeau rÃ©apparaisse, puis choisissez Ã  nouveau."
+  }
+}

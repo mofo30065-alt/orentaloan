@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Simulátor pôžičiek — OrentaLoan",
+    "description": "Odhadnite svoju mesačnú splátku, celkové náklady a orientačnú RPMN. Orientačné čísla, mimozmluvné, s výhradou prijatia."
+  },
+  "title": "Simulátor pôžičiek",
+  "subtitle": "Upravte parametre: všetko sa prepočítava v reálnom čase. Sumy sú orientačné.",
+  "fields": {
+    "amount": {
+      "label": "Výška pôžičky",
+      "help": "Kapitál, ktorý si chcete požičať."
+    },
+    "duration": {
+      "label": "Trvanie úhrady",
+      "help": "Dlhší termín znižuje mesačnú splátku, ale zvyšuje celkové náklady."
+    },
+    "rate": {
+      "label": "Pevná úroková sadzba úveru",
+      "help": "Orientačná ročná nominálna sadzba pre odhad."
+    },
+    "downPayment": {
+      "label": "Príjem (voliteľné)",
+      "help": "Príspevok znižuje financovanú sumu."
+    }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mois} other {# mois}}",
+    "years": "{count, plural, one {# an} other {# ans}}"
+  },
+  "results": {
+    "heading": "Váš odhad",
+    "monthly": "Mesačná splátka",
+    "monthlyAria": "Odhadovaná mesačná platba: {value}",
+    "totalInterest": "Celkový záujem",
+    "totalCost": "Celkové náklady na úver",
+    "apr": "Orientačná APR",
+    "financed": "Financovaná suma"
+  },
+  "chart": {
+    "title": "Rozdelenie kapitálu/úrokov",
+    "principal": "Kapitál",
+    "interest": "Záujmy"
+  },
+  "table": {
+    "show": "Pozrite si tabuľku amortizácie",
+    "hide": "Skryť tabuľku odpisov",
+    "caption": "Amortizačná tabuľka splatnosti podľa splatnosti",
+    "period": "Termín splatnosti",
+    "payment": "Mesačná splátka",
+    "principal": "Kapitál",
+    "interest": "Záujmy",
+    "balance": "Zostávajúce splatné"
+  },
+  "actions": {
+    "email": "Dostávať moju simuláciu e-mailom",
+    "emailPlaceholder": "Vaša e-mailová adresa",
+    "emailSubmit": "Odoslať",
+    "emailSuccess": "Simulácia odoslaná. Skontrolujte si doručenú poštu.",
+    "emailNote": "Váš e-mail používame iba na zaslanie tejto simulácie.",
+    "continue": "Pokračujte v žiadosti"
+  },
+  "disclaimer": "Orientačný a nezmluvný odhad, s výnimkou poistenia a možných nákladov, podlieha preštudovaniu a akceptovaniu vášho spisu. Konečná RPMN sa objaví vo vašej ponuke zmluvy."
+}

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "title": "Požiadať — OrentaLoan",
+    "description": "Odošlite svoju žiadosť o financovanie v piatich krokoch. Údaje o vašej situácii zostanú vo vašom zariadení, kým ich nepotvrdíte."
+  },
+  "title": "Vaša žiadosť o financovanie",
+  "subtitle": "Päť krátkych krokov. Kedykoľvek sa môžete vrátiť.",
+  "savedNote": "Vaše odpovede sú uložené v tomto zariadení, kým nedokončíte. Pred vašou validáciou sa nič neprenáša.",
+  "clearSaved": "Vymazať a začať znova",
+  "progress": "Krok {current} až {total}",
+  "steps": {
+    "project": "Projekt",
+    "personal": "Osobná situácia",
+    "professional": "Profesionálna situácia",
+    "contact": "Kontaktné údaje",
+    "summary": "Zhrnutie"
+  },
+  "fields": {
+    "projectType": "Typ projektu",
+    "amount": "Požadovaná suma (€)",
+    "durationMonths": "Požadované trvanie (mesiace)",
+    "maritalStatus": "Rodinná situácia",
+    "dependents": "Závislí",
+    "housingStatus": "Ubytovanie",
+    "monthlyIncome": "Čistý mesačný príjem (€)",
+    "monthlyCharges": "Mesačné poplatky a kredity (€)",
+    "employmentStatus": "Profesionálna situácia",
+    "seniority": "Seniorita v tejto situácii",
+    "profession": "Profesia (voliteľné)",
+    "incident": "Nahlásený platobný incident (FICP / FCC)",
+    "firstName": "Krstné meno",
+    "lastName": "Meno",
+    "email": "E-mailová adresa",
+    "phone": "Telefón",
+    "postalCode": "PSČ",
+    "city": "Mesto",
+    "select": "Vybrať…"
+  },
+  "options": {
+    "projectType": {
+      "rachat": "Splatenie / konsolidácia kreditov",
+      "tresorerie": "Hotovosť",
+      "immobilier": "Kúpa nehnuteľnosti",
+      "travaux": "Práce / rekonštrukcia",
+      "auto": "Vozidlo",
+      "consommation": "Osobný projekt",
+      "professionnel": "Profesionálny projekt"
+    },
+    "maritalStatus": {
+      "celibataire": "Bakalár",
+      "marie": "nevesta)",
+      "pacse": "Pacsé",
+      "divorce": "rozvedený)",
+      "veuf": "Vdovec/Vdova"
+    },
+    "housingStatus": {
+      "proprietaireSansCredit": "Vlastník, bez aktuálneho kreditu",
+      "proprietaireAvecCredit": "Majiteľ s aktuálnym kreditom",
+      "locataire": "Nájomca",
+      "heberge": "Hostené"
+    },
+    "employmentStatus": {
+      "cdi": "Trvalá zmluva",
+      "cdd": "Zmluva na dobu určitú alebo dočasná",
+      "independant": "Nezávislý / TNS",
+      "retraite": "odchod do dôchodku",
+      "sansEmploi": "Nezamestnaný"
+    },
+    "seniority": {
+      "moins1an": "Menej ako rok",
+      "1a3ans": "1 až 3 roky",
+      "plus3ans": "Viac ako 3 roky"
+    },
+    "incident": {
+      "oui": "áno",
+      "non": "Nie",
+      "inconnu": "ja neviem"
+    }
+  },
+  "errors": {
+    "required": "Toto pole je povinné.",
+    "amountMin": "Suma musí byť aspoň {min} EUR.",
+    "amountMax": "Suma nemôže presiahnuť {max} EUR.",
+    "durationMin": "Trvanie musí byť aspoň {min} mesiacov.",
+    "durationMax": "Trvanie nemôže presiahnuť {max} mesiacov.",
+    "positive": "Uveďte kladné alebo nulové množstvo.",
+    "name": "Zadajte aspoň 2 znaky.",
+    "email": "Zadajte platnú e-mailovú adresu.",
+    "phone": "Zadajte platné telefónne číslo.",
+    "postalCode": "Zadajte platné poštové smerovacie číslo.",
+    "consent": "Na posúdenie žiadosti je potrebný váš súhlas."
+  },
+  "summary": {
+    "title": "Skontrolujte svoje údaje",
+    "edit": "Na úpravu"
+  },
+  "consent": {
+    "label": "Súhlasím s preštudovaním mojej žiadosti na základe týchto informácií. Údaje o mojej finančnej situácii sú citlivé a vidia ich iba osoby zodpovedné za štúdiu v súlade so zásadami dôvernosti."
+  },
+  "actions": {
+    "back": "Predchádzajúce",
+    "next": "Pokračovať",
+    "submit": "Pošlite moju žiadosť",
+    "sending": "Prebieha odosielanie…"
+  },
+  "submitError": "Odoslanie zlyhalo. Skontrolujte pripojenie a skúste to znova.",
+  "confirmation": {
+    "meta": {
+      "title": "Žiadosť odoslaná — OrentaPôžička",
+      "description": "Vaša žiadosť o financovanie je zaregistrovaná. Poradca študuje váš súbor."
+    },
+    "title": "Vaša žiadosť je zaznamenaná",
+    "body": "Poradca si preštuduje váš spis a v ohlásenom termíne vás kontaktuje. Práve vám bol odoslaný potvrdzujúci e-mail.",
+    "referenceLabel": "Vaša referencia",
+    "whatNextTitle": "Pokračovanie",
+    "whatNext": [
+      "Skontrolujeme prvky vášho súboru.",
+      "Kontaktná osoba vás bude kontaktovať kvôli štúdiu.",
+      "V ohlásenom termíne dostanete odôvodnenú odpoveď."
+    ],
+    "ctaHome": "Vráťte sa domov"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "name": "OrentaPôžička",
+    "tagline": "Špecializovaná úverová organizácia"
+  },
+  "skipToContent": "Prejdite na obsah",
+  "nav": {
+    "home": "Vitajte",
+    "credits": "Kredity",
+    "simulator": "Simulátor",
+    "diagnostic": "Predbežná diagnóza",
+    "blog": "Poradenstvo",
+    "contact": "Kontaktovať"
+  },
+  "cta": {
+    "simulate": "Simulovať moju pôžičku",
+    "diagnostic": "Skontrolujte moju spôsobilosť",
+    "simulateShort": "Simulujte mesačnú platbu",
+    "request": "Požiadajte o pôžičku"
+  },
+  "phone": {
+    "label": "Zavolajte nám",
+    "display": "+39 350 125 5841",
+    "number": "+393501255841"
+  },
+  "whatsapp": {
+    "aria": "Začnite chatovať na WhatsApp",
+    "cta": "Chatujte na WhatsApp",
+    "prefill": "Dobrý deň, mám otázku ohľadom Vašej ponuky financovania."
+  },
+  "trust": {
+    "licensed": "Schválené {agrement}",
+    "licensedPlaceholder": "ACPR č. 61,234",
+    "address": "Skutočná a kontaktná adresa"
+  },
+  "localeSwitcher": {
+    "label": "Jazyk",
+    "fr": "francúzsky",
+    "en": "angličtina",
+    "de": "Deutsch",
+    "es": "španielčina",
+    "it": "Italiano",
+    "nl": "Holandsko",
+    "pt": "portugalčina",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Cookies",
+    "message": "Bez vášho súhlasu nepoužívame žiadne sledovače. Môžete prijať alebo odmietnuť, v oboch prípadoch je to rovnako jednoduché.",
+    "link": "Zistite viac",
+    "accept": "prijať všetko",
+    "refuse": "Všetko odmietnuť"
+  },
+  "footer": {
+    "tagline": "Študujeme súbory, ktoré ostatní odmietajú, na základe skutočných prvkov.",
+    "colProducts": "Financovanie",
+    "colCompany": "Organizmus",
+    "colLegal": "Právne informácie",
+    "colContact": "Kontaktujte nás",
+    "legal": {
+      "mentions": "Právne upozornenia",
+      "privacy": "Dôvernosť",
+      "cookies": "Cookies",
+      "terms": "Všeobecné podmienky",
+      "faq": "Často kladené otázky"
+    },
+    "company": {
+      "about": "kto sme",
+      "commitments": "Naše záväzky",
+      "blog": "Poradenstvo"
+    },
+    "newsletter": {
+      "title": "Získajte naše referenčné hodnoty",
+      "help": "Konkrétne kritériá na získanie úveru bez agitácie.",
+      "placeholder": "Vaša e-mailová adresa",
+      "action": "registrujem sa",
+      "success": "Skontrolujte si doručenú poštu: bol vám odoslaný potvrdzujúci e-mail.",
+      "error": "Registrácia zlyhala. Skontrolujte svoju adresu a skúste to znova.",
+      "confirmTitle": "Registrácia potvrdená",
+      "confirmBody": "Ďakujeme, vaša registrácia v našich benchmarkoch je potvrdená. Z odberu sa môžete kedykoľvek odhlásiť.",
+      "confirmError": "Tento potvrdzovací odkaz je neplatný alebo jeho platnosť vypršala."
+    },
+    "rights": "© {year} {brand}. Všetky práva vyhradené.",
+    "publisher": "OrentaLoan SA s kapitálom 50 000 000 EUR — RCS Paris 912 456 789 — 18 boulevard des Capucines, 75009 Paríž"
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Kto sme — OrentaLoan",
+        "description": "Špecializovaná úverová organizácia, ktorá si požičiava a študuje spisy zamietnuté inde, na reálnej situácii."
+      },
+      "title": "kto sme",
+      "intro": "Sme špecializovaná úverová organizácia. Požičiavame priamo a študujeme súbory, ktoré sieťové banky odmietajú, skôr na základe skutočnej situácie ako skóre.",
+      "sections": [
+        {
+          "heading": "Naša práca",
+          "body": "Rozhodujte o konkrétnych prvkoch – príjmoch, zárukách, histórii – a nie o algoritme. Súbor odmietnutý inde transformujeme na kvalifikovaný a realistický súbor, alebo to povieme úprimne, keď to nie je možné."
+        },
+        {
+          "heading": "Naše publikum",
+          "body": "Registrovaní dlžníci, nezávislí bez troch súvah, krátke zmluvy, seniori, napätý podnikový cash flow: profily, ktoré sa často zamietajú a my si dávame čas na ich preštudovanie."
+        },
+        {
+          "heading": "Naša metóda",
+          "body": "Úprimná predbežná diagnóza, štúdia vykonaná kontaktnou osobou, ktorá vám vysvetlí každé kritérium, odôvodnené rozhodnutie. Každé číslo je uvedené pred každým podpisom."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Naše záväzky — OrentaPôžička",
+        "description": "Transparentnosť, čestnosť a rozhodnutie o skutočnej situácii: záväzky, ktoré dodržiavame."
+      },
+      "title": "Naše záväzky",
+      "intro": "Na tomto trhu je naším prvým argumentom transparentnosť. Za tým si bez výnimky stojíme.",
+      "items": [
+        "Žiadny prísľub grantu: nikdy nezaručujeme dohodu.",
+        "Rozhodnutie o vašej skutočnej situácii, nie o automatickom skóre.",
+        "Oznámený a splnený čas odozvy bez umelej naliehavosti.",
+        "Vždy indikatívne čísla a RPMN zobrazené pred každým podpisom.",
+        "S údajmi o vašej situácii sa zaobchádza s prísnou starostlivosťou a nikdy sa nepredávajú."
+      ]
+    }
+  }
+}

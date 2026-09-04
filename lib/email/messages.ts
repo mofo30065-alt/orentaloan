@@ -8,6 +8,11 @@ import ptForm from '@/messages/pt/form.json';
 import plForm from '@/messages/pl/form.json';
 import roForm from '@/messages/ro/form.json';
 import bgForm from '@/messages/bg/form.json';
+import elForm from '@/messages/el/form.json';
+import fiForm from '@/messages/fi/form.json';
+import skForm from '@/messages/sk/form.json';
+import hrForm from '@/messages/hr/form.json';
+import ltForm from '@/messages/lt/form.json';
 
 /**
  * i18n des corps d'e-mails **client** (10 langues, repli FR par clé).
@@ -28,6 +33,11 @@ const FORM: Record<string, FormJson> = {
   pl: plForm as FormJson,
   ro: roForm as FormJson,
   bg: bgForm as FormJson,
+  el: elForm as FormJson,
+  fi: fiForm as FormJson,
+  sk: skForm as FormJson,
+  hr: hrForm as FormJson,
+  lt: ltForm as FormJson,
 };
 
 /** Libellé traduit d'une valeur d'énumération (repli FR puis clé brute). */
@@ -437,7 +447,23 @@ const bg: EmailStrings = {
   nlIgnore: 'Ако не сте направили тази заявка, игнорирайте този имейл.',
 };
 
-const DICT: Record<string, EmailStrings> = { fr, en, de, es, it, nl, pt, pl, ro, bg };
+const DICT: Record<string, EmailStrings> = {
+  fr,
+  en,
+  de,
+  es,
+  it,
+  nl,
+  pt,
+  pl,
+  ro,
+  bg,
+  el: fr,
+  fi: fr,
+  sk: fr,
+  hr: fr,
+  lt: fr,
+};
 
 /** Renvoie les chaînes d'e-mail de la locale, avec repli FR par clé. */
 export function strings(locale: string): EmailStrings {

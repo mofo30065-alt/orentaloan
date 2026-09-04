@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "name": "OrentaLaina",
+    "tagline": "Erikoistunut luottoorganisaatio"
+  },
+  "skipToContent": "Siirry sisältöön",
+  "nav": {
+    "home": "Tervetuloa",
+    "credits": "Krediitit",
+    "simulator": "Simulaattori",
+    "diagnostic": "Ennakkodiagnoosi",
+    "blog": "Neuvoja",
+    "contact": "Ota yhteyttä"
+  },
+  "cta": {
+    "simulate": "Simuloi lainaani",
+    "diagnostic": "Tarkista kelpoisuus",
+    "simulateShort": "Simuloi kuukausimaksu",
+    "request": "Hae lainaa"
+  },
+  "phone": {
+    "label": "Soita meille",
+    "display": "+39 350 125 5841",
+    "number": "+393501255841"
+  },
+  "whatsapp": {
+    "aria": "Aloita chat WhatsAppissa",
+    "cta": "Chat WhatsAppissa",
+    "prefill": "Hei, minulla on kysymys rahoitustarjouksestasi."
+  },
+  "trust": {
+    "licensed": "Hyväksytty {agrement}",
+    "licensedPlaceholder": "ACPR nro 61,234",
+    "address": "Todellinen ja tavoitettavissa oleva osoite"
+  },
+  "localeSwitcher": {
+    "label": "Kieli",
+    "fr": "ranskalainen",
+    "en": "englanti",
+    "de": "Deutsch",
+    "es": "espanja",
+    "it": "Italiano",
+    "nl": "Alankomaat",
+    "pt": "portugali",
+    "pl": "Polski",
+    "ro": "Română",
+    "bg": "Български"
+  },
+  "cookies": {
+    "title": "Evästeet",
+    "message": "Emme käytä merkkiaineita ilman suostumustasi. Voit hyväksyä tai kieltäytyä, se on yhtä yksinkertaista molemmissa tapauksissa.",
+    "link": "Lue lisää",
+    "accept": "hyväksyä kaikki",
+    "refuse": "Kieltäytyä kaikesta"
+  },
+  "footer": {
+    "tagline": "Tutkimme muiden hylkäämiä tiedostoja todellisten elementtien perusteella.",
+    "colProducts": "Rahoitus",
+    "colCompany": "Organismi",
+    "colLegal": "Lakitiedot",
+    "colContact": "Ota yhteyttä",
+    "legal": {
+      "mentions": "Oikeudelliset huomautukset",
+      "privacy": "Luottamuksellisuus",
+      "cookies": "Evästeet",
+      "terms": "Yleiset ehdot",
+      "faq": "Usein kysytyt kysymykset"
+    },
+    "company": {
+      "about": "Keitä me olemme",
+      "commitments": "Sitoumuksemme",
+      "blog": "Neuvoja"
+    },
+    "newsletter": {
+      "title": "Vastaanota vertailuarvomme",
+      "help": "Konkreettiset kriteerit luotolla, ilman valmennusta.",
+      "placeholder": "Sähköpostiosoitteesi",
+      "action": "rekisteröidyn",
+      "success": "Tarkista postilaatikkosi: sinulle on lähetetty vahvistussähköposti.",
+      "error": "Rekisteröinti epäonnistui. Tarkista osoitteesi ja yritä uudelleen.",
+      "confirmTitle": "Ilmoittautuminen vahvistettu",
+      "confirmBody": "Kiitos, rekisteröitymisesi vertailuarvoihin on vahvistettu. Voit peruuttaa tilauksen milloin tahansa.",
+      "confirmError": "Tämä vahvistuslinkki on virheellinen tai vanhentunut."
+    },
+    "rights": "© {year} {brand}. Kaikki oikeudet pidätetään.",
+    "publisher": "OrentaLoan SA, jonka pääoma on 50 000 000 € – RCS Paris 912 456 789 – 18 boulevard des Capucines, 75009 Paris"
+  },
+  "org": {
+    "about": {
+      "meta": {
+        "title": "Keitä me olemme - OrentaLoan",
+        "description": "Erikoistunut luottolaitos, joka lainaa itseään ja tutkii muualla hylättyjä tiedostoja todellisesta tilanteesta."
+      },
+      "title": "Keitä me olemme",
+      "intro": "Olemme erikoistunut luottolaitos. Lainaamme suoraan ja tutkimme verkkopankkien hylkäämiä tiedostoja todellisen tilanteen perusteella eikä pisteytyksen perusteella.",
+      "sections": [
+        {
+          "heading": "Meidän työmme",
+          "body": "Päätä konkreettisista elementeistä – tuloista, takauksista, historiasta – äläkä algoritmista. Muunnamme muualla hylätyn tiedoston päteväksi ja realistiseksi tiedostoksi tai sanomme sen rehellisesti, kun se ei ole mahdollista."
+        },
+        {
+          "heading": "Meidän yleisömme",
+          "body": "Rekisteröityneet lainanottajat, riippumattomat ilman kolmea tasetta, lyhyet sopimukset, seniorit, kireät yritysten kassavirta: profiilit, jotka usein hylätään, joiden tutkimiseen käytämme aikaa."
+        },
+        {
+          "heading": "Meidän menetelmämme",
+          "body": "Rehellinen esidiagnoosi, jokaisen kriteerin sinulle selittävän yhteyshenkilön tekemä tutkimus, perusteltu päätös. Jokainen numero on merkitty ennen allekirjoitusta."
+        }
+      ]
+    },
+    "commitments": {
+      "meta": {
+        "title": "Sitoumuksemme — OrentaLoan",
+        "description": "Avoimuus, rehellisyys ja päätös todellisesta tilanteesta: sitoumukset, joita pidämme."
+      },
+      "title": "Sitoumuksemme",
+      "intro": "Näillä markkinoilla avoimuus on ensimmäinen argumenttimme. Tätä me edustamme poikkeuksetta.",
+      "items": [
+        "Ei lupaa avustuksesta: emme koskaan takaa sopimusta.",
+        "Päätös todellisesta tilanteestasi, ei automaattisesta pistemäärästä.",
+        "Vastausaika ilmoitettiin ja saavutettiin ilman keinotekoista kiirettä.",
+        "Aina viitteelliset luvut ja todellinen vuosikorko ennen allekirjoitusta.",
+        "Tilannetietosi käsiteltiin tarkasti, eikä niitä ole koskaan myyty."
+      ]
+    }
+  }
+}

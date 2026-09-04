@@ -6,10 +6,15 @@ import { es } from './es';
 import { de } from './de';
 import { nl } from './nl';
 import { pt } from './pt';
+import { el } from './el';
+import { fi } from './fi';
+import { sk } from './sk';
+import { hr } from './hr';
+import { lt } from './lt';
 
 export type { Article, ArticleSection } from './types';
 
-const byLocale: Record<string, Article[]> = { fr, en, it, es, de, nl, pt };
+const byLocale: Record<string, Article[]> = { fr, en, it, es, de, nl, pt, el, fi, sk, hr, lt };
 
 export function getArticles(locale: string): Article[] {
   const list = byLocale[locale] ?? fr;

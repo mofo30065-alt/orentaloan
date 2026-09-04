@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Savjet — OrentaLoan",
+    "description": "Konkretne reference na kredit, napisane za čitatelja koji je upravo odbijen."
+  },
+  "title": "Savjet",
+  "intro": "Konkretne reference na kredit, napisane za čitatelja koji je upravo odbijen. Činjenično, bez obećanja.",
+  "filterAll": "Sve",
+  "categories": {
+    "fichage": "Turpijanje",
+    "rachat": "Otkup kredita",
+    "budget": "Proračun",
+    "comprendre": "Da razumijem",
+    "garanties": "Jamstva",
+    "profils": "Profili"
+  },
+  "minutes": "{count} min čitanja",
+  "byAuthor": "Od {author}",
+  "readMore": "Pročitajte članak",
+  "backToList": "Svi savjeti",
+  "suggestedTitle": "Također pročitajte",
+  "shareTitle": "Udio",
+  "empty": "Nema članaka u ovoj kategoriji.",
+  "cta": {
+    "title": "Imate li nedoumica u vezi s vašim dosjeom?",
+    "body": "Obavi Reading: iskreno vodstvo, u samo nekoliko minuta, bez obveze.",
+    "action": "Uradi moje čitanje"
+  },
+  "pagination": {
+    "previous": "Prethodno",
+    "next": "Praćenje",
+    "page": "Stranica {current} na {total}"
+  }
+}

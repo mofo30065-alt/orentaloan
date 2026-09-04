@@ -5,10 +5,26 @@ import { defineRouting } from 'next-intl/routing';
  * Les locales sans fichiers de traduction retombent sur le FR (voir request.ts) :
  * aucune page ne casse, il suffit d'ajouter messages/<locale>/*.json pour activer une langue.
  */
-export const locales = ['fr', 'en', 'de', 'es', 'it', 'nl', 'pt', 'pl', 'ro', 'bg'] as const;
+export const locales = [
+  'fr',
+  'en',
+  'de',
+  'es',
+  'it',
+  'nl',
+  'pt',
+  'pl',
+  'ro',
+  'bg',
+  'el',
+  'fi',
+  'sk',
+  'hr',
+  'lt',
+] as const;
 
 /** Locales entièrement traduites, prérendues statiquement. Les autres sont rendues à la demande. */
-export const builtLocales = ['fr', 'en', 'es', 'de', 'it', 'nl', 'pt', 'pl', 'ro', 'bg'] as const;
+export const builtLocales = locales;
 
 export type Locale = (typeof locales)[number];
 

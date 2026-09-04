@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "title": "Kontakt — OrentaLoan",
+    "description": "Kontaktirajte nas telefonom, e-mailom ili u agenciji. Zakažite termin online."
+  },
+  "title": "Kontakt",
+  "intro": "Pitanje o vašoj datoteci? Pišite nam ili nas nazovite. Sugovornik, a ne brojalica.",
+  "form": {
+    "title": "Pišite nam",
+    "name": "Ime",
+    "email": "E-mail adresa",
+    "subject": "Predmet (neobavezno)",
+    "message": "Vaša poruka",
+    "submit": "Pošalji poruku",
+    "sending": "Slanje u tijeku…",
+    "success": "Poruka poslana. Brzo odgovaramo.",
+    "error": "Slanje nije uspjelo. Provjerite vezu i pokušajte ponovno."
+  },
+  "errors": {
+    "required": "Ovo polje je obavezno.",
+    "email": "Navedite valjanu adresu e-pošte.",
+    "message": "Vaša poruka mora sadržavati najmanje 10 znakova."
+  },
+  "info": {
+    "title": "Kontaktirajte nas",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp Business",
+    "hours": "Rasporedi",
+    "agenciesTitle": "Naše agencije",
+    "bookingTitle": "Dogovorite termin",
+    "bookingBody": "Odaberite mjesto sa savjetnikom, u agenciji ili telefonom.",
+    "bookingCta": "Rezervirajte mjesto"
+  }
+}

@@ -2,7 +2,6 @@ import { useTranslations } from 'next-intl';
 import { Link } from '@/lib/i18n/navigation';
 import { Container } from '@/components/common/Container';
 import { Logo } from '@/components/common/Logo';
-import { LocaleSwitcher } from '@/components/layout/LocaleSwitcher';
 import { NewsletterForm } from '@/components/layout/NewsletterForm';
 
 export function Footer() {
@@ -17,9 +16,6 @@ export function Footer() {
           <div className="lg:col-span-4">
             <Logo />
             <p className="mt-sm max-w-[36ch] text-small text-text-muted">{tl('tagline')}</p>
-            <div className="mt-md">
-              <LocaleSwitcher />
-            </div>
           </div>
 
           <nav aria-label={tl('colLegal')} className="lg:col-span-2">

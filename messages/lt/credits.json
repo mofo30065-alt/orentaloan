@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "title": "Nos financements â€” OrentaLoan",
+    "description": "14 financements Ã©tudiÃ©s sur votre situation rÃ©elle. Les crÃ©dits adossÃ©s Ã  une garantie ou un actif restent accessibles aprÃ¨s un refus bancaire."
+  },
+  "index": {
+    "eyebrow": "Nos financements",
+    "title": "Un financement pour chaque situation",
+    "intro": "Nous mettons en avant les crÃ©dits adossÃ©s Ã  une garantie ou Ã  un actif : ils restent accessibles quand le score bloque. Les financements classiques suivent.",
+    "featuredTitle": "Ã€ privilÃ©gier aprÃ¨s un refus",
+    "classicTitle": "Financements classiques"
+  },
+  "common": {
+    "amounts": "Montants",
+    "duration": "DurÃ©es",
+    "range": "de {min} Ã  {max}",
+    "monthsRange": "de {min} Ã  {max} mois",
+    "rateTableTitle": "Taux indicatifs par durÃ©e",
+    "rateDuration": "DurÃ©e",
+    "rateFixed": "Taux fixe",
+    "rateVariable": "Taux variable",
+    "rateNote": "Taux indicatifs, non contractuels, susceptibles d'Ã©voluer et soumis Ã  l'Ã©tude de votre dossier.",
+    "eligibilityTitle": "Conditions d'Ã©ligibilitÃ©",
+    "eligibleTitle": "Accessible siâ€¦",
+    "notEligibleTitle": "Pas adaptÃ© siâ€¦",
+    "documentsTitle": "Documents Ã  fournir",
+    "faqTitle": "Questions frÃ©quentes",
+    "casesTitle": "Cas concret",
+    "simulatorTitle": "Estimer ce financement",
+    "representativeTitle": "Exemple reprÃ©sentatif",
+    "ctaSimulate": "Simuler ce financement",
+    "ctaDiagnostic": "VÃ©rifier mon Ã©ligibilitÃ©",
+    "ctaRequest": "Faire une demande",
+    "ctaFinalTitle": "On Ã©tudie votre dossier, pas votre score.",
+    "models": {
+      "revolving": "Le crÃ©dit renouvelable ne s'amortit pas comme un prÃªt classique : son coÃ»t dÃ©pend de votre usage et de la vitesse de remboursement. Utilisez le simulateur gÃ©nÃ©ral avec prudence, ou parlez-en Ã  un conseiller.",
+      "leasing": "En LOA, vous rÃ©glez des loyers puis, en option, une valeur rÃ©siduelle. Le calcul dÃ©pend du bien et de sa valeur de reprise ; un conseiller Ã©tablit un loyer prÃ©cis.",
+      "bridge": "Le prÃªt relais se rembourse in fine, Ã  la vente de votre bien. Son coÃ»t dÃ©pend de la durÃ©e rÃ©elle jusqu'Ã  la vente et du montant avancÃ©.",
+      "factoring": "L'affacturage n'est pas un prÃªt : vous cÃ©dez des factures contre une avance, moyennant une commission. Le coÃ»t dÃ©pend de votre volume et de vos dÃ©lais de paiement."
+    }
+  },
+  "products": {
+    "rachat-credit": {
+      "name": "Rachat de crÃ©dit",
+      "teaser": "Regrouper vos crÃ©dits en une seule mensualitÃ©, adossÃ©e Ã  votre bien si nÃ©cessaire.",
+      "heroSubtitle": "Regrouper vos crÃ©dits en une mensualitÃ© unique, adossÃ©e Ã  votre bien lorsque c'est nÃ©cessaire.",
+      "description": "Le rachat de crÃ©dit rÃ©unit vos prÃªts en cours en un seul, avec une mensualitÃ© rÃ©duite et une durÃ©e rÃ©Ã©talÃ©e. AdossÃ© Ã  un bien, il reste Ã©tudiable mÃªme aprÃ¨s un incident de paiement.",
+      "eligible": [
+        "PropriÃ©taire souhaitant regrouper plusieurs crÃ©dits",
+        "Budget tendu avec un bien Ã  mobiliser en garantie",
+        "Situation professionnelle variÃ©e, indÃ©pendant compris"
+      ],
+      "notEligible": [
+        "Locataire sans garant et taux d'endettement dÃ©jÃ  trÃ¨s Ã©levÃ©",
+        "Aucun crÃ©dit existant Ã  regrouper"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ© en cours de validitÃ©",
+        "Tableaux d'amortissement des crÃ©dits Ã  regrouper",
+        "Trois derniers relevÃ©s de compte",
+        "Justificatif de propriÃ©tÃ© ou taxe fonciÃ¨re"
+      ],
+      "faq": [
+        {
+          "q": "Le rachat efface-t-il une inscription FICP ?",
+          "a": "Non. Il peut solder les crÃ©dits Ã  l'origine de l'incident, ce qui peut mener Ã  une levÃ©e, mais aucune radiation n'est automatique ni garantie."
+        },
+        {
+          "q": "Jusqu'oÃ¹ peut-on allonger la durÃ©e ?",
+          "a": "Jusqu'Ã  420 mois pour un rachat adossÃ© Ã  un bien immobilier, dans la limite de votre capacitÃ© de remboursement."
+        },
+        {
+          "q": "Puis-je ajouter une trÃ©sorerie ?",
+          "a": "Oui, une enveloppe supplÃ©mentaire peut Ãªtre intÃ©grÃ©e si votre garantie et vos revenus le permettent."
+        }
+      ],
+      "case": {
+        "title": "Regroupement de trois crÃ©dits",
+        "detail": "80 000 â‚¬ regroupÃ©s sur 180 mois : une mensualitÃ© unique remplace trois Ã©chÃ©ances, pour un coÃ»t rÃ©Ã©talÃ© et connu d'avance."
+      }
+    },
+    "pret-travaux": {
+      "name": "PrÃªt travaux",
+      "teaser": "Financer une rÃ©novation, y compris des travaux Ã©nergÃ©tiques.",
+      "heroSubtitle": "Financer une rÃ©novation, y compris des travaux d'Ã©conomie d'Ã©nergie.",
+      "description": "Le prÃªt travaux finance l'amÃ©lioration de votre logement, du rafraÃ®chissement Ã  la rÃ©novation Ã©nergÃ©tique. Il peut complÃ©ter les aides publiques.",
+      "eligible": [
+        "PropriÃ©taire occupant ou bailleur",
+        "Projet de rÃ©novation Ã©nergÃ©tique Ã©ligible aux aides",
+        "Revenus rÃ©guliers, mÃªme modestes, avec devis Ã  l'appui"
+      ],
+      "notEligible": [
+        "Travaux sans devis ni justificatif d'usage",
+        "CapacitÃ© de remboursement dÃ©jÃ  saturÃ©e"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Devis dÃ©taillÃ©s des travaux",
+        "Justificatif de domicile rÃ©cent",
+        "Deux derniers avis d'imposition"
+      ],
+      "faq": [
+        {
+          "q": "Puis-je cumuler avec une aide publique Ã  la rÃ©novation ?",
+          "a": "Oui. Le prÃªt travaux complÃ¨te les aides ; les montants perÃ§us n'entrent pas dans le crÃ©dit."
+        },
+        {
+          "q": "Les fonds sont-ils versÃ©s en une fois ?",
+          "a": "Selon le chantier, un dÃ©blocage progressif sur prÃ©sentation des factures est possible."
+        },
+        {
+          "q": "Faut-il Ãªtre propriÃ©taire ?",
+          "a": "Le plus souvent oui, mais un locataire rÃ©alisant des travaux avec accord du propriÃ©taire peut Ãªtre Ã©tudiÃ©."
+        }
+      ],
+      "case": {
+        "title": "RÃ©novation Ã©nergÃ©tique",
+        "detail": "25 000 â‚¬ sur 84 mois pour une isolation et une pompe Ã  chaleur, en complÃ©ment des aides."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "PrÃªt de trÃ©sorerie",
+      "teaser": "Passer un cap de trÃ©sorerie pour votre activitÃ©, sans immobiliser vos fonds.",
+      "heroSubtitle": "Passer un cap de trÃ©sorerie pour votre activitÃ©, sans immobiliser vos actifs.",
+      "description": "Le prÃªt de trÃ©sorerie couvre un besoin en fonds de roulement : dÃ©calage de paiement, charge saisonniÃ¨re, coup dur passager. Ã‰tudiÃ© sur la rÃ©alitÃ© de votre activitÃ©.",
+      "eligible": [
+        "TPE, indÃ©pendant ou TNS avec une activitÃ© Ã©tablie",
+        "Besoin ponctuel de BFR justifiable",
+        "Compte professionnel aux mouvements rÃ©guliers"
+      ],
+      "notEligible": [
+        "ActivitÃ© crÃ©Ã©e depuis moins de six mois sans historique",
+        "Besoin structurel de long terme relevant d'un autre produit"
+      ],
+      "documents": [
+        "Extrait Kbis ou Ã©quivalent",
+        "Deux derniers bilans ou situation comptable",
+        "RelevÃ©s du compte professionnel",
+        "PiÃ¨ce d'identitÃ© du dirigeant"
+      ],
+      "faq": [
+        {
+          "q": "Faut-il trois bilans ?",
+          "a": "Non. Une situation comptable rÃ©cente et des relevÃ©s rÃ©guliers peuvent suffire Ã  l'Ã©tude."
+        },
+        {
+          "q": "Quel dÃ©lai de dÃ©blocage ?",
+          "a": "AprÃ¨s acceptation et signature de l'offre, les fonds sont versÃ©s dans les dÃ©lais lÃ©gaux."
+        },
+        {
+          "q": "Une garantie est-elle exigÃ©e ?",
+          "a": "Selon le montant, une caution du dirigeant ou une garantie peut Ãªtre demandÃ©e."
+        }
+      ],
+      "case": {
+        "title": "DÃ©calage de trÃ©sorerie",
+        "detail": "30 000 â‚¬ sur 48 mois pour absorber un dÃ©calage de rÃ¨glement client, remboursÃ©s au fil des encaissements."
+      }
+    },
+    "loa": {
+      "name": "LOA / Leasing",
+      "teaser": "Utiliser un vÃ©hicule ou un Ã©quipement sans l'acheter tout de suite.",
+      "heroSubtitle": "Utiliser un vÃ©hicule ou un Ã©quipement sans l'acheter, avec une option d'achat en fin de contrat.",
+      "description": "La location avec option d'achat vous fait payer des loyers pour l'usage d'un bien, avec la possibilitÃ© de l'acquÃ©rir Ã  sa valeur rÃ©siduelle. La charge est Ã©talÃ©e, le bien reste la garantie.",
+      "eligible": [
+        "Particulier ou professionnel voulant un usage sans achat immÃ©diat",
+        "Revenus rÃ©guliers couvrant le loyer",
+        "Projet portant sur un vÃ©hicule ou un Ã©quipement identifiable"
+      ],
+      "notEligible": [
+        "Recherche d'un capital en liquide (la LOA finance un usage)",
+        "Bien non assurable ou difficilement revendable"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Justificatif de revenus",
+        "Bon de commande ou devis du bien",
+        "Justificatif de domicile"
+      ],
+      "faq": [
+        {
+          "q": "Suis-je propriÃ©taire du bien ?",
+          "a": "Non pendant la location. Vous le devenez si vous levez l'option d'achat Ã  la valeur rÃ©siduelle prÃ©vue."
+        },
+        {
+          "q": "L'entretien est-il inclus ?",
+          "a": "Selon le contrat ; certaines formules incluent l'entretien et l'assurance."
+        },
+        {
+          "q": "Puis-je rendre le bien Ã  la fin ?",
+          "a": "Oui. Sans levÃ©e d'option, vous restituez le bien dans l'Ã©tat prÃ©vu au contrat."
+        }
+      ],
+      "case": {
+        "title": "VÃ©hicule en LOA",
+        "detail": "30 000 â‚¬ de valeur, 48 loyers puis une valeur rÃ©siduelle : vous choisissez d'acheter ou de restituer."
+      }
+    },
+    "affacturage": {
+      "name": "Affacturage",
+      "teaser": "Convertir vos factures clients en trÃ©sorerie disponible immÃ©diatement.",
+      "heroSubtitle": "Convertir vos factures clients en trÃ©sorerie disponible immÃ©diatement.",
+      "description": "L'affacturage n'est pas un prÃªt : vous cÃ©dez vos factures Ã  recouvrer contre une avance immÃ©diate, moyennant une commission. Votre trÃ©sorerie suit votre chiffre d'affaires.",
+      "eligible": [
+        "Entreprise facturant des clients professionnels",
+        "Poste clients rÃ©current avec dÃ©lais de paiement",
+        "Besoin de lisser la trÃ©sorerie sans s'endetter"
+      ],
+      "notEligible": [
+        "ActivitÃ© B2C sans factures professionnelles",
+        "CrÃ©ances litigieuses ou dÃ©jÃ  Ã©chues"
+      ],
+      "documents": [
+        "Extrait Kbis",
+        "Balance clients rÃ©cente",
+        "Exemples de factures et conditions de paiement",
+        "PiÃ¨ce d'identitÃ© du dirigeant"
+      ],
+      "faq": [
+        {
+          "q": "Ar tai kreditas?",
+          "a": "Ne. Tai skolų perleidimas mainais į avansą; tai nepadidins jūsų banko skolos."
+        },
+        {
+          "q": "Kas susisiekia su mano klientais?",
+          "a": "Priklausomai nuo formulės, įspėjimas ir surinkimas gali būti priskirti veiksniui."
+        },
+        {
+          "q": "Kiek kainuoja?",
+          "a": "Faktoringo komisiniai ir finansavimo komisiniai, priklausomai nuo apimties ir terminų. Išsami informacija nurodyta sutartyje."
+        }
+      ],
+      "case": {
+        "title": "Sąskaitų faktūrų avansas",
+        "detail": "Kliento prekė už 100 000 EUR, finansuojama per kelias dienas pagal jūsų sąskaitų faktūrų tarifą."
+      }
+    },
+    "pret-relais": {
+      "name": "Laikinoji paskola",
+      "teaser": "Pirkite prieš parduodami, pereinamuoju laikotarpiu.",
+      "heroSubtitle": "Įsigykite naują nekilnojamąjį turtą prieš parduodami dabartinį, pereinamuoju laikotarpiu.",
+      "description": "Tarpinė paskola iš anksto padidina dalį parduodamo turto vertės. Parduodami grąžinate kapitalą; tuo tarpu dažniausiai mokate tik palūkanas.",
+      "eligible": [
+        "Savininkas, parduodantis turtą, norėdamas nusipirkti kitą",
+        "Turtas parduodamas už realią vertę",
+        "Galimybė prisiimti palūkanas per perdavimo laikotarpį"
+      ],
+      "notEligible": [
+        "Nekilnojamas turtas, kurį sunku parduoti",
+        "Nėra konkretaus pirkimo projekto priešais"
+      ],
+      "documents": [
+        "sąmata arba įgaliojimas parduoti turtą",
+        "Nuosavybės teisės aktas",
+        "Kompromisas arba siūlomas pirkimas",
+        "PiÃ¨ce d'identitÃ©"
+      ],
+      "faq": [
+        {
+          "q": "Kas nutiks, jei neparduosiu laiku?",
+          "a": "Laikinoji paskola yra ribotos trukmės (nuo 12 iki 24 mėnesių). Išėjimo sprendimas planuojamas ir aptariamas nuo pat pradžių."
+        },
+        {
+          "q": "Kiek galiu gauti?",
+          "a": "Apskritai konservatyvi apskaičiuotos vertės dalis, atsižvelgiant į rinką."
+        },
+        {
+          "q": "Ar kiekvieną mėnesį mokame kapitalą?",
+          "a": "Ne. Kapitalas grąžinamas pardavus; mokate tik palūkanas, pagal pasirinktą formulę."
+        }
+      ],
+      "case": {
+        "title": "Pirkite prieš parduodant",
+        "detail": "200 000 € avansu per 12 mėnesių su daliniu atleidimu: mokate tik palūkanas iki pardavimo."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Nekilnojamojo turto paskola",
+      "teaser": "Finansuokite nekilnojamojo turto pirkimą pagal savo tikrąją situaciją.",
+      "heroSubtitle": "Nekilnojamojo turto pirkimo finansavimas atsižvelgta į jūsų tikrąją situaciją, o ne į balą.",
+      "description": "Nekilnojamojo turto paskola finansuoja jūsų gyvenamosios vietos įsigijimą arba investiciją. Mes tiriame netipines bylas: nepriklausomus asmenis, trumpas sutartis, kitur neįtrauktus profilius.",
+      "eligible": [
+        "Pirkimo projektas su įnašu arba garantija",
+        "Reguliarios pajamos, įskaitant individualią veiklą",
+        "Netipiškas profilis, bet kitu atveju tvirta byla"
+      ],
+      "notEligible": [
+        "Skola, aiškiai neviršijanti rizikos ribojimo",
+        "Jokio įnašo ar įkeistino turto"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Pardavimo sutartis",
+        "Paskutiniai trys darbo užmokesčio lapeliai arba balansai",
+        "Naujausios sąskaitų ataskaitos"
+      ],
+      "faq": [
+        {
+          "q": "Ar priimate be trijų savarankiškai dirbančių asmenų balansų?",
+          "a": "Taip, esant sąlygoms: nustatyta veikla ir reguliarūs rodmenys gali kompensuoti."
+        },
+        {
+          "q": "Ar įnašas privalomas?",
+          "a": "Nesistemingai, bet aiškiai sustiprina failą ir greitį."
+        },
+        {
+          "q": "Ar tarifas fiksuotas?",
+          "a": "Fiksuotas arba kintamas priklausomai nuo trukmės; pirmiau pateiktoje lentelėje pateikiami orientaciniai gairės."
+        }
+      ],
+      "case": {
+        "title": "Gyvenamosios vietos pirkimas",
+        "detail": "200 000 € per 240 mėnesių: iš anksto žinoma mėnesinė įmoka, skaičiuojama iki centų."
+      }
+    },
+    "credit-consommation": {
+      "name": "Vartojimo kreditas",
+      "teaser": "Finansuokite asmeninį projektą, įrangą ar netikėtą įvykį.",
+      "heroSubtitle": "Finansuokite asmeninį projektą, įrangą ar netikėtą įvykį.",
+      "description": "Vartojimo kreditu finansuojamas nustatytas poreikis neįkeičiant turto. Išmatuotos sumos ir trukmės, studijuokite savo tikrąjį biudžetą.",
+      "eligible": [
+        "Reguliarios pajamos, apimančios mėnesinę įmoką",
+        "Identifikuojamas asmeninis projektas",
+        "Kontroliuojamas skolos lygis"
+      ],
+      "notEligible": [
+        "Biudžetas jau padidintas dėl kitų kreditų",
+        "Grynųjų pinigų užklausa be aiškios grąžinimo galimybės"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Justificatif de domicile",
+        "Paskutiniai du darbo užmokesčio lapeliai",
+        "Paskutinis pranešimas apie mokesčius"
+      ],
+      "faq": [
+        {
+          "q": "Per kokį atsakymo laiką?",
+          "a": "Jums paskelbtas aiškus studijų terminas, ir mes jo laikomės."
+        },
+        {
+          "q": "Ar galiu grąžinti anksčiau laiko?",
+          "a": "Taip, bet kuriuo metu, sutartyje numatytomis teisinėmis sąlygomis."
+        },
+        {
+          "q": "Ar reikalingas naudojimo įrodymas?",
+          "a": "Priklausomai nuo kredito sumos ir tipo; mes jums tai pasakysime tyrimo metu."
+        }
+      ],
+      "case": {
+        "title": "Asmeninis projektas",
+        "detail": "15 000 € per 48 mėnesius: mėnesinis mokėjimas, bendra kaina ir APR rodomi prieš pasirašant."
+      }
+    },
+    "pret-auto": {
+      "name": "Paskola automobiliui",
+      "teaser": "Pirkite naują arba naudotą transporto priemonę su aiškia mėnesine įmoka.",
+      "heroSubtitle": "Pirkite naują arba naudotą transporto priemonę su aiškia mėnesine įmoka.",
+      "description": "Paskola automobiliui finansuoja transporto priemonės pirkimą. Turtas gali būti naudojamas kaip garantija, o tai atveria įvairių profilių finansavimą.",
+      "eligible": [
+        "Atpažįstamos naujos arba naudotos transporto priemonės pirkimas",
+        "Įprastos pajamos",
+        "Profilis priimtas dėl automobilio garantijos"
+      ],
+      "notEligible": [
+        "VÃ©hicule sans facture ni carte grise exploitable",
+        "CapacitÃ© de remboursement insuffisante malgrÃ© la garantie"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Bon de commande ou certificat de cession",
+        "Justificatif de revenus",
+        "Justificatif de domicile"
+      ],
+      "faq": [
+        {
+          "q": "Neuf et occasion sont-ils financÃ©s ?",
+          "a": "Oui, avec des durÃ©es adaptÃ©es Ã  l'Ã¢ge du vÃ©hicule."
+        },
+        {
+          "q": "Le vÃ©hicule est-il gagÃ© ?",
+          "a": "Selon la formule, un gage peut Ãªtre pris comme garantie."
+        },
+        {
+          "q": "Puis-je financer l'assurance ?",
+          "a": "L'assurance emprunteur est facultative et peut Ãªtre intÃ©grÃ©e Ã  la mensualitÃ©."
+        }
+      ],
+      "case": {
+        "title": "Voiture d'occasion",
+        "detail": "20 000 â‚¬ sur 60 mois, garantis par le vÃ©hicule financÃ©."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "CrÃ©dit renouvelable",
+      "teaser": "Une rÃ©serve d'argent souple, Ã  utiliser avec mesure.",
+      "heroSubtitle": "Une rÃ©serve d'argent souple, Ã  utiliser avec mesure.",
+      "description": "Le crÃ©dit renouvelable met Ã  disposition une rÃ©serve que vous utilisez librement et reconstituez au fil des remboursements. Souple mais coÃ»teux : Ã  rÃ©server aux petits besoins ponctuels.",
+      "eligible": [
+        "Besoin ponctuel de faible montant",
+        "CapacitÃ© Ã  rembourser vite pour limiter le coÃ»t",
+        "Įprastos pajamos"
+      ],
+      "notEligible": [
+        "Projet long, oÃ¹ un prÃªt amortissable coÃ»te bien moins cher",
+        "DifficultÃ© Ã  rembourser plus que les intÃ©rÃªts chaque mois"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Justificatif de domicile",
+        "Justificatif de revenus",
+        "Naujausias sąskaitos išrašas"
+      ],
+      "faq": [
+        {
+          "q": "Kodėl tarifas didelis?",
+          "a": "Lankstumas kainuoja. Kuo greičiau grąžinsite, tuo mažiau sumokėsite palūkanų."
+        },
+        {
+          "q": "Ar turiu naudoti rezervą?",
+          "a": "Ne. Palūkanos skaičiuojamos tik už faktiškai panaudotą sumą."
+        },
+        {
+          "q": "Ar tai tinka dideliam pirkiniui?",
+          "a": "Retai. Projektui grąžintina paskola beveik visada yra pigesnė."
+        }
+      ],
+      "case": {
+        "title": "Nedidelis vienkartinis poreikis",
+        "detail": "3 000 € panaudota ir grąžinta per 24 mėnesius: kaina tiesiogiai priklauso nuo jūsų grąžinimo kurso."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Studentų paskola",
+      "teaser": "Finansų studijos ir jų pragyvenimo išlaidos.",
+      "heroSubtitle": "Finansų studijos ir jų pragyvenimo išlaidos, atitinkamai kompensuojant.",
+      "description": "Iš paskolos studentams finansuojami mokesčiai už mokslą ir kasdienis gyvenimas, dažnai atidedant mokėjimą studijų metu. Ryšys sustiprina bylą.",
+      "eligible": [
+        "Studentas, įtrauktas į pripažintą įstaigą",
+        "Laiduotojo arba laiduotojo buvimas",
+        "Studijų projektas, atitinkantis sumą"
+      ],
+      "notEligible": [
+        "Garantijos nebuvimas ir būsimų pajamų nebuvimas",
+        "Suma nesusijusi su kursu"
+      ],
+      "documents": [
+        "PiÃ¨ce d'identitÃ©",
+        "Mokyklos pažymėjimas arba registracijos pažymėjimas",
+        "Patvirtinantys dokumentai iš laiduotojo",
+        "Justificatif de domicile"
+      ],
+      "faq": [
+        {
+          "q": "Ar galiu atidėti kompensaciją?",
+          "a": "Taip, dalinis arba visiškas atidėjimas studijų metu yra dažnas; palūkanos skaičiuojamos pagal formulę."
+        },
+        {
+          "q": "Ar reikalingas garantas?",
+          "a": "Tai dažniausiai būtina ir tai žymiai pagerina sąlygas."
+        },
+        {
+          "q": "Ar kaina naudinga?",
+          "a": "Studentų įkainiai yra vieni žemiausių; žr. pirmiau pateiktą orientacinę lentelę."
+        }
+      ],
+      "case": {
+        "title": "Kursų finansavimas",
+        "detail": "15 000 € per 60 mėnesių su atidėjimu studijų metu, kompensuojama įėjus į profesinį gyvenimą."
+      }
+    },
+    "financement-equipement": {
+      "name": "Įrangos finansavimas",
+      "teaser": "Finansuokite profesionalias mašinas, įrangą ar transporto priemones.",
+      "heroSubtitle": "Finansuokite profesionalias mašinas, įrangą ar transporto priemones neapkraudami pinigų srautų.",
+      "description": "Įrangos finansavimu finansuojamas produktyvus turtas, kuris dažnai naudojamas kaip užstatas. Tai išsaugo grynųjų pinigų srautą veiklai.",
+      "eligible": [
+        "Įmonė, investuojanti į identifikuojamą įrangą",
+        "Perparduodamas turtas, naudojamas kaip garantija",
+        "Įprasta paskyros veikla"
+      ],
+      "notEligible": [
+        "Įranga, kurią sunku perparduoti arba",
+        "Entreprise sans capacitÃ© de remboursement dÃ©montrable"
+      ],
+      "documents": [
+        "Extrait Kbis",
+        "Devis ou facture pro forma du matÃ©riel",
+        "Deux derniers bilans",
+        "RelevÃ©s du compte professionnel"
+      ],
+      "faq": [
+        {
+          "q": "Le matÃ©riel sert-il de garantie ?",
+          "a": "Souvent oui, ce qui facilite l'accord mÃªme pour une jeune structure."
+        },
+        {
+          "q": "CrÃ©dit ou leasing ?",
+          "a": "Les deux sont possibles ; un conseiller compare selon votre fiscalitÃ© et vos besoins."
+        },
+        {
+          "q": "Quelle durÃ©e ?",
+          "a": "AlignÃ©e sur la durÃ©e d'usage du matÃ©riel, jusqu'Ã  84 mois."
+        }
+      ],
+      "case": {
+        "title": "Achat de matÃ©riel",
+        "detail": "40 000 â‚¬ sur 60 mois pour un Ã©quipement productif, gagÃ© sur le bien financÃ©."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "PrÃªt crÃ©ation / reprise",
+      "teaser": "Financer le lancement ou la reprise d'une activitÃ©.",
+      "heroSubtitle": "Financer le lancement ou la reprise d'une activitÃ©, au-delÃ  de l'apport personnel.",
+      "description": "Le prÃªt crÃ©ation-reprise complÃ¨te vos fonds propres pour dÃ©marrer ou racheter une entreprise. Le dossier repose sur le projet, le prÃ©visionnel et les garanties.",
+      "eligible": [
+        "Porteur de projet avec un business plan chiffrÃ©",
+        "Apport personnel ou co-financement",
+        "Reprise d'une activitÃ© aux comptes exploitables"
+      ],
+      "notEligible": [
+        "Projet sans apport, garantie ni prÃ©visionnel",
+        "Secteur sans aucune visibilitÃ© de revenus"
+      ],
+      "documents": [
+        "Business plan et prÃ©visionnel",
+        "PiÃ¨ce d'identitÃ©",
+        "Justificatif d'apport",
+        "Compromis de reprise le cas Ã©chÃ©ant"
+      ],
+      "faq": [
+        {
+          "q": "Faut-il un apport ?",
+          "a": "Un apport, mÃªme modeste, est dÃ©terminant ; il peut Ãªtre complÃ©tÃ© par des aides Ã  la crÃ©ation."
+        },
+        {
+          "q": "Financez-vous une reprise ?",
+          "a": "Oui, sur la base des comptes de la cible et de votre plan de reprise."
+        },
+        {
+          "q": "Une garantie est-elle demandÃ©e ?",
+          "a": "FrÃ©quemment, sous forme de caution du dirigeant ou de garantie d'un organisme dÃ©diÃ©."
+        }
+      ],
+      "case": {
+        "title": "Reprise de fonds",
+        "detail": "60 000 â‚¬ sur 60 mois en complÃ©ment d'un apport, adossÃ©s au prÃ©visionnel de reprise."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Immobilier professionnel",
+      "teaser": "Financer des murs commerciaux ou des locaux professionnels.",
+      "heroSubtitle": "Financer des murs commerciaux ou des locaux professionnels.",
+      "description": "Le crÃ©dit immobilier professionnel finance l'achat de locaux d'activitÃ©. Le bien constitue la garantie, ce qui ouvre le financement Ã  des structures variÃ©es.",
+      "eligible": [
+        "Entreprise achetant ses murs ou un local d'exploitation",
+        "Bien professionnel servant de garantie",
+        "Comptes dÃ©montrant la capacitÃ© de remboursement"
+      ],
+      "notEligible": [
+        "Local sans usage professionnel rÃ©el",
+        "Endettement de la structure dÃ©jÃ  critique"
+      ],
+      "documents": [
+        "Extrait Kbis",
+        "Compromis de vente des locaux",
+        "Deux derniers bilans",
+        "RelevÃ©s du compte professionnel"
+      ],
+      "faq": [
+        {
+          "q": "SCI ou sociÃ©tÃ© d'exploitation ?",
+          "a": "Les deux montages sont Ã©tudiÃ©s ; un conseiller vous oriente selon votre situation."
+        },
+        {
+          "q": "Quelle durÃ©e ?",
+          "a": "Jusqu'Ã  240 mois, selon le bien et la structure."
+        },
+        {
+          "q": "Taux fixe ou variable ?",
+          "a": "Les deux existent ; le tableau ci-dessus donne des repÃ¨res indicatifs."
+        }
+      ],
+      "case": {
+        "title": "Achat des murs",
+        "detail": "300 000 â‚¬ sur 180 mois pour acquÃ©rir un local, garantis par le bien lui-mÃªme."
+      }
+    }
+  }
+}

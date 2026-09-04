@@ -1,0 +1,590 @@
+{
+  "meta": {
+    "title": "Rahoitusmme — OrentaLoan",
+    "description": "14 rahoitusta tutkittu todellisen tilanteesi perusteella. Takauksella tai omaisuudella taatut luotot ovat saatavilla pankin kieltäytymisen jälkeen."
+  },
+  "index": {
+    "eyebrow": "Meidän rahoitus",
+    "title": "Rahoitusta joka tilanteeseen",
+    "intro": "Korostamme luottoja, joilla on takuu tai omaisuus: ne ovat käytettävissä, kun pisteet estetään. Klassinen rahoitus seuraa.",
+    "featuredTitle": "Suositeltava kieltäytymisen jälkeen",
+    "classicTitle": "Klassinen rahoitus"
+  },
+  "common": {
+    "amounts": "Summat",
+    "duration": "Kestoajat",
+    "range": "{min} - {max}",
+    "monthsRange": "{min} - {max} kuukautta",
+    "rateTableTitle": "Ohjeelliset hinnat keston mukaan",
+    "rateDuration": "Kesto",
+    "rateFixed": "Kiinteä korko",
+    "rateVariable": "Vaihtuva korko",
+    "rateNote": "Ohjeelliset hinnat, ei-sopimusperusteiset, voivat muuttua ja voivat tutkia tiedostoasi.",
+    "eligibilityTitle": "Kelpoisuusvaatimukset",
+    "eligibleTitle": "Käytettävissä, jos…",
+    "notEligibleTitle": "Ei sovellu, jos…",
+    "documentsTitle": "Toimitettavat asiakirjat",
+    "faqTitle": "Usein kysytyt kysymykset",
+    "casesTitle": "Konkreettinen kotelo",
+    "simulatorTitle": "Arvioi tämä rahoitus",
+    "representativeTitle": "Edustava esimerkki",
+    "ctaSimulate": "Simuloi tätä rahoitusta",
+    "ctaDiagnostic": "Tarkista kelpoisuus",
+    "ctaRequest": "Tee pyyntö",
+    "ctaFinalTitle": "Tutkimme tiedostoasi, emme pisteitäsi.",
+    "models": {
+      "revolving": "Valmiusluotto ei lyhenny kuten perinteinen laina: sen hinta riippuu käytöstä ja takaisinmaksun nopeudesta. Käytä yleissimulaattoria varoen tai keskustele neuvonantajan kanssa.",
+      "leasing": "LOA:ssa maksat vuokraa ja sen jälkeen valinnaisesti jäännösarvon. Laskelma riippuu kiinteistöstä ja sen vaihtoarvosta; neuvonantaja määrittää tarkan vuokran.",
+      "bridge": "Siirtymälaina maksetaan lopulta takaisin, kun kiinteistösi myydään. Sen hinta riippuu todellisesta kestosta myyntiin ja ennakkomaksusta.",
+      "factoring": "Factoring ei ole lainaa: annat laskut ennakkoon, provisioon. Hinta riippuu määrästäsi ja maksuehdoistasi."
+    }
+  },
+  "products": {
+    "rachat-credit": {
+      "name": "Luoton lunastus",
+      "teaser": "Yhdistä luottosi yhdeksi kuukausieräksi, jota tarvittaessa tukee omaisuutesi.",
+      "heroSubtitle": "Yhdistä luottosi yhdeksi kuukausieräksi, jota kiinteistösi tukee tarvittaessa.",
+      "description": "Luoton jälleenrahoitus yhdistää nykyiset lainasi yhdeksi pienemmällä kuukausierällä ja uudemman laina-ajan kanssa. Omaisuuden tukena se pysyy tutkittavissa myös maksutapahtuman jälkeen.",
+      "eligible": [
+        "Omistaja, joka haluaa yhdistää useita luottoja",
+        "Tiukka budjetti ja omaisuus käyttöön otettavaksi vakuudeksi",
+        "Monipuolinen ammatillinen tilanne, mukaan lukien riippumaton"
+      ],
+      "notEligible": [
+        "Vuokralainen ilman takaajia ja jo erittäin korkea velka",
+        "Ei olemassa olevaa konsolidoitavaa luottoa"
+      ],
+      "documents": [
+        "Voimassa oleva henkilöllisyystodistus",
+        "Poistotaulukot ryhmitettävistä hyvityksistä",
+        "Kolme viimeistä tiliottetta",
+        "Omistustodistus tai kiinteistövero"
+      ],
+      "faq": [
+        {
+          "q": "Poistaako takaisinosto FICP-rekisteröinnin?",
+          "a": "Ei. Se voi sulkea hyvitykset tapahtuman alkaessa, mikä voi johtaa luopumiseen, mutta poisto ei ole automaattista tai taattua."
+        },
+        {
+          "q": "Kuinka pitkälle kestoa voidaan pidentää?",
+          "a": "Jopa 420 kuukautta kiinteistöllä varustetulle ostolle takaisinmaksukykysi rajoissa."
+        },
+        {
+          "q": "Voinko lisätä käteistä?",
+          "a": "Kyllä, lisäkuori voidaan ottaa mukaan, jos takuusi ja tulot sen sallivat."
+        }
+      ],
+      "case": {
+        "title": "Kolmen opintopisteen ryhmittely",
+        "detail": "80 000 € ryhmiteltynä 180 kuukaudelle: yksittäinen kuukausierä korvaa kolme erää etukäteen tiedossa olevalla hinnalla."
+      }
+    },
+    "pret-travaux": {
+      "name": "Työlaina",
+      "teaser": "Rahoita remontti, mukaan lukien energiatyöt.",
+      "heroSubtitle": "Rahoita remontti, mukaan lukien energiansäästötyöt.",
+      "description": "Työlainalla rahoitetaan kotisi kunnostusta virkistävästä energiaremonttiin. Se voi täydentää julkista tukea.",
+      "eligible": [
+        "Omistaja-asuja tai vuokranantaja",
+        "Tukikelpoinen energiasaneeraushanke",
+        "Säännölliset tulot, jopa vaatimattomat, tukitarjouksella"
+      ],
+      "notEligible": [
+        "Työskentele ilman arviota tai käyttötodistusta",
+        "Korvauskapasiteetti on jo täynnä"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Tarkat tarjoukset töistä",
+        "Äskettäinen todiste osoitteesta",
+        "Kaksi viimeistä veroilmoitusta"
+      ],
+      "faq": [
+        {
+          "q": "Voinko yhdistää kunnostukseen julkisen tuen?",
+          "a": "Kyllä. Työlaina täydentää tukea; saadut määrät eivät sisälly hyvitykseen."
+        },
+        {
+          "q": "Maksetaanko varat kerralla?",
+          "a": "Paikasta riippuen asteittainen vapauttaminen laskujen esittämisen yhteydessä on mahdollista."
+        },
+        {
+          "q": "Onko sinun oltava omistaja?",
+          "a": "Useimmiten kyllä, mutta vuokralainen, joka tekee töitä omistajan sopimuksella, voidaan opiskella."
+        }
+      ],
+      "case": {
+        "title": "Energiaremontti",
+        "detail": "25 000 € yli 84 kk eristykseen ja lämpöpumppuun avun lisäksi."
+      }
+    },
+    "pret-tresorerie": {
+      "name": "Käteinen laina",
+      "teaser": "Saavuta yrityksesi kassavirran virstanpylväs sitomatta varojasi.",
+      "heroSubtitle": "Saavuta yrityksesi kassavirran virstanpylväs ilman omaisuuttasi liikkumatta.",
+      "description": "Käteislaina kattaa käyttöpääomavaatimuksen: maksuviivästys, kausimaksu, väliaikainen osuma. Tutki toimintasi todellisuutta.",
+      "eligible": [
+        "TPE, riippumaton tai TNS, jolla on vakiintunut toiminta",
+        "Satunnainen tarve perustellulle WCR:lle",
+        "Ammattimainen tili säännöllisillä liikkeillä"
+      ],
+      "notEligible": [
+        "Alle kuusi kuukautta sitten luotu toiminta ilman historiaa",
+        "Pitkäaikainen rakenteellinen tarve, joka liittyy toiseen tuotteeseen"
+      ],
+      "documents": [
+        "Kbis-uute tai vastaava",
+        "Kaksi viimeistä tasetta tai kirjanpitotilanne",
+        "Ammattimaiset tiliotteet",
+        "Esimiehen tunnus"
+      ],
+      "faq": [
+        {
+          "q": "Onko kolme arviointia tarpeen?",
+          "a": "Ei. Viimeaikainen kirjanpitotilanne ja säännölliset lausunnot voivat riittää tutkimukseen."
+        },
+        {
+          "q": "Mikä on julkaisuaika?",
+          "a": "Tarjouksen hyväksymisen ja allekirjoittamisen jälkeen varat maksetaan lakisääteisten määräaikojen kuluessa."
+        },
+        {
+          "q": "Vaaditaanko takuu?",
+          "a": "Summasta riippuen voidaan pyytää johtajan vakuus tai takaus."
+        }
+      ],
+      "case": {
+        "title": "Käteisvuoro",
+        "detail": "30 000 € 48 kuukauden aikana asiakkaan maksuviivästyksen kattamiseksi, hyvitetään perintöjen saapuessa."
+      }
+    },
+    "loa": {
+      "name": "LOA / Leasing",
+      "teaser": "Ajoneuvon tai varusteen käyttäminen ostamatta sitä heti.",
+      "heroSubtitle": "Käytä ajoneuvoa tai varusteita ostamatta sitä, osto-optiolla sopimuksen päätyttyä.",
+      "description": "Osto-optiolla vuokraaminen oikeuttaa maksamaan vuokraa kiinteistön käytöstä ja mahdollisuus hankkia se jäännösarvollaan. Maksu hajaantuu, omaisuus pysyy takuuna.",
+      "eligible": [
+        "Yksilö tai ammattilainen, joka haluaa käyttää ilman välitöntä ostoa",
+        "Säännölliset tulot, jotka kattavat vuokran",
+        "Projekti, johon liittyy tunnistettava ajoneuvo tai varusteet"
+      ],
+      "notEligible": [
+        "Etsi käteispääomaa (LOA rahoittaa käytön)",
+        "Omaisuus ei ole vakuutettu tai sitä on vaikea myydä"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Todiste tuloista",
+        "Ostotilaus tai tarjous tavarasta",
+        "Todiste osoitteesta"
+      ],
+      "faq": [
+        {
+          "q": "Omistanko kiinteistön?",
+          "a": "Ei vuokrauksen aikana. Sinusta tulee sellainen, jos käytät osto-optiota odotetulla jäännösarvolla."
+        },
+        {
+          "q": "Onko huolto mukana?",
+          "a": "Sopimuksen mukaan; Jotkut paketit sisältävät huollon ja vakuutuksen."
+        },
+        {
+          "q": "Voinko palauttaa tuotteen lopussa?",
+          "a": "Kyllä. Käyttämättä optiota palautat omaisuuden sopimuksessa määrätyssä kunnossa."
+        }
+      ],
+      "case": {
+        "title": "Ajoneuvo LOA:lla",
+        "detail": "30 000 € arvo, 48 vuokraa ja sitten jäännösarvo: valitset ostatko vai palautatko."
+      }
+    },
+    "affacturage": {
+      "name": "Factoring",
+      "teaser": "Muunna asiakaslaskusi heti saatavilla olevaksi käteiseksi.",
+      "heroSubtitle": "Muunna asiakaslaskusi heti saatavilla olevaksi käteiseksi.",
+      "description": "Factoring ei ole lainaa: määräät laskusi perittäväksi välitöntä ennakkoa vastaan, provisiota vastaan. Kassavirtasi seuraa liikevaihtoasi.",
+      "eligible": [
+        "Yrityslaskutuksen ammattiasiakkaat",
+        "Toistuva asiakastuote maksuajalla",
+        "On tasoitava kassavirta ilman velkaa"
+      ],
+      "notEligible": [
+        "B2C-toimintaa ilman ammattilaskuja",
+        "Kiistanalaiset tai jo erääntyneet velat"
+      ],
+      "documents": [
+        "Kbis-uute",
+        "Viimeaikainen asiakassaldo",
+        "Esimerkkejä laskuista ja maksuehdoista",
+        "Esimiehen tunnus"
+      ],
+      "faq": [
+        {
+          "q": "Onko tämä luotto?",
+          "a": "Ei. Se on saamisten luovutus ennakkoa vastaan; tämä ei lisää pankkivelkaasi."
+        },
+        {
+          "q": "Kuka ottaa yhteyttä asiakkaisiini?",
+          "a": "Kaavasta riippuen tekijälle voidaan delegoida muistutus ja palautus."
+        },
+        {
+          "q": "Mitä maksaa?",
+          "a": "Factoring- ja rahoituspalkkio määrästä ja määräajoista riippuen. Yksityiskohdat löytyvät sopimuksesta."
+        }
+      ],
+      "case": {
+        "title": "Ennakkomaksu laskuista",
+        "detail": "100 000 euron asiakastili, joka rahoitetaan muutamassa päivässä laskutuksesi mukaan."
+      }
+    },
+    "pret-relais": {
+      "name": "Siirtymälaina",
+      "teaser": "Osta ennen kuin myyt, siirtymäaika.",
+      "heroSubtitle": "Osta uusi kiinteistö ennen nykyisen myymistä siirtymävaiheessa.",
+      "description": "Siirtymälaina ennakoi osaa myyntiin asetetun omaisuuden arvosta. Maksat pääoman takaisin myydessäsi; sillä välin maksat useimmiten vain koron.",
+      "eligible": [
+        "Omistaja myy yhden kiinteistön ostaakseen toisen",
+        "Kiinteistö myydään realistiseen hintaan",
+        "Kyky ottaa kantaa kiinnostukseen siirtymäkauden aikana"
+      ],
+      "notEligible": [
+        "Erittäin vaikea myydä tai yliarvostettu",
+        "Betonin ostoprojektin puuttuminen edessä"
+      ],
+      "documents": [
+        "Kiinteistön arvio tai myyntitoimeksianto",
+        "Omistuskirja",
+        "Kompromissi tai ostosuunnitelma",
+        "Henkilöllisyystodistus"
+      ],
+      "faq": [
+        {
+          "q": "Mitä tapahtuu, jos en myy ajoissa?",
+          "a": "Siirtymälaina on määräaikainen (12-24 kuukautta). Irtautumisratkaisua suunnitellaan ja siitä keskustellaan alusta alkaen."
+        },
+        {
+          "q": "Kuinka paljon voin saada?",
+          "a": "Yleensä konservatiivinen osa arvioidusta arvosta markkinoiden huomioon ottamiseksi."
+        },
+        {
+          "q": "Maksammeko pääoman joka kuukausi?",
+          "a": "Ei. Pääoma palautetaan myynnin yhteydessä; maksat vain koron valitun kaavan mukaan."
+        }
+      ],
+      "case": {
+        "title": "Osta ennen myyntiä",
+        "detail": "200 000 € ennakkoon 12 kuukauden ajalta osittaisella poikkeuksella: maksat vain korkoa myyntiin asti."
+      }
+    },
+    "pret-immobilier": {
+      "name": "Kiinteistölaina",
+      "teaser": "Rahoita kiinteistönosto, joka on tutkittu todellisen tilanteesi perusteella.",
+      "heroSubtitle": "Kiinteistökaupan rahoittamista tutkittiin todellisen tilanteesi perusteella, ei pisteytyksen perusteella.",
+      "description": "Kiinteistölainalla rahoitetaan asunnon hankinta tai sijoitus. Tutkimme epätyypillisiä tiedostoja: riippumattomia, lyhyitä sopimuksia, muualta poissuljettuja profiileja.",
+      "eligible": [
+        "Ostoprojekti panoksella tai takuulla",
+        "Säännölliset tulot, mukaan lukien palkattomat tulot",
+        "Epätyypillinen profiili, mutta muuten kiinteä tiedosto"
+      ],
+      "notEligible": [
+        "Velka ylittää selvästi vakavaraisuusrajat ilman takausta",
+        "Ei panosta tai omaisuutta asuntolainaan"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Myynnin kompromissi",
+        "Kolme viimeistä palkkakuittia tai tasetta",
+        "Viimeaikaiset tiliotteet"
+      ],
+      "faq": [
+        {
+          "q": "Hyväksytkö itsenäisiä ammatinharjoittajia ilman kolmea tasetta?",
+          "a": "Kyllä, tietyin edellytyksin: vakiintunut aktiivisuus ja säännölliset lukemat voivat kompensoida."
+        },
+        {
+          "q": "Onko vakuutusmaksu pakollinen?",
+          "a": "Ei järjestelmällisesti, mutta se vahvistaa selvästi tiedostoa ja nopeutta."
+        },
+        {
+          "q": "Onko korko kiinteä?",
+          "a": "Kiinteä tai muuttuva kestosta riippuen; yllä olevassa taulukossa on ohjeellisia vertailuarvoja."
+        }
+      ],
+      "case": {
+        "title": "Asunnon osto",
+        "detail": "200 000 € 240 kuukauden aikana: ennakkoon tiedossa oleva kuukausierä, senttiin laskettuna."
+      }
+    },
+    "credit-consommation": {
+      "name": "Kulutusluotto",
+      "teaser": "Rahoita henkilökohtainen projekti, laite tai odottamaton tapahtuma.",
+      "heroSubtitle": "Rahoita henkilökohtainen projekti, laite tai odottamaton tapahtuma.",
+      "description": "Kulutusluotolla rahoitetaan tunnistettu tarve kiinnittämättä omaisuutta. Mitatut määrät ja kestoajat, tutki todellista budjettiasi.",
+      "eligible": [
+        "Säännölliset tulot, jotka kattavat kuukausierän",
+        "Tunnistettava henkilökohtainen projekti",
+        "Velkakorko hallinnassa"
+      ],
+      "notEligible": [
+        "Budjettia on jo venytetty muilla lainoilla",
+        "Käteistä pyydetty ilman selvää takaisinmaksukykyä"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Todiste osoitteesta",
+        "Kaksi viimeistä palkkakuittia",
+        "Viimeinen veroilmoitus"
+      ],
+      "faq": [
+        {
+          "q": "Milloin vastaus kestää?",
+          "a": "Sinulle on ilmoitettu selkeä opiskeluaika, ja pidämme siitä kiinni."
+        },
+        {
+          "q": "Voinko maksaa takaisin ennenaikaisesti?",
+          "a": "Kyllä, milloin tahansa, sopimuksessa määrättyjen lakisääteisten ehtojen mukaisesti."
+        },
+        {
+          "q": "Vaaditaanko käyttötodistus?",
+          "a": "Riippuen luoton määrästä ja tyypistä; kerromme tämän sinulle tutkimuksen aikana."
+        }
+      ],
+      "case": {
+        "title": "Henkilökohtainen projekti",
+        "detail": "15 000 € 48 kuukauden ajalta: kuukausimaksu, kokonaiskustannukset ja todellinen vuosikorko näkyvät ennen allekirjoitusta."
+      }
+    },
+    "pret-auto": {
+      "name": "Autolaina",
+      "teaser": "Osta uusi tai käytetty ajoneuvo selkeällä kuukausimaksulla.",
+      "heroSubtitle": "Osta uusi tai käytetty ajoneuvo selkeällä kuukausimaksulla.",
+      "description": "Autolainalla rahoitetaan auton hankinta. Kiinteistö voi toimia takuuna, mikä avaa rahoitusta erilaisille profiileille.",
+      "eligible": [
+        "Tunnistettavan uuden tai käytetyn ajoneuvon ostaminen",
+        "Säännölliset tulot",
+        "Profiili hyväksytty ajoneuvon takuun ansiosta"
+      ],
+      "notEligible": [
+        "Ajoneuvo ilman laskua tai käyttökelpoista rekisterikorttia",
+        "Takauksesta huolimatta maksukyky riittämätön"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Ostotilaus tai siirtotodistus",
+        "Todiste tuloista",
+        "Todiste osoitteesta"
+      ],
+      "faq": [
+        {
+          "q": "Rahoitetaanko uusia ja käytettyjä?",
+          "a": "Kyllä, ajoneuvon iän mukaisilla kestoilla."
+        },
+        {
+          "q": "Onko ajoneuvo pantittu?",
+          "a": "Kaavasta riippuen pantti voidaan ottaa vakuudeksi."
+        },
+        {
+          "q": "Voinko rahoittaa vakuutuksen?",
+          "a": "Lainaajan vakuutus on valinnainen ja voidaan sisällyttää kuukausimaksuun."
+        }
+      ],
+      "case": {
+        "title": "Käytetty auto",
+        "detail": "20 000 € 60 kuukauden ajalta rahoitetun ajoneuvon takuulla."
+      }
+    },
+    "credit-renouvelable": {
+      "name": "Revolving credit",
+      "teaser": "Joustava rahavarasto, jota käytetään maltillisesti.",
+      "heroSubtitle": "Joustava rahavarasto, jota käytetään maltillisesti.",
+      "description": "Uusiutuva luotto tarjoaa varauksen, jota käytät vapaasti ja täydennät lyhennyksen jälkeen. Joustava mutta kallis: varata pieniin, kertaluonteisiin tarpeisiin.",
+      "eligible": [
+        "Pieni kertaluonteinen tarve",
+        "Mahdollisuus maksaa nopeasti takaisin kustannusten rajoittamiseksi",
+        "Säännölliset tulot"
+      ],
+      "notEligible": [
+        "Pitkä projekti, jossa takaisin maksettava laina maksaa paljon vähemmän",
+        "Vaikeus maksaa enemmän kuin korkoa kuukausittain"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Todiste osoitteesta",
+        "Todiste tuloista",
+        "Tuore tiliote"
+      ],
+      "faq": [
+        {
+          "q": "Miksi korko on korkea?",
+          "a": "Joustavuus maksaa. Mitä nopeammin maksat takaisin, sitä vähemmän maksat korkoa."
+        },
+        {
+          "q": "Pitääkö minun käyttää varausta?",
+          "a": "Ei. Korkoa kertyy vain tosiasiallisesti käytetystä määrästä."
+        },
+        {
+          "q": "Sopiiko isompaan hankintaan?",
+          "a": "Harvoin. Hankkeessa takaisin maksettava laina on lähes aina halvempi."
+        }
+      ],
+      "case": {
+        "title": "Pieni satunnainen tarve",
+        "detail": "3 000 € käytetty ja takaisin 24 kuukaudessa: hinta riippuu suoraan takaisinmaksuprosentistasi."
+      }
+    },
+    "pret-etudiant": {
+      "name": "Opintolaina",
+      "teaser": "Opintojen rahoittaminen ja niiden elinkustannukset.",
+      "heroSubtitle": "Rahoitusopinnot ja niiden elinkustannukset asianmukaisella korvauksella.",
+      "description": "Opintolainalla rahoitetaan lukukausimaksuja ja arkea, usein opintojen aikaisin lykätyllä takaisinmaksuajalla. Side vahvistaa tapausta.",
+      "eligible": [
+        "Opiskelija ilmoittautunut tunnustettuun oppilaitokseen",
+        "Takaajan tai takaajan läsnäolo",
+        "Määrän mukainen opintoprojekti"
+      ],
+      "notEligible": [
+        "Takaajan ja uskottavien tulojen puuttuminen tulevaisuudessa",
+        "Summa, joka ei liity kurssiin"
+      ],
+      "documents": [
+        "Henkilöllisyystodistus",
+        "Koulutodistus tai rekisteröintitodistus",
+        "Takaajan tositteet",
+        "Todiste osoitteesta"
+      ],
+      "faq": [
+        {
+          "q": "Voinko lykätä takaisinmaksua?",
+          "a": "Kyllä, osittainen tai täydellinen lykkäys opintojen aikana on yleistä; korkoa kertyy kaavan mukaan."
+        },
+        {
+          "q": "Tarvitaanko takaajaa?",
+          "a": "Tämä on useimmiten välttämätöntä ja parantaa selvästi olosuhteita."
+        },
+        {
+          "q": "Onko hinta edullinen?",
+          "a": "Opiskelijoiden hinnat ovat alhaisimpia; katso ohjeellinen taulukko yllä."
+        }
+      ],
+      "case": {
+        "title": "Kurssin rahoittaminen",
+        "detail": "15 000 € yli 60 kuukauden lykkäyksellä opintojen aikana, korvataan työelämään tullessa."
+      }
+    },
+    "financement-equipement": {
+      "name": "Laitteiden rahoitus",
+      "teaser": "Rahoita ammattikäyttöön tarkoitettuja koneita, laitteita tai ajoneuvoja.",
+      "heroSubtitle": "Rahoita ammattimaisia ​​koneita, laitteita tai ajoneuvoja rasittamatta kassavirtaasi.",
+      "description": "Laiterahoituksella rahoitetaan tuottava omaisuus, joka usein toimii vakuudeksi. Se säästää toiminnan kassavirtaa.",
+      "eligible": [
+        "Yritys investoi tunnistettaviin laitteisiin",
+        "Vakuudeksi toimiva omaisuuserä",
+        "Säännöllinen tilitoiminta"
+      ],
+      "notEligible": [
+        "Laitteet ovat vanhentuneita tai vaikeasti myytäviä",
+        "Yritys ilman todistettavaa takaisinmaksukykyä"
+      ],
+      "documents": [
+        "Kbis-uute",
+        "Tarjous tai pro forma lasku laitteista",
+        "Kaksi viimeistä arviota",
+        "Ammattimaiset tiliotteet"
+      ],
+      "faq": [
+        {
+          "q": "Toimiiko materiaali takuuna?",
+          "a": "Usein kyllä, mikä helpottaa nuorenkin rakenteen sopimista."
+        },
+        {
+          "q": "Luotto vai leasing?",
+          "a": "Molemmat ovat mahdollisia; neuvonantaja vertailee verotilanteesi ja tarpeidesi mukaan."
+        },
+        {
+          "q": "Kuinka kauan?",
+          "a": "Sovitettu laitteen käyttöaikaan, jopa 84 kuukautta."
+        }
+      ],
+      "case": {
+        "title": "Laitteiden hankinta",
+        "detail": "40 000 € yli 60 kuukauden tuotantolaitteisiin, panttina rahoitettuun omaisuuteen."
+      }
+    },
+    "pret-creation-reprise": {
+      "name": "Laina luomiseen / jatkamiseen",
+      "teaser": "Rahoita toiminnan käynnistäminen tai jatkaminen.",
+      "heroSubtitle": "Rahoita toiminnan käynnistäminen tai jatkaminen henkilökohtaisen panoksen lisäksi.",
+      "description": "Luomis- ja haltuunottolaina täydentää omia varojasi yrityksen perustamiseen tai ostamiseen. Tiedosto perustuu projektiin, ennusteeseen ja takuisiin.",
+      "eligible": [
+        "Projektijohtaja kustannustehokkaalla liiketoimintasuunnitelmalla",
+        "Henkilökohtainen panos tai yhteisrahoitus",
+        "Toiminnan jatkaminen hyödynnettävillä tileillä"
+      ],
+      "notEligible": [
+        "Projekti ilman panosta, takuuta tai ennustetta",
+        "Ala ilman tulojen näkyvyyttä"
+      ],
+      "documents": [
+        "Liiketoimintasuunnitelma ja ennuste",
+        "Henkilöllisyystodistus",
+        "Todiste osallistumisesta",
+        "Palautuskompromissi tarvittaessa"
+      ],
+      "faq": [
+        {
+          "q": "Vaaditaanko panostusta?",
+          "a": "Jopa vaatimaton panos on ratkaiseva; sitä voidaan täydentää luovilla apuvälineillä."
+        },
+        {
+          "q": "Rahoitatko yritysostoa?",
+          "a": "Kyllä, kohteen tilien ja palautussuunnitelmasi perusteella."
+        },
+        {
+          "q": "Vaaditaanko takuu?",
+          "a": "Usein johtajan tai erityisorganisaation antaman takuun muodossa."
+        }
+      ],
+      "case": {
+        "title": "Varojen takaisinperintä",
+        "detail": "60 000 € 60 kuukauden ajalta maksun lisäksi elpymisennusteen tukemana."
+      }
+    },
+    "immobilier-professionnel": {
+      "name": "Ammattimainen kiinteistö",
+      "teaser": "Rahoita liikekiinteistöjä tai ammattitiloja.",
+      "heroSubtitle": "Rahoita liikekiinteistöjä tai ammattitiloja.",
+      "description": "Ammattimainen kiinteistöluoto rahoittaa toimitilojen hankinnan. Kiinteistö muodostaa takuun, joka avaa rahoitusta erilaisille rakenteille.",
+      "eligible": [
+        "Yritys ostaa tilat tai toimitilat",
+        "Ammattimainen kiinteistö takuuna",
+        "Tilit, jotka osoittavat maksukyvyn"
+      ],
+      "notEligible": [
+        "Paikallinen ilman todellista ammattikäyttöä",
+        "Rakenteen velka on jo kriittinen"
+      ],
+      "documents": [
+        "Kbis-uute",
+        "Toimitilojen myyntisopimus",
+        "Kaksi viimeistä arviota",
+        "Ammattimaiset tiliotteet"
+      ],
+      "faq": [
+        {
+          "q": "SCI vai toimiva yritys?",
+          "a": "Molempia järjestelyjä tutkitaan; neuvonantaja opastaa sinua tilanteen mukaan."
+        },
+        {
+          "q": "Kuinka kauan?",
+          "a": "Jopa 240 kuukautta kiinteistöstä ja rakenteesta riippuen."
+        },
+        {
+          "q": "Kiinteä vai vaihtuva korko?",
+          "a": "Molemmat ovat olemassa; yllä olevassa taulukossa on ohjeellisia vertailuarvoja."
+        }
+      ],
+      "case": {
+        "title": "Seinien osto",
+        "detail": "300 000 € 180 kuukauden aikana tilojen hankintaan, kiinteistön takaama."
+      }
+    }
+  }
+}

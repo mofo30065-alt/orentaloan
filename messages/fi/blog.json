@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "title": "Neuvoja - OrentaLoan",
+    "description": "Konkreettisia lainausviitteitä, kirjoitettu lukijalle, jolta on juuri evätty."
+  },
+  "title": "Neuvoja",
+  "intro": "Konkreettisia lainausviitteitä, kirjoitettu lukijalle, jolta on juuri evätty. Asiallista, ilman lupauksia.",
+  "filterAll": "Kaikki",
+  "categories": {
+    "fichage": "Arkistointi",
+    "rachat": "Luoton lunastus",
+    "budget": "Budjetti",
+    "comprendre": "Ymmärtääkseen",
+    "garanties": "Takuut",
+    "profils": "Profiilit"
+  },
+  "minutes": "{count} min lukuaika",
+  "byAuthor": "Tekijä: {author}",
+  "readMore": "Lue artikkeli",
+  "backToList": "Kaikki neuvot",
+  "suggestedTitle": "Lue myös",
+  "shareTitle": "Jakaa",
+  "empty": "Ei artikkeleita tässä kategoriassa.",
+  "cta": {
+    "title": "Onko sinulla epäilyksiä tiedostostasi?",
+    "body": "Lukeminen: rehellinen opastus muutamassa minuutissa ilman velvoitteita.",
+    "action": "Suorita lukemani"
+  },
+  "pagination": {
+    "previous": "Edellinen",
+    "next": "Jälkeen",
+    "page": "Sivu {current} {total}"
+  }
+}

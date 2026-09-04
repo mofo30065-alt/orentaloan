@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "OrentaLoan – laina, joka on tutkittu todellisen tilanteen perusteella",
+    "description": "Erikoistunut luottoorganisaatio verkkopankkien hylkäämille tiedostoille. Tutki todellisia elementtejä tiedosto kerrallaan."
+  },
+  "hero": {
+    "eyebrow": "Erikoistunut luottoorganisaatio",
+    "title": "Arvosana, jota tutkitaan <mark>todellisen tilanteensi</mark> perusteella, ei pistemäärän perusteella.",
+    "subtitle": "Tutkimme tiedostoja, jotka verkkopankit usein jättävät huomiotta. Jokainen päätös tehdään konkreettisista elementeistä tiedosto kerrallaan – ilman lupausta sopimuksesta.",
+    "ctaPrimary": "Tarkista kelpoisuus",
+    "ctaSecondary": "Simuloi kuukausimaksu"
+  },
+  "heroMini": {
+    "title": "Arvio yhdellä silmäyksellä",
+    "amount": "Määrä",
+    "duration": "Kesto",
+    "result": "Arvioitu kuukausimaksu",
+    "rateNote": "Alustava arvio {rate} kiinteästä lainakorosta, ei vakuutusta.",
+    "cta": "Tarkenna simulaatiotani"
+  },
+  "situation": {
+    "eyebrow": "Sinun tilanteesi",
+    "title": "Kenelle tämä rahoitus on tarkoitettu?",
+    "intro": "Nämä profiilit hylätään usein muualla. Heidät opiskellaan täällä takuiden ja todellisten tulojen mukaan.",
+    "items": [
+      "FICP tai FCC rekisteröinti",
+      "Asuntolainan takaisinmaksu",
+      "Itsenäinen tai TNS ilman kolmea tasetta",
+      "Lyhyt sopimus: määräaikainen, määräaikainen",
+      "Aktiivinen tai eläkkeellä oleva seniori",
+      "Tiukka ammattimainen kassavirta"
+    ]
+  },
+  "credits": {
+    "eyebrow": "Meidän rahoitus",
+    "title": "Aloitamme siitä, mikä perustuu takuuseen.",
+    "intro": "Kiinteistön tai omaisuuden takaama rahoitus on edelleen käytettävissä, kun pisteet estetään. Perinteiset krediitit seuraavat.",
+    "alsoTitle": "Myös saatavilla",
+    "allLink": "Katso kaikki rahoitus"
+  },
+  "advantages": {
+    "eyebrow": "Meidän tapamme toimia",
+    "title": "Mikä konkreettisesti muuttuu",
+    "items": [
+      {
+        "title": "Päätös tilanteestasi",
+        "desc": "Luemme todelliset tietueesi – tulot, takuut, historian – automaattisen pisteytyksen sijaan."
+      },
+      {
+        "title": "Keskustelukumppani, ei laskuri",
+        "desc": "Henkilö tarkkailee tiedostoasi ja selittää sinulle jokaisen kriteerin ilman ammattikieltä."
+      },
+      {
+        "title": "Vastaus selkeässä määräajassa",
+        "desc": "Ilmoitamme opintojen määräajan ja pidämme siitä kiinni. Ei keinotekoista kiirettä."
+      }
+    ]
+  },
+  "steps": {
+    "eyebrow": "Miten se toimii",
+    "title": "Viisi vaihetta tässä järjestyksessä",
+    "items": [
+      {
+        "title": "Ennakkodiagnoosi",
+        "desc": "Seitsemän kysymystä selvittääksesi rehellisesti, missä tiedostosi on."
+      },
+      {
+        "title": "Simulaatio",
+        "desc": "Arvioit kuukausimaksun ja kokonaiskustannukset reaaliajassa."
+      },
+      {
+        "title": "Pyyntö",
+        "desc": "Täytät tiedoston viidessä vaiheessa omaan tahtiisi."
+      },
+      {
+        "title": "Tutkimus",
+        "desc": "Keskustelukumppani tutkii todellisen tilanteesi ja sitä tukevat asiakirjasi."
+      },
+      {
+        "title": "Päätös",
+        "desc": "Saat perustellun vastauksen ja tarvittaessa tarjouksen."
+      }
+    ]
+  },
+  "signature": {
+    "eyebrow": "Allekirjoitustyökalu",
+    "title": "Tiedostosi lukeminen",
+    "intro": "Muutama kysymys, ja kerromme sinulle rehellisesti, missä tilanteessasi on – syyn ja mikä voisi saada vastauksen.",
+    "states": {
+      "go": {
+        "label": "Vakava rata",
+        "desc": "Kerätyt elementit mahdollistavat pyynnön tutkimisen."
+      },
+      "work": {
+        "label": "Konsolidoitava tiedosto",
+        "desc": "Eräs kohta hidastuu tänään. Näin nostat sen."
+      },
+      "stop": {
+        "label": "Ei mahdollista nykyisessä tilassa",
+        "desc": "Ohjaamme sinut hyödyllisempään resurssiin kuin hylkäämiseen tuomittu tiedosto."
+      }
+    },
+    "note": "Suuntaus, ei luottopäätös. Pisteitä ei näy, ei sitoutumista.",
+    "cta": "Suorita lukemani"
+  },
+  "testimonials": {
+    "eyebrow": "He menivät sieltä läpi",
+    "title": "Tiedostot otettu vakavasti",
+    "items": [
+      {
+        "quote": "Kieltäytyi kahdesti virastossa määräaikaisesta sopimuksesta. Tässä tarkastelimme kolmen vuoden tilapäistä työtäni samalla alalla.",
+        "name": "Karim B.",
+        "role": "Määräaikainen työntekijä, luottojen takaisinmaksu",
+        "rating": 5
+      },
+      {
+        "quote": "Itsenäinen kahdeksantoista kuukauden ajan, ilman tavanomaisia ​​kolmea arviointia. Laina perustui asuntooni.",
+        "name": "Léa M.",
+        "role": "Itsenäinen ammatinharjoittaja, asuntolaina",
+        "rating": 5
+      },
+      {
+        "quote": "Minulle kerrottiin selvästi, mikä estää ja mitä valmistauduin. Hain uudelleen kolmen kuukauden kuluttua, niin kävi.",
+        "name": "Daniel R.",
+        "role": "Seniori, työlaina",
+        "rating": 4
+      },
+      {
+        "quote": "Kahdeksantoista kuukauden ajan riippumattomina he pystyivät arvioimaan tuloni ilman täydellisiä arvioita.",
+        "name": "Sofia L.",
+        "role": "Freelance, henkilökohtainen laina",
+        "rating": 5
+      },
+      {
+        "quote": "Tiedostoni käsiteltiin odotettua nopeammin, ja minulla oli selkeät selitykset jokaisessa vaiheessa.",
+        "name": "Eva D.",
+        "role": "Itsenäinen ammatinharjoittaja, luottojen takaisinmaksu",
+        "rating": 5
+      },
+      {
+        "quote": "Minulla oli huomattava tilinylitys, mutta neuvonantaja löysi budjettiini mukaisen ratkaisun.",
+        "name": "Thomas V.",
+        "role": "Toistaiseksi voimassa oleva sopimus, valtionkassa",
+        "rating": 4
+      },
+      {
+        "quote": "Laina antoi minulle mahdollisuuden tehdä töitä ilman yllätyksiä. Seuranta oli vakavaa ja inhimillistä.",
+        "name": "Laura P.",
+        "role": "Omistaja, työlaina",
+        "rating": 5
+      },
+      {
+        "quote": "Minusta ei tuntunut, että minut tuomittiin. Kaikki tapahtui yksinkertaisesti ja läpinäkyvästi.",
+        "name": "Nicolas M.",
+        "role": "Myyntiedustaja, kulutusluotto",
+        "rating": 5
+      }
+    ]
+  },
+  "figures": {
+    "eyebrow": "Numeroiden mukaan",
+    "title": "Vertailuarvot, eivät lupaukset",
+    "note": "Ohjeelliset luvut, ilman sitoumuksia, voivat muuttua.",
+    "items": [
+      {
+        "value": "48 tuntia",
+        "label": "ilmoitettu opintojen määräaika"
+      },
+      {
+        "value": "7",
+        "label": "kysymyksiä esidiagnoosia varten"
+      },
+      {
+        "value": "14",
+        "label": "tutkittuja rahoitustyyppejä"
+      },
+      {
+        "value": "10",
+        "label": "euroalueen markkinat"
+      }
+    ]
+  },
+  "trust": {
+    "eyebrow": "Meidän legitiimiys",
+    "title": "Tarkastettava, ei koristeellinen",
+    "intro": "Näillä markkinoilla avoimuus on argumentti. Tässä on jotain tarkastettavaa.",
+    "items": [
+      "ACPR hyväksytty nro. 61 234 · ORIAS nro. 21 004 567",
+      "Kansallisen sovittelijoiden yhdistyksen (ANM) jäsen",
+      "Toimisto Pariisissa, 18 boulevard des Capucines (75009)"
+    ]
+  },
+  "transparency": {
+    "eyebrow": "Läpinäkyvyys selkeällä englannin kielellä",
+    "title": "Numeerinen esimerkki ilman piilotettua tähteä",
+    "intro": "Jokainen simulaatio näyttää täydellisen edustavan esimerkin ilman piilotettuja tähtiä."
+  },
+  "blog": {
+    "eyebrow": "Meidän neuvomme",
+    "title": "Ymmärrä ennen kuin sitoudut",
+    "allLink": "Kaikki neuvot",
+    "items": [
+      {
+        "slug": "ymmärrä-ficp-rekisteröinti",
+        "category": "Arkistointi",
+        "readingTime": "6 minuuttia",
+        "title": "FICP-tiedosto: mitä tämä todella muuttaa lainalle"
+      },
+      {
+        "slug": "lunastus-luotto-asuntolaina-opas",
+        "category": "Luoton lunastus",
+        "readingTime": "8 minuuttia",
+        "title": "Asuntolainan lunastus: kun omaisuudestasi tulee ratkaisu"
+      },
+      {
+        "slug": "velka-35 prosenttia",
+        "category": "Budjetti",
+        "readingTime": "5 minuuttia",
+        "title": "Velkakorko 35 %: mitä sääntö muuttaa sinulle"
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Aloita tietämällä, missä tiedostosi on.",
+    "cta": "Suorita lukemani"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Simulateur de prÃªt â€” OrentaLoan",
+    "description": "Estimez votre mensualitÃ©, le coÃ»t total et le TAEG indicatif. Chiffres indicatifs, non contractuels, sous rÃ©serve d'acceptation."
+  },
+  "title": "Simulateur de prÃªt",
+  "subtitle": "Ajustez les paramÃ¨tres : tout se recalcule en temps rÃ©el. Les montants sont indicatifs.",
+  "fields": {
+    "amount": {
+      "label": "Montant du prÃªt",
+      "help": "Le capital que vous souhaitez emprunter."
+    },
+    "duration": {
+      "label": "DurÃ©e de remboursement",
+      "help": "Une durÃ©e plus longue baisse la mensualitÃ© mais augmente le coÃ»t total."
+    },
+    "rate": {
+      "label": "Taux dÃ©biteur fixe",
+      "help": "Taux nominal annuel indicatif pour l'estimation."
+    },
+    "downPayment": {
+      "label": "Apport (facultatif)",
+      "help": "Un apport rÃ©duit le montant financÃ©."
+    }
+  },
+  "unit": {
+    "months": "{count, plural, one {# mois} other {# mois}}",
+    "years": "{count, plural, one {# an} other {# ans}}"
+  },
+  "results": {
+    "heading": "Votre estimation",
+    "monthly": "MensualitÃ©",
+    "monthlyAria": "MensualitÃ© estimÃ©e : {value}",
+    "totalInterest": "Total des intÃ©rÃªts",
+    "totalCost": "Ukupni trošak kredita",
+    "apr": "Indikativni APR",
+    "financed": "Financirani iznos"
+  },
+  "chart": {
+    "title": "Raspodjela kapitala/kamate",
+    "principal": "Kapital",
+    "interest": "Kamate"
+  },
+  "table": {
+    "show": "Pogledaj tablicu amortizacije",
+    "hide": "Sakrij tablicu amortizacije",
+    "caption": "Tablica amortizacije dospijeće po dospijeću",
+    "period": "dospijeće",
+    "payment": "MensualitÃ©",
+    "principal": "Kapital",
+    "interest": "Kamate",
+    "balance": "Preostalo od"
+  },
+  "actions": {
+    "email": "Primi moju simulaciju e-poštom",
+    "emailPlaceholder": "Vaša adresa e-pošte",
+    "emailSubmit": "Pošalji",
+    "emailSuccess": "Simulacija je poslana. Provjerite svoju pristiglu poštu.",
+    "emailNote": "Vašu e-poštu koristimo samo da vam pošaljemo ovu simulaciju.",
+    "continue": "Nastavite na zahtjev"
+  },
+  "disclaimer": "Indikativna i neugovorna procjena, isključujući osiguranje i moguće troškove, podložna proučavanju i prihvaćanju vaše datoteke. Konačni APR pojavit će se na vašoj ugovornoj ponudi."
+}

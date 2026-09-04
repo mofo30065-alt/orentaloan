@@ -1,0 +1,116 @@
+{
+  "disclaimer": {
+    "indicative": "Ohjeelliset luvut, jotka eivät perustu sopimukseen ja edellyttävät tiedostosi hyväksymistä."
+  },
+  "infobox": {
+    "title": "Edustava esimerkki",
+    "amount": "Lainattu määrä",
+    "duration": "Kesto",
+    "rate": "Kiinteä lainakorko",
+    "apr": "Kiinteä APR",
+    "monthly": "Kuukausimaksu",
+    "totalCost": "Luoton kokonaiskustannukset",
+    "totalDue": "Maksettava kokonaissumma",
+    "example": {
+      "amount": "15 000 €",
+      "duration": "48 kuukautta",
+      "rate": "6,90 %",
+      "apr": "7,12 %",
+      "monthly": "358,50 €",
+      "totalCost": "2 207,87 €",
+      "totalDue": "17 207,87 €"
+    },
+    "note": "Edustava esimerkki, ei valinnaista vakuutusta. Laina sitoo sinua ja se on maksettava takaisin. Tarkista maksukykysi ennen sitoutumista."
+  },
+  "labels": {
+    "editor": "Sivuston editori",
+    "legalForm": "Oikeudellinen asema",
+    "capital": "Osakepääoma",
+    "registration": "Rekisteröinti",
+    "regulator": "Valvontaviranomainen",
+    "regulatoryNumber": "Hyväksyntänumero",
+    "vat": "Yhteisön sisäinen ALV",
+    "director": "Julkaisujohtaja",
+    "host": "Isäntä",
+    "mediator": "Kuluttajavälittäjä",
+    "dpo": "Tietosuojavastaava"
+  },
+  "coolingOff": {
+    "title": "Peruuttamisoikeus",
+    "body": "Sinulla on {days} kalenteripäivää aikaa peruuttaa tarjouksesi allekirjoittamisen jälkeen ilman, että sinun tarvitsee perustella itseäsi tai joutua maksamaan sakkoja."
+  },
+  "mentions": {
+    "meta": {
+      "title": "Oikeudelliset huomautukset – OrentaLoan",
+      "description": "Julkaisija, isäntä, valvontaviranomainen ja välitys."
+    },
+    "title": "Oikeudelliset huomautukset",
+    "intro": "Tämän sivuston julkaisijaa ja sen sääntelykehystä koskevat tiedot."
+  },
+  "privacy": {
+    "meta": {
+      "title": "Tietosuojakäytäntö — OrentaLoan",
+      "description": "Mitä tietoja käsittelemme, miksi, kuinka kauan ja oikeutesi."
+    },
+    "title": "Tietosuojakäytäntö",
+    "intro": "Taloudellisen tilanteen tietosi ovat arkaluonteisia. Tässä, suoraan sanoen, mitä teemme sen kanssa.",
+    "sections": [
+      {
+        "heading": "Kerätyt tiedot",
+        "body": "Antamasi henkilö- ja yhteystiedot, perhe-, ammatillinen ja taloudellinen tilanne sekä tekniset navigointitiedot, jotka ovat ehdottoman välttämättömiä sivuston toiminnan kannalta."
+      },
+      {
+        "heading": "Tarkoitukset",
+        "body": "Tutustu rahoituspyyntöösi, ota yhteyttä, noudata lakisääteisiä velvoitteitamme ja vältä petoksia. Tietoja ei myydä."
+      },
+      {
+        "heading": "Oikeusperusta",
+        "body": "Sinun suostumuksesi pyynnön tutkimiseen, sopimusta edeltävien toimenpiteiden toteuttamiseen ja laillisiin velvoitteisiimme luottolaitoksena."
+      },
+      {
+        "heading": "Vastaanottajat",
+        "body": "Vain tiedostosi tutkimisesta vastuussa olevat henkilöt sekä ehdottoman välttämättömät alihankkijat pääsevät käsiksi siihen, joita sitoo luottamuksellisuus."
+      },
+      {
+        "heading": "Säilyvyys",
+        "body": "Tietojasi säilytetään tutkimuksen ajan ja sen jälkeen sovellettavan laillisen ajanjakson ajan ennen poistamista tai anonymisointia."
+      },
+      {
+        "heading": "Selainpuolen käsittely",
+        "body": "Kunnes vahvistat pyyntösi, vastauksesi pysyvät laitteessasi, eikä niitä lähetetä meille."
+      }
+    ],
+    "rightsTitle": "Sinun oikeutesi",
+    "rights": [
+      "Tietojesi käyttö, oikaisu ja poistaminen",
+      "Käsittelyn rajoitus ja vastustus",
+      "Tietojesi siirrettävyys",
+      "Suostumuksen peruuttaminen milloin tahansa",
+      "Valitus tietosuojaviranomaiselle"
+    ],
+    "dpoIntro": "Käyttääksesi oikeuksiasi, ota yhteyttä tietosuojavastaavaamme:"
+  },
+  "cgu": {
+    "meta": {
+      "title": "Yleiset käyttöehdot — OrentaLoan",
+      "description": "Sivuston käytön säännöt."
+    },
+    "title": "Yleiset käyttöehdot",
+    "intro": "Nämä ehdot koskevat sivuston käyttöä. Ne eivät ole luottotarjous.",
+    "placeholder": "Pääsy sivustolle on ilmainen. Tarkastelemalla sitä hyväksyt nämä ehdot. Sisältö (tekstit, tuotemerkit, kuvat) on OrentaLoan SA:n omaisuutta, eikä sitä saa kopioida ilman lupaa. Simulaatiot ja esidiagnoosit on tarkoitettu vain tiedoksi, eivätkä ne sido organisaatiota. OrentaLoan pidättää oikeuden muuttaa sivustoa ja näitä ehtoja; soveltuva versio on käyntisi aikana online-versio. Ranskan lakia sovelletaan."
+  },
+  "cookies": {
+    "meta": {
+      "title": "Evästekäytäntö — OrentaLoan",
+      "description": "Mitä evästeitä käytämme ja miten niitä hallinnoidaan."
+    },
+    "title": "Evästekäytäntö",
+    "intro": "Mitään merkkiainetta ei sijoiteta ilman suostumustasi. Voit muuttaa valintaasi milloin tahansa.",
+    "necessaryTitle": "Ehdottomasti välttämättömät evästeet",
+    "necessaryBody": "Olennaista sivuston toiminnan kannalta (kielitoivomus, valitsemiesi evästeiden muistaminen). He eivät vaadi suostumusta.",
+    "optionalTitle": "Mitta- ja mukavuuskeksejä",
+    "optionalBody": "Talletettu vasta hyväksynnän jälkeen. Ne auttavat meitä parantamaan sivustoa tunnistamatta sinua koskaan mainontaa varten.",
+    "manageTitle": "Hallitse valintaani",
+    "manageBody": "Tyhjennä selaimesi suostumuseväste, jotta banneri tulee uudelleen näkyviin, ja valitse sitten uudelleen."
+  }
+}

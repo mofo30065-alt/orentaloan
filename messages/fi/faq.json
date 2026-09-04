@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "title": "Usein kysytyt kysymykset – OrentaLoan",
+    "description": "Kelpoisuus, hinnat, turvallisuus, määräajat: selkeät vastaukset, ilman lupauksia."
+  },
+  "title": "Usein kysytyt kysymykset",
+  "intro": "Selkeät vastaukset kysymyksiin, joita meiltä kysytään eniten, suoraviivaisia ​​ja lupaamattomia.",
+  "searchLabel": "Etsi kysymys",
+  "searchPlaceholder": "Etsi kysymys…",
+  "empty": "Yksikään kysymys ei vastaa hakuasi.",
+  "categories": [
+    {
+      "id": "kelpoisuus",
+      "label": "Kelpoisuus",
+      "items": [
+        {
+          "q": "Voinko lainata ollessani FICP-rekisteröity?",
+          "a": "Klassinen pistemäärällä myönnetty luotto evätään, mutta takauksella taattua rahoitusta voi tutkia. Ennakkodiagnoosi kertoo rehellisesti, missä olet."
+        },
+        {
+          "q": "Hyväksytkö itsenäisiä ammatinharjoittajia ilman kolmea tasetta?",
+          "a": "Kyllä, tietyin edellytyksin: vakiintunut toiminta ja säännölliset selvitykset voivat kompensoida kolmen taseen puuttumisen."
+        },
+        {
+          "q": "Määräaikainen työsopimus vai määräaikainen työ, onko tämä eliminoivaa?",
+          "a": "Ei. Lyhyt sopimus heikentää tiedostoa, mutta ei tee sitä mahdottomaksi, etenkään, jos työsuhde on samalla alalla tai lainanottaja."
+        }
+      ]
+    },
+    {
+      "id": "hinnat",
+      "label": "Hinnat ja kulut",
+      "items": [
+        {
+          "q": "Onko vuosikorko taattu etukäteen?",
+          "a": "Ei. Näytetyt hinnat ovat suuntaa-antavia. Lopullinen todellinen vuosikorko näkyy sopimustarjouksessasi, kun olet tutkinut tiedostosi."
+        },
+        {
+          "q": "Miksi todellinen vuosikorko on korkeampi kuin näytetty korko?",
+          "a": "Todellinen vuosikorko on tehokas korko, joka sisältää kulut ja mahdolliset vakuutukset: on normaalia, että se on korkeampi kuin pelkkä lainakorko."
+        },
+        {
+          "q": "Onko käsittelymaksuja?",
+          "a": "Tuotteesta riippuen. Mahdolliset kustannukset ilmoitetaan selvästi tarjouksessa ennen allekirjoitusta."
+        }
+      ]
+    },
+    {
+      "id": "turvallisuus",
+      "label": "Tietoturva ja tiedot",
+      "items": [
+        {
+          "q": "Mitä teet tiedoillani?",
+          "a": "Niitä käytetään vain pyyntösi tutkimiseen, ja vain tutkimuksesta vastaavat henkilöt kuulevat niitä luottamuksellisuuspolitiikan mukaisesti."
+        },
+        {
+          "q": "Lähetetäänkö simulaattorivastaukseni?",
+          "a": "Ei. Vastauksesi pysyvät laitteessasi, kunnes vahvistat pyynnön."
+        }
+      ]
+    },
+    {
+      "id": "tietenkin",
+      "label": "Reitti ja määräajat",
+      "items": [
+        {
+          "q": "Kuinka kauan opiskelu kestää?",
+          "a": "Sinulle on ilmoitettu selkeä opiskeluaika, ja pidämme siitä kiinni. Ei keinotekoista kiirettä, ei lähtölaskentaa."
+        },
+        {
+          "q": "Onko ennakkodiagnoosi luottosopimus?",
+          "a": "Ei. Se on rehellinen suuntautuminen ilman sitoutumista tai näkyviä pisteitä: se ei ole luottopäätös."
+        },
+        {
+          "q": "Voinko jatkaa pyyntöäni myöhemmin?",
+          "a": "Kyllä. Vastauksesi tallennetaan laitteellesi, kunnes ne ovat valmiit, ja poistetaan, kun ne lähetetään."
+        }
+      ]
+    }
+  ]
+}
