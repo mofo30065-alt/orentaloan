@@ -6,7 +6,7 @@ export const hr: CountryLegal = {
   publicationDirector: 'Ivana Horvat', host: { name: 'OVHcloud', address: 'Roubaix, Francuska' },
   mediator: { name: 'Centar za mirenje pri Hrvatskoj gospodarskoj komori', url: 'https://www.hgk.hr' }, coolingOffDays: 14,
   dpo: { name: 'Službenik za zaštitu podataka — OrentaLoan Hrvatska', email: 'dpo@orentaloan.hr' },
-  contact: { phone: '+393501255841', email: 'kontakt@orentaloan.hr', whatsapp: '+393501255841' },
+  contact: { phone: '+447737143454', email: 'kontakt@orentaloan.hr', whatsapp: '+447737143454' },
   agencies: [{ name: 'Podružnica Zagreb', address: 'Ilica 10, 10000 Zagreb', hours: 'Pon – Pet, 9:00 – 18:00' }],
   bookingUrl: 'https://rdv.orentaloan.hr',
 };

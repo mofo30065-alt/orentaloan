@@ -17,7 +17,7 @@ export const es: CountryLegal = {
   mediator: { name: 'Banco de España — Servicio de Reclamaciones', url: 'https://www.bde.es' },
   coolingOffDays: 14,
   dpo: { name: 'Delegado de protección de datos — OrentaLoan España', email: 'dpo@orentaloan.es' },
-  contact: { phone: '+393501255841', email: 'contacto@orentaloan.es', whatsapp: '+393501255841' },
+  contact: { phone: '+447737143454', email: 'contacto@orentaloan.es', whatsapp: '+447737143454' },
   agencies: [
     { name: 'Oficina de Madrid', address: 'Calle de Alcalá 45, 28014 Madrid', hours: 'Lun – Vie, 9:00 – 18:00' },
   ],

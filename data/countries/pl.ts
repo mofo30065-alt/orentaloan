@@ -17,7 +17,7 @@ export const pl: CountryLegal = {
   mediator: { name: 'Rzecznik Finansowy', url: 'https://rf.gov.pl' },
   coolingOffDays: 14,
   dpo: { name: 'Inspektor ochrony danych — OrentaLoan Polska', email: 'iod@orentaloan.pl' },
-  contact: { phone: '+393501255841', email: 'kontakt@orentaloan.pl', whatsapp: '+393501255841' },
+  contact: { phone: '+447737143454', email: 'kontakt@orentaloan.pl', whatsapp: '+447737143454' },
   agencies: [
     { name: 'Oddział Warszawa', address: 'ul. Marszałkowska 100, 00-026 Warszawa', hours: 'Pon – Pt, 9:00 – 18:00' },
   ],

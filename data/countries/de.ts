@@ -17,7 +17,7 @@ export const de: CountryLegal = {
   mediator: { name: 'Ombudsmann der privaten Banken', url: 'https://www.bankenombudsmann.de' },
   coolingOffDays: 14,
   dpo: { name: 'Datenschutzbeauftragter — OrentaLoan Deutschland', email: 'datenschutz@orentaloan.de' },
-  contact: { phone: '+393501255841', email: 'kontakt@orentaloan.de', whatsapp: '+393501255841' },
+  contact: { phone: '+447737143454', email: 'kontakt@orentaloan.de', whatsapp: '+447737143454' },
   agencies: [
     { name: 'Filiale Berlin', address: 'Friedrichstraße 68, 10117 Berlin', hours: 'Mo – Fr, 9:00 – 18:00' },
   ],

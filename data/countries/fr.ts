@@ -27,9 +27,9 @@ export const fr: CountryLegal = {
     email: 'contact@orentaloan.com',
   },
   contact: {
-    phone: '+393501255841',
+    phone: '+447737143454',
     email: 'contact@orentaloan.com',
-    whatsapp: '+393501255841',
+    whatsapp: '+447737143454',
   },
   agencies: [
     {
