@@ -6,7 +6,7 @@ export const el: CountryLegal = {
   publicationDirector: 'Eleni Papadopoulou', host: { name: 'OVHcloud', address: 'Ρουμπέ, Γαλλία' },
   mediator: { name: 'Ελληνικός Χρηματοοικονομικός Μεσολαβητής', url: 'https://hobis.gr' }, coolingOffDays: 14,
   dpo: { name: 'Υπεύθυνος προστασίας δεδομένων — OrentaLoan Ελλάς', email: 'dpo@orentaloan.gr' },
-  contact: { phone: '+447737143454', email: 'contact@orentaloan.gr', whatsapp: '+447737143454' },
+  contact: { phone: '+447737143454', email: 'contact@orentaloan.com', whatsapp: '+447737143454' },
   agencies: [{ name: 'Υποκατάστημα Αθήνας', address: 'Λεωφόρος Αμαλίας 10, 10557 Αθήνα', hours: 'Δευτέρα – Παρασκευή, 9:00 – 18:00' }],
   bookingUrl: 'https://rdv.orentaloan.gr',
 };

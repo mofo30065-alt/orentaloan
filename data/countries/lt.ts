@@ -6,7 +6,7 @@ export const lt: CountryLegal = {
   publicationDirector: 'Austėja Kazlauskaitė', host: { name: 'OVHcloud', address: 'Roubaix, Prancūzija' },
   mediator: { name: 'Lietuvos banko vartotojų ir finansų rinkos dalyvių ginčai', url: 'https://www.lb.lt' }, coolingOffDays: 14,
   dpo: { name: 'Duomenų apsaugos pareigūnas — OrentaLoan Lietuva', email: 'dpo@orentaloan.lt' },
-  contact: { phone: '+447737143454', email: 'kontakt@orentaloan.lt', whatsapp: '+447737143454' },
+  contact: { phone: '+447737143454', email: 'contact@orentaloan.com', whatsapp: '+447737143454' },
   agencies: [{ name: 'Vilniaus skyrius', address: 'Gedimino pr. 10, LT-01103 Vilnius', hours: 'I–V, 9:00–18:00' }],
   bookingUrl: 'https://rdv.orentaloan.lt',
 };

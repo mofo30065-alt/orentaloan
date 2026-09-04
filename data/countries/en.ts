@@ -28,7 +28,7 @@ export const en: CountryLegal = {
   },
   contact: {
     phone: '+447737143454',
-    email: 'contact@orentaloan.ie',
+    email: 'contact@orentaloan.com',
     whatsapp: '+447737143454',
   },
   agencies: [

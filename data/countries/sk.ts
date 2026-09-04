@@ -6,7 +6,7 @@ export const sk: CountryLegal = {
   publicationDirector: 'Zuzana Nováková', host: { name: 'OVHcloud', address: 'Roubaix, Francúzsko' },
   mediator: { name: 'Inštitút alternatívneho riešenia sporov', url: 'https://www.soi.sk' }, coolingOffDays: 14,
   dpo: { name: 'Zodpovedná osoba pre ochranu údajov — OrentaLoan Slovensko', email: 'dpo@orentaloan.sk' },
-  contact: { phone: '+447737143454', email: 'kontakt@orentaloan.sk', whatsapp: '+447737143454' },
+  contact: { phone: '+447737143454', email: 'contact@orentaloan.com', whatsapp: '+447737143454' },
   agencies: [{ name: 'Pobočka Bratislava', address: 'Špitálska 10, 811 08 Bratislava', hours: 'Po – Pi, 9:00 – 18:00' }],
   bookingUrl: 'https://rdv.orentaloan.sk',
 };

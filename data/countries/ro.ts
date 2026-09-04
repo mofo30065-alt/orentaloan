@@ -17,7 +17,7 @@ export const ro: CountryLegal = {
   mediator: { name: 'Centrul de Soluționare Alternativă a Litigiilor în domeniul Bancar (CSALB)', url: 'https://www.csalb.ro' },
   coolingOffDays: 14,
   dpo: { name: 'Responsabil cu protecția datelor — OrentaLoan România', email: 'dpo@orentaloan.ro' },
-  contact: { phone: '+447737143454', email: 'contact@orentaloan.ro', whatsapp: '+447737143454' },
+  contact: { phone: '+447737143454', email: 'contact@orentaloan.com', whatsapp: '+447737143454' },
   agencies: [
     { name: 'Agenția București', address: 'Calea Victoriei 100, 010065 București', hours: 'Lun – Vin, 9:00 – 18:00' },
   ],

@@ -6,7 +6,7 @@ export const fi: CountryLegal = {
   publicationDirector: 'Aino Virtanen', host: { name: 'OVHcloud', address: 'Roubaix, Ranska' },
   mediator: { name: 'FINE Vakuutus- ja rahoitusneuvonta', url: 'https://www.fine.fi' }, coolingOffDays: 14,
   dpo: { name: 'Tietosuojavastaava — OrentaLoan Finland', email: 'dpo@orentaloan.fi' },
-  contact: { phone: '+447737143454', email: 'contact@orentaloan.fi', whatsapp: '+447737143454' },
+  contact: { phone: '+447737143454', email: 'contact@orentaloan.com', whatsapp: '+447737143454' },
   agencies: [{ name: 'Helsingin toimipiste', address: 'Mannerheimintie 12, 00100 Helsinki', hours: 'Ma – Pe, 9.00 – 18.00' }],
   bookingUrl: 'https://rdv.orentaloan.fi',
 };
